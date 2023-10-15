@@ -1,0 +1,16 @@
+{
+  "name": "boss-jobs",
+  "version": "1.0.0",
+  "description": "boss-jobs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-cookies-secure": "^2.1.1",
+    "puppeteer": "^21.3.8"
+  }
+}
