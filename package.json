@@ -9,7 +9,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": ">=12 <15"
+  },
   "dependencies": {
+    "nodejieba": "^2.5.2",
     "chrome-cookies-secure": "^2.1.1",
     "puppeteer": "^21.3.8"
   }
