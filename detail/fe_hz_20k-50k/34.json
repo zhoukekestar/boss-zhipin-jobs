@@ -1,0 +1,523 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "nFbZNeE8ifBRt-a1BuuivyAhjpbR5EaGYRxqR76ZkZ_TBRZVIRZlnbIov0chWNkU-Hn3ORAJf8_c2tq-E8U254ueC1Kpluoeg27gsWdTDXAAauF6Obezcqgb5QlOfIXYTqe9j4pq",
+    "bossBaseInfoVO": {
+      "encryptBossId": "33b9b09fc8558df81XN93Nu7F1I~",
+      "bossId": 27776670,
+      "securityId": "4C4bjV183NLN--K1H2G7VrfXcaCjoMnHyUrgDJS-np3wZ6NcN-uqJRQJPvsTZxnXDRlv9QvMEiZtWYoZKnp46Jx_tBjT",
+      "name": "黎晓锋",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_16.png",
+      "title": "研发负责人",
+      "activeTimeDesc": "2月内活跃",
+      "activeTime": 1695257721000,
+      "bossOnline": false,
+      "brandName": "杭州铭信信息科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 264787012,
+      "encryptJobId": "070fc4dc6e811aa21XJ-3NW6EFNS",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端经理",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "长河",
+      "locationDesc": "杭州·滨江区·长河",
+      "experienceName": "5-10年",
+      "degreeName": "本科",
+      "lowSalary": 25,
+      "highSalary": 35,
+      "jobDesc": "岗位职责：\n1、负责公司前端模块整体架构的设计和项目的主导，原有系统的升级与维护，核心技术攻克；\n2、根据业务需求制定应用架构方案，审核和评估相关方案与设计，以确保其符合架构规划，满足业务需求；\n3、按时按质完成分配的开发任务，并及时反馈给直接领导和需求方；\n4、 把控整体项目开发进度，做好人员开发管理；\n5、持续提升产品研发效能，提升产品质量及性能。\n任职资格：\n1、本科或以上学历，7年以上工作经验，有20人以上前端多团队管理经验\n2、精通各种前端技术（HTML/CSS/JavaScript等）和框架（react/vue3等），熟悉常见安全问题和对策\n3、有移动端开发经验，熟悉Flutter/RN，对客户端原生开发有一定的了解\n4、熟悉前端工程化与模块化开发，并有实践经验\n5、良好的团队协作能力，提升团队研发效率，实现极致性能，通过创新交互优化产品体验",
+      "requiredSkills": [
+        "JavaScript",
+        "HTML5",
+        "CSS"
+      ],
+      "address": "杭州滨江区海亮大厦23楼",
+      "longitude": 120.21109,
+      "latitude": 30.21307,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/04e8acd1637d6d7798da6b838b4c0e45",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/12905f72ead44e9f8e30e384ac871c67",
+      "salaryMonth": 0,
+      "performance": "根据绩效考核结果最高享有1.5倍年终奖",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "25-35K·14薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "f456d30b83ec75580HR43dy0",
+      "brandName": "杭州铭信信息科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/05e366971b20ac659e85b5076ca3cdf2cfcd208495d565ef66e7dff9f98764da.png",
+      "industryName": "计算机软件",
+      "stageName": "不需要融资",
+      "scaleName": "1000-9999人",
+      "brandIntroduce": "杭州铭信信息科技有限公司是明康汇生态农业集团有限公司全资子公司，负责公司生鲜赛道核心产品的研发和迭代工作。\n       明康汇公司为世界500强海亮集团下属子公司，创建于2012年10月，初心是为了解决海亮教育集团数万名师生的食品安全问题。经过多年发展，明康汇已经发展成集农产品科研、种植、养殖、水产、加工、物流、仓储、销售为一体的全产业链运营的集团公司。明康汇以生鲜供应链为核心业务，匹配当代百姓的食品消费升级需求，为消费者提供涵盖肉类、禽类、蛋类、水产、蔬菜、水果、粮食、豆制品等多品类生鲜农产品，解决社区家庭最后500米生鲜食材购买难题。致力于以自营基地建设优势，健全农业生产标准体系，依托自建供应链体系保障，充分发挥全产业链运营模式，以O2O新零售布局线上线下社区生鲜便利业态，目前在杭州拥有300+家门店，未来将深耕长三角并不断拓展门店数量，同时自建“明康汇生鲜”网上商城小程序提供生鲜“明天到”等服务，并深入农产品流通市场，全面布局大流通大零售渠道，努力打造国内生鲜食品知名品牌。",
+      "comName": "杭州铭信信息科技有限公司",
+      "legalPerson": "顾宏光",
+      "startDate": "2016-05-17",
+      "regCapital": "500万人民币",
+      "statusDesc": "存续",
+      "regAddress": "中国（浙江）自由贸易试验区杭州市滨江区西兴街道协同路368号海亮教育科研大厦12楼1205室",
+      "businessScope": "一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；信息咨询服务（不含许可类信息咨询服务）；软件开发；软件外包服务；文具用品零售；电子产品销售；企业管理咨询；办公用品销售；日用百货销售；机械设备销售（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "杭州铭信信息科技有限公司是明康汇生态农业集团有限公司全资子公司，负责公司生鲜赛道核心产品的研发和迭代工作。\n       明康汇公司为世界500强海亮集团下属子公司，创建于2012年10月，初心是为了解决海亮教育集团数万名师生的食品安全问题。经过多年发展，明康汇已经发展成集农产品科研、种植、养殖、水产、加工、物流、仓储、销售为一体的全产业链运营的集团公司。明康汇以生鲜供应链为核心业务，匹配当代百姓的食品消费升级需求，为消费者提供涵盖肉类、禽类、蛋类、水产、蔬菜、水果、粮食、豆制品等多品类生鲜农产品，解决社区家庭最后500米生鲜食材购买难题。致力于以自营基地建设优势，健全农业生产标准体系，依托自建供应链体系保障，充分发挥全产业链运营模式，以O2O新零售布局线上线下社区生鲜便利业态，目前在杭州拥有300+家门店，未来将深耕长三角并不断拓展门店数量，同时自建“明康汇生鲜”网上商城小程序提供生鲜“明天到”等服务，并深入农产品流通市场，全面布局大流通大零售渠道，努力打造国内生鲜食品知名品牌。",
+      "encryptComId": "08593a5ce22c6f3e1XV-396_GQ~~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "资深数据分析师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "107kV7IduDj.search.1",
+          "performance": "",
+          "salaryDesc": "20-30K·15薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "商品",
+            "数据分析体系",
+            "指标体系"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "商品",
+              "highlight": false
+            },
+            {
+              "content": "数据分析体系",
+              "highlight": false
+            },
+            {
+              "content": "指标体系",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "9f7acdea11b818d11XVz2d66EVpW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州铭信信息科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/05e366971b20ac659e85b5076ca3cdf2cfcd208495d565ef66e7dff9f98764da.png",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "王先生",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220404/607f1f3d68754fd040dd5abc0b6f074efb02b2a614bdb77f7bd802dbd7bb9ec8899f9ed0af21a5c9_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "商品",
+            "数据分析体系",
+            "指标体系",
+            "供应链",
+            "业务洞察",
+            "数据诊断",
+            "降本增效"
+          ],
+          "welfares": [],
+          "securityId": "dmikZNKSWAZU8-n1pwswWbQPJ7nzSlkV_vjI5fEaxJcW_7nm6raaEn9a5_vxkp46qV5oLn0~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "嵌入式软件工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "107kV7IduDj.search.2",
+          "performance": "",
+          "salaryDesc": "12-24K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "嵌入式技术",
+            "嵌入式软件开发",
+            "C语言"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "嵌入式技术",
+              "highlight": false
+            },
+            {
+              "content": "嵌入式软件开发",
+              "highlight": false
+            },
+            {
+              "content": "C语言",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "f4eb689651eaeed51nJ70t6-EFRZ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州铭信信息科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/05e366971b20ac659e85b5076ca3cdf2cfcd208495d565ef66e7dff9f98764da.png",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "许辉旭",
+          "bossTitle": "研发经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210615/1f76f6f106ecee3c073134d9ca7c392024aa9ef900f00711777815d6c365a171_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "嵌入式技术",
+            "嵌入式软件开发",
+            "C语言",
+            "Linux",
+            "RTOS",
+            "FreeRTOS",
+            "RT-Thread",
+            "Keil"
+          ],
+          "welfares": [],
+          "securityId": "WABrG5YMlJhZ3-K1jPev7DZ06M9oiB_z2MvBs9K57i_iM7JHavNfEaf6p3PfhqZTBOZbIz0~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "107kV7IduDj.search.3",
+          "performance": "",
+          "salaryDesc": "14-28K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "前端开发",
+            "WEB开发",
+            "React"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            },
+            {
+              "content": "WEB开发",
+              "highlight": false
+            },
+            {
+              "content": "React",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "ba3254b6a83640521nJ70t6_GVRX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州铭信信息科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/05e366971b20ac659e85b5076ca3cdf2cfcd208495d565ef66e7dff9f98764da.png",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "许辉旭",
+          "bossTitle": "研发经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210615/1f76f6f106ecee3c073134d9ca7c392024aa9ef900f00711777815d6c365a171_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "前端开发",
+            "WEB开发",
+            "React",
+            "Vue",
+            "JQuery",
+            "移动端",
+            "小程序",
+            "PC端"
+          ],
+          "welfares": [],
+          "securityId": "V5fyoNyGW2pLm-H16qPuWFQUQp-3EYrC5pdjixl4x8oPGIBoPtPEk8CyFfiXckGyzekFqvs~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "数据分析师-用户",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "107kV7IduDj.search.4",
+          "performance": "",
+          "salaryDesc": "18-25K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "数学/统计相关专业",
+            "数据分析/挖掘经验",
+            "电商/零售行业数据相关经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "数学/统计相关专业",
+              "highlight": false
+            },
+            {
+              "content": "数据分析/挖掘经验",
+              "highlight": false
+            },
+            {
+              "content": "电商/零售行业数据相关经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "bbbc6b6cc00c799a1XB729S8EFtX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州铭信信息科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/05e366971b20ac659e85b5076ca3cdf2cfcd208495d565ef66e7dff9f98764da.png",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "王先生",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220404/607f1f3d68754fd040dd5abc0b6f074efb02b2a614bdb77f7bd802dbd7bb9ec8899f9ed0af21a5c9_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "数学/统计相关专业",
+            "数据分析/挖掘经验",
+            "电商/零售行业数据相关经验"
+          ],
+          "welfares": [],
+          "securityId": "LEEnMlN71IV0L-H1V_JqYEutinwGaDAMduygPj1iDk7WV-kBaYijfuT-uz9lS29X0Q8F1Vk~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "测试经理",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "星耀城",
+          "distance": "",
+          "lid": "107kV7IduDj.search.5",
+          "performance": "",
+          "salaryDesc": "12-20K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "功能测试",
+            "自动化测试",
+            "软件测试"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "功能测试",
+              "highlight": false
+            },
+            {
+              "content": "自动化测试",
+              "highlight": false
+            },
+            {
+              "content": "软件测试",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "6ce0855c94fc7bb91nx40968Fls~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州铭信信息科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/05e366971b20ac659e85b5076ca3cdf2cfcd208495d565ef66e7dff9f98764da.png",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "杨家强",
+          "bossTitle": "CTO",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "功能测试",
+            "自动化测试",
+            "软件测试"
+          ],
+          "welfares": [],
+          "securityId": "0SRJdOrrRr6p1-F1lbjD-c5uw0pc5yCVxwMo02y1WlBXQBtSVxTehYljhx6bi7owtqW5jA~~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

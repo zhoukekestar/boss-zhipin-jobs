@@ -1,0 +1,509 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "aTKSLL8drccGU-s1BoXZqyMfICUFPbjskQhsouuiR878WSjqstiva3Fw6Tr4c_yo7viWciuZPVWaOKkRdFqI_rERpjaYGm8tyXthwbWEEk4TEMHCRV-98Uatb8Ya7MsgmV4IiKBC",
+    "bossBaseInfoVO": {
+      "encryptBossId": "6d26f1d5e22cb16f1XRy3du_E1o~",
+      "bossId": 20866238,
+      "securityId": "fWkaq8GaMlV6g-q1mH3lyXrAwfivtd3k7lMptVrNJ6gI7ywNyZEQcShMtDIP_iocXdoxr7mtFInty9q3Q-3oQm5FdFk~",
+      "name": "王先生",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+      "title": "研发经理",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1680228109000,
+      "bossOnline": false,
+      "brandName": "公交云",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 88862324,
+      "encryptJobId": "07b92d65b27c774d33xy3d--ElY~",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端开发",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "长河",
+      "locationDesc": "杭州·滨江区·长河",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 13,
+      "highSalary": 22,
+      "jobDesc": "岗位职责:\n1.WEB应用产品前端页面开发 \n2.数据大屏项目开发\n3.前端框架/控件库产品建设\n岗位要求:\n1.熟悉JS编程，熟悉主流的前端框架，最好ReactJs\n2.熟悉HTML5、CSS3、JavaScript\n3.有数据大屏开发经验优先\n4.掌握Node.JS开发优先",
+      "requiredSkills": [
+        "前端开发",
+        "Node.js",
+        "React",
+        "大屏"
+      ],
+      "address": "杭州滨江区英飞特D",
+      "longitude": 120.200953,
+      "latitude": 30.184948,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/56c55ee3bd932809da8e7ef3b7d2113c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2abadea66e8974ae00a348b642791fb0",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "13-22K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "6d9c64e850c79acb1nV93N66GQ~~",
+      "brandName": "公交云",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180614/8aa024ca0a880c5d0bef88d6ecaa3e49cfcd208495d565ef66e7dff9f98764da.jpg",
+      "industryName": "互联网",
+      "stageName": "A轮",
+      "scaleName": "100-499人",
+      "brandIntroduce": "杭州市公共交通云科技有限公司（简称“公交云”），成立于2017年6月，创新整合杭州公交集团、数梦工场、阿里云、蚂蚁金服、高德地图等全球领先的互联网架构和能力资源，定位“数据智能，改变公共出行”核心使命，以云计算、大数据、移动互联网、人工智能、云安全等新型互联网数据技术加速全国城市公共交通部门的转型升级。",
+      "comName": "杭州市公共交通云科技有限公司",
+      "legalPerson": "吴存钱",
+      "startDate": "2017-06-13",
+      "regCapital": "1000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省长河街道创慧街18号1号楼202室",
+      "businessScope": "一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；软件开发；大数据服务；互联网数据服务；信息系统集成服务；规划设计管理；企业管理咨询；计算机软硬件及辅助设备零售；通讯设备销售；智能车载设备销售；旅客票务代理（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "杭州市公共交通云科技有限公司（简称“公交云”），成立于2017年6月，创新整合杭州公交集团、数梦工场、阿里云、蚂蚁金服、高德地图等全球领先的互联网架构和能力资源，定位“数据智能，改变公共出行”核心使命，以云计算、大数据、移动互联网、人工智能、云安全等新型互联网数据技术加速全国城市公共交通部门的转型升级。",
+      "encryptComId": "e8ca3be28d1701a40Hd-3tu_Fw~~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "桌面运维工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZRBxiUYuls.search.1",
+          "performance": "",
+          "salaryDesc": "6-8K",
+          "jobLabels": [
+            "1-3年",
+            "大专",
+            "桌面运维"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "桌面运维",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "1294d207880939cb1HR_2tq-EFZW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "公交云",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180614/8aa024ca0a880c5d0bef88d6ecaa3e49cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "陈美萍",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "桌面运维"
+          ],
+          "welfares": [],
+          "securityId": "L79JujbjdS6jK-616g1c0zlCYL8boXdkn9i_Wllcx322Ync-uNBjMKQ_S3EThpLU7RnqE8M~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "解决方案售前工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZRBxiUYuls.search.2",
+          "performance": "",
+          "salaryDesc": "13-25K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "售前招投标",
+            "售前方案工程师",
+            "售前技术支持"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "售前招投标",
+              "highlight": false
+            },
+            {
+              "content": "售前方案工程师",
+              "highlight": false
+            },
+            {
+              "content": "售前技术支持",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "bea2cfa7c7c6277a031-3NW8ElM~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "公交云",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180614/8aa024ca0a880c5d0bef88d6ecaa3e49cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "屈季",
+          "bossTitle": "市场总监",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "售前招投标",
+            "售前方案工程师",
+            "售前技术支持"
+          ],
+          "welfares": [],
+          "securityId": "C1hnHR4S-QuV3-r1i5F8HAtabH6rkJ1H9od8oC_GmuV37x7SkzHIJiVHTxsL70KJTvNu1g~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java开发",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZRBxiUYuls.search.4",
+          "performance": "",
+          "salaryDesc": "15-25K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "分布式技术",
+            "微服务架构",
+            "Spring"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "微服务架构",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "ef8b1964127651ea1nZ-3t-8F1NW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "公交云",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180614/8aa024ca0a880c5d0bef88d6ecaa3e49cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "胡女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220228/607f1f3d68754fd059743f39dd248d854d0f48f226165a981d06296e25018f8a8f62df446e0dfeba_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "分布式技术",
+            "微服务架构",
+            "Spring",
+            "架构师",
+            "大数据"
+          ],
+          "welfares": [],
+          "securityId": "S5wdKh4DdSVYJ-m1F8FwX-h9zyH-_IiJ6Atrm2TtxB71qpKurc90uLlD0MtDcO01a1851SQ~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "运筹优化算法工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZRBxiUYuls.search.5",
+          "performance": "",
+          "salaryDesc": "18-30K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "英文读写能力良好",
+            "交通优化",
+            "研究导向"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "英文读写能力良好",
+              "highlight": false
+            },
+            {
+              "content": "交通优化",
+              "highlight": false
+            },
+            {
+              "content": "研究导向",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "5b97587cc86be5ce1XV83tS4GVFW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "公交云",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180614/8aa024ca0a880c5d0bef88d6ecaa3e49cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "杨若松",
+          "bossTitle": "数据挖掘工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "英文读写能力良好",
+            "交通优化",
+            "研究导向",
+            "计算机相关专业",
+            "运筹优化",
+            "Python",
+            "数学/统计相关专业"
+          ],
+          "welfares": [],
+          "securityId": "Vx4P4IstwLPvC-A10iYggy2_i0G4BIQtBdw4HiTVKRvDRIUaoJuVKXK7n2UAq_32hPUrHKM~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "解决方案经理",
+          "jobValidStatus": 1,
+          "jobExperience": "1年以内",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZRBxiUYuls.search.6",
+          "performance": "",
+          "salaryDesc": "10-15K",
+          "jobLabels": [
+            "1年以内",
+            "硕士",
+            "系统集成",
+            "智慧城市信息化项目",
+            "计算机/通信相关专业"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1年以内",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "系统集成",
+              "highlight": false
+            },
+            {
+              "content": "智慧城市信息化项目",
+              "highlight": false
+            },
+            {
+              "content": "计算机/通信相关专业",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "25d39b125aeb9c2e1HR_39W7FVJW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "公交云",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180614/8aa024ca0a880c5d0bef88d6ecaa3e49cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "刘于福",
+          "bossTitle": "HRM",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "系统集成",
+            "智慧城市信息化项目",
+            "计算机/通信相关专业",
+            "机械/电子工程相关专业",
+            "售前技术支持经验",
+            "交通规划设计",
+            "智能制造",
+            "工业信息化"
+          ],
+          "welfares": [],
+          "securityId": "SMYH-8L1Slv27-617x_4lxmpI_eG2NiyzrPbnFR4FXTCAVnfn0I2co9qLyGX9i5AXclx1_s~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

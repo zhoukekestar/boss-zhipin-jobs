@@ -1,0 +1,507 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "HWeZBHPXboTF6-B1alNQqrnpAvQ-SXaAXpVJVcqh_XZiA1UNc3ADzXuay4YxsHegqrBJ-gs51Hf3D88Qg6aVg9ywIsL2YzEMc-ssO3mjl7UijP7vqq5I5XYn6X6pwuAJflXQ",
+    "bossBaseInfoVO": {
+      "encryptBossId": "9bc3631c33b737c51HB629m6GVA~",
+      "bossId": 34004792,
+      "securityId": "PLbLWNgdRjGeB-r1-FOYeT-lknUihu5MeOu7o9AVtNEJ0RZNFI9lTdFNjbcGZadBEwpkaWYlkCUHV3v4T0mIfzpZ032L",
+      "name": "钱先生",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220310/607f1f3d68754fd0284a417bfb137eadaa195105471d187e0364a3d499d1c07f6ae0c04f949b3268_s.jpg",
+      "title": "前端",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1637727892000,
+      "bossOnline": false,
+      "brandName": "光云科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 159979301,
+      "encryptJobId": "3a8047d8f639b1ab1nFz0tq0E1JR",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端开发",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "长河",
+      "locationDesc": "杭州·滨江区·长河",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 25,
+      "jobDesc": "根据产品需求文档，进行产品设计",
+      "requiredSkills": [
+        "Node.js",
+        "前端开发",
+        "JavaScript"
+      ],
+      "address": "杭州滨江区恒鑫大厦588",
+      "longitude": 120.201711,
+      "latitude": 30.201895,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9f4e6d23dabe4544e0c96003bd0f571d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cfeaea2251982ab9cc7e5e124cc6ff17",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-25K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "9b86912e7479afbe03x6",
+      "brandName": "光云科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/ad1f7b5992a24690a1e17a6430bcf12acfcd208495d565ef66e7dff9f98764da.jpg",
+      "industryName": "互联网",
+      "stageName": "已上市",
+      "scaleName": "1000-9999人",
+      "brandIntroduce": "http://www.raycloud.com/ \n\n公司简介\n光云科技，A股电商SaaS第一股（股票代码：688365），上交所科创板上市公司，成立于2009年，总部位于中国电商之都杭州，是中国首批电商SaaS服务商，是互联网SaaS模式的软件技术创新型企业。光云科技秉承“让企业经营更卓越”的使命，专注于为企业提供电商运营的全链路解决方案，致力于成为全球企业软件服务领域的领跑者。\n\n主营业务：基于电商平台为商家提供电商SaaS产品及配套硬件、运营服务及CRM等增值产品；基于钉钉平台为企业提供财务管理、客户管理、人事培训、行政管理、团队协作、表单流程、会议会务等企业服务SaaS产品。\n\n\n我们的优势\n一、覆盖国内外各知名电商平台\n根据电商竞争格局，光云逐步研发了适用于各大电商平台的SaaS产品，目前产品覆盖了淘宝网、天猫、钉钉、1688、饿了么、有赞、菜鸟、京东、美团、拼多多、蘑菇街、亚马逊、wish、ebay等国内外主要电商平台。\n二、稳居电商SaaS行业的领先地位\n光云在电商服务领域具有相当的品牌知名度，超级店长、快递助手、旺店系列等电商SaaS产品也获得了电商商家的广泛认可。公司产品多次获得阿里巴巴官方颁发的“金牌淘拍档”荣誉，在行业内具有良好的口碑和品牌效应。\n1.在线服务超420万的电商卖家，稳居淘宝TOP1\n2.订单类应用，日均打单量超1500万单\n3.快麦系列面单打印机市场存量达60万台\n\n\n\n光云福利\n法定性福利：社会保险、住房公积金、法定节假日、劳动保护、教育培训等\n通用性福利：企业文化活动、节日礼品、生日趴体、健身房（无限次）、社团（篮球，足球，羽毛球、舞蹈、狼人杀）、体检、商业保险、免费工作餐、团建活动等\n其他：滨江核心腹地，办公出行交通方便；高级江景写字楼；自有食堂，花样式餐饮；扁平化、去核心化管理模式；开放式工作环境，弹性工作时间。",
+      "comName": "杭州光云科技股份有限公司",
+      "legalPerson": "谭光华",
+      "startDate": "2013-08-29",
+      "regCapital": "42582.4684万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市滨江区江南大道588号恒鑫大厦主楼15层",
+      "businessScope": "一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；计算机软硬件及外围设备制造；计算机软硬件及辅助设备批发；计算机及办公设备维修；信息系统集成服务；通信设备销售；软件开发；信息技术咨询服务；广告设计、代理；数据处理服务；广告制作；广告发布（非广播电台、电视台、报刊出版单位）；图文设计制作；市场营销策划；摄像及视频制作服务；网络技术服务；计算机系统服务；通信设备制造；电子产品销售；信息咨询服务（不含许可类信息咨询服务）；专业设计服务；计算机软硬件及辅助设备零售；纸制品销售；家用电器销售；办公设备销售；办公设备耗材销售（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：货物进出口；技术进出口；第二类增值电信业务；互联网信息服务（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "http://www.raycloud.com/ \n\n公司简介\n光云科技，A股电商SaaS第一股（股票代码：688365），上交所科创板上市公司，成立于2009年，总部位于中国电商之都杭州，是中国首批电商SaaS服务商，是互联网SaaS模式的软件技术创新型企业。光云科技秉承“让企业经营更卓越”的使命，专注于为企业提供电商运营的全链路解决方案，致力于成为全球企业软件服务领域的领跑者。\n\n主营业务：基于电商平台为商家提供电商SaaS产品及配套硬件、运营服务及CRM等增值产品；基于钉钉平台为企业提供财务管理、客户管理、人事培训、行政管理、团队协作、表单流程、会议会务等企业服务SaaS产品。\n\n\n我们的优势\n一、\t覆盖国内外各知名电商平台\n根据电商竞争格局，光云逐步研发了适用于各大电商平台的SaaS产品，目前产品覆盖了淘宝网、天猫、钉钉、1688、饿了么、有赞、菜鸟、京东、美团、拼多多、蘑菇街、亚马逊、wish、ebay等国内外主要电商平台。\n二、稳居电商SaaS行业的领先地位\n光云在电商服务领域具有相当的品牌知名度，超级店长、快递助手、旺店系列等电商SaaS产品也获得了电商商家的广泛认可。公司产品多次获得阿里巴巴官方颁发的“金牌淘拍档”荣誉，在行业内具有良好的口碑和品牌效应。\n1.在线服务超420万的电商卖家，稳居淘宝TOP1\n2.订单类应用，日均打单量超1500万单\n3.快麦系列面单打印机市场存量达60万台\n\n\n\n光云福利\n法定性福利：社会保险、住房公积金、法定节假日、劳动保护、教育培训等\n通用性福利：企业文化活动、节日礼品、生日趴体、健身房（无限次）、社团（篮球，足球，羽毛球、舞蹈、狼人杀）、体检、商业保险、免费工作餐、团建活动等\n其他：滨江核心腹地，办公出行交通方便；高级江景写字楼；自有食堂，花样式餐饮；扁平化、去核心化管理模式；开放式工作环境，弹性工作时间。",
+      "encryptComId": "b56c3cbd9fd3acfb0XR729y-"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "web前端",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "105XNB1dRsY.search.1",
+          "performance": "",
+          "salaryDesc": "12-17K·13薪",
+          "jobLabels": [
+            "经验不限",
+            "大专",
+            "前端开发",
+            "JavaScript",
+            "HTML"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "HTML",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "f27059eb03aba08a1nRz2tq5ElJQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "光云科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/ad1f7b5992a24690a1e17a6430bcf12acfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "张旭",
+          "bossTitle": "前端",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160825/9d008aeacc5c6ea5bb318d8ff3961de58c7dd922ad47494fc02c388e12c00eac_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "前端开发",
+            "JavaScript",
+            "HTML",
+            "CSS"
+          ],
+          "welfares": [],
+          "securityId": "V0CIIxikXanMX-j1W1Cdj4NKU6QbuRZGUTnF82Aj3yFAEZqDoIiz9eXuYne5HZk0DT4elsc~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "105XNB1dRsY.search.2",
+          "performance": "",
+          "salaryDesc": "13-22K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Java"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "dae752a16fd8d28e1nR-2NW1GFZQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "光云科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/ad1f7b5992a24690a1e17a6430bcf12acfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "熊先生",
+          "bossTitle": "资深Java开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java"
+          ],
+          "welfares": [],
+          "securityId": "OnWAR9Js0A1Q7-N1Y2pJdEKKb0juUYvn8-q8Icu5Ox26WNZtM0FBLr4thWQINHsNfEC3gGA~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "资深java工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "105XNB1dRsY.search.4",
+          "performance": "",
+          "salaryDesc": "20-25K·13薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "后端工程师",
+            "Java",
+            "Spring"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "87743bc6caf9a69e1HV40966F1pW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "光云科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/ad1f7b5992a24690a1e17a6430bcf12acfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "傅女士",
+          "bossTitle": "招聘HR",
+          "bossAvatar": "https://img2.bosszhipin.com/mcs/useravatar/20160318/50c38622607f40096f445328144822078e34b0ba5420fc075be0e30a772f2701_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "Java",
+            "Spring",
+            "JavaScript",
+            "不接受居家办公"
+          ],
+          "welfares": [],
+          "securityId": "yWFWJsf5HWPZP-E1N1zvOcfP2Es3z65py6t9s-4V8p4SrdqsFM9QF_jUxFkrkAXQ950jSQ~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级Java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "105XNB1dRsY.search.5",
+          "performance": "",
+          "salaryDesc": "15-20K·15薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "服务器端开发",
+            "分布式技术",
+            "多线程"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "服务器端开发",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "多线程",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "fe36dd7406d79f701nZy392_GFRR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "光云科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/ad1f7b5992a24690a1e17a6430bcf12acfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "李开平",
+          "bossTitle": "资深JAVA开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210309/02f6cbd1dc88662d296ddf3a9dee3e14cb24d82fb956511beeca76a541563968_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "服务器端开发",
+            "分布式技术",
+            "多线程",
+            "Spring",
+            "SpringBoot",
+            "Dubbo",
+            "Redis",
+            "MySQL"
+          ],
+          "welfares": [],
+          "securityId": "pS7LOVrmOtrlA-01d5aSP0f7L9JXCucamxM56NVcGXVqoF717-fEYpiGBGX2RvR0DepomXo~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级Java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "学历不限",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "105XNB1dRsY.search.6",
+          "performance": "",
+          "salaryDesc": "14-18K",
+          "jobLabels": [
+            "1-3年",
+            "学历不限",
+            "Java",
+            "JavaScript",
+            "SQL"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "学历不限",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "58ca55cf129f6b2b1nV63tS_F1pX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "光云科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/ad1f7b5992a24690a1e17a6430bcf12acfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "薛家豪",
+          "bossTitle": "Java开发专家",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210107/261eff310ab26a4c6670316517ec0ee68c563c9c3cbae188e983a077c632cc38_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "JavaScript",
+            "SQL",
+            "HTML",
+            "CSS"
+          ],
+          "welfares": [],
+          "securityId": "7IgC-F0VfN_YD-C1Ak45OhgkU8SJwc2jVrgAxCss7qtzsYkNWI12HbewD5z0CtbOQg4pJPc~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

@@ -1,0 +1,488 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "7snDcntKmSzDD-l1x4glK4XfsSW3Wg3s_SvTrF5YCSyvympGNFDJb5fkPHKxD4nLdD3tnWTEeHaAceS0TZM40zg9g-Bzkjd4XDzenwCk2vSiv_oGPZltxXYtg-5d456rNcAnl5_Dag~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "b10a4346a0592ff31HJ83dW9E1Y~",
+      "bossId": 36668034,
+      "securityId": "aphSLjpCHKfbg-V17QEoDl-fsV1uOiAaYtKM8xg1yZLXz4R_N_Rv5RitziYneQGDFo6KIreWNRJEN7Ie0laLYrHk6U_7",
+      "name": "贾振山",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+      "title": "前端开发工程师",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1658415601000,
+      "bossOnline": false,
+      "brandName": "爱逛",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 234671773,
+      "encryptJobId": "7425d834d32c92e51Xd-3dq8F1VT",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "西溪",
+      "locationDesc": "杭州·西湖区·西溪",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 20,
+      "highSalary": 40,
+      "jobDesc": "工作职责：\n\n负责爱逛直播业务的前端开发和底层技术、工具支持。\n\n工作内容：\n\n1.参与前端开发；\n\n3.参与改进开发、构建、发布、监控等前端工程化体系；\n\n4.参与Web性能优化、体验优化；\n\n5.参与新技术探索、推进系统架构的演化。\n\n任职要求：\n\n1.技术栈：React(PC)+Vue(Mobile)+Node(展示层+SSR)；\n\n2.扎实的计算机以及网络基础；\n\n3.阅读英文技术文档和书籍无障碍；\n\n4.HTML、CSS、JavaScript基础扎实，了解HTTP协议以及浏览器原理；\n\n5.有大型前端工程化、大型Node项目实施经验加分。\n\n成长建议：\n\n1.多看别人的代码，学习里面的代码组织和设计思路；\n\n2.参与技术项目；\n\n3.多了解一些后端以及运维相关的知识；\n\n4.培养自己在交互和设计上的敏感性；\n\n5.工具化思维，减少重复劳动。",
+      "requiredSkills": [
+        "前端开发",
+        "后端开发",
+        "Node.js",
+        "JavaScript",
+        "React",
+        "Web端",
+        "小程序"
+      ],
+      "address": "杭州西湖区杭州有赞科技有限公司F幢",
+      "longitude": 120.086633,
+      "latitude": 30.25657,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/10032a2d643b566b427eb86711dde1f7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f8e4f6734d890bba7ffd7485ae581244",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-40K·14薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "f5fbe952c2fac8cc0XN62di_Eg~~",
+      "brandName": "爱逛",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191126/0a8b09b4a6906474da3e60fa19bdead0d79d4e68ed90133ea6587a8bcccac16a.png",
+      "industryName": "电子商务",
+      "stageName": "不需要融资",
+      "scaleName": "100-499人",
+      "brandIntroduce": "【业务介绍】\n爱逛自2019年初开始专注微信生态内的直播电商，目前深耕视频号已超过两年，是最早加入视频号的电商服务商之一。爱逛已为超过一万个有交易规模的视频号达人提供全品类直播供应链和直播运营服务，是专业的培训指导服务商、孵化服务商、供货服务商和招商团长。在2023微信公开课上，爱逛荣获“2022年视频号带货年度服务商”称号。爱逛也是一个轻松有趣的电商直播购物平台，我们会根据消费者的喜好推荐内容和商品，消费者也可以订阅自己喜欢的商家和生活达人，致力于让消费者不出门逛世界。\n 目前已涵盖数万品牌商和线下门店入驻，涵盖了短视频，直播，小程序，独立APP等信息载体。\n\n【工作氛围】\n我们提供灵活的办公时间，上下班不需要打卡。可以随意着装，穿出你的个性来。办公环境很开放和轻松，你可以和身边的小伙伴们一起工作，也能一起玩耍和打游戏。\n\n我们也鼓励创新，拥抱变化。鼓励突破边界，去做你想做的事情。不同背景、性格、年龄的伙伴，在这里可以都可以发挥出自己的能量。",
+      "comName": "杭州爱逛网络信息服务有限公司",
+      "legalPerson": "沈伟",
+      "startDate": "2018-12-20",
+      "regCapital": "2000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市西湖区西溪明园商务中心13幢B3033室",
+      "businessScope": "许可项目：互联网信息服务；广播电视节目制作经营；电视剧制作；电视剧发行；网络文化经营；药品互联网信息服务；信息网络传播视听节目；第二类增值电信业务；艺术品进出口；出版物零售；保健食品销售；出版物互联网销售；食品经营；食品互联网销售（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。一般项目：计算机软硬件及辅助设备批发；计算机软硬件及辅助设备零售；信息技术咨询服务；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；软件开发；广告设计、代理；广告制作；广告发布（非广播电台、电视台、报刊出版单位）；动漫游戏开发；其他文化艺术经纪代理；电影摄制服务；文艺创作；文化娱乐经纪人服务；组织文化艺术交流活动；电子产品销售；数字文化创意软件开发；玩具、动漫及游艺用品销售；游艺及娱乐用品销售；照相机及器材销售；互联网销售（除销售需要许可的商品）；会议及展览服务；体育用品及器材批发；体育用品及器材零售；数字内容制作服务（不含出版发行）；工艺美术品及收藏品零售（象牙及其制品除外）；文具用品零售；社会经济咨询服务；工艺美术品及收藏品批发（象牙及其制品除外）；音响设备销售；日用百货销售；办公用品销售；服饰制造；服装服饰批发；服装服饰零售；玩具制造；化妆品批发；珠宝首饰批发；鞋帽批发；照相器材及望远镜零售；化妆品零售；鞋帽零售；珠宝首饰零售；软件销售；日用品销售；计算器设备销售（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "【业务介绍】\n爱逛自2019年初开始专注微信生态内的直播电商，目前深耕视频号已超过两年，是最早加入视频号的电商服务商之一。爱逛已为超过一万个有交易规模的视频号达人提供全品类直播供应链和直播运营服务，是专业的培训指导服务商、孵化服务商、供货服务商和招商团长。在2023微信公开课上，爱逛荣获“2022年视频号带货年度服务商”称号。爱逛也是一个轻松有趣的电商直播购物平台，我们会根据消费者的喜好推荐内容和商品，消费者也可以订阅自己喜欢的商家和生活达人，致力于让消费者不出门逛世界。\n 目前已涵盖数万品牌商和线下门店入驻，涵盖了短视频，直播，小程序，独立APP等信息载体。\n\n【工作氛围】\n我们提供灵活的办公时间，上下班不需要打卡。可以随意着装，穿出你的个性来。办公环境很开放和轻松，你可以和身边的小伙伴们一起工作，也能一起玩耍和打游戏。\n\n我们也鼓励创新，拥抱变化。鼓励突破边界，去做你想做的事情。不同背景、性格、年龄的伙伴，在这里可以都可以发挥出自己的能量。",
+      "encryptComId": "3f3bf50df8842f8d1XZ639S-GVM~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "1013MNRA4QW.search.1",
+          "performance": "",
+          "salaryDesc": "20-30K·16薪",
+          "jobLabels": [
+            "经验不限",
+            "大专",
+            "前端开发",
+            "JavaScript",
+            "TypeScript"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "TypeScript",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "a0bdac6171db0b7d1nZ82t2_EVVX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "爱逛",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191126/0a8b09b4a6906474da3e60fa19bdead0d79d4e68ed90133ea6587a8bcccac16a.png",
+          "brandStage": "不需要融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "夏奥",
+          "bossTitle": "前端开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210301/fb5b623d86fa066ab5465149352cc0ada7853b8b461238ea9fab5ebf5d1ace6c_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "前端开发",
+            "JavaScript",
+            "TypeScript",
+            "Vue",
+            "React"
+          ],
+          "welfares": [],
+          "securityId": "JIFRWx69tXaSP-N1IFQT-7KMwt0CgxYihkLpvLVAeYnxvXlCdgBg-oYsSixXkSxo3GA9w70~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "前端开发校招",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "1013MNRA4QW.search.2",
+          "performance": "",
+          "salaryDesc": "10-11K·15薪",
+          "jobLabels": [
+            "在校/应届",
+            "本科",
+            "前端开发",
+            "HTML",
+            "小程序"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "在校/应届",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            },
+            {
+              "content": "HTML",
+              "highlight": false
+            },
+            {
+              "content": "小程序",
+              "highlight": false
+            }
+          ],
+          "jobType": 5,
+          "encryptJobId": "0a94f89e3c50d9eb1nZ_2dq8FltT",
+          "afterNameIcon": null,
+          "afterNameIcons": [
+            "https://img.bosszhipin.com/beijin/mcs/banner/4d77f815083a7850d8c5188f10b2ff0dcfcd208495d565ef66e7dff9f98764da.png"
+          ],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "爱逛",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191126/0a8b09b4a6906474da3e60fa19bdead0d79d4e68ed90133ea6587a8bcccac16a.png",
+          "brandStage": "不需要融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "贾振山",
+          "bossTitle": "前端开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "前端开发",
+            "HTML",
+            "小程序",
+            "PC端"
+          ],
+          "welfares": [],
+          "securityId": "b8W4DTrqIU09F-l1l3A_aEYhnaUe9tKOEPs2NKztwjMzyi0mqvGScBHSapBsUZom5r9IxpI~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Android开发工程师-爱逛",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "1013MNRA4QW.search.3",
+          "performance": "",
+          "salaryDesc": "20-35K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "android"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "android",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "be18db991d9cfeb51n140t-_EVVW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "爱逛",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191126/0a8b09b4a6906474da3e60fa19bdead0d79d4e68ed90133ea6587a8bcccac16a.png",
+          "brandStage": "不需要融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "陆女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "android"
+          ],
+          "welfares": [],
+          "securityId": "mDttvUKSV0fWF-P1LOlSBPmSqymg2d6IUF6rHmGTuoYAggjFzzOIEGJ16nPJg7uCV4TDO5CD",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "前端工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "1013MNRA4QW.search.4",
+          "performance": "",
+          "salaryDesc": "20-40K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "前端开发",
+            "Node.js"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            },
+            {
+              "content": "Node.js",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "a8869ed6599bbdbf3nN-2NS-E1o~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "爱逛",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191126/0a8b09b4a6906474da3e60fa19bdead0d79d4e68ed90133ea6587a8bcccac16a.png",
+          "brandStage": "不需要融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "李罡",
+          "bossTitle": "iOS开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170621/a6ef9bac12871d488b22bd6d4cbbdf31d0adbeca166a9f61891596203da64e41_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "前端开发",
+            "Node.js"
+          ],
+          "welfares": [],
+          "securityId": "L0KOWVdSagJmY-21tzDQbnqVE8p5aOEtKbXN-WGGtAvVcsZudfTWoavQEiYHnAqOHp3Dpg~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "JAVA开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "1013MNRA4QW.search.5",
+          "performance": "",
+          "salaryDesc": "15-30K·14薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Java"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "73508b57cdaa0bca0HF-29S5E1o~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "爱逛",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191126/0a8b09b4a6906474da3e60fa19bdead0d79d4e68ed90133ea6587a8bcccac16a.png",
+          "brandStage": "不需要融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "朱瑞雪",
+          "bossTitle": "无线开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230216/607f1f3d68754fd04f96e953014e85d727b89935635b42ae0c11c3141cbdf31b5563dd8212dede9f_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java"
+          ],
+          "welfares": [],
+          "securityId": "wTVSG8TQ5tAE1-K1JnA63FOqtZP9KDIMcM81Jb6_luQkPzPPs_8v2_sqHmQZAOrU2qPv9g~~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

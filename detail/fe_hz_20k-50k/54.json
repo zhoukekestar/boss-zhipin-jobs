@@ -1,0 +1,543 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "t52SCuSHbZuBN--10Su6N-L8PnmQRPTku8nnj6W6fU17zCv5XO1nc6p7mUs0HbLcJEJmSBx6HMCQrkluS7jlvsvMPnF45lLtxe_CUtwEBTqPA8cQBH7h7X0_t-NKNE2G8lpvIyAO",
+    "bossBaseInfoVO": {
+      "encryptBossId": "f707a7b68b2f94ae1HBy0t25ElA~",
+      "bossId": 34890422,
+      "securityId": "YET2g5_VnChZU-f13P3kguShJi55khxqbzK1uWbMYXquP6W4oAhfavM1Kwtpce5KJz4DJQQq-lXEYnTftPfNiJ0p4JH7",
+      "name": "高振东",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+      "title": "技术专家",
+      "activeTimeDesc": "3月内活跃",
+      "activeTime": 1692952942000,
+      "bossOnline": false,
+      "brandName": "盒马鲜生",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 107257085,
+      "encryptJobId": "6510d7053522e9781nR92di6EFpV",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端开发",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": null,
+      "businessDistrict": null,
+      "locationDesc": "杭州",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 20,
+      "highSalary": 40,
+      "jobDesc": "职位描述：\n1. 负责盒马多媒体生产中心的平台研发工作\n2. 打造多媒体跨端渲染引擎\n\n职位要求：\n1. 精通 javascript + css + html，对基本前端技术栈有较好的基础，\n2. 熟悉 React 以及对应的社区生态，熟练掌握 React 开发的最佳实践\n3. 熟悉前端工程，熟悉 webpack 并具备一定的优化经验\n4. 熟悉 canvas/svg，在前端图形领域有一定经验\n5. 了解 nodejs，可以编写脚本并有一定的 web 应用开发经验\n\n加分项：\n1. 有基于 C/C++ 在多媒体处理方面经验更佳\n2. 有前端智能化方面的探索更佳",
+      "requiredSkills": [
+        "Node.js",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "React",
+        "Web端",
+        "移动端",
+        "小程序"
+      ],
+      "address": "杭州余杭区阿里巴巴西溪园区8号楼",
+      "longitude": 120.026022,
+      "latitude": 30.279033,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b59cd0df21d1485e7bce6705c858d639",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dbe513993eb41321d1b97886af5456ca",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-40K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "b3eeae786aedaa270XFz09m0",
+      "brandName": "盒马鲜生",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/725a26380b8a4a5c42221d6f9fc3c308cfcd208495d565ef66e7dff9f98764da.jpg",
+      "industryName": "O2O",
+      "stageName": "不需要融资",
+      "scaleName": "10000人以上",
+      "brandIntroduce": "阿里巴巴集团旗下，以数据和技术驱动的新零售平台。\n以鲜活水产和新鲜蔬果为主打，开创了“新鲜不隔夜 \" 的 \" 盒马日日鲜 \" 等系列心智商品，为您提供最快 30 分钟极速送达的智能购物体验。\n希望为消费者打造社区化的一站式新零售体验中心，成为一二线城市品质生活首选，期待用科技和人情味带给盒区居民“鲜美生活”!\n期待有你的加入，让我们共创辉煌、铸梦未来！",
+      "comName": "上海盒马网络科技有限公司",
+      "legalPerson": "孙庆阳",
+      "startDate": "2015-06-02",
+      "regCapital": "72252.946万人民币",
+      "statusDesc": "存续",
+      "regAddress": "中国（上海）自由贸易试验区浦东大道2123号3层3E-1842室",
+      "businessScope": "许可项目：水产养殖（除中国稀有和特有的珍贵优良品种、优良基因）；美容服务；理发服务；出版物经营；药品零售；餐饮服务（以上限分支机构经营）；食品经营，酒类经营，第三类医疗器械经营。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）。  一般项目：计算机网络专业领域内的技术开发并提供相关技术咨询及技术服务，计算机系统集成的设计、安装、调试、维护，通信设备维修；公关活动策划；展览展示服务；第一类、第二类医疗器械经营；房地产经纪；第三方物流服务；家政服务；保洁服务；物业管理；病虫害防治服务；搬运装卸；绿化养护；自有设备出租；摄影摄像服务（测绘航空摄影除外）；摄影扩印服务；票务代理（航空票务代理除外）；餐饮企业管理；创意服务；设计、制作、代理各类广告；图文设计、制作；市场营销策划；宠物食品及用品、厨具卫具、音响设备、家用视听设备、户外用品、润滑油、衡器、服装、成人保健用品、日用百货、家用电器、食用农产品、粮食（中央储备粮食除外）、家居用品、电子产品及配件、照相器材、家具、针纺织品、化妆品、办公用品、体育用品及器材、玩具、汽车用品、汽摩配件、珠宝首饰（毛钻、裸钻除外）、工艺品（文物、象牙及其制品除外）、五金交电、计算机软硬件及配件（音像制品除外）、机械设备、化工产品（危险化学品除外）、消防器材、建筑装饰材料（钢材、水泥除外）、母婴用品、花卉、眼镜（不含隐形眼镜）的批发、零售（店铺零售限分支机构）、网上零售、进出口、佣金代理（拍卖除外），并提供上述商品相关售后配套服务，仓储服务（除危险品，限分公司经营）；洗衣服务；家电、家具维修服务；净水器清洗服务；服装、皮具、鞋包的修补及维护；美甲、健身服务；犬只美容、寄养、销售；儿童游乐设施经营（游艺机、危险项目除外），机动车修理和维护（以上项目均限分支机构经营）；商务信息咨询，贸易信息咨询，企业管理咨询，生物、农业科技领域内的技术开发、技术转让、技术交流、技术推广、技术咨询、技术服务（除人体干细胞，基因诊断），机电设备安装、维修和销售，停车场服务，初级农产品收购，柜台、摊位出租，居民日常生活服务，日用品出租，外卖递送服务。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "阿里巴巴集团旗下，以数据和技术驱动的新零售平台。\n以鲜活水产和新鲜蔬果为主打，开创了“新鲜不隔夜 \" 的 \" 盒马日日鲜 \" 等系列心智商品，为您提供最快 30 分钟极速送达的智能购物体验。\n希望为消费者打造社区化的一站式新零售体验中心，成为一二线城市品质生活首选，期待用科技和人情味带给盒区居民“鲜美生活”!\n期待有你的加入，让我们共创辉煌、铸梦未来！",
+      "encryptComId": "c90e42911ab18be61nN_09q6Fg~~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "iOS开发工程师/专家",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "104IV7qUFCQ.search.1",
+          "performance": "",
+          "salaryDesc": "15-30K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "功能开发",
+            "通信相关专业",
+            "Xcode"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "功能开发",
+              "highlight": false
+            },
+            {
+              "content": "通信相关专业",
+              "highlight": false
+            },
+            {
+              "content": "Xcode",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "46550f296c1669b61XF92tq8FVBQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "盒马鲜生",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/725a26380b8a4a5c42221d6f9fc3c308cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "黄定磊",
+          "bossTitle": "无线开发专家",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "功能开发",
+            "通信相关专业",
+            "Xcode",
+            "流媒体技术",
+            "Objective-C",
+            "Swift",
+            "iOS",
+            "计算机/软件工程相关专业",
+            "独立开发且上线经验"
+          ],
+          "welfares": [],
+          "securityId": "ii8rjCbKPNH43-31vbUSbl6U-WbqRM6HxbWQG38i0fm3Kw1mXy-hOqhPKJGA6f8Agz7GTJ4~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "盒马-JAVA技术专家-供应链",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "104IV7qUFCQ.search.2",
+          "performance": "",
+          "salaryDesc": "30-60K",
+          "jobLabels": [
+            "3-5年",
+            "硕士",
+            "SQL",
+            "分布式技术",
+            "多线程"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "多线程",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "2f31e236bdd4fe911XB90tW9GVJV",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "盒马鲜生",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/725a26380b8a4a5c42221d6f9fc3c308cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "殷鸿展",
+          "bossTitle": "高级技术专家",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "SQL",
+            "分布式技术",
+            "多线程",
+            "Spring",
+            "Struts",
+            "Oracle",
+            "MySQL",
+            "Linux"
+          ],
+          "welfares": [],
+          "securityId": "UmrpHQR4nPfdX-11KEJFxIOrbYHlC04oSKIGz8u7o6TZ4ClmymbOVIpdgBVSZwhB8gJ-XiU~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "资深测试开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "未来科技城",
+          "distance": "",
+          "lid": "104IV7qUFCQ.search.3",
+          "performance": "",
+          "salaryDesc": "20-35K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "功能测试",
+            "性能测试",
+            "自动化测试"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "功能测试",
+              "highlight": false
+            },
+            {
+              "content": "性能测试",
+              "highlight": false
+            },
+            {
+              "content": "自动化测试",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "936721603ee362ec1nR92tq_E1tY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "盒马鲜生",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/725a26380b8a4a5c42221d6f9fc3c308cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "李钦伟",
+          "bossTitle": "高级测试开发专家",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230806/607f1f3d68754fd0b7312d381ec4836f1a18e9361e64264b8abaa6d3d5f1910c36b96f728d262b59_s.jpg.webp",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "功能测试",
+            "性能测试",
+            "自动化测试",
+            "Java",
+            "Python",
+            "C++",
+            "计算机相关专业",
+            "测试工作经验",
+            "自动化测试经验",
+            "软件测试",
+            "计算机软件",
+            "测试工程师",
+            "测试开发"
+          ],
+          "welfares": [],
+          "securityId": "eNFnYgJhsEzMk-e1qkIcNOTnyDaTL3-7ZH90URf6ZjM5rIaY1ou6QaGr68aEYOkarQZkhfo~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "104IV7qUFCQ.search.4",
+          "performance": "",
+          "salaryDesc": "16-26K·16薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "JavaScript",
+            "React",
+            "Node.js"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "React",
+              "highlight": false
+            },
+            {
+              "content": "Node.js",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "8080f974045823401XN93d-7EFpZ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "盒马鲜生",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/725a26380b8a4a5c42221d6f9fc3c308cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "李诚",
+          "bossTitle": "资深技术专家",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript",
+            "React",
+            "Node.js",
+            "前端开发经验",
+            "技术博客/开源项目有所贡献",
+            "架构师经验"
+          ],
+          "welfares": [],
+          "securityId": "O1ly6PnCoPcgG-t1-YAgBr2HExhWxdEczzf075onp78vOuVYyqjGWHN5ang6X2Qr_aRP0cG-",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级开发工程师/技术专家",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "104IV7qUFCQ.search.5",
+          "performance": "",
+          "salaryDesc": "30-60K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Java",
+            "微服务架构",
+            "Mybatis"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "微服务架构",
+              "highlight": false
+            },
+            {
+              "content": "Mybatis",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "2739dc2609b9c9be1nR42tu0EFRV",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "盒马鲜生",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/725a26380b8a4a5c42221d6f9fc3c308cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "许峰",
+          "bossTitle": "研发经理",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "微服务架构",
+            "Mybatis",
+            "Spring",
+            "MySQL",
+            "架构师",
+            "软件工程师",
+            "SaaS"
+          ],
+          "welfares": [],
+          "securityId": "ifBrtXaCHNWnI-E1aSQptJd_eGi8cO-Fd1xDXgUWImVf0eX6mub2KItBthwiHVEWk63ygc34",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

@@ -1,0 +1,524 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "vMGUTsUz_EnkZ-o1_ozMuKTvqfL-YJjsZmheXk8EU5IL7yAhCoxDku0M8Zzda4ocyIPchRab6Q3-KcnvYPcVb4VlXFDwao1jDmEA_FxvfwrcCTZ9aSJq16VObnwJjB_RfVzAO99j",
+    "bossBaseInfoVO": {
+      "encryptBossId": "593f1a1b306636430XR639W6F1E~",
+      "bossId": 60048773,
+      "securityId": "ER24H6Ac77J9G-R1-AxumzEeFAc4DCkcNZYbEDuAkhJm6x-HGG43YoM78Evhk6rSnZiQ90ay1HGKD5H7gZ4udIJdXrdt",
+      "name": "邢继斌",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200505/9118bfedeee22fc59cef8e7396dee2a38c6c4f8728bc7873ad2668de024089bb_s.jpg",
+      "title": "前端开发工程师",
+      "activeTimeDesc": "2月内活跃",
+      "activeTime": 1693561627000,
+      "bossOnline": false,
+      "brandName": "深大智能",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 224442583,
+      "encryptJobId": "bbc9ee0e983b3c1d1XZ-39m_FVpT",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端开发",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "文三路",
+      "locationDesc": "杭州·西湖区·文三路",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 30,
+      "jobDesc": "岗位职责：\n1、负责日常任务的迭代开发及项目进度的推进；\n2、负责研发和落地符合公司业务特点的前端架构；\n3、负责前端应用性能的优化和视觉效果的提升；\n任职要求：\n1、3年以上工作经验，本科以上学历，计算机及相关专业；\n2、熟练使用Vue系列技术栈进行开发；\n3、热爱前端技术,有一定的技术敏感度，有较强的进取心和求知欲，勇于挑战；\n4、具有良好的团队合作精神，有一定的抗压能力，能够积极主动推动事务的正向发展；\n5. 有大型网站开发经验者优先。",
+      "requiredSkills": [
+        "JavaScript",
+        "Vue",
+        "前端开发"
+      ],
+      "address": "杭州西湖区东部软件园深大智能科技",
+      "longitude": 120.14606,
+      "latitude": 30.279242,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d21c473d349f9f13e322ccae410ab716",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/898047999ef65a3ec2be252b57e20a29",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-30K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "395683dd7df2b1de1XV939-8",
+      "brandName": "深大智能",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230109/7bf6f160950405e9adf3071e8d614baaeaeca41d158a1d385b9ae403100d404bc998857b51803fff.jpg",
+      "industryName": "旅游",
+      "stageName": "C轮",
+      "scaleName": "500-999人",
+      "brandIntroduce": "浙江深大智能科技有限公司（前身为杭州深大电子信息工程有限公司）成立于1996年，注册在杭州高新区，总部位于杭州城西，办公场所有2800方，公司拥有一批优秀的管理、技术人员以及优良的开发、生产环境，是获国家扶持的高新技术企业、双软企业。\n    主营业务由智慧景区O2O一体化系统集成、智游宝旅游公众服务支撑平台、区域旅游电商平台运营三大板块构成。\n    智慧景区板块主要为智慧旅游、智慧景区的智能化建设提供全套技术解决方案，并负责软硬件开发以及系统集成安装调试、培训、售后技术支持一条龙服务工作，是国内较早从事该行业的企业之一，公司技术处于国内同行业领先水平，企业拥有50多项软件著作权以及硬件专利，公司开发的智能化管理系统，应用到全国各地上600多家4A级以上景区以及各类型博物馆、主题乐园等行业，产品投放市场以来广受好评。\n    智游宝平台主要为各类直销分销体系与资源方之间搭建营销的平台，是分销商的公正、权威、可信的第三方服务平台。它提供了一个资源方可控制的分销商管理环境，安全便捷高效的实现了电子票证的生成、发送、验证以及款项回收等环节。能够为游客提供最佳的用户体验；为分销商提供了便捷的采购和发货通道；为资源方提供了一系列分析报告，辅助领导决策。目前已经对接1200多家景区、100多家互联网分销渠道、8000家旅行社。",
+      "comName": "浙江深大智能科技有限公司",
+      "legalPerson": "汪早荣",
+      "startDate": "2006-10-24",
+      "regCapital": "3050万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市西湖区文三路90号71幢6层东601-612房间、西601-608房间（自主申报）",
+      "businessScope": "服务：计算机软硬件的技术开发、技术咨询、技术服务、成果转让，计算机智能化系统的设计、安装；批发、零售：计算机及配件，电子产品（除专控），含下属分支机构经营范围；其他无需报经审批的一切合法项目",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "浙江深大智能科技有限公司（前身为杭州深大电子信息工程有限公司）成立于1996年，注册在杭州高新区，总部位于杭州城西，办公场所有2800方，公司拥有一批优秀的管理、技术人员以及优良的开发、生产环境，是获国家扶持的高新技术企业、双软企业。\n    主营业务由智慧景区O2O一体化系统集成、智游宝旅游公众服务支撑平台、区域旅游电商平台运营三大板块构成。\n    智慧景区板块主要为智慧旅游、智慧景区的智能化建设提供全套技术解决方案，并负责软硬件开发以及系统集成安装调试、培训、售后技术支持一条龙服务工作，是国内较早从事该行业的企业之一，公司技术处于国内同行业领先水平，企业拥有50多项软件著作权以及硬件专利，公司开发的智能化管理系统，应用到全国各地上600多家4A级以上景区以及各类型博物馆、主题乐园等行业，产品投放市场以来广受好评。\n    智游宝平台主要为各类直销分销体系与资源方之间搭建营销的平台，是分销商的公正、权威、可信的第三方服务平台。它提供了一个资源方可控制的分销商管理环境，安全便捷高效的实现了电子票证的生成、发送、验证以及款项回收等环节。能够为游客提供最佳的用户体验；为分销商提供了便捷的采购和发货通道；为资源方提供了一系列分析报告，辅助领导决策。目前已经对接1200多家景区、100多家互联网分销渠道、8000家旅行社。",
+      "encryptComId": "c0717f030b8a48aa1nJ_2NS7"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "安全工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "文三路",
+          "distance": "",
+          "lid": "10clmCkJcOp.search.1",
+          "performance": "",
+          "salaryDesc": "20-35K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "大专",
+            "SQL",
+            "网络安全",
+            "渗透测试"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "网络安全",
+              "highlight": false
+            },
+            {
+              "content": "渗透测试",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "31eebbdfe34ac3e91Xd43N-9FFNU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "深大智能",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230109/7bf6f160950405e9adf3071e8d614baaeaeca41d158a1d385b9ae403100d404bc998857b51803fff.jpg",
+          "brandStage": "C轮",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "吴女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220214/607f1f3d68754fd03207181d5eb02a69663dd9741b6e8c8c85db010dfaf3f0e130a1f68f806c4c45_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "SQL",
+            "网络安全",
+            "渗透测试"
+          ],
+          "welfares": [],
+          "securityId": "npB0vip5t25Si-u1jeR-j4bPd9iOl5MIyonChOgVVqp4PBe0lLaBfcO3I-Q5a8cbl5C8YNE~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "文三路",
+          "distance": "",
+          "lid": "10clmCkJcOp.search.2",
+          "performance": "",
+          "salaryDesc": "12-18K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "JavaScript",
+            "HTML",
+            "CSS"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "HTML",
+              "highlight": false
+            },
+            {
+              "content": "CSS",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "935845ddb4efddec1XZ63Nq-EFFS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "深大智能",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230109/7bf6f160950405e9adf3071e8d614baaeaeca41d158a1d385b9ae403100d404bc998857b51803fff.jpg",
+          "brandStage": "C轮",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "李先生",
+          "bossTitle": "前端",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "MVC开发",
+            "前端开发",
+            "Web端",
+            "PC端",
+            "移动端"
+          ],
+          "welfares": [],
+          "securityId": "-fcP1sHaWgFO7-G1dETzMjWoKiUwM7QNcAC-nQeHFSwQ_zwq_M9eOtU3Xv9Ztj87uqJpuQc~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "安卓开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "文三路",
+          "distance": "",
+          "lid": "10clmCkJcOp.search.3",
+          "performance": "",
+          "salaryDesc": "12-20K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Kotlin",
+            "Flutter",
+            "MVVM"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Kotlin",
+              "highlight": false
+            },
+            {
+              "content": "Flutter",
+              "highlight": false
+            },
+            {
+              "content": "MVVM",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "a8c687802b8afb001XVy0tS8FFpV",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "深大智能",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230109/7bf6f160950405e9adf3071e8d614baaeaeca41d158a1d385b9ae403100d404bc998857b51803fff.jpg",
+          "brandStage": "C轮",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "黄鑫军",
+          "bossTitle": "研发主管",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Kotlin",
+            "Flutter",
+            "MVVM",
+            "MVP"
+          ],
+          "welfares": [],
+          "securityId": "xiI3_cRFRyYNR-_1tiiWdenjM7gcoIqcVJd2LkPRhuS1k5mjcK9Zm0JBRSDSULFRA_4vI_ig",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "资深技术专家",
+          "jobValidStatus": 1,
+          "jobExperience": "10年以上",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "文三路",
+          "distance": "",
+          "lid": "10clmCkJcOp.search.4",
+          "performance": "",
+          "salaryDesc": "30-40K",
+          "jobLabels": [
+            "10年以上",
+            "本科",
+            "后端工程师",
+            "架构师",
+            "Java"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "10年以上",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "架构师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "f443aba257d633d61X1_39y_EVtQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "深大智能",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230109/7bf6f160950405e9adf3071e8d614baaeaeca41d158a1d385b9ae403100d404bc998857b51803fff.jpg",
+          "brandStage": "C轮",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "程女士",
+          "bossTitle": "招聘",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230508/607f1f3d68754fd041b6401c4841801168df9b1206612a42ff5ac9e1545cd02409f338c838f52202_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "架构师",
+            "Java",
+            "Spring",
+            "计算机/软件工程相关经验",
+            "Java开发经验",
+            "中大型项目架构设计经验"
+          ],
+          "welfares": [],
+          "securityId": "BRXAy83ENj4jz-t1XX3DRX6c22ocfViEhWYmynUiPZfRYrunLMERWlni9Gv_cTgRa3ZD24U~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "嵌入式开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "文三路",
+          "distance": "",
+          "lid": "10clmCkJcOp.search.5",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "C",
+            "ARM开发",
+            "计算机相关专业"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "C",
+              "highlight": false
+            },
+            {
+              "content": "ARM开发",
+              "highlight": false
+            },
+            {
+              "content": "计算机相关专业",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "3d82bc006c337a2e1HB-3d6-F1Q~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "深大智能",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230109/7bf6f160950405e9adf3071e8d614baaeaeca41d158a1d385b9ae403100d404bc998857b51803fff.jpg",
+          "brandStage": "C轮",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "周建国",
+          "bossTitle": "硬件部门副经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190221/238c31bc5e81f63de441183511fa8867d01a4e076d37ecadd51dfa0c67cc1afc_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "C",
+            "ARM开发",
+            "计算机相关专业",
+            "电气电气/自动化相关专业",
+            "嵌入式/单片机开发经验",
+            "ARM",
+            "嵌入式",
+            "驱动开发"
+          ],
+          "welfares": [],
+          "securityId": "DUbU8zYmT6f5L-D1-W1-b9bDQiGU7S6dsMzjZEf1tctT_2VUNEBQyy66WgEVEX4arKNbwQ~~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

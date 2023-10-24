@@ -1,0 +1,275 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "epq5cIjWOQ8Ca-X1ReI07u4IaNdhQA-Lwg-zk_FLDKQT3GmNZgxtiEXopSgh5CaJuDVVGPNrMfypf-bMsNn8g5dJcOD-uMcZXhwbljOjqqk13eBZxDIqwQP4Q-Y9x_QamkQOyVBN",
+    "bossBaseInfoVO": {
+      "encryptBossId": "c5cb3e2fc60c5d5203B90t29EFA~",
+      "bossId": 44790002,
+      "securityId": "EPZFpvvG22tcd-E1OYu4dqbUJQEN5S4fBZyu5aC1diFKIcQmeJlN5JTrizZMD_Rug0C2AToSQRO79mvrtyIZLQ0mazA~",
+      "name": "余先生",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+      "title": "HR",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1541474505000,
+      "bossOnline": false,
+      "brandName": "古川企业",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 26995108,
+      "encryptJobId": "a827ea82940ea75d1XJz0ti8EFo~",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "高级-web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "转塘",
+      "locationDesc": "杭州·西湖区·转塘",
+      "experienceName": "3-5年",
+      "degreeName": "大专",
+      "lowSalary": 15,
+      "highSalary": 30,
+      "jobDesc": "1、两年以上前端开发经验。\r\n2、具备丰富的Javascript、HTML5、CSS3编程经验，扎实的前端基础功底。\r\n3、有REACT后台系统管理经验优先。\r\n4.良好的沟通能力，吃苦耐劳",
+      "requiredSkills": [
+        "react",
+        "CSS3",
+        "node.js"
+      ],
+      "address": "杭州西湖区云栖小镇",
+      "longitude": 120.087494,
+      "latitude": 30.129476,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/43fc4d85826ea66fb1c7d7eb0bbba63b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/65956afc2ad5a1803025ae5dd0279a1e",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-30K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "29a5ee22d81b48bc1XN72Ny9GA~~",
+      "brandName": "古川企业",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "industryName": "在线教育",
+      "stageName": "",
+      "scaleName": "100-499人",
+      "brandIntroduce": "",
+      "comName": "杭州古川企业管理有限公司",
+      "legalPerson": "郑晚连",
+      "startDate": "2016-08-24",
+      "regCapital": "10万人民币",
+      "statusDesc": "存续",
+      "regAddress": "上城区中河中路258号2102-1室（托管083）",
+      "businessScope": "服务：企业管理咨询，商务信息咨询、经济信息咨询（除商品中介），企业营销策划。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "",
+      "encryptComId": "8c29d6af4b5a281a1nR62Nq5GVc~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "高级Java",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "转塘",
+          "distance": "",
+          "lid": "101WhQ2sw6w.search.2",
+          "performance": "",
+          "salaryDesc": "15-29K",
+          "jobLabels": [
+            "3-5年",
+            "大专",
+            "数据库",
+            "多线程",
+            "分布式"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "数据库",
+              "highlight": false
+            },
+            {
+              "content": "多线程",
+              "highlight": false
+            },
+            {
+              "content": "分布式",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "b0016f3caa8463bf1XJz0tm0EFQ~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "古川企业",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "余先生",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "数据库",
+            "多线程",
+            "分布式"
+          ],
+          "welfares": [],
+          "securityId": "YJppREdszuYIs-X1YdpsVAvGB7yzP3qCOYKOCsa8t-46wslvTXrCwKTFYNQ63rwr_bZA2w~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "web测试",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "101WhQ2sw6w.search.3",
+          "performance": "",
+          "salaryDesc": "13-26K",
+          "jobLabels": [
+            "1-3年",
+            "大专",
+            "自动化测试"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "自动化测试",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "a518da08d91af3841XJz0ti6GFM~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "古川企业",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "余先生",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "自动化测试"
+          ],
+          "welfares": [],
+          "securityId": "KfjaxwhAKDIRl-51Zc6SuaVAb9ZZ37XFk-u0WnLE6SBLHPgc1HTOSkPL-F7QpXUrVQLesg~~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

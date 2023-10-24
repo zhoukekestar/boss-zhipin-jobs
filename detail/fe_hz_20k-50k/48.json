@@ -1,0 +1,513 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "5RASRSJ3EckHQ-z1PJPIr9mzF_oOP48owaaLs-doGb-_oSEtfAgx2tcIM5o2uyezzP3iB5GF7-dxWgXQJzi8st0qVpTUboQnjjTLGsuKrDw-JmzKyrXSFq2pr6QEX7zTFuhpMuMb",
+    "bossBaseInfoVO": {
+      "encryptBossId": "acf57d19e1f577ae1Hd62Nq5EFs~",
+      "bossId": 33037409,
+      "securityId": "xX9eqc7kzfFkv-m1xpOUN6QX3J15aVlnbOmQQNYWJpu_dOHo9vepHmX5DJpLf-pgoMUjge63JNHGxsu_wa9GBZ307XBX",
+      "name": "骆华君",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20211201/a2f3e71d9181a67b92d92fa34819fb48d10eced65345f316facce5e9ede90b9c6049fcaa3fc5e9c9_s.jpg",
+      "title": "技术总监",
+      "activeTimeDesc": "2周内活跃",
+      "activeTime": 1697006785000,
+      "bossOnline": false,
+      "brandName": "讯盟科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 174807709,
+      "encryptJobId": "d33a38665f6a215a1nN-0926F1JZ",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端TL",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": null,
+      "businessDistrict": null,
+      "locationDesc": "杭州",
+      "experienceName": "5-10年",
+      "degreeName": "本科",
+      "lowSalary": 30,
+      "highSalary": 40,
+      "jobDesc": "工作职责\n1、负责前端项目团队人员的管理、团队搭建、分工与统筹工作；\n3、与产品设计一起讨论，从前端技术角度为产品出谋划策，评估方案可行性；\n4、持续改进前端应用架构和工程架构，对前端团队产出的质量和效率负责；\n2、充分理解部门业务，为团队建立明确的技术发展路线，保持团队整体技术先进性，并提供相关技术指导\n5、负责人才培养和梯队建设，推动技术Topic的建设、促进终端技术融合和创新、为业务赋能、促进经验和文化传承\n\n\n任职要求：\n1、本科及以上学历，计算机、软件相关专业，5年及以上工作经验，3年以上管理经验者优先；\n2、有扎实的编程能力和代码品位，熟悉主流的前端开发框架；\n3、有前端工程化的实践经验，有架构设计能力，具有长期规划能力；\n4、良好的团队沟通和协作能力，有良好的责任心、优秀的问题发现和解决能力，有良好的自驱力和学习能力；\n5、有SaaS、PaaS领域经验者更佳，有开源项目经验者优先。",
+      "requiredSkills": [
+        "React",
+        "团队管理"
+      ],
+      "address": "杭州西湖区杭州蒋村商务中心B1座9层",
+      "longitude": 120.068817,
+      "latitude": 30.289051,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/abdfcbf1d947347b9e80cc6b90a65883",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/25a6c7dd01a175afab0d7ec6e151edd3",
+      "salaryMonth": 0,
+      "performance": "年终0-6个月，具体看绩效",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "30-40K·16薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "7e628e873938c6b01Hd-39q1",
+      "brandName": "讯盟科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170220/83c96760ca60af2209a0f6f7fa72e016fee262af2bea1f582503f6ef261e5601.jpg",
+      "industryName": "互联网",
+      "stageName": "C轮",
+      "scaleName": "100-499人",
+      "brandIntroduce": "讯盟（浙江讯盟科技有限公司）于2013年成立于互联网产业高地中国杭州，是一家专注于人工智能创新的科技公司！拥有大规模数据量和超高并发量平台的研发能力以及自主可控的国产化底层代码开发技术，深耕办公协同领域，聚焦赋能政企数字化。同时与中国移动、华为等公司形成了紧密战略合作，为不同行业用户提供安全、可靠、可信、高效的数字化解决方案和服务。\n       凭借着自主创新技术和对行业发展的深入洞察，讯盟打造了全面且高效的数字化产品能力布局，例如智能链接（讯盟Link系列产品），智能业务（AI+文档、AI+会议等）以及智能服务（讯盟Link-Service）等。针对不同行业生态和规模组织的多元发展需求，讯盟提供完整的数字化转型能力闭环，助力开发者更专注于业务。\n        讯盟将通过持续创新的技术架构，整合“模型+智能+数据”的核心能力，助力各行业实现不同数字生产力的链接、融合、服务，与伙伴携手共建互联世界的全面数字化生态。",
+      "comName": "浙江讯盟科技有限公司",
+      "legalPerson": "林川",
+      "startDate": "2013-02-01",
+      "regCapital": "1738.362万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市西湖区文一西路830号蒋村商务中心2号楼901室",
+      "businessScope": "一般项目：网络技术服务；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；软件开发；广告设计、代理；广告制作；广告发布；计算机软硬件及辅助设备零售；计算机软硬件及辅助设备批发；电子产品销售；办公设备销售；通讯设备销售（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：第二类增值电信业务（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "讯盟（浙江讯盟科技有限公司）于2013年成立于互联网产业高地中国杭州，是一家专注于人工智能创新的科技公司！拥有大规模数据量和超高并发量平台的研发能力以及自主可控的国产化底层代码开发技术，深耕办公协同领域，聚焦赋能政企数字化。同时与中国移动、华为等公司形成了紧密战略合作，为不同行业用户提供安全、可靠、可信、高效的数字化解决方案和服务。\n       凭借着自主创新技术和对行业发展的深入洞察，讯盟打造了全面且高效的数字化产品能力布局，例如智能链接（讯盟Link系列产品），智能业务（AI+文档、AI+会议等）以及智能服务（讯盟Link-Service）等。针对不同行业生态和规模组织的多元发展需求，讯盟提供完整的数字化转型能力闭环，助力开发者更专注于业务。\n        讯盟将通过持续创新的技术架构，整合“模型+智能+数据”的核心能力，助力各行业实现不同数字生产力的链接、融合、服务，与伙伴携手共建互联世界的全面数字化生态。",
+      "encryptComId": "988e0203f97891a61nN63dS4E1o~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "高级前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "105fPeS8t9T.search.1",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "JavaScript",
+            "HTML5",
+            "ES6"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "HTML5",
+              "highlight": false
+            },
+            {
+              "content": "ES6",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "cc2ba3f92a50971f1nx53Ny7FFZU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "讯盟科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170220/83c96760ca60af2209a0f6f7fa72e016fee262af2bea1f582503f6ef261e5601.jpg",
+          "brandStage": "C轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "诸炜",
+          "bossTitle": "前端TL",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript",
+            "HTML5",
+            "ES6",
+            "Web端",
+            "移动端",
+            "前端开发",
+            "WEB开发",
+            "TypeScript"
+          ],
+          "welfares": [],
+          "securityId": "CVJDWA8YIpFTq-m1g9z1Ou5DFfCSlhySiBTHw6fsOE_Ce-FhPU_6Je-rZuQKjyh0mhxbbHDO",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "资深Java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "105fPeS8t9T.search.2",
+          "performance": "",
+          "salaryDesc": "18-30K·14薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "网络协议",
+            "后端开发",
+            "Spring"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "网络协议",
+              "highlight": false
+            },
+            {
+              "content": "后端开发",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "e69f18754ec544cb1nx90t-7FFZW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "讯盟科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170220/83c96760ca60af2209a0f6f7fa72e016fee262af2bea1f582503f6ef261e5601.jpg",
+          "brandStage": "C轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "董先生",
+          "bossTitle": "技术专家",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "网络协议",
+            "后端开发",
+            "Spring",
+            "Netty",
+            "SpringBoot",
+            "多线程",
+            "Socket技术",
+            "中间件"
+          ],
+          "welfares": [],
+          "securityId": "ARw3isHCJbRFA-m1sn6BZoXy_7n4nPLP_Atv3a_HXtwp9J4HK2TXKOIkoWfcDQjH0Pl5MGJk",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "深度学习工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "105fPeS8t9T.search.4",
+          "performance": "",
+          "salaryDesc": "30-40K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Python",
+            "TensorFlow/PyTorch",
+            "深度学习神经网络"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "TensorFlow/PyTorch",
+              "highlight": false
+            },
+            {
+              "content": "深度学习神经网络",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "73261c320c3aaa241Xx80927FVVS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "讯盟科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170220/83c96760ca60af2209a0f6f7fa72e016fee262af2bea1f582503f6ef261e5601.jpg",
+          "brandStage": "C轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "吴志勇",
+          "bossTitle": "技术总监",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Python",
+            "TensorFlow/PyTorch",
+            "深度学习神经网络",
+            "人工模型框架"
+          ],
+          "welfares": [],
+          "securityId": "RdJwJi9SVt8ve-r1gVUpMD9snmKVNW1UhXA5CNcHe8QJOdwvdWEYyFHoTUKe5hTgpnQICWXV",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "算法工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "105fPeS8t9T.search.5",
+          "performance": "",
+          "salaryDesc": "30-40K·13薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "Python",
+            "PyTorch",
+            "自然语言处理项目经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "PyTorch",
+              "highlight": false
+            },
+            {
+              "content": "自然语言处理项目经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "bd4dcdc1a4f009b21Xx80924ElZX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "讯盟科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170220/83c96760ca60af2209a0f6f7fa72e016fee262af2bea1f582503f6ef261e5601.jpg",
+          "brandStage": "C轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "吴志勇",
+          "bossTitle": "技术总监",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Python",
+            "PyTorch",
+            "自然语言处理项目经验"
+          ],
+          "welfares": [],
+          "securityId": "KrzWOr_sRy8jQ-V1HhD9ZPcKtRH1LSU__RZxmcWM0_YcgxObo0ZYsBn6zpAvRKuWZfNMF8EG",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "105fPeS8t9T.search.6",
+          "performance": "",
+          "salaryDesc": "15-25K",
+          "jobLabels": [
+            "3-5年",
+            "大专",
+            "前端开发",
+            "Vue"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            },
+            {
+              "content": "Vue",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "f8d5567e01af35d71nx53t29EVFS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "讯盟科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170220/83c96760ca60af2209a0f6f7fa72e016fee262af2bea1f582503f6ef261e5601.jpg",
+          "brandStage": "C轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "杨先生",
+          "bossTitle": "前端",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210903/607f1f3d68754fd0f5e399c5a0f81be361edd18cf987cdfd0d29e9d993d06b73dbcab07dfe0ed370_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "前端开发",
+            "Vue"
+          ],
+          "welfares": [],
+          "securityId": "PPg4ksOVfqQm9-R1bdaC72TwdFQeXy4tRfewdgDWJPzdHX7Y89qVl6mFFozrS4daYabtAp_r",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

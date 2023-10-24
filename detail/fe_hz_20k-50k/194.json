@@ -1,0 +1,138 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "XTyrqgoNBANbF-o1uIgpTlm-q9AWD_Z_bCuWCMEjLSaqBmBdox23KGicVerm0Ch0gcMPUAp4qR_ws22Iy2_xm0TcYKHH_ICbxWcct4IyUcP_G5bIgHVKJe5dgxKqGadAcsmfSSgG",
+    "bossBaseInfoVO": {
+      "encryptBossId": "1ef1ba860eb93e501HR539m5GFE~",
+      "bossId": 30344483,
+      "securityId": "p3fewTTwYfSr_-c1pB46AUqv3hmazRjws0dmbXhE42ngc-_-twAJjcWHfyppdzdx-jkbisv9pIp6cuCfQy7johvGTrY~",
+      "name": "薛纪洪",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220411/607f1f3d68754fd0595907f3beb3530d38be033a269e58cb79a809158270c07ec65c5236106c918a_s.png",
+      "title": "hr",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1680490835000,
+      "bossOnline": false,
+      "brandName": "爱来绳织带",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 42692581,
+      "encryptJobId": "edc8a4659282a2f003Z80t-4GFM~",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "长河",
+      "locationDesc": "杭州·滨江区·长河",
+      "experienceName": "3-5年",
+      "degreeName": "大专",
+      "lowSalary": 18,
+      "highSalary": 23,
+      "jobDesc": "1、根据产品需求和设计完成前端页面代码，实现交互效果\n\n2、与后台工程师协作，完成数据交互、动态信息展现\n\n3、维护及优化网站前端页面执行性能和加载性能，优化前端代码规范\n\n4、能够有效地解决实际开发问题，与后台技术开发保持良好沟通，快速理解、消化各方需求，并落实为具体的开发工作\n\n职位要求：\n\n1、具有扎实的HTML5、CSS3、JS基础，熟悉ES6、LESS、SASS；\n\n2、熟练掌握React、Vue，有实际项目开发经验，熟悉Git开发流程；\n\n3、有微信、支付宝小程序开发经验；\n\n4、熟悉前端的组件化、模块化、自动化开发流程，具备能够独立开发项目的能力；\n\n5、熟悉前端工程的构建发布流程，熟悉常见的构建工具，如webpack、gulp等；\n\n6、具备一定的产品思维，能够提炼需求，提升交互体验；\n\n7、有github项目经验者优先，请附上github或个人博客地址。",
+      "requiredSkills": [
+        "javascript",
+        "vue.js",
+        "react"
+      ],
+      "address": "杭州滨江区研祥科技大厦1903",
+      "longitude": 120.202093,
+      "latitude": 30.182506,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9627a1143e458a3b834082c136d6dbb3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/955ba60610248b7501743f612d574aba",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "18-23K·13薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "57b74c9c3f55c26503J52dm_FA~~",
+      "brandName": "爱来绳织带",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+      "industryName": "批发/零售",
+      "stageName": "",
+      "scaleName": "100-499人",
+      "brandIntroduce": "",
+      "comName": "苍南县爱来绳织带有限公司",
+      "legalPerson": "薛纪丰",
+      "startDate": "2017-10-24",
+      "regCapital": "10万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省温州市苍南县宜山镇南市街110号二层",
+      "businessScope": "销售（含网上销售）：织带、包装绳、箱包、服装、鞋帽。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "",
+      "encryptComId": "1e7f3ad6d32f933e1nN82928FVs~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": null
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

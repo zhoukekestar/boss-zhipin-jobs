@@ -1,0 +1,535 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "waonDv9J1VwDf-j1uQrJ2C5kByf1wxBmyxzbuB2noMGpKJHaRjYKu94jwtLXndwrX4dtGvbvYKBCheyZ6Jh1Mw--4iVKN-JudE9PY3a_fvJD9_AbePc3fDZdl3-hzIWiv-oSLL1ixA~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "fffdb155dcea9cff1HR_29i0ElU~",
+      "bossId": 30505927,
+      "securityId": "ZAlM-DfB38ztY-c1osLMopgM_1lWGr5IW0XkI5DHU76QY1Y9758kBmGLaVdWDG4n5CpIdpZbVtxVTQ3_hpMQTlbnI2HF",
+      "name": "陈先生",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+      "title": "hr",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1682172271000,
+      "bossOnline": false,
+      "brandName": "网易云音乐",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 113283773,
+      "encryptJobId": "b8f6ff5ad1772f071nV52dW-F1VT",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "资深前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "长河",
+      "locationDesc": "杭州·滨江区·长河",
+      "experienceName": "5-10年",
+      "degreeName": "本科",
+      "lowSalary": 18,
+      "highSalary": 30,
+      "jobDesc": "岗位描述\n1、负责或参与各类型项目（Web&Webview、中后台系统、混合应用、小程序、创意活动及游戏）的前端开发工作，完成系统设计、技术选型、模块开发工作。 2、以不断提升质量、效率、体验为目的，封装组件、沉淀文档、生产工具、搭建系统, 享受工程师的日常 3、分享自己日常的所见所想，引导同事共同成长，营造积极健康的技术氛围。\n岗位要求\n1、精通各种Web前端技术和标准(Javascript、HTML、CSS)，熟悉页面布局常用解决方案，对表现与数据分离、Web语义化等有深刻理解。 2、熟练掌握一个数据驱动视图的框架（ React, Angular, Vue...）。 3、熟练掌握常用的前端构建工具（webpack等），并具有成熟的模块化开发思维。 4、熟悉常用前端数据管理的解决方案（如Redux、Mobx等），并清楚它们的优劣和应用场景。 5、熟悉HTTP协议，并掌握相关网络调试工具，有服务端开发的背景常识。 6、对重复性或不规范的工作容忍度低，能自发通过沟通或技术手段解决。",
+      "requiredSkills": [
+        "前端开发",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Vue",
+        "React",
+        "Web端",
+        "小程序"
+      ],
+      "address": "杭州滨江区网易大厦二期网易二期",
+      "longitude": 120.191193,
+      "latitude": 30.185029,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c2a4563e7ad1a9a41bbd1ade938ac852",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6b77ae8e4a4c6bf68a752cfd408bc81a",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "18-30K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "b66325059a31f2b11ndz3Ni5FA~~",
+      "brandName": "网易云音乐",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190705/8c82216aae4f0ecb5e68061bfd2a712f3d9e1585a8da6c8d9d1a069ad0363124_s.jpg",
+      "industryName": "互联网",
+      "stageName": "B轮",
+      "scaleName": "500-999人",
+      "brandIntroduce": "网易 (NASDAQ: NTES)，1997年由丁磊先生在广州创办、2000年在美国NASDAQ股票交易所挂牌上市，是中国领先的互联网技术公司，在开发互联网应用、服务等方面始终保持中国业界领先地位。本着对中国互联网发展强烈的使命感，缔造美好生活的愿景，网易利用最先进的互联网技术，加强人与人之间信息的交流和共享，为海量用户提供优质的产品和服务，始终秉持着\"以匠心、致创新\"的理念，通过科技创新改变生活。\n目前，网易拥有超过21,000名员工，国内主要集中在北京、广州、杭州、上海四地办公，在日本、韩国、澳洲、美国、德国、意大利等地均设有分支机构。自2000年上市以来，网易公司一直保持了财务指标的稳健增长。\n网易是中国领先的互联网公司之一，是全球领先的在线游戏开发与发行公司，也是中国最大的电子邮件服务商，并拥有中国领先的自营品质电商品牌、中国领先的在线音乐平台、在线教育平台、资讯传媒平台，覆盖全中国超过 10 亿用户。\n在线游戏、电商、在线音乐、在线教育和资讯传媒是目前网易的核心战略业务。",
+      "comName": "杭州网易云音乐科技有限公司",
+      "legalPerson": "张栋",
+      "startDate": "2016-05-18",
+      "regCapital": "134900万美元",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市萧山区钱江世纪城奔竞大道353号杭州国际博览中心A座1201室",
+      "businessScope": "一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；货物进出口；票务代理服务；电子产品销售；软件销售；互联网销售（除销售需要许可的商品）；软件开发；计算机软硬件及辅助设备批发；计算机软硬件及辅助设备零售；食品互联网销售（仅销售预包装食品）；广告制作；广告发布；广告设计、代理（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：出版物批发；出版物互联网销售；出版物进口（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "网易 (NASDAQ: NTES)，1997年由丁磊先生在广州创办、2000年在美国NASDAQ股票交易所挂牌上市，是中国领先的互联网技术公司，在开发互联网应用、服务等方面始终保持中国业界领先地位。本着对中国互联网发展强烈的使命感，缔造美好生活的愿景，网易利用最先进的互联网技术，加强人与人之间信息的交流和共享，为海量用户提供优质的产品和服务，始终秉持着\"以匠心、致创新\"的理念，通过科技创新改变生活。\n目前，网易拥有超过21,000名员工，国内主要集中在北京、广州、杭州、上海四地办公，在日本、韩国、澳洲、美国、德国、意大利等地均设有分支机构。自2000年上市以来，网易公司一直保持了财务指标的稳健增长。\n网易是中国领先的互联网公司之一，是全球领先的在线游戏开发与发行公司，也是中国最大的电子邮件服务商，并拥有中国领先的自营品质电商品牌、中国领先的在线音乐平台、在线教育平台、资讯传媒平台，覆盖全中国超过 10 亿用户。\n在线游戏、电商、在线音乐、在线教育和资讯传媒是目前网易的核心战略业务。",
+      "encryptComId": "9657123103be7f350nFy2d-6"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "测试工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": null,
+          "businessName": null,
+          "distance": "",
+          "lid": "100APgafZZz.search.1",
+          "performance": "",
+          "salaryDesc": "20-30K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "测试工程师",
+            "Python",
+            "APP测试"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "测试工程师",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "APP测试",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "3787b95d796514221nV62tu9GVFX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "网易云音乐",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190705/8c82216aae4f0ecb5e68061bfd2a712f3d9e1585a8da6c8d9d1a069ad0363124_s.jpg",
+          "brandStage": "B轮",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "廖林峰",
+          "bossTitle": "高级测试开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201113/3b199cd664b1b49cda9f543fa3d7068f542ff167e991d228eb83e52c359d9af9_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "测试工程师",
+            "Python",
+            "APP测试",
+            "UI自动化测试",
+            "测试开发",
+            "Java",
+            "移动端测试"
+          ],
+          "welfares": [],
+          "securityId": "sPEJWtdI-HSzO-w1s0e4ny7Yz_MWpEjnhgWdqh1TrSN4rqT6lxU6IVbli9FDztN5RIEeueJP",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "资深Java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "100APgafZZz.search.2",
+          "performance": "",
+          "salaryDesc": "25-40K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Java",
+            "分布式技术",
+            "多线程"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "多线程",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "d12ad32c06b552191nV82dW7F1RW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "网易云音乐",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190705/8c82216aae4f0ecb5e68061bfd2a712f3d9e1585a8da6c8d9d1a069ad0363124_s.jpg",
+          "brandStage": "B轮",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "陈先生",
+          "bossTitle": "Java高级研发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180326/c13340df5d4336361b13c09377779e415b554fb5f2afb87b91a18a73d3c7486f_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "分布式技术",
+            "多线程",
+            "网络协议",
+            "负载均衡技术",
+            "网络编程",
+            "后端开发",
+            "架构师"
+          ],
+          "welfares": [],
+          "securityId": "HeAcf3jOhvI3--h1xdFZrZsqOefrtAPnK22M9O1s__8nDY_kjHoL_VBpT088cC1a5DY_rlI~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "资深数据挖掘工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "100APgafZZz.search.3",
+          "performance": "",
+          "salaryDesc": "20-35K·16薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "数据挖掘",
+            "Python",
+            "Java"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "数据挖掘",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "08c7d12c5fdee8de1nZ70927GVRU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "网易云音乐",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190705/8c82216aae4f0ecb5e68061bfd2a712f3d9e1585a8da6c8d9d1a069ad0363124_s.jpg",
+          "brandStage": "B轮",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "陈先生",
+          "bossTitle": "hr",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "数据挖掘",
+            "Python",
+            "Java",
+            "Scala",
+            "分布式技术",
+            "Hadoop",
+            "Spark"
+          ],
+          "welfares": [],
+          "securityId": "JVTSOgJHYV5xs-f1BnIMtshP1dLcND9uU70xiwM9lJhM3kbYeGIsE7q3vybn5bx1fopMO5E~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "资深风控数据挖掘工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "100APgafZZz.search.4",
+          "performance": "",
+          "salaryDesc": "30-40K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "深度学习算法",
+            "SQL",
+            "机器学习算法"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "深度学习算法",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "机器学习算法",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "3185641f14fddc211n1_3dy7GVpR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "网易云音乐",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190705/8c82216aae4f0ecb5e68061bfd2a712f3d9e1585a8da6c8d9d1a069ad0363124_s.jpg",
+          "brandStage": "B轮",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "季先生",
+          "bossTitle": "高级工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210313/0b72f24a956f51d986660a953f46563954f023306d844b88a748f3b6a8e371be_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "深度学习算法",
+            "SQL",
+            "机器学习算法",
+            "Spark",
+            "HIVE",
+            "Flink",
+            "Scala",
+            "Java"
+          ],
+          "welfares": [],
+          "securityId": "8RcOYP62-qOAi-21pDssVF4l8dSGQpyBAenDlQ8w64S4U1CubEEI7-w3J03RmPOWtU3zsbw~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级/资深前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "100APgafZZz.search.5",
+          "performance": "",
+          "salaryDesc": "30-45K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "前端开发",
+            "Node.js",
+            "JavaScript"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            },
+            {
+              "content": "Node.js",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "90f01d73f762ee511nR43d69FVNV",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "网易云音乐",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190705/8c82216aae4f0ecb5e68061bfd2a712f3d9e1585a8da6c8d9d1a069ad0363124_s.jpg",
+          "brandStage": "B轮",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "董健华",
+          "bossTitle": "前端开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "前端开发",
+            "Node.js",
+            "JavaScript",
+            "CSS",
+            "HTML",
+            "TypeScript"
+          ],
+          "welfares": [],
+          "securityId": "_pIA72mtLC0v9-F1S7-lD2q5svehy0rgSjlQMRPfVaS1b7z6zF-98p6GztYQYXSjDAc2QH3u",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

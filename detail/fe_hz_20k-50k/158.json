@@ -1,0 +1,517 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "qRppGK-Jc4fOy-m15anEvIzEI8K7kixpn6rIe6KIu4sGpyl3xoMXNl5w6fSDfOkD4qtdez2N0f0Czm8t5a58xm7FPzCcRIM5p5GwnXHvPKIsZ_WHyRbgbgbhvT0nnzKWJCpRKBeSZA~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "5f5c08af0af0f57503N82t--EFY~",
+      "bossId": 47612304,
+      "securityId": "9bu2WJaXhTYU1-O1mjX6rnWGt_LDorh1UhEYstGaWWQSFRtwsfhoJ92Q0PcTOSNiTh9NQeh4TLU-Jq75oAj8z46g4YjE",
+      "name": "王潇",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221101/607f1f3d68754fd07c88c0ae8f4652f649f243b9170a2c0b53345067786bac6c86d0e8cea8e08dad_s.jpg",
+      "title": "总经理",
+      "activeTimeDesc": "近半年活跃",
+      "activeTime": 1683697062000,
+      "bossOnline": false,
+      "brandName": "谋定智能",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 249016972,
+      "encryptJobId": "e8988636882750c31XBz29y7GVVS",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "高级前端工程师",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "长河",
+      "locationDesc": "杭州·滨江区·长河",
+      "experienceName": "5-10年",
+      "degreeName": "本科",
+      "lowSalary": 17,
+      "highSalary": 30,
+      "jobDesc": "岗位要求：\n1.熟练掌握Vue/React等开源库原理，具有良好编码习惯\n2.对Javascript引擎实现机制、浏览器渲染性能有比较深入的研究\n3.有webpack/nodejs等开发经验优先\n4.有大型项目开发经验者优先\n5.有复杂前端技术方案落地经验优先\n6.善于沟通，有责任心\n招聘条件：\n1.本科以上\n2.5年以上前端工作经验",
+      "requiredSkills": [
+        "JavaScript",
+        "Webpack",
+        "Node.js"
+      ],
+      "address": "杭州滨江区元巢科创园1栋101",
+      "longitude": 120.177231,
+      "latitude": 30.186612,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9790d500a9d327867b43548cb13360ea",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a34eec7fbf8f548573e3ff270067d774",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "17-30K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "fb43a63490eb94073nF43du9Fg~~",
+      "brandName": "谋定智能",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200907/f8c9ef162fe55da6a6fadcdf31c0d46353345067786bac6c86d0e8cea8e08dad_s.jpg",
+      "industryName": "互联网",
+      "stageName": "天使轮",
+      "scaleName": "20-99人",
+      "brandIntroduce": "杭州谋定智能科技有限公司是一家技术驱动型公司，崇尚典型的工程师文化。核心创始人自硅谷留学创业回国后，先后在国内知名芯片设计公司珠海全志科技股份有限公司担任智能硬件产品线产品和技术负责人，浙江绿萌健康科技股份有限公司研发子公司浙江无我科机有限公司负责人。并在获得绿萌健康天使轮融资，杭州市高层次人才项目认定后，创办谋定智能，目前已创办自有共享空间品牌，打造无人值守智能化领域领军团队，并在物联网、SaaS及人工智能领域共同探索。\n公司崇尚工程师文化，坚信技术创造价值，科技改变行业。核心团队积累了丰富的工业物联网，新媒体领域等To B经验。\n谋定智能以服务B端客户，提供一站式智能时代产品开发服务为企业目标，致力于以丰富全面的工程能力与核心技术创造价值。\n欢迎有共同志向的同学加入，我们将为你打造具有成长性的平台，助力你的成长，并与你分享公司的长期收益。",
+      "comName": "杭州谋定智能科技有限公司",
+      "legalPerson": "王潇",
+      "startDate": "2020-07-08",
+      "regCapital": "500万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市钱塘区白杨街道2号大街501号海聚中心2-4层2015室",
+      "businessScope": "一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；人工智能硬件销售；软件销售；人工智能应用软件开发；人工智能公共服务平台技术咨询服务；人工智能理论与算法软件开发；人工智能公共数据平台；人工智能基础软件开发；人工智能行业应用系统集成服务；软件开发；软件外包服务；智能机器人的研发；专业设计服务；信息技术咨询服务；集成电路销售；电子元器件批发；电子产品销售；物联网应用服务；物联网设备销售；租赁服务（不含许可类租赁服务）；信息系统集成服务；计算机系统服务；计算机软硬件及辅助设备零售；计算机软硬件及辅助设备批发；工程和技术研究和试验发展；工程管理服务；工业工程设计服务；数据处理和存储支持服务；工业互联网数据服务；基于云平台的业务外包服务（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "杭州谋定智能科技有限公司是一家技术驱动型公司，崇尚典型的工程师文化。核心创始人自硅谷留学创业回国后，先后在国内知名芯片设计公司珠海全志科技股份有限公司担任智能硬件产品线产品和技术负责人，浙江绿萌健康科技股份有限公司研发子公司浙江无我科机有限公司负责人。并在获得绿萌健康天使轮融资，杭州市高层次人才项目认定后，创办谋定智能，目前已创办自有共享空间品牌，打造无人值守智能化领域领军团队，并在物联网、SaaS及人工智能领域共同探索。\n公司崇尚工程师文化，坚信技术创造价值，科技改变行业。核心团队积累了丰富的工业物联网，新媒体领域等To B经验。\n谋定智能以服务B端客户，提供一站式智能时代产品开发服务为企业目标，致力于以丰富全面的工程能力与核心技术创造价值。\n欢迎有共同志向的同学加入，我们将为你打造具有成长性的平台，助力你的成长，并与你分享公司的长期收益。",
+      "encryptComId": "708a6d614558122d1Xx609S7GVY~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "中级前端工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZUEjxqxdn6.search.1",
+          "performance": "",
+          "salaryDesc": "12-20K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Webpack",
+            "React",
+            "Vue"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Webpack",
+              "highlight": false
+            },
+            {
+              "content": "React",
+              "highlight": false
+            },
+            {
+              "content": "Vue",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "26902727637d53411XBz29y7FVFR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "谋定智能",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200907/f8c9ef162fe55da6a6fadcdf31c0d46353345067786bac6c86d0e8cea8e08dad_s.jpg",
+          "brandStage": "天使轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "王潇",
+          "bossTitle": "总经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221101/607f1f3d68754fd07c88c0ae8f4652f649f243b9170a2c0b53345067786bac6c86d0e8cea8e08dad_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Webpack",
+            "React",
+            "Vue"
+          ],
+          "welfares": [],
+          "securityId": "wP1VHuxJXW5tK-l1UeP4429CwlKJN-xQcFpZmuI0Vl9S6HrGQ4F72_taBCNPIECiZZiisAc~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级java工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZUEjxqxdn6.search.2",
+          "performance": "",
+          "salaryDesc": "17-30K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "Java",
+            "Spring",
+            "Java开发经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            },
+            {
+              "content": "Java开发经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "fa621614270198451XBz09S0EFNQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "谋定智能",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200907/f8c9ef162fe55da6a6fadcdf31c0d46353345067786bac6c86d0e8cea8e08dad_s.jpg",
+          "brandStage": "天使轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "王潇",
+          "bossTitle": "总经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221101/607f1f3d68754fd07c88c0ae8f4652f649f243b9170a2c0b53345067786bac6c86d0e8cea8e08dad_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "Spring",
+            "Java开发经验",
+            "saas"
+          ],
+          "welfares": [],
+          "securityId": "V8CcTtqBlmTnz-A1WdhAG959QJEUa8ekeweCVlYZmm_PNknyRXya22tHTlnqU_twXrQ9GL8~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级java工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZUEjxqxdn6.search.3",
+          "performance": "",
+          "salaryDesc": "18-30K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "后端工程师",
+            "SaaS",
+            "物联网"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "SaaS",
+              "highlight": false
+            },
+            {
+              "content": "物联网",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "5067580c763d7ae11XF50964GVNU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "谋定智能",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200907/f8c9ef162fe55da6a6fadcdf31c0d46353345067786bac6c86d0e8cea8e08dad_s.jpg",
+          "brandStage": "天使轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "兰女士",
+          "bossTitle": "人事主管",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200805/82420242267d6908b1b0479b98c913b5a82c2ddc91747d094017bfcd196ba91a_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "SaaS",
+            "物联网",
+            "可用性系统设计开发"
+          ],
+          "welfares": [],
+          "securityId": "giXO7Siu86Lwr-c1ANqS3QniCMJ7aXrI-1gEemmbivEVuDill5aicVjZeISfZL8YBN3B27g~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "中级java工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZUEjxqxdn6.search.4",
+          "performance": "",
+          "salaryDesc": "12-19K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Java",
+            "Spring",
+            "Java开发经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            },
+            {
+              "content": "Java开发经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "fde754917cbb4d431XBz09S1FVpW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "谋定智能",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200907/f8c9ef162fe55da6a6fadcdf31c0d46353345067786bac6c86d0e8cea8e08dad_s.jpg",
+          "brandStage": "天使轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "王潇",
+          "bossTitle": "总经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221101/607f1f3d68754fd07c88c0ae8f4652f649f243b9170a2c0b53345067786bac6c86d0e8cea8e08dad_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "Spring",
+            "Java开发经验",
+            "计算机/软件工程相关经验",
+            "saas"
+          ],
+          "welfares": [],
+          "securityId": "KDW6YtYVD12BU-01N6xH5OLEqK3pmkEW3Gka8v6p6-ppQ0PtrhBlXAaNVUJrui0MT_udd1Q~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "中级Java 周末双休 弹性工作",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": null,
+          "businessName": null,
+          "distance": "",
+          "lid": "ZUEjxqxdn6.search.5",
+          "performance": "",
+          "salaryDesc": "13-18K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "后端工程师",
+            "Java",
+            "Redis"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Redis",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "b5c8e59eac7109271HR90t6_E1tS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "谋定智能",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200907/f8c9ef162fe55da6a6fadcdf31c0d46353345067786bac6c86d0e8cea8e08dad_s.jpg",
+          "brandStage": "天使轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "唐明",
+          "bossTitle": "技术负责人",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210817/393991da1f498817d8af987be9016bfea7f6e9cde1356ea3b2d31db4cb2315ce_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "Java",
+            "Redis",
+            "MySQL",
+            "Java开发经验",
+            "分布式系统开发经验",
+            "不接受居家办公"
+          ],
+          "welfares": [],
+          "securityId": "lchuVSsPFClRT--1s4KSliUzetYUXwOSZ4D05ln3My3ZI77gXOobopzQt5uESA5GAJn58qCF",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

@@ -1,0 +1,533 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "GmI87XHzxyBk9-L1ggDFucCmGp8wVPdYT3QsXb7M2tOaqURyCcqqWxG91WQ5RYzWyxJf7XunolgLNuOo20kxCY0V57lRYIXQGpMe-ARcSUbyfXZrRfvx4uuUrFoXJfA3F7nVH5dR",
+    "bossBaseInfoVO": {
+      "encryptBossId": "56b3a0db578757c60nV82ti7Fls~",
+      "bossId": 51615669,
+      "securityId": "ZBN4dV5uDrtPp-v1TsAax-PLBaLpcvRrd9Uri5R3YELfq5sjzIWPqM_SDm-u6fb2kazkP3oBpLbsQRuhQVlLcfGOJAFy",
+      "name": "张定勇",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190127/715bf964e39bcad7cacf13da6a865366cfcd208495d565ef66e7dff9f98764da_s.jpg",
+      "title": "前端主管",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1650498376000,
+      "bossOnline": false,
+      "brandName": "米雅科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 152789460,
+      "encryptJobId": "b8ccf5068d1aa4981nF43NW0FFRQ",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "长河",
+      "locationDesc": "杭州·滨江区·长河",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 25,
+      "jobDesc": "职位描述\n1、负责在线零售方向B端和C端研发；\n2、配合交互设计师及视觉设计师实现交互效果，配合后台工程师完成应用开发；\n3、负责前端基础架构、组件抽象。\n职位要求\n1、本科及以上学历，计算机、通信等相关专业；\n2、熟练掌握JavaScript、CSS、HTML，及动画、协议、安全、网络、性能优化、webpack、微前端，typescript、单元测试等前端技术，对主流前端框架（ React \\ Vue \\ Angular等）至少一种有深入应用并深入理解其设计原理；\n4、有小程序开发经验优先；\n5、有vuejs开发经验优先；\n6、对用户体验、交互操作流程、及用户需求有一定了解；\n7、具备良好的服务意识、责任心、较强的学习能力、优秀的团队沟通与协作能力。",
+      "requiredSkills": [
+        "前端开发",
+        "WEB开发",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "Vue.js"
+      ],
+      "address": "杭州滨江区英飞特大厦B座b座1101",
+      "longitude": 120.201511,
+      "latitude": 30.184545,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4c520c9ece00aacd481c8a8e1e658fea",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e19a07d7d8ac47d281348dbf214c31d4",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-25K·13薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "599f316e50481d5803d62Ny6",
+      "brandName": "米雅科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/bar/20200402/44115314162a93fd03a9068fafc78568be1bd4a3bd2a63f070bdbdada9aad826.jpg",
+      "industryName": "移动互联网",
+      "stageName": "A轮",
+      "scaleName": "100-499人",
+      "brandIntroduce": "Q：米雅的创立？\nA：2014年，零售行业资深专家杨德宏博士在硅谷考察时，发现当时还属于新事物的“二维码”在硅谷引发的热潮，嗅到商机的他回国后，与志同道合的小伙伴们共同创立了米雅。\n\n\nQ：米雅的业务？\nA：杨博士从业20余年，深刻体会到科技给品牌商、零售商、购物者带来的高效与便捷，于是，米雅的使命，就是通过科技手段创造三者三赢的“幸福消费”。\n       从前期将二维码应用到移动聚合支付场景，让零售商支付变得更简单；到中期将APP、小程序应用到品牌商营销场景、零售商到店到家等场景，让品牌商、零售商业务玩法更丰富、营业范围更广、顾客体验更好；再到近期开发的AI智能营销产品，帮助品牌商、零售商玩转私域流量，充分挖掘自有数据价值，实现智能营销的闭环，三个阶段从IT技术到移动互联网技术，再到大数据AI技术，米雅团队不忘初心，始终坚持用科技的力量给B端客户和C端用户创造“幸福消费”。\n\n\nQ：米雅现状？\nA：5年，米雅已发展成200余人团队，“程序猿”近半。在杭州、北京、武汉有office。\n      米雅已是众多500强品牌商的数字营销服务商，与中国近50家零售百强、逾1200家零售商长期合作，覆盖超14万门店，近千万笔日交易，活跃购物者超3亿，2019年GMV近1500亿元，连续5年盈利。\n      可口可乐、蒙牛、伊利、玛氏等品牌，沃尔玛、华润万家、永辉、永旺、711、罗森等零售商，良品铺子、周黑鸭、来伊份、紫燕等休闲食品，耐克、优衣库、UR服饰、全棉时代等服饰大牌，均与米雅开展各类合作，米雅还获得了阿里亿元投资。\n       荣誉方面，米雅获得了国家高新技术企业、浙江省高成长科技型中小企业、杭州市瞪羚企业等称号，并凭借聚合支付和数字营销获得CHINASHOP金翼奖、中国零售技术应用大会年度杰出技术方案奖、2019“蓝莲花”杯中国零售业会员营销优秀方案奖等众多奖项。\n\n\nQ：米雅前景？\nA：疫情期间，米雅专注服务好承担“民生保障”责任的零售客户，并开发出“到家自提”小程序免费给客户使用，减少接触，获得央视报道并点赞。\n       后疫情时代，米雅确立了“100亿米雅”的发展目标和“AI Enabled SaaS”的战略发展方向，集中全力发展大数据AI技术和 SaaS数据产品，继续拓展快消、母婴、服装、生鲜、休闲食品等行业客户，进一步巩固行业领先地位，继续努力创新和验证创造“幸福消费”的产品，稳步做大做强。\n      优秀的公司离不开优秀的人才，米雅一方面激励每一位米雅人“放弃优秀、追求卓越”、“让创新和改变成为一种习惯”，另一方面诚挚邀请对新零售业务、对米雅感兴趣的小伙伴们加入米雅，共同打造“幸福经济航母”。",
+      "comName": "杭州米雅信息科技有限公司",
+      "legalPerson": "冯越海",
+      "startDate": "2014-05-04",
+      "regCapital": "2625万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市滨江区长河街道江虹路459号1号楼B座1101室",
+      "businessScope": "一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；计算机软硬件及辅助设备批发；信息系统集成服务；信息技术咨询服务；软件开发；互联网销售（除销售需要许可的商品）；信息咨询服务（不含许可类信息咨询服务）；市场营销策划；企业管理咨询；会议及展览服务；工程和技术研究和试验发展；日用百货销售；移动终端设备销售；日用木制品销售；日用品销售；个人卫生用品销售；农副产品销售；竹制品销售；办公用品销售；日用杂品销售；食品经营（仅销售预包装食品）；办公设备耗材销售；化妆品批发；针纺织品销售；服装服饰批发；箱包销售；家居用品销售；玩具、动漫及游艺用品销售；网络设备销售；电子产品销售；广告制作；广告设计、代理；平面设计；广告发布（非广播电台、电视台、报刊出版单位）；广告发布（广播电台、电视台、报刊出版单位）（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "Q：米雅的创立？\nA：2014年，零售行业资深专家杨德宏博士在硅谷考察时，发现当时还属于新事物的“二维码”在硅谷引发的热潮，嗅到商机的他回国后，与志同道合的小伙伴们共同创立了米雅。\n\n\nQ：米雅的业务？\nA：杨博士从业20余年，深刻体会到科技给品牌商、零售商、购物者带来的高效与便捷，于是，米雅的使命，就是通过科技手段创造三者三赢的“幸福消费”。\n       从前期将二维码应用到移动聚合支付场景，让零售商支付变得更简单；到中期将APP、小程序应用到品牌商营销场景、零售商到店到家等场景，让品牌商、零售商业务玩法更丰富、营业范围更广、顾客体验更好；再到近期开发的AI智能营销产品，帮助品牌商、零售商玩转私域流量，充分挖掘自有数据价值，实现智能营销的闭环，三个阶段从IT技术到移动互联网技术，再到大数据AI技术，米雅团队不忘初心，始终坚持用科技的力量给B端客户和C端用户创造“幸福消费”。\n\n\nQ：米雅现状？\nA：5年，米雅已发展成200余人团队，“程序猿”近半。在杭州、北京、武汉有office。\n      米雅已是众多500强品牌商的数字营销服务商，与中国近50家零售百强、逾1200家零售商长期合作，覆盖超14万门店，近千万笔日交易，活跃购物者超3亿，2019年GMV近1500亿元，连续5年盈利。\n      可口可乐、蒙牛、伊利、玛氏等品牌，沃尔玛、华润万家、永辉、永旺、711、罗森等零售商，良品铺子、周黑鸭、来伊份、紫燕等休闲食品，耐克、优衣库、UR服饰、全棉时代等服饰大牌，均与米雅开展各类合作，米雅还获得了阿里亿元投资。\n       荣誉方面，米雅获得了国家高新技术企业、浙江省高成长科技型中小企业、杭州市瞪羚企业等称号，并凭借聚合支付和数字营销获得CHINASHOP金翼奖、中国零售技术应用大会年度杰出技术方案奖、2019“蓝莲花”杯中国零售业会员营销优秀方案奖等众多奖项。\n\n\nQ：米雅前景？\nA：疫情期间，米雅专注服务好承担“民生保障”责任的零售客户，并开发出“到家自提”小程序免费给客户使用，减少接触，获得央视报道并点赞。\n       后疫情时代，米雅确立了“100亿米雅”的发展目标和“AI Enabled SaaS”的战略发展方向，集中全力发展大数据AI技术和 SaaS数据产品，继续拓展快消、母婴、服装、生鲜、休闲食品等行业客户，进一步巩固行业领先地位，继续努力创新和验证创造“幸福消费”的产品，稳步做大做强。\n      优秀的公司离不开优秀的人才，米雅一方面激励每一位米雅人“放弃优秀、追求卓越”、“让创新和改变成为一种习惯”，另一方面诚挚邀请对新零售业务、对米雅感兴趣的小伙伴们加入米雅，共同打造“幸福经济航母”。",
+      "encryptComId": "39035acaf6abbb810Hd_3Nm0"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "运维工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZTsqXVPq3J.search.1",
+          "performance": "",
+          "salaryDesc": "15-22K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Jenkins",
+            "Shell",
+            "云平台运维"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Jenkins",
+              "highlight": false
+            },
+            {
+              "content": "Shell",
+              "highlight": false
+            },
+            {
+              "content": "云平台运维",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "47d79025c9017a511nF809m-E1ZS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "米雅科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/20200402/44115314162a93fd03a9068fafc78568be1bd4a3bd2a63f070bdbdada9aad826.jpg",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "江维顺",
+          "bossTitle": "运维主管",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Jenkins",
+            "Shell",
+            "云平台运维",
+            "Ansible/Salt/Puppet",
+            "Linux",
+            "系统运维",
+            "运维工程师",
+            "服务器配置",
+            "Python/Shell",
+            "运维经验",
+            "Kubernetes",
+            "Python"
+          ],
+          "welfares": [],
+          "securityId": "eXgujZipFd4Gi-Y1obW2ZOja-Te3eAKJgtUxv2CsEddQjN0NGiHkOXXqgUSdZu6Yz-X8ADg~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "实施顾问",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZTsqXVPq3J.search.2",
+          "performance": "",
+          "salaryDesc": "15-20K·13薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "实施工程师/顾问",
+            "软件实施",
+            "项目实施"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "实施工程师/顾问",
+              "highlight": false
+            },
+            {
+              "content": "软件实施",
+              "highlight": false
+            },
+            {
+              "content": "项目实施",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "506b87567b1e31a51nJ93ty-EVJZ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "米雅科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/20200402/44115314162a93fd03a9068fafc78568be1bd4a3bd2a63f070bdbdada9aad826.jpg",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "李旭云",
+          "bossTitle": "服务经理",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "实施工程师/顾问",
+            "软件实施",
+            "项目实施",
+            "项目管理"
+          ],
+          "welfares": [],
+          "securityId": "Zve5-Xc9y1r1N-c1M3BH4bl-Ympj85cCaaz8rO4wNbGd_LABmJ4EFb2qsZ9nsGpcnjuZoDiS",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "项目经理",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZTsqXVPq3J.search.3",
+          "performance": "",
+          "salaryDesc": "15-20K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "售前支持",
+            "售后支持",
+            "软件实施"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "售前支持",
+              "highlight": false
+            },
+            {
+              "content": "售后支持",
+              "highlight": false
+            },
+            {
+              "content": "软件实施",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "be9d61400edadd691n1-2du7FlVW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "米雅科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/20200402/44115314162a93fd03a9068fafc78568be1bd4a3bd2a63f070bdbdada9aad826.jpg",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "白玉斌",
+          "bossTitle": "项目经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191118/156448cbdc23dd3ccf40123baed48107d714ad42087e60853e574a5fa3a37169_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "售前支持",
+            "售后支持",
+            "软件实施"
+          ],
+          "welfares": [],
+          "securityId": "KDogKnJ14Duel-21EpPvGZ1uMWoxX-_SQ23ZXAN5aPzBum7SB2kK4Ue5n_7OHwlY5QF7Sw8~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "数据挖掘工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZTsqXVPq3J.search.4",
+          "performance": "",
+          "salaryDesc": "18-28K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Python",
+            "SQL",
+            "深度学习算法"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "深度学习算法",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "830751b22ca274f21nF62d-7FFpW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "米雅科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/20200402/44115314162a93fd03a9068fafc78568be1bd4a3bd2a63f070bdbdada9aad826.jpg",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "吴方涛",
+          "bossTitle": "数据挖掘工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171115/005bd600f11ff21af5cd291a9119c1528f07565d4b2950518ee0e3073392fca2_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Python",
+            "SQL",
+            "深度学习算法",
+            "机器学习算法",
+            "HIVE",
+            "自然语言处理",
+            "Spark"
+          ],
+          "welfares": [],
+          "securityId": "VO5oVVcyyigm7-k12WVUBGsZxRKEh5LJFcSyJ9WdT9V8vhW1jaQiWL1oditZJOgFYqVMb3U~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZTsqXVPq3J.search.5",
+          "performance": "",
+          "salaryDesc": "13-17K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "多线程",
+            "负载均衡技术",
+            "SSH"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "多线程",
+              "highlight": false
+            },
+            {
+              "content": "负载均衡技术",
+              "highlight": false
+            },
+            {
+              "content": "SSH",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "48aa9fd9bf11dcf61nJ_2d69FFVS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "米雅科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/20200402/44115314162a93fd03a9068fafc78568be1bd4a3bd2a63f070bdbdada9aad826.jpg",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "成晓明",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "多线程",
+            "负载均衡技术",
+            "SSH",
+            "MySQL",
+            "Redis",
+            "后端开发",
+            "WEB开发",
+            "软件工程师"
+          ],
+          "welfares": [],
+          "securityId": "R3FpUcAh2GTTg-81kpddLuNIt2X9vsnW8tW39WpBvBBMwEdnLdB-DLlnGDjIpH-I7JNrTvjL",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

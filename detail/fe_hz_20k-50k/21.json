@@ -1,0 +1,281 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "O9wN9iolEh046-t1z8WJrtjHvU_RM-UNO-Vkhn1x58BvyRM0aLU-yvLrJPvABkxc86pcXeK9rFYiSsNuMr8Upua31Jz-mkIgl_k83dzzc-_ve2qwBmSt2_uq-ZF4ojThLuwnXHg0o0c~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "7b065d4a2909232e1XJ53d20GVc~",
+      "bossId": 26360995,
+      "securityId": "7V-iiH4wZhvJJ-f1hOybF7hoJsi6bMQRRgsS4q_wZyN1peo15PpQnZkjzZ-V6l5QTISyIvk2LtdktKqaASlW86MtdR-i",
+      "name": "郭女士",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181126/74dd6056a212e08a97d98d58598fcf0931b466e993ef2cf3f369f5b77ffd22ec_s.jpg",
+      "title": "招聘经理",
+      "activeTimeDesc": "刚刚活跃",
+      "activeTime": 1698143220114,
+      "bossOnline": false,
+      "brandName": "特雷西",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 251520310,
+      "encryptJobId": "867bfc3904b66e971XF73t-9E1NQ",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端开发",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "上城区",
+      "businessDistrict": "三堡",
+      "locationDesc": "杭州·上城区·三堡",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 25,
+      "jobDesc": "岗位职责：\n1、 负责产品前端 web 开发； \n2、 负责 产品前端内 H5 页面开发； \n3、 探索高效前端开发模式，参与中后台低代码平台建设，并沉淀业务物料、组件； \n4、 参与平台技术基础能力建设，保障系统性能与质量，提升用户体验 \n招聘条件：\n\n2. 统招本科及以上学历，2-3年以上开发工作经验；\n3.熟悉vue3，熟练掌握MVVM框架；\n4.精通javascript，CSS，HTML5等；\n5.熟悉AJAX原理，熟悉HTTP协议应用；\n6.对常见 Web 性能优化，安全问题有一定认识； \n7.对交互、体验有一定经验和心得，具备架构理解、设计能力；  \n9.有石油勘探开发领域的经验优先",
+      "requiredSkills": [
+        "Vue"
+      ],
+      "address": "杭州上城区中天钱塘银座11层",
+      "longitude": 120.231582,
+      "latitude": 30.265656,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6c6487c9f86e9bae3e7da329c93afa66",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e332e9c1036f102041836ee3429cf305",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-25K·14薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "6bdf60103e3475621XF_0926Fls~",
+      "brandName": "特雷西",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "industryName": "石油/石化",
+      "stageName": "B轮",
+      "scaleName": "20-99人",
+      "brandIntroduce": "特雷西专注于石油天然气勘探开发过程中地质-油藏-工程全流程一体化、智能化软件的研发与技术服务，提供数字孪生级别“智能油藏”软件系统的定制研发、整体部署与运行维护。在高精度裂缝建模、超大规模油藏模拟、智能油藏大数据等方面获得了多项发明专利、软件著作权和科技进步奖项。\n自主研发完成的商业级软件产品，销售并应用到国内外40多家石油公司和科研院所。近年来结合人工智能算法提出了“数据+物理”新模型算法及解决方案，实现了建模数模一体化与大数据技术的深度融合，在国内外超过200个复杂及非常规油气藏实现了独特、有效的应用。",
+      "comName": "特雷西能源科技股份有限公司",
+      "legalPerson": "龚斌",
+      "startDate": "2013-04-02",
+      "regCapital": "5000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市上城区红普路788号创智绿谷发展中心6幢125室",
+      "businessScope": "石油天然气能源勘探开发相关硬件设备及应用软件研发、技术咨询、技术服务、技术转让；人工智能技术研发；油气开采技术研发；石油天然气能源勘探开发相关仪器设备及应用软件销售、租赁、测试；石油天然气能源勘探开发相关实验及测试化验分析；翻译服务；能源技术及管理培训；自营和代理各类商品和技术的进出口业务（国家限定企业经营的商品或服务除外）。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "特雷西专注于石油天然气勘探开发过程中地质-油藏-工程全流程一体化、智能化软件的研发与技术服务，提供数字孪生级别“智能油藏”软件系统的定制研发、整体部署与运行维护。在高精度裂缝建模、超大规模油藏模拟、智能油藏大数据等方面获得了多项发明专利、软件著作权和科技进步奖项。\n自主研发完成的商业级软件产品，销售并应用到国内外40多家石油公司和科研院所。近年来结合人工智能算法提出了“数据+物理”新模型算法及解决方案，实现了建模数模一体化与大数据技术的深度融合，在国内外超过200个复杂及非常规油气藏实现了独特、有效的应用。",
+      "encryptComId": "a902ee48d29a11911Hx83N-6GFo~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "WPF工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "上城区",
+          "businessName": "三堡",
+          "distance": "",
+          "lid": "108DUVaWJWE.search.1",
+          "performance": "",
+          "salaryDesc": "18-30K·14薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "C#",
+            "计算机相关专业"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "C#",
+              "highlight": false
+            },
+            {
+              "content": "计算机相关专业",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "65733e781ed8a12b1HV439u-FVdS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "特雷西",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "B轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "郭女士",
+          "bossTitle": "招聘经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181126/74dd6056a212e08a97d98d58598fcf0931b466e993ef2cf3f369f5b77ffd22ec_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "C#",
+            "计算机相关专业"
+          ],
+          "welfares": [],
+          "securityId": "pqNY0SswoKdJ9--1xxwtY6wmNTV-UY4lHB8qFXoHE5lofyUNcUxyzI0RiMkKaP16Ax7p-Vc~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "java高级工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "上城区",
+          "businessName": "三堡",
+          "distance": "",
+          "lid": "108DUVaWJWE.search.3",
+          "performance": "",
+          "salaryDesc": "15-25K·14薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "大数据处理经验",
+            "Java",
+            "Spark"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "大数据处理经验",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Spark",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "1ac0c93da9be24f51XF53N66GVBU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "特雷西",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "B轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "郭女士",
+          "bossTitle": "招聘经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181126/74dd6056a212e08a97d98d58598fcf0931b466e993ef2cf3f369f5b77ffd22ec_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "大数据处理经验",
+            "Java",
+            "Spark",
+            "Hbase",
+            "hive"
+          ],
+          "welfares": [],
+          "securityId": "Oqsrat2FSj3Zv-R1PgO0N7FN4ox4EonLH5-KiIn14BmgjsIf59vtGZAyihXjU9KPLCEe3es~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

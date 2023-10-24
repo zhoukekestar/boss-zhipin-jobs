@@ -1,0 +1,521 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "7OX4sJkkwmkDJ-W1WPVMsrSCuMAsd2yxE2U_cv5nbLp_n4yh8R83e3ZedgBQoPkdHTcnOhrvuWlrmSJU750kpYrS0JltS_LqcQemCvB_YNyp5muDxxmCGUNoCTc73hdMkwYI",
+    "bossBaseInfoVO": {
+      "encryptBossId": "e02d9378f82826c61HN-39W6GVY~",
+      "bossId": 37448794,
+      "securityId": "-zi6zoMFLIqrk-V1Ar9jHQE76c_Pv2yGi3c37Ab9oYfk8i-szn69D_bbkYLHmVhovIRF5UIA9fYa2P4cd27ZUkZy1-M~",
+      "name": "龙江",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180414/35e2f6178afefed62e770bfbe468e9a66e4ff5febada40f12026396a049339b3_s.jpg",
+      "title": "数据中台总架构师",
+      "activeTimeDesc": "3月内活跃",
+      "activeTime": 1691592807000,
+      "bossOnline": false,
+      "brandName": "华为",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 34441832,
+      "encryptJobId": "ed8653743cb27ec61HB-39y1E1A~",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "DLV产品前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "长河",
+      "locationDesc": "杭州·滨江区·长河",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "lowSalary": 13,
+      "highSalary": 26,
+      "jobDesc": "1、计算机基础良好,熟悉常用的数据结构与算法\n\n2、熟悉HTML、CSS、JavaScript、Ajax等常用Web技术,了解W3C标准\n\n3、具备强烈的进取心和责任感,有较强的学习能力和探索精神,面对压力敢于迎难而上\n\n4、有较强的逻辑思维能力和表达能力,有良好的团队合作精神\n\n5、有React/Vue/Angular等单页应用开发经验、开源项目经验者优先",
+      "requiredSkills": [
+        "JavaScript",
+        "Vue",
+        "React",
+        "Web端",
+        "PC端",
+        "移动端",
+        "Linux"
+      ],
+      "address": "杭州滨江区华为技术有限公司杭州研究所",
+      "longitude": 120.203909,
+      "latitude": 30.184684,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/14ffc2797d009ee65c87458c8e97c44e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b65225fdc1e33a26085c37c8026a7924",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "13-26K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "02cd05cce753437e33V50w~~",
+      "brandName": "华为",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200429/8f64c9d0b30a53c434b26799ca78966cec9b49ecaf1604cb263748f03d5c2b0f.png",
+      "industryName": "计算机软件",
+      "stageName": "不需要融资",
+      "scaleName": "10000人以上",
+      "brandIntroduce": "华为创立于1987年，是全球领先的ICT（信息与通信）基础设施和智能终端提供商，我们致力于把数字世界带入每个人、每个家庭、每个组织，构建万物互联的智能世界：让无处不在的联接，成为人人平等的权利；为世界提供最强算力，让云无处不在，让智能无所不及；所有的行业和组织，因强大的数字平台而变得敏捷、高效、生机勃勃；通过AI重新定义体验，让消费者在家居、办公、出行等全场景获得极致的个性化体验。目前华为约有19.4万员工，业务遍及170多个国家和地区，服务30多亿人口。",
+      "comName": "华为技术有限公司杭州研究所",
+      "legalPerson": "陈锟",
+      "startDate": "2000-10-10",
+      "regCapital": "-",
+      "statusDesc": "存续",
+      "regAddress": "杭州市滨江区长河街道江虹路410号4幢",
+      "businessScope": "技术开发、技术服务、技术咨询：微电子产品，通信设备；销售：微电子产品，通信设备。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "华为创立于1987年，是全球领先的ICT（信息与通信）基础设施和智能终端提供商，我们致力于把数字世界带入每个人、每个家庭、每个组织，构建万物互联的智能世界：让无处不在的联接，成为人人平等的权利；为世界提供最强算力，让云无处不在，让智能无所不及；所有的行业和组织，因强大的数字平台而变得敏捷、高效、生机勃勃；通过AI重新定义体验，让消费者在家居、办公、出行等全场景获得极致的个性化体验。目前华为约有19.4万员工，业务遍及170多个国家和地区，服务30多亿人口。",
+      "encryptComId": "2f7c695ecad52bf00nx82tW7"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "区块链后端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZRQxADviQl.search.1",
+          "performance": "",
+          "salaryDesc": "15-30K·14薪",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "Golang",
+            "Java",
+            "Golang服务端开发经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Golang",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Golang服务端开发经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "9614274d5d2d27471HV-2dy-EFBU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "华为",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200429/8f64c9d0b30a53c434b26799ca78966cec9b49ecaf1604cb263748f03d5c2b0f.png",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "吕小川",
+          "bossTitle": "区块链开发项目经理",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Golang",
+            "Java",
+            "Golang服务端开发经验",
+            "中大型项目开发经验",
+            "计算机相关专业"
+          ],
+          "welfares": [],
+          "securityId": "zHneXThZQwSq6-j1YOomVoMYZvRN5XhCub0eQnX4yOzeAqMZ3UDgQv9o0Xdk7wFl0fgF2iK1",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Android高级开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZRQxADviQl.search.2",
+          "performance": "",
+          "salaryDesc": "18-20K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Java",
+            "SDK",
+            "AndroidStudio"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "SDK",
+              "highlight": false
+            },
+            {
+              "content": "AndroidStudio",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "9e17b6023bfdef291XV43N6_GFVQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "华为",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200429/8f64c9d0b30a53c434b26799ca78966cec9b49ecaf1604cb263748f03d5c2b0f.png",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "黄奔豪",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "SDK",
+            "AndroidStudio",
+            "Gradle",
+            "MVC",
+            "MVVM",
+            "音视频编解码",
+            "网络协议"
+          ],
+          "welfares": [],
+          "securityId": "59IBoO9yO2TBU-i1LnKOkt60dRduYwu2tE2MjFmpGQRYIdcp0nTjAr0SVCloaYOf7g4Rlfo~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "软件开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZRQxADviQl.search.3",
+          "performance": "",
+          "salaryDesc": "300-350元/天",
+          "jobLabels": [
+            "5天/周",
+            "3个月",
+            "本科",
+            "数据结构",
+            "计算机软件"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5天/周",
+              "highlight": false
+            },
+            {
+              "content": "3个月",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "数据结构",
+              "highlight": false
+            },
+            {
+              "content": "计算机软件",
+              "highlight": false
+            }
+          ],
+          "jobType": 4,
+          "encryptJobId": "4659311dd9af5f711nZ73d2-EVNX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "华为",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200429/8f64c9d0b30a53c434b26799ca78966cec9b49ecaf1604cb263748f03d5c2b0f.png",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "杨佳鑫",
+          "bossTitle": "软件开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220525/607f1f3d68754fd09637daf42c7d3235c4261bbd144719360828c0374f343939e4547578fb6082b9_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "数据结构",
+            "计算机软件",
+            "编译原理"
+          ],
+          "welfares": [],
+          "securityId": "KNrIdAY2Nb_oU-n1ZCMMhpyJnVzsu5qe_tMSSRapfI-g2pvwWL8K0Vp3LZTA5mCJG7AryFEZ",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "华为云AI平台开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZRQxADviQl.search.4",
+          "performance": "",
+          "salaryDesc": "16-30K·15薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "Java",
+            "Python",
+            "Shell"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "Shell",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "ba90b51e1a054a721nV-2du7E1RT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "华为",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200429/8f64c9d0b30a53c434b26799ca78966cec9b49ecaf1604cb263748f03d5c2b0f.png",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "陈先生",
+          "bossTitle": "研发",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "Python",
+            "Shell"
+          ],
+          "welfares": [],
+          "securityId": "TvXMod1WGZFLA-I13RtBebxJhkGMAUD4lC3GEGiRcO-U0LY24sa7CAUsHUL61AILMzp-EzQK",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级测试开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZRQxADviQl.search.5",
+          "performance": "",
+          "salaryDesc": "11-22K",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "Java",
+            "Python",
+            "Shell"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "Shell",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "4871cfc3bbc0cea31XR83ti8FlBU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "华为",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200429/8f64c9d0b30a53c434b26799ca78966cec9b49ecaf1604cb263748f03d5c2b0f.png",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "肖先生",
+          "bossTitle": "招聘HR",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "Python",
+            "Shell",
+            "测试开发"
+          ],
+          "welfares": [],
+          "securityId": "xUHOvKZbhlJeD-H1yNS8DiW9BBpUFGdlC7lL2H5-KFFCRafx6SCSdjnQFycfRSxwJWNviDx1",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

@@ -1,0 +1,507 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "x96p3i-HfUeE2-41tAShyA5-VIGEb-DKVf5GO4xyYRsBT2POhqg03Czxg9jXAJBHt5TV9ZzDYBXQmkKUXlu3jIow0fYvkaujKp_Fn1ZcJE7s_E_KiNrqiV5DQKS9LOuC3ltP8AAk_Q~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "bcc5a404e0015ce31XR_0tm7GVQ~",
+      "bossId": 20594696,
+      "securityId": "vZ3HbfzNi8Q5q-E1SiutwgDBv3wLmcAcTNMRq9AcprlYGfG86u0RWS2iI-ocCy3E3yaQthvXWJTnuyLgeNkqnv1-1SmM",
+      "name": "郑女士",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200604/115587b1a881f2ec291d8f3c0755c0b2b0f6d303b058e51c4627c687609d57ca_s.png",
+      "title": "HR",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1615367904000,
+      "bossOnline": false,
+      "brandName": "永旗区块链科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 114336497,
+      "encryptJobId": "3a280458a873b1221nV-2N67FFtX",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "留下",
+      "locationDesc": "杭州·西湖区·留下",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 25,
+      "jobDesc": "工作内容：\r\n1. 负责研究和开发前web3前端代码\r\n2. 解构类uniswap等去中心化交易协议的前端调用逻辑\r\n3. 参与新的去中心化交易平台建设\r\n\r\n任职要求\r\n1.熟练对接web3 如(metamask) 一定要有实际工作经验\r\n2.具有 3 年及以上的前端开发经验。\r\n3.具备前端系统架构能力，兼顾工程质量和开发效率。\r\n4.熟悉并掌握至少一种主流前端框架（例如：Angular.js、React、Vue、Redux、Ember.js、RxJS）及开发流程。\r\n5.能够熟练且高标准的还原设计稿以及响应式页面。\r\n6.拥有解决手机端兼容性问题的经验。\r\n7.可以无障碍阅读英文技术文档。\r\n\r\n加分项\r\n1. 熟悉 Bitcoin、Ethereum 等开源区块链技术\r\n2. 熟悉 Defi 生态以及技术细节。\r\n3.参与过区块链相关的开源项目，或者有区块链相关工作经验。\n4 .熟悉敏捷开发，认同并实践 TDD",
+      "requiredSkills": [
+        "前端开发",
+        "区块链",
+        "WEB开发",
+        "Vue"
+      ],
+      "address": "杭州西湖区润龙·西溪文创园西溪明园13幢一楼大厅",
+      "longitude": 120.065581,
+      "latitude": 30.246511,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e789be8b810959e13fc8afa9708a1103",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ce179ca807227aa96b6fcc995969db21",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-25K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "491b8c30aa8c1f901X152tu4GQ~~",
+      "brandName": "永旗区块链科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200111/12c4c665fcc335df36fd6a58f5d12aa5128a036e9c66faa03c7ab785e40e4322.jpg",
+      "industryName": "计算机软件",
+      "stageName": "天使轮",
+      "scaleName": "100-499人",
+      "brandIntroduce": "VBH永旗超级账本全称浙江永旗区块链科技有限公司，项目创立于2017年6月6日，于2018年7月作为政府重大引进项目引入杭州市，并于9月19日云栖大会现场签约，成立了浙江永旗区块链科技有限公司，近三年来，永旗一直致力于打造全球领先的区块链底层技术和操作系统，弥补了中国区块链核心技术的空白，并为区块链企业提供底层技术服务，为人工智能企业提供可靠有效的大数据支持，同时为优秀传统企业提供系统的区块链解决方案。其完全自主研发的永旗超级账本与2019年12月获得国家工信部《区块链功能测试》及《区块链性能测试》双重认证。\n\n【愿景】\n建设数字化智慧城市，构建生态文明\n\n【使命】\n助力传统企业数字化转型升级\n\n【企业核心价值观】\n求实、进取、团结、奋进",
+      "comName": "浙江永旗区块链科技有限公司",
+      "legalPerson": "葛继宾",
+      "startDate": "2018-08-29",
+      "regCapital": "100000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市西湖区留下街道西溪明园商务中心13幢A1006室",
+      "businessScope": "服务：区块链技术、数据处理技术、智能技术、网络技术的技术开发、技术咨询、技术服务，计算机系统集成；批发、零售：计算机软硬件；货物或技术进出口（国家禁止或涉及行政审批的货物和技术进出口除外）。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "VBH永旗超级账本全称浙江永旗区块链科技有限公司，项目创立于2017年6月6日，于2018年7月作为政府重大引进项目引入杭州市，并于9月19日云栖大会现场签约，成立了浙江永旗区块链科技有限公司，近三年来，永旗一直致力于打造全球领先的区块链底层技术和操作系统，弥补了中国区块链核心技术的空白，并为区块链企业提供底层技术服务，为人工智能企业提供可靠有效的大数据支持，同时为优秀传统企业提供系统的区块链解决方案。其完全自主研发的永旗超级账本与2019年12月获得国家工信部《区块链功能测试》及《区块链性能测试》双重认证。\n\n【愿景】\n建设数字化智慧城市，构建生态文明\n\n【使命】\n助力传统企业数字化转型升级\n\n【企业核心价值观】\n求实、进取、团结、奋进",
+      "encryptComId": "8a3b56d6e0b01d6b1nd43dy6EFc~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "高级Java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "107EaTkU46i.search.1",
+          "performance": "",
+          "salaryDesc": "22-35K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "Java",
+            "SQL",
+            "MVC开发"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "MVC开发",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "8560193e4c9daa041nRz39m9FlNU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "永旗区块链科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200111/12c4c665fcc335df36fd6a58f5d12aa5128a036e9c66faa03c7ab785e40e4322.jpg",
+          "brandStage": "天使轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "郑女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200604/115587b1a881f2ec291d8f3c0755c0b2b0f6d303b058e51c4627c687609d57ca_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "SQL",
+            "MVC开发",
+            "Spring",
+            "MySQL",
+            "Web端",
+            "计算机软件",
+            "区块链"
+          ],
+          "welfares": [],
+          "securityId": "13QoPCUQ2mHk3-31EIlQBbJpwhTpgHAot4amn5_BjWOkstUv1MgzMptd419lPMb_3g8JsEs~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "区块链架构师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "留下",
+          "distance": "",
+          "lid": "107EaTkU46i.search.2",
+          "performance": "",
+          "salaryDesc": "40-70K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "架构师",
+            "区块链",
+            "分布式技术"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "架构师",
+              "highlight": false
+            },
+            {
+              "content": "区块链",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "ac30c54430dcaff01nV53t--EFJY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "永旗区块链科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200111/12c4c665fcc335df36fd6a58f5d12aa5128a036e9c66faa03c7ab785e40e4322.jpg",
+          "brandStage": "天使轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "郑女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200604/115587b1a881f2ec291d8f3c0755c0b2b0f6d303b058e51c4627c687609d57ca_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "架构师",
+            "区块链",
+            "分布式技术",
+            "Go"
+          ],
+          "welfares": [],
+          "securityId": "X8go_ZlGemxxa-U1YDKZns0tRHUUTpiY7nXWXgJ9E-yDbrW1XPdt0R8Be-w7I1WJjy7342o~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "前端工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "留下",
+          "distance": "",
+          "lid": "107EaTkU46i.search.4",
+          "performance": "",
+          "salaryDesc": "15-25K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "vue.js",
+            "javascript",
+            "node.js"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "vue.js",
+              "highlight": false
+            },
+            {
+              "content": "javascript",
+              "highlight": false
+            },
+            {
+              "content": "node.js",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "782ee32989c236561nRz3dq1FVVS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "永旗区块链科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200111/12c4c665fcc335df36fd6a58f5d12aa5128a036e9c66faa03c7ab785e40e4322.jpg",
+          "brandStage": "天使轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "郑女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200604/115587b1a881f2ec291d8f3c0755c0b2b0f6d303b058e51c4627c687609d57ca_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "vue.js",
+            "javascript",
+            "node.js"
+          ],
+          "welfares": [],
+          "securityId": "Z5IPM2qqoQ0b2-V1ktQya4Qb3I1bum4vyrNh1sqrU8qmbF9cyfRx8yfK7XB_y7YQm5JGrPc~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Golang",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "留下",
+          "distance": "",
+          "lid": "107EaTkU46i.search.5",
+          "performance": "",
+          "salaryDesc": "25-50K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Golang"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Golang",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "1ec84fa7414f0f061nV53t-1EVJQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "永旗区块链科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200111/12c4c665fcc335df36fd6a58f5d12aa5128a036e9c66faa03c7ab785e40e4322.jpg",
+          "brandStage": "天使轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "郑女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200604/115587b1a881f2ec291d8f3c0755c0b2b0f6d303b058e51c4627c687609d57ca_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Golang"
+          ],
+          "welfares": [],
+          "securityId": "ZaMGhFmIRX1RK-p1f9c-G2e5vk73ylLz8dfdOW042fpT1MISY-VRVyoINlmEcJ4R9fGJkCA~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "C++",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "107EaTkU46i.search.6",
+          "performance": "",
+          "salaryDesc": "30-50K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "C++",
+            "分布式技术",
+            "多进程"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "C++",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "多进程",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "59fe9fed85e020871nR90t60GFBQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "永旗区块链科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200111/12c4c665fcc335df36fd6a58f5d12aa5128a036e9c66faa03c7ab785e40e4322.jpg",
+          "brandStage": "天使轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "郑女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200604/115587b1a881f2ec291d8f3c0755c0b2b0f6d303b058e51c4627c687609d57ca_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "C++",
+            "分布式技术",
+            "多进程",
+            "Linux",
+            "计算机软件",
+            "区块链"
+          ],
+          "welfares": [],
+          "securityId": "hFe3GNiT8AcVr-O1lFPIwgbtXoI7DM_8YC2FJ8Kw0wSC6_uJi9RDDCYs-zdKNtZgizP2y6M~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

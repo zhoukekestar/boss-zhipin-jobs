@@ -1,0 +1,526 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "4h_eLuQVFM8iw-T1iG8S0Gw4V1CR88IgfQgA82aH4ENQD_0J_KVqSJPCZ1ba8sv_GPLh3NA5HTOsql0ptX8D3viWjrzbRXFKsXBt9UqIqu8n1sIIxhX1aZMnAQ2DQpuuvkisWpn-AbA~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "72ded932b32841ab0XN42tS1FVA~",
+      "bossId": 67219852,
+      "securityId": "sa4jOPzuFTRiS-Q1ZWEwpMtWqjFQT_t4HdpQkJZHCJitsiFYXLbN4GqbQ2ZL5MsN2BXZm2zPq5We6uPcYn5CQlzW3Xvi",
+      "name": "王薇琦",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+      "title": "前端工程师",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1675150779000,
+      "bossOnline": false,
+      "brandName": "哈希岛",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 232559553,
+      "encryptJobId": "331a0f077638577e1Xd43ti0FVdT",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端工程师",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "西兴",
+      "locationDesc": "杭州·滨江区·西兴",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 18,
+      "highSalary": 30,
+      "jobDesc": "**团队角色:**\n\n1. 负责公司平台产品的基础架构的设计与实现；\n2. 优化Web前端性能，研究前端新技术；\n3. 开发、扩展前端代码框架，创造出极致的用户体验；\n4. 探索新型高效前端开发模式；\n\n我们在找一位有经验的前端工程师, 有审美, 对用户体验(UX)有追求, 有热情。你将负责实现Galaxy产品生态系统的各种UI组件。\n\n我们希望, 你是个能告诉我们如何实现完美UX的人。\n\n**关于你:**\n\n1. 大学本科及以上相关计算机专业毕业，优秀者学历可适当放宽；\n2. 4 年以上 node.js, Vue, React 和 typescript 相关经验；\n3. 熟悉 web3.js, GraphQL；\n4. 了解并热爱UX最佳实践，优雅的设计，delightful animation等；\n5. 优秀的英语书面交流能力；CET-6\n\n一个必备条件：请向我们展示至少一个你在用户体验(UX)方面感到自豪的成品项目。",
+      "requiredSkills": [
+        "TypeScript",
+        "CSS",
+        "HTML5",
+        "ES6",
+        "Node.js",
+        "Web端",
+        "Vue.js",
+        "React.JS"
+      ],
+      "address": "杭州滨江区兴耀·星澳商务中心1幢1204",
+      "longitude": 120.221204,
+      "latitude": 30.201041,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/33944a7cd4ca332e93823ed345eb1f5f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b70d10c7ff1cfeefc7126c1b29d616a4",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "18-30K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "c11d3a306cbf71aa1XR_39y_GFM~",
+      "brandName": "哈希岛",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "industryName": "互联网",
+      "stageName": "",
+      "scaleName": "20-99人",
+      "brandIntroduce": "Web 3.0/区块链/NFT/元宇宙",
+      "comName": "杭州哈希岛互联网科技有限公司",
+      "legalPerson": "纪莉莉",
+      "startDate": "2021-05-11",
+      "regCapital": "100万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市西湖区花蒋天街商业中心5号楼716室",
+      "businessScope": "一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；软件开发；信息咨询服务（不含许可类信息咨询服务）；信息技术咨询服务；数据处理服务；互联网数据服务；企业管理咨询；企业管理；货物进出口；技术进出口；国内贸易代理（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "Web 3.0/区块链/NFT/元宇宙",
+      "encryptComId": "eb0f1fa5baafb82a1HB62dm7EFo~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "高级智能合约工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": null,
+          "businessName": null,
+          "distance": "",
+          "lid": "103sTGfQySX.search.1",
+          "performance": "",
+          "salaryDesc": "40-70K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Solidity",
+            "Typescript",
+            "Hardhat"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Solidity",
+              "highlight": false
+            },
+            {
+              "content": "Typescript",
+              "highlight": false
+            },
+            {
+              "content": "Hardhat",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "5384df9037d5aadc1HV-39W5GFZZ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "哈希岛",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "张女士",
+          "bossTitle": "HRBP",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211224/607f1f3d68754fd09af8255d2452a8d9606010c600ea4d4d15f844e2dc0f448c9200ad35d8afbc5f_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Solidity",
+            "Typescript",
+            "Hardhat",
+            "Truffle",
+            "OpenZepplin"
+          ],
+          "welfares": [],
+          "securityId": "b4MFNpXmhSkF9-y1MFqDBMFuiQspVGnQ_-GDp_W4vjLLPdhwwNDJXEH49JsSJbkhep1-J6hk",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "前端工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": null,
+          "businessName": null,
+          "distance": "",
+          "lid": "103sTGfQySX.search.2",
+          "performance": "",
+          "salaryDesc": "15-25K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "TypeScript",
+            "前端开发",
+            "Node.js"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "TypeScript",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            },
+            {
+              "content": "Node.js",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "ad8d02847e7153cb1XVz09q7EltQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "哈希岛",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "张女士",
+          "bossTitle": "HRBP",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211224/607f1f3d68754fd09af8255d2452a8d9606010c600ea4d4d15f844e2dc0f448c9200ad35d8afbc5f_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "TypeScript",
+            "前端开发",
+            "Node.js",
+            "React",
+            "Vue"
+          ],
+          "welfares": [],
+          "securityId": "eV5MgSu0yDd0Q--189T8eZXV_LU7N4GZlZA8UIJ3esS1JS_bdYhKZJCGDXYcmMtm0Py9ddJz",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "测试工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": null,
+          "businessName": null,
+          "distance": "",
+          "lid": "103sTGfQySX.search.3",
+          "performance": "",
+          "salaryDesc": "15-25K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Python",
+            "MySQL",
+            "Postman"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "MySQL",
+              "highlight": false
+            },
+            {
+              "content": "Postman",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "215411d495a748041XV52tu5GVNY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "哈希岛",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "张女士",
+          "bossTitle": "HRBP",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211224/607f1f3d68754fd09af8255d2452a8d9606010c600ea4d4d15f844e2dc0f448c9200ad35d8afbc5f_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Python",
+            "MySQL",
+            "Postman",
+            "Jmeter",
+            "UI自动化测试",
+            "自动化测试",
+            "功能测试",
+            "性能测试"
+          ],
+          "welfares": [],
+          "securityId": "JHyAmwJvuemjI-f1d-wF62tmYhhORBSI5zrkk68bZClz1BpEMzwDNTI0QYm86_tzp6B6y-mc",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "移动端资深前端开发工程师（react native）",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "上城区",
+          "businessName": "四季青",
+          "distance": "",
+          "lid": "103sTGfQySX.search.4",
+          "performance": "",
+          "salaryDesc": "25-50K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "前端开发经验",
+            "留学生优先",
+            "不限"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "前端开发经验",
+              "highlight": false
+            },
+            {
+              "content": "留学生优先",
+              "highlight": false
+            },
+            {
+              "content": "不限",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "4a92a6477da7df351X1z3NS7FlRV",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "哈希岛",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "佟玮姝",
+          "bossTitle": "招聘经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230627/607f1f3d68754fd0f8d7998a2b13676da7260e925958db2a6a39d243578b0817fb898bc83a2de0dd_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "前端开发经验",
+            "留学生优先",
+            "不限",
+            "不接受居家办公",
+            "react native",
+            "IOS"
+          ],
+          "welfares": [],
+          "securityId": "ZlnX99ra46Dlo-U1thiJQAcFQmvmjsbp6ubaSBIzRr8zKeWyaAbUMXojLGdNM5f8zyJrjKo~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "前端开发工程师（React Native方向）",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": null,
+          "businessName": null,
+          "distance": "",
+          "lid": "103sTGfQySX.search.5",
+          "performance": "",
+          "salaryDesc": "30-50K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "JavaScript",
+            "HTML5",
+            "CSS"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "HTML5",
+              "highlight": false
+            },
+            {
+              "content": "CSS",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "37247590f8db1b5d1X1_39q6EVVW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "哈希岛",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "张女士",
+          "bossTitle": "HRBP",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211224/607f1f3d68754fd09af8255d2452a8d9606010c600ea4d4d15f844e2dc0f448c9200ad35d8afbc5f_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript",
+            "HTML5",
+            "CSS"
+          ],
+          "welfares": [],
+          "securityId": "EbPcsYbTBMuEj-x1KPcvdcXZnu73npTWvyz36ERD8UQQY0ZMEE_k6gvU_UBag2LkEXIWXPdc",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

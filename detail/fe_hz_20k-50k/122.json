@@ -1,0 +1,220 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "gPbSfjGho7Whw-N1s14A8N3k3CSaFblxkTeFH2PwUB92jJpYSEWZhC5fyMvCSwu48hyXEwClEwm1mFEk8z_drfdqJ8kiVZ4rzo2A_vFNVFcbcIl7__V6B8FCrKiRHZaPV8cHfqaxxyg~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "b3f0809e089e40d61nR93Ni7E1dU",
+      "bossId": 107756354,
+      "securityId": "w5HIT3naPjw5p-p12UR5nqmgMKxQMGNJnR7Gcy5vTegH6a3bE-2oWHAKgUpm_7DJhmnbl3xorYR3yJBn0NshEP2Z3niG2g~~",
+      "name": "吴倩",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210309/2f55fc00545efe4f9211ba63e630e96a19a7c414cf9b2a0605a55797882293d1_s.jpg",
+      "title": "招聘者",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1638616765000,
+      "bossOnline": false,
+      "brandName": "萝泊科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 128753318,
+      "encryptJobId": "2d8f010f2101942b1nZy3Ni-E1NY",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "上城区",
+      "businessDistrict": "钱江新城",
+      "locationDesc": "杭州·上城区·钱江新城",
+      "experienceName": "3-5年",
+      "degreeName": "大专",
+      "lowSalary": 15,
+      "highSalary": 25,
+      "jobDesc": "岗位职责：\n1、web、小程序前端开发工作,在即有系统的基础上引进组件化技术\n2、参与产品体验设计，并将UI设计及交互体验设计要求融入到产品中\n3、平台易用性与用户体验的持续改进\n4、能把控细节，检验其他前端开发人员的质量，要求界面需要与设计稿保持完全一致\n5、积极探索并总结前端开发模式和规范\n\n岗位要求：\n1、大专以上学历、有2年以上Web前端开发经验，有电商项目经验优先\n2、vue必须熟练使用，并且在商业项目中有运用\n3、jquery必须熟练使用，并且在商业项目中有运用\n4、熟悉element-ui UI框架，并且在商业项目中有运用\n5、熟练使用原生小程序开发，并且有完成的成熟商业项目\n6、性格开朗、沟通能力强、喜欢钻研\n7、开发可能很枯燥，但你要有责任心、耐心、解决问题的决心.\n8、有较强的抗压能力\n9、重视用户体验，具备广阔的视野，追踪前沿技术，善于学习并应用到工作中，同时分享给团队；",
+      "requiredSkills": [
+        "前端开发",
+        "后端开发",
+        "CSS",
+        "Vue",
+        "小程序"
+      ],
+      "address": "杭州上城区迪凯国际中心3103室",
+      "longitude": 120.216297,
+      "latitude": 30.247241,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/094f9ec9a75a38362ec02e43fd2f36c7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/71bdf4624396d6103a078d419d59f946",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-25K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "e58d30d04bdbd0321nx-2N21Fw~~",
+      "brandName": "萝泊科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210310/01bf015c26b2de057cbc166516dba2d019a7c414cf9b2a0605a55797882293d1.jpg",
+      "industryName": "移动互联网",
+      "stageName": "天使轮",
+      "scaleName": "20-99人",
+      "brandIntroduce": "萝泊科技是一家以智能仓储物流为核心的服务商，采用区块链、大数据、智能制造等新一代信息技术，结合智慧仓储物流行业用数字智能化的管理操作系统，融合互联网、物联网、金融科技赋能传统仓储物流行业。 萝泊科技立足自建仓储运营、保税仓、中心仓托管、云仓租赁、金融仓等业务为基础，以大数据、云计算、区块链技术和可视化智能仓储系统为依托，在数字化将企业带入快速更新迭代的高频竞争时代，基于区块链+数据+算法的驱动，为企业和仓储产品打造安全有效、方便快捷、开放智能的标准可视化仓储管理配送系统和需求实时响应与资源实时优化的供应链智能新平台、新体系，同时为仓储中的强流通类新品提供简单便捷的个性化仓储金融服务。 萝泊科技致力于为企业提供去中心化、数据化、移动化、智能化的仓储物流和仓储金融，成为全球知名的仓储物流供应链基础设施运营商和仓储金融全链路资源配置服务商。 目前，萝泊科技在华北、华中、华东和华南市场拥有多个自有仓库、托管保税仓和云仓，总面积超千万平米，主要仓储产品广泛涉及全球化、全品类，核心仓储产品主要为进口汽车、奢侈品、数码产品、奶粉、名酒、家居等高价值、强流通产品，每年在萝泊科技仓储中存储、流转、销售的品牌总价值超过万亿元。 基于大数据、云计算和区块链等设立的标准化风控体系和仓储智能管理系统，萝泊科技坚持推进入库产品数字化溯源、存储、配送、库内销售、资金回笼、库内回购、一件代发等全流程无缝衔接和全价值链的支持协同，推动仓储物流从原来的仓储、物流服务商向集科技、云仓储、新零售、创新金融服务为一体化价值链的升级。\n核心服务 智能云仓\n智能：智能云仓APP在线全链路可视化管理，无需过多仓管人员，全链路数字化，一键存储、代发等； 安全：对入仓、出仓产品用区块链技术进行认证溯源，确保每一个产品来源、存储、流通的任何一个节点都在云上真实可控、可查； 量化：利用大数据和云计算建立数据中台，将每一个产品的价值、周转率进行计算估值，打包成标准化、易转化的标的物； 信用：整个仓储企业在平台上有大量的信息流和订单，萝泊科技将智能仓储管理系统、物流运输系统、客户管理系统全链路打通，利用区块链+大数据+云计算能进行精准的客户画像，从而形成仓储企业的信用评价体系，形成智能云仓白名单。 升级：对托管仓库进行全面智能化的升级改造，对多级仓储、全渠道配送的业务场景全面梳理、标准化，为企业提供端到端的仓储、配送、营销、销售、回购一体化服务 借助统仓统配实现物流、商流、信息流、资金流的多重组合的统合优化，以数据中心驱动全链路业务卓越运营；",
+      "comName": "浙江萝泊科技有限公司",
+      "legalPerson": "毕红涛",
+      "startDate": "2017-06-23",
+      "regCapital": "1000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市江干区迪凯国际中心3103室-1",
+      "businessScope": "一般项目：停车场服务；信息技术咨询服务；服务：网络信息技术、计算机软硬件、电子产品、农业技术、互联网技术的技术开发、技术咨询、技术服务、成果转让，第二类增值电信业务中的信息服务业务，设计、制作、代理、发布国内广告（除网络广告发布），企业管理咨询，市场调查，物业管理，停车管理；批发、零售：数码产品，计算机硬件，机械设备，汽车配件，智能设备，电子产品（除专控）；货物进出口、技术进出口（国家法律、行政法规禁止的项目除外，法律、行政法规限制的项目取得许可证后方可经营）（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "萝泊科技是一家以智能仓储物流为核心的服务商，采用区块链、大数据、智能制造等新一代信息技术，结合智慧仓储物流行业用数字智能化的管理操作系统，融合互联网、物联网、金融科技赋能传统仓储物流行业。 萝泊科技立足自建仓储运营、保税仓、中心仓托管、云仓租赁、金融仓等业务为基础，以大数据、云计算、区块链技术和可视化智能仓储系统为依托，在数字化将企业带入快速更新迭代的高频竞争时代，基于区块链+数据+算法的驱动，为企业和仓储产品打造安全有效、方便快捷、开放智能的标准可视化仓储管理配送系统和需求实时响应与资源实时优化的供应链智能新平台、新体系，同时为仓储中的强流通类新品提供简单便捷的个性化仓储金融服务。 萝泊科技致力于为企业提供去中心化、数据化、移动化、智能化的仓储物流和仓储金融，成为全球知名的仓储物流供应链基础设施运营商和仓储金融全链路资源配置服务商。 目前，萝泊科技在华北、华中、华东和华南市场拥有多个自有仓库、托管保税仓和云仓，总面积超千万平米，主要仓储产品广泛涉及全球化、全品类，核心仓储产品主要为进口汽车、奢侈品、数码产品、奶粉、名酒、家居等高价值、强流通产品，每年在萝泊科技仓储中存储、流转、销售的品牌总价值超过万亿元。 基于大数据、云计算和区块链等设立的标准化风控体系和仓储智能管理系统，萝泊科技坚持推进入库产品数字化溯源、存储、配送、库内销售、资金回笼、库内回购、一件代发等全流程无缝衔接和全价值链的支持协同，推动仓储物流从原来的仓储、物流服务商向集科技、云仓储、新零售、创新金融服务为一体化价值链的升级。\n核心服务 智能云仓\n智能：智能云仓APP在线全链路可视化管理，无需过多仓管人员，全链路数字化，一键存储、代发等； 安全：对入仓、出仓产品用区块链技术进行认证溯源，确保每一个产品来源、存储、流通的任何一个节点都在云上真实可控、可查； 量化：利用大数据和云计算建立数据中台，将每一个产品的价值、周转率进行计算估值，打包成标准化、易转化的标的物； 信用：整个仓储企业在平台上有大量的信息流和订单，萝泊科技将智能仓储管理系统、物流运输系统、客户管理系统全链路打通，利用区块链+大数据+云计算能进行精准的客户画像，从而形成仓储企业的信用评价体系，形成智能云仓白名单。 升级：对托管仓库进行全面智能化的升级改造，对多级仓储、全渠道配送的业务场景全面梳理、标准化，为企业提供端到端的仓储、配送、营销、销售、回购一体化服务 借助统仓统配实现物流、商流、信息流、资金流的多重组合的统合优化，以数据中心驱动全链路业务卓越运营；",
+      "encryptComId": "8226f5a83ecab4333nR62dq1GQ~~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "高级Java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "上城区",
+          "businessName": "钱江新城",
+          "distance": "",
+          "lid": "ZY1Thsxynl.search.1",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Java",
+            "分布式技术",
+            "Spring"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "f463e3799f5151711nZy3Ni-GFJS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "萝泊科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210310/01bf015c26b2de057cbc166516dba2d019a7c414cf9b2a0605a55797882293d1.jpg",
+          "brandStage": "天使轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "吴倩",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210309/2f55fc00545efe4f9211ba63e630e96a19a7c414cf9b2a0605a55797882293d1_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "分布式技术",
+            "Spring",
+            "MySQL",
+            "Redis",
+            "SpringBoot",
+            "Maven",
+            "SpringMVC"
+          ],
+          "welfares": [],
+          "securityId": "jvKpXoAtYMp8W-Y1mSyy8JcmWk0ujhN1LS-BsC8Z--TLS_TtVV5g4lV_Ik9FFLXiFqnsgjoR",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

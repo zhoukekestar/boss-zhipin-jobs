@@ -1,0 +1,143 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "At6jgPeEz8Vso-M1jlUsIua_gxbkJoJQbJg0lYgV0wICIKRLkwMGH-izHq4hw1y3xu3zg5WL2ueg6rrbqs8jKl0JhKOnNuKBk7DSOdk_5SNSYRrcnMd4O2Mg9QMs-_v1T-qG6qzh",
+    "bossBaseInfoVO": {
+      "encryptBossId": "14836e01c089414c1Xx82Nm5ElQ~",
+      "bossId": 28634426,
+      "securityId": "bCK36UOPHyRrV-91L1cHzljsGseZm0VS_bBUtCyLjuqbBnZJ0TgwGXxP-FtMncaQeyG1LfWPPYGCWBcWraWXbpaP65ry",
+      "name": "刘菊新",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170621/a6b9205828debfb7a4cd93da7d0b89a350d4b3008706e323bb01231153e71f96_s.jpg",
+      "title": "技术总监",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1675308167000,
+      "bossOnline": false,
+      "brandName": "氦氪科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 219587868,
+      "encryptJobId": "e3d7d647028d60bc1XVz3tW6GFRY",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "文三路",
+      "locationDesc": "杭州·西湖区·文三路",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 30,
+      "jobDesc": "职位描述\n1. 负责前端项目代码开发、页面重构以及交互设计逻辑处理；\n2. 负责前端技术架构设计，推进新技术在业务中落地；\n3. 解决产品开发过程中的疑难问题，性能优化问题；\n4. 指导前端开发同学开发，制定开发计划并执行落地；\n任职要求\n1. 三年以上前端工作经验，至少参加过一个完整中型前端项目开发；\n2. 熟悉HTML、CSS3、Javascript，及协议、安全、网络、性能优化等前端技术，对主流前端框架（ React \\ Vue \\ Angular等）至少一种有深入应用并深入理解其设计原理；\n3. 熟悉基于HTML5的WebAPP开发；\n4. 对前后端的协作模式、产品和项目流程有深入理解；\n5. 关注前端前沿技术，具备较强的学习能力；\n加分项\n1. 对物联网领域有一定得认知水平；\n2. 有开源项目经历；\n3. 有可分享的前端作品。",
+      "requiredSkills": [
+        "前端开发",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "CSS3",
+        "Web端",
+        "Vue",
+        "HTML5"
+      ],
+      "address": "杭州西湖区创业大厦(文三路)13幢北2楼",
+      "longitude": 120.138087,
+      "latitude": 30.276441,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/29e7bb06628022744fade481388ded4d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d3e87243ffcc5bede332e41ef77aaf81",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-30K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "bcde2aaa26d47f4b1nN_39i7",
+      "brandName": "氦氪科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180601/906d3f007e116bcde18fc410a86811dccfcd208495d565ef66e7dff9f98764da.jpg",
+      "industryName": "智能硬件",
+      "stageName": "A轮",
+      "scaleName": "20-99人",
+      "brandIntroduce": "我们有实力强劲的技术团队，团队成员均来自知名互联网企业，多人拥有海外留学经历。成员年龄结构合理，既有具备多年工作经验的资深专家，也有新鲜血液为团队灌注活力与想像力。\n氦氪是国内领先的智慧城市解决方案服务商，国家高新技术企业。公司依托自主研发的物联网平台，提供设备连接、数据采集、云平台开发、数据可视化等一系列整体解决方案。\n凭借多年的技术研发与项目实施的经验，氦氪物联网平台形成了以“云-边-端”为一体的技术基础架构，高效打通人与物、物与物之间的互联；以大数据平台为核心能力，为客户提供海量存储、实时计算等数据服务，挖掘数据的无限价值；以AI为增长引擎，帮助企业更加专注于高附加值的工作、决策与创新，从而推动业务增长。\n公司目前已服务于多个大型500强企业和上市公司客户，在智慧园区、智慧建筑、智慧消防、智慧环保等多个细分场景提供成熟、可靠的解决方案。",
+      "comName": "杭州氦氪科技有限公司",
+      "legalPerson": "苏立挺",
+      "startDate": "2015-04-17",
+      "regCapital": "500万人民币",
+      "statusDesc": "存续",
+      "regAddress": "杭州市西湖区翠苑街道翠苑二区18-2幢178室",
+      "businessScope": "服务：计算机软硬件、网络信息技术、电子产品、物联网技术、通信系统、汽车技术、航空航天技术的技术开发、技术服务、技术咨询、成果转让；批发、零售：计算机软硬件，电子产品（除专控），数码产品，电子元器件，家居用品。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "我们有实力强劲的技术团队，团队成员均来自知名互联网企业，多人拥有海外留学经历。成员年龄结构合理，既有具备多年工作经验的资深专家，也有新鲜血液为团队灌注活力与想像力。\n氦氪是国内领先的智慧城市解决方案服务商，国家高新技术企业。公司依托自主研发的物联网平台，提供设备连接、数据采集、云平台开发、数据可视化等一系列整体解决方案。\n凭借多年的技术研发与项目实施的经验，氦氪物联网平台形成了以“云-边-端”为一体的技术基础架构，高效打通人与物、物与物之间的互联；以大数据平台为核心能力，为客户提供海量存储、实时计算等数据服务，挖掘数据的无限价值；以AI为增长引擎，帮助企业更加专注于高附加值的工作、决策与创新，从而推动业务增长。\n公司目前已服务于多个大型500强企业和上市公司客户，在智慧园区、智慧建筑、智慧消防、智慧环保等多个细分场景提供成熟、可靠的解决方案。",
+      "encryptComId": "ebaee613336581141nVy2du9"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": null
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "ND2ZWNfcJf4OW-S1PbRR8mfLWZ8lBaRTc4q8dpE1q5VnQN_8rweJwbJtDl9-1ZwJkdq0JArXRrEYeKaGDKy3GQve0xH7n7QqPjpLNo3en6OGgQZCtK1pPpP8B2iyafaY5kgrZR8~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "db80921517c3d6b30n1-3N-0Fls~",
+      "bossId": 59472969,
+      "securityId": "map1GFsrinTBK-Z1sjYaghKGjLPyiWa8JMM2uJznkmhNkcUDrXCJw8ZmbUeNCn2axHTfCRUbO98Zw2U3yD1NmSwsyW7G",
+      "name": "汝女士",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220210/607f1f3d68754fd0e3da1efb8d8259e90f36ca7f0d2440411454bab0410943da6602aced48d45a76_s.jpg",
+      "title": "前端开发工程师",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1645077553000,
+      "bossOnline": false,
+      "brandName": "新奥集团",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 186160478,
+      "encryptJobId": "5babcd74ec7cd7721nx82tu9FFVY",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "萧山区",
+      "businessDistrict": "北干",
+      "locationDesc": "杭州·萧山区·北干",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 20,
+      "highSalary": 40,
+      "jobDesc": "工作内容：\n1、负责产业互联网解决方案（恩牛网）开发，优化工业生产场景下流程效率，打通系统间数据孤岛。\n2、负责业务多元化对外输出，设计前端架构解藕与集成方案，并复用到多条产品线。\n\n工作要求：\n1、前端基础扎实，掌握JavaScript、CSS、HTML、DOM等基础知识。深刻理解HTTP1/2，对Web性能优化有过实战经验。\n2、2年以上的SPA开发经验，深刻理解MVVM/MVC设计模式，掌握React/Vue/Angular等其中一种或多种前端框架。\n3、熟练掌握微前端等前端集成方案并落地实践。\n4、熟悉Webpack等构建工具，并有相关打包优化经验。",
+      "requiredSkills": [
+        "Web端",
+        "前端开发",
+        "React",
+        "Vue.js",
+        "TypeScript"
+      ],
+      "address": "杭州萧山区银隆百货B座",
+      "longitude": 120.268274,
+      "latitude": 30.171081,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/708bc7bc9dd90573f68352a7d05e40bc",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d09079db14d0d08fa82dd301259e3154",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-40K·15薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "87e8e2f0b32fc30e33Z939g~",
+      "brandName": "新奥集团",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160711/b6a3ece80c657a6328c48e907dff516374b7136177a711b5143a191a980fad37.jpg",
+      "industryName": "互联网",
+      "stageName": "已上市",
+      "scaleName": "10000人以上",
+      "brandIntroduce": "新奥集团以“创建现代能源体系、提高人民生活品质”为使命，致力于成为一家受人尊敬的创新型智慧企业。\n1989年新奥创立于河北廊坊，以城市燃气为起点，逐步覆盖了分销、贸易、输储、生产、工程智造等天然气产业全场景，贯通清洁能源产业链；为了人民对美好生活的向往，新奥拓展了置业、旅游、文化、健康等业务，打造品质生活栖息地。\n面向数智时代，新奥为客户提供家庭品质生活和企业安能碳管理的数智城市服务。基于丰富的产业实践，新奥以“场景是基础、物联是关键、数据是资源、平台是载体、智能是目的、安全是保障”为建设思路，聚焦“气-能-碳-安-城-质”产业场景，链接需求侧和供给侧，通过“恩牛+行业数智平台”，将场景数据、产业最佳实践共建打造成为产业智能产品，助力产业智能升级。\n目前，新奥在全国21个省为2681万个家庭用户、21万家企业提供能源服务。旗下4家上市公司，分别为新奥能源（02688.HK）、新奥股份（600803.SH）、新智认知（603869.SH）、西藏旅游（600749.SH）。2022年实现营收1676亿元。",
+      "comName": "新奥集团股份有限公司",
+      "legalPerson": "王玉锁",
+      "startDate": "1997-08-05",
+      "regCapital": "750000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "河北省廊坊市经济技术开发区廊坊经济技术开发区华祥路",
+      "businessScope": "销售：工程设备、工程材料、化工设备、环保设备、钢材、电线电缆、电子产品、电工器材、照明电器、建筑材料、五金材料、管件管材、门窗、办公设备、电气设备、消防设备、节能设备、暖通设备、锅炉设备、太阳能设备、冷却塔设备、压力容器设备、压力管道设备、数据采集设备与监控设备、光伏设备及元器件；能源站系统、楼宇弱电系统、智能控制系统、能源管理系统、监控系统、仪器仪表的研发、销售及售后服务；对城市基础设施建设、能源开发、文化、旅游业、电子机械、化工、建材制造、贸易的投资；企业管理咨询；销售天然气（无储存、无运输）（许可证有效期至2021年9月3日）、煤油、柴油、燃料油（不含成品油）、润滑油；销售苗木；园林绿化服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "新奥集团以“创建现代能源体系、提高人民生活品质”为使命，致力于成为一家受人尊敬的创新型智慧企业。\n1989年新奥创立于河北廊坊，以城市燃气为起点，逐步覆盖了分销、贸易、输储、生产、工程智造等天然气产业全场景，贯通清洁能源产业链；为了人民对美好生活的向往，新奥拓展了置业、旅游、文化、健康等业务，打造品质生活栖息地。\n面向数智时代，新奥为客户提供家庭品质生活和企业安能碳管理的数智城市服务。基于丰富的产业实践，新奥以“场景是基础、物联是关键、数据是资源、平台是载体、智能是目的、安全是保障”为建设思路，聚焦“气-能-碳-安-城-质”产业场景，链接需求侧和供给侧，通过“恩牛+行业数智平台”，将场景数据、产业最佳实践共建打造成为产业智能产品，助力产业智能升级。\n目前，新奥在全国21个省为2681万个家庭用户、21万家企业提供能源服务。旗下4家上市公司，分别为新奥能源（02688.HK）、新奥股份（600803.SH）、新智认知（603869.SH）、西藏旅游（600749.SH）。2022年实现营收1676亿元。",
+      "encryptComId": "431e130f4c77a24803R80tq0"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": null
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

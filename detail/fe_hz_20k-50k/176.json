@@ -1,0 +1,535 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "yak1U2FpeOMT--i1TXKiDuqA_liFHG1-jYL6y7OhaagNpumLrRcCmkZVfcEHcFM_RDBCFbFxjBaCeh5JyWhhkiVavmZdM5mtsZitQ_TU854ouomNO6xPP4KVoGSUiU__JpkJX6qh4r4~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "6fe1526283c2a9f703By3tu8ElQ~",
+      "bossId": 44856126,
+      "securityId": "SjKJFysfnyzgi-k1ENltUx0zyqJMt87CH7KRfKC5f3cANwkKsbJx3rXbsSSkvyCic6boneUjhOXesVuTWwdpB7yiHUM7",
+      "name": "孔先生",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+      "title": "资深前端开发工程师",
+      "activeTimeDesc": "刚刚活跃",
+      "activeTime": 1698140119505,
+      "bossOnline": false,
+      "brandName": "蓝卓数字科技有限公司",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 228549019,
+      "encryptJobId": "570275089def3a7f1XZy3tm0EFNZ",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "浦沿",
+      "locationDesc": "杭州·滨江区·浦沿",
+      "experienceName": "5-10年",
+      "degreeName": "本科",
+      "lowSalary": 20,
+      "highSalary": 30,
+      "jobDesc": "岗位职责\n1. 负责公司核心平台、业务的研发工作；\n2. 与产品、设计、后端紧密配合，高质量的完成开发任务，沉淀相关文档；\n3. 根据业务需求完成模块的方案设计，合理的对任务进行拆解、分配；\n4. 参与前端技术预研，带领技术攻关\n\n岗位要求\n1. 大学本科（全日制）及以上学历，软件技术、计算机科学与技术、电子工程等相关专业，5年以上Web前端工作经验；\n2. 精通掌握React框架，并熟悉底层原理；\n3. 熟悉主流浏览器的技术特点，熟练使用es6、es7；\n4. 优秀的代码组织能力及编码风格；\n5. 熟练掌握Webpack等前端构建工具，有npm包的开发、维护经验优先；\n6. 学习能力强，有强烈的责任心和团队精神，善于沟通和合作",
+      "requiredSkills": [
+        "ES6",
+        "JavaScript",
+        "小程序",
+        "Web端",
+        "前端开发",
+        "React",
+        "Visual Studio"
+      ],
+      "address": "杭州滨江区中控科技园F座10楼",
+      "longitude": 120.138037,
+      "latitude": 30.179267,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c1c78df17f790eec3bb8a4673fdce5c5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c6269445c7774b4989d85966260e9ad5",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-30K·14薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "db1eb5c77677af2d1Xd-3dm1EFA~",
+      "brandName": "蓝卓数字科技有限公司",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "industryName": "计算机软件",
+      "stageName": "B轮",
+      "scaleName": "100-499人",
+      "brandIntroduce": "蓝卓数字科技有限公司（简称“蓝卓”）是在中控集团近 30年工业沉淀基础上成立的专业工业互联网公司，已成为国内领先的工业互联网平台和解决方案提供商。蓝卓专注于工业操作系统的研发与产业化，致力于打造中国自主可控的工业安卓，为工业转型升级提供数字化底座。\n蓝卓 supOS 的发展得到了行业的认可，2020 年 12 月，supOS 被授予国家级跨行业跨领域工业互联网平台，在赛迪发布的“工业互联网活力榜”中，supOS市场影响力排名前 10，已成为全国工业互联网平台领军企业。截至目前，蓝卓获得 50 余项行业奖项，11 项省级国家级奖项，承担了科技部新一代“工业操作系统+工业 APP”应用平台、工信部 5G 网络化改造和推广服务平台等项目建设、国家级工业互联网平台应用创新推广中心等国家重大专项。\n蓝卓始终秉承“持续为工业创造数字智能新价值”的使命，为我国数字经济与实体经济融合贡献力量。",
+      "comName": "蓝卓数字科技有限公司",
+      "legalPerson": "谭彰",
+      "startDate": "2018-05-04",
+      "regCapital": "11090.4443万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省集士港镇菖蒲路150号（1-1-180）室",
+      "businessScope": "工业互联网、工业软件、数字技术、计算机软件、应用软件、互联网技术、物联网技术的技术开发、技术服务、技术咨询、成果转让；计算机系统集成；计算机软件及辅助设备、电子产品、通讯设备的批发、零售及网上经营以及其他按法律、法规、国务院决定等规定未禁止或无需经营许可的项目和未列入地方产业发展负面清单的项目。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "蓝卓数字科技有限公司（简称“蓝卓”）是在中控集团近 30年工业沉淀基础上成立的专业工业互联网公司，已成为国内领先的工业互联网平台和解决方案提供商。蓝卓专注于工业操作系统的研发与产业化，致力于打造中国自主可控的工业安卓，为工业转型升级提供数字化底座。\n蓝卓 supOS 的发展得到了行业的认可，2020 年 12 月，supOS 被授予国家级跨行业跨领域工业互联网平台，在赛迪发布的“工业互联网活力榜”中，supOS市场影响力排名前 10，已成为全国工业互联网平台领军企业。截至目前，蓝卓获得 50 余项行业奖项，11 项省级国家级奖项，承担了科技部新一代“工业操作系统+工业 APP”应用平台、工信部 5G 网络化改造和推广服务平台等项目建设、国家级工业互联网平台应用创新推广中心等国家重大专项。\n蓝卓始终秉承“持续为工业创造数字智能新价值”的使命，为我国数字经济与实体经济融合贡献力量。",
+      "encryptComId": "cf560fd8b8114bff1HN53NW5FVE~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "系统架构师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "浦沿",
+          "distance": "",
+          "lid": "ZSWzMaW0Xa.search.1",
+          "performance": "",
+          "salaryDesc": "25-40K·14薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "Java",
+            "微服务架构",
+            "分布式技术"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "微服务架构",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "b2d5346751eaa7601XV52d64FVpT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "蓝卓数字科技有限公司",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "B轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "吴志林",
+          "bossTitle": "研发经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160606/a34d5d9c1f2954aa838082878b4f7a3a7c8c7a1c6f209becee7ad5ed70939393_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "微服务架构",
+            "分布式技术",
+            "多线程",
+            "架构师",
+            "后端工程师",
+            "Spring",
+            "计算机/软件工程相关经验"
+          ],
+          "welfares": [],
+          "securityId": "-e4bL3OHMnnqb-21OLyAO0jJWpqZ1Ecagt5V6_tEm_rdqelJMDGgk2mr02wfRlpZ_T3pxhM~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "基础平台架构师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": null,
+          "businessName": null,
+          "distance": "",
+          "lid": "ZSWzMaW0Xa.search.2",
+          "performance": "",
+          "salaryDesc": "30-45K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "Golang",
+            "Kubernetes",
+            "Docker"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Golang",
+              "highlight": false
+            },
+            {
+              "content": "Kubernetes",
+              "highlight": false
+            },
+            {
+              "content": "Docker",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "1736d42a57614ccb1HV829y4EFNX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "蓝卓数字科技有限公司",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "B轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "姚炜",
+          "bossTitle": "信息技术总监",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Golang",
+            "Kubernetes",
+            "Docker",
+            "计算机相关专业",
+            "系统架构设计经验",
+            "英语读写能力良好"
+          ],
+          "welfares": [],
+          "securityId": "MrzOKJb7JbWiU--1RAPhkljC1iqEmQdmXgBJ257-WVHOAo_krXuYh76R6m7dqgRnpk5py8g~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "JAVA-大数据开发",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "浦沿",
+          "distance": "",
+          "lid": "ZSWzMaW0Xa.search.3",
+          "performance": "",
+          "salaryDesc": "18-30K·14薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Java开发经验",
+            "Java",
+            "大数据处理经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java开发经验",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "大数据处理经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "538274a421eb9f281Xd-3t-1FVFR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "蓝卓数字科技有限公司",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "B轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "来先生",
+          "bossTitle": "中台交付经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180519/c4755de917e3be6254ba57417118bfba7e5b27c04397ef4d533cfed9701eb31e_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java开发经验",
+            "Java",
+            "大数据处理经验",
+            "kafka",
+            "架构师",
+            "多线程",
+            "starrocks",
+            "实时数仓",
+            "无留学背景偏好",
+            "Flink"
+          ],
+          "welfares": [],
+          "securityId": "xAvmUlj6D1aOj-o1B7lKcWDiDX883Qo53AoVe41_aPhHpeEDTXi7nqc_ekuT1u446ArUVHk~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级DevOps工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "学历不限",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "浦沿",
+          "distance": "",
+          "lid": "ZSWzMaW0Xa.search.4",
+          "performance": "",
+          "salaryDesc": "20-30K·14薪",
+          "jobLabels": [
+            "5-10年",
+            "学历不限",
+            "Python",
+            "Shell",
+            "Linux"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "学历不限",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "Shell",
+              "highlight": false
+            },
+            {
+              "content": "Linux",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "c8ba8eba1b2ead871XZ73Nq0GFFS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "蓝卓数字科技有限公司",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "B轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "邵羽",
+          "bossTitle": "HRBP",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200714/d7a3682d53c2d4e66b977d711bfedd2759c75949312c15ef118e3efb230acdf0_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Python",
+            "Shell",
+            "Linux",
+            "CI/CD",
+            "DevOps"
+          ],
+          "welfares": [],
+          "securityId": "Y9W97C2YdlFXP-51MVJXQueIxLh26QWjJZGKCHHw1oxxqEjPhNb8GUGaIndhwaCZXs3wL6I~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "浦沿",
+          "distance": "",
+          "lid": "ZSWzMaW0Xa.search.6",
+          "performance": "",
+          "salaryDesc": "20-30K·14薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "JavaScript",
+            "TypeScript",
+            "前端开发"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "TypeScript",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "5f23022c0b20c1e81XV_3tu1FFRS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "蓝卓数字科技有限公司",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "B轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "李栋",
+          "bossTitle": "资深前端开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript",
+            "TypeScript",
+            "前端开发",
+            "Web端",
+            "PC端",
+            "ES6",
+            "React",
+            "ES5"
+          ],
+          "welfares": [],
+          "securityId": "Mb01V9SBgRvlJ-d1zWr1K408usIoZR3xAs6lyznxVgVROvHPyxhg5FTVEB-ECjFL7SgcEss~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

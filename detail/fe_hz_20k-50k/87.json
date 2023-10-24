@@ -1,0 +1,365 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "lkUHV8fJqoAlJ-Y1AUoagvKQo3FgfXJu_n4fmgEyF8aZ5caMdIkw4pouNudovLm2l73MTEAZREJtvzgIw_uemXN2wHWb0bzL9zDh6O5o9CNVktNhuGDklcXQQkEiX1RTeq4dGXTDB8I~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "61525d2d4ff4d28b1nZ429W6Flc~",
+      "bossId": 12208765,
+      "securityId": "RJcwrTfK4O9P1-_1gZu9cVsAOekA7BLuQPvz0Be8YLE2CbrdwEdkWLwMoP2EXzNF5IQKK5lcYthKqJpape_OKYnJZXr_",
+      "name": "刘森",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190524/015c3ff538bb457e7a80e5feaef42fe1cfcd208495d565ef66e7dff9f98764da_s.jpg",
+      "title": "前端工程师",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1622185881000,
+      "bossOnline": false,
+      "brandName": "海豚科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 120075254,
+      "encryptJobId": "35666ec678dd12871nZ629q4EldU",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "仓前",
+      "locationDesc": "杭州·余杭区·仓前",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 20,
+      "highSalary": 40,
+      "jobDesc": "岗位职责：\n1. 负责医院信息系统的前端开发；\n2. Web 前沿技术研究调研；\n3. 探索总结前端开发模式和规范；\n4. 改进开发流程、持续构建流程、发布流程；\n5. 在公司项目中应用合适的新技术；\n6. 参与公司核心业务的前端开发工作。超大型 2B SaaS 服务，桌面端 Web 应用为主，React16 技术栈；\n7. 参与前端工程化工作。例如代码重构、组件库替换、技术栈升级、性能优化，监控告警系统等工程化工具开发；\n8. 客户端/No Code(Low Code)/富文本等技术方向。\n任职要求：\n1. 过硬的专业知识。JS (TS)、HTML、CSS、网络协议、浏览器 API、前端框架/库（ React 、Vue 、Angular 任意，React 更优，有实际开发经验）、工具链等方面均有良好的知识储备，广度优先，此外不光知其然还能知其所以然；\n2. 有前端工程化建设经验，掌握 Webpack/Rollup/Parcel 等工具，了解模块化，前后端分离 ；\n3. 了解Mobx，Redux 等库原理；\n4. 有 Node.js 实际开发经验加分；\n5. 了解 Kubernetes，Docker，Nginx加分；\n6. 热爱前端行业。对前端技术保持持续的关注和好奇，重视用户体验；\n7. 优秀的编程能力。逻辑思维能力强，能够流畅地将思路转化成代码，有数据结构和算法基础，懂得如何编写简洁易读的代码。刷过 Leetcode、计算机专业、有活跃博客/github 加分；\n8. 良好的职业素养。2 年及以上 Web 前端开发工作经验，能与团队成员密切配合，重视代码质量、有明确的 Deadline 意识，有大厂、开源或大型前端项目经历加分 ；\n9. 做事积极主动，有热情有活力，开放的心态，主动学习，有很强的学习能力和技术敏感度，有强烈的责任心和进取心，自省自驱，逻辑性强，乐于学习和技术分享，抗压能力强；\n10. 对做成一件事有强烈的渴望，对工作成果有近乎苛刻的自我要求。\n\n Why Us:\n1. 曾创建、主导研发并成功实施了全国第一个 Top10 公立三甲医疗集团整体业务上云及全国第一个县域医共体全量业务上云项目；\n2. 有趣、有爱的行业，通过技术，一起「让人类更健康」；\n3. 我们深挖用户需求，用工程化思维找到创新，可扩展的解决方案；\n4. 负责模块直接影响用户，有持续、强烈的成就感；\n5. 你负责的这个产品会做到行业第一；\n6. 做对的事，把对的事做好；\n7. 只需考虑 Chrome 浏览器。\n\nJoin us: 备好了16\" MBP，期待着你的加入哦😊",
+      "requiredSkills": [
+        "前端开发",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "GIT"
+      ],
+      "address": "杭州余杭区中国(杭州)人工智能小镇5号楼915",
+      "longitude": 119.965839,
+      "latitude": 30.27056,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e3757261d904bd0e613e09863c737361",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7e4d9e0a77eeeb9809ee2308c1131a28",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-40K·16薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "0c3ce0b3430b2e6f1nZ93N65GFI~",
+      "brandName": "海豚科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210106/de6ac35fca4f5ea3d5656c2216840c459cd143a39421c08ce08fa64807885397_s.jpg",
+      "industryName": "互联网",
+      "stageName": "A轮",
+      "scaleName": "20-99人",
+      "brandIntroduce": "公司简介：\n逸群海豚信息科技（上海）有限公司（简称“海豚科技”）旨在通过云计算、大数据、人工智能、区块链等新技术结合医疗卫生行业业务创新，构建数智卫健运营生态，为政府、医院、医护、公众提供科技产品、服务和运营。我们希望通过我们的产品与服务助力区域内医疗机构与卫生行政主管部门，促进医疗体系与公共卫生体系的实时互联，降低行业数字化转型升级成本，提升数字化运营效率和价值。我们致力于中国卫健行业数字新基建的普及应用，推进分级诊疗落地及县域医共体建设，助力国家医改。\n我们的业务包括数智卫健生态运营平台、DT医疗大脑、医共体云平台、卫健数字化转型咨询服务及创新业务。除此之外，我们将联合战略合作伙伴及生态服务提供商，共同构建卫健数字新基建体系，为更多的人群提供全生命周期医疗健康数字化服务。\n\n使命与愿景：\n让人类更健康！\n我们致力成为国内领先的数智卫健生态运营平台服务商，整合行业生态共谋聚变，以数据和智能赋能医疗，通过科技创新，让无边界医院和连续式全程医疗服务成为可能，为 3 亿人提供全生命周期医疗健康数字化服务。\n\n公司官网：http://www.healthdt.com/",
+      "comName": "逸群海豚信息科技（上海）有限公司",
+      "legalPerson": "金震",
+      "startDate": "2020-11-03",
+      "regCapital": "1100万人民币",
+      "statusDesc": "存续",
+      "regAddress": "上海市徐汇区桂平路680号32-33幢310-17工位",
+      "businessScope": "许可项目：各类工程建设活动；建筑智能化工程施工（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）一般项目：信息咨询服务（不含许可类信息咨询服务）；信息技术咨询服务；软件开发；知识产权服务；大数据服务；物联网技术服务；数据处理和存储支持服务；会议及展览服务；社会经济咨询服务；图文设计制作；广告设计、代理；广告发布（非广播电台、电视台、报刊出版单位）；电子产品销售；通讯设备销售；计算机软硬件及辅助设备批发；信息系统集成服务（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "公司简介：\n逸群海豚信息科技（上海）有限公司（简称“海豚科技”）旨在通过云计算、大数据、人工智能、区块链等新技术结合医疗卫生行业业务创新，构建数智卫健运营生态，为政府、医院、医护、公众提供科技产品、服务和运营。我们希望通过我们的产品与服务助力区域内医疗机构与卫生行政主管部门，促进医疗体系与公共卫生体系的实时互联，降低行业数字化转型升级成本，提升数字化运营效率和价值。我们致力于中国卫健行业数字新基建的普及应用，推进分级诊疗落地及县域医共体建设，助力国家医改。\n我们的业务包括数智卫健生态运营平台、DT医疗大脑、医共体云平台、卫健数字化转型咨询服务及创新业务。除此之外，我们将联合战略合作伙伴及生态服务提供商，共同构建卫健数字新基建体系，为更多的人群提供全生命周期医疗健康数字化服务。\n\n使命与愿景：\n让人类更健康！\n我们致力成为国内领先的数智卫健生态运营平台服务商，整合行业生态共谋聚变，以数据和智能赋能医疗，通过科技创新，让无边界医院和连续式全程医疗服务成为可能，为 3 亿人提供全生命周期医疗健康数字化服务。\n\n公司官网：http://www.healthdt.com/",
+      "encryptComId": "45b6d99208e9a6481HR_0t65GFQ~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "资深测试工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "101otDoYeMT.search.1",
+          "performance": "",
+          "salaryDesc": "15-25K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "软件测试",
+            "自动化测试",
+            "接口测试"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "软件测试",
+              "highlight": false
+            },
+            {
+              "content": "自动化测试",
+              "highlight": false
+            },
+            {
+              "content": "接口测试",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "96c232381fe27ceb1nZ62tS7F1dU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "海豚科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210106/de6ac35fca4f5ea3d5656c2216840c459cd143a39421c08ce08fa64807885397_s.jpg",
+          "brandStage": "A轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "邓轶轲",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "软件测试",
+            "自动化测试",
+            "接口测试",
+            "web端测试",
+            "接口自动化测试",
+            "Python",
+            "Java",
+            "Selenium"
+          ],
+          "welfares": [],
+          "securityId": "k3uW7FFXMZrzF-U1_Bxcn4PIxzLCDsLbqD4T1NCXZMObkXUZ10hJybJgvMjlz85LSGaWyno~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "HZ-Java工程师-J592999",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "101otDoYeMT.search.3",
+          "performance": "",
+          "salaryDesc": "15-20K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "不接受居家办公",
+            "java",
+            "后端工程师"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "不接受居家办公",
+              "highlight": false
+            },
+            {
+              "content": "java",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "378ff7b1a32edfbf1HR929S_GFFS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "海豚科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210106/de6ac35fca4f5ea3d5656c2216840c459cd143a39421c08ce08fa64807885397_s.jpg",
+          "brandStage": "A轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "梁女士",
+          "bossTitle": "HRG",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220715/607f1f3d68754fd07d9c7d31353e406f91605afbe7cf48767a1f71be87bd69af494c222381c93fee_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "不接受居家办公",
+            "java",
+            "后端工程师"
+          ],
+          "welfares": [],
+          "securityId": "-6-jWLTeWT_UV--1Rv9b0OZuoRwfQLqtZ6n4R1gJdPs0gBe7eIU_x6hxUQeWRFo5NAwBLQ~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "HZ-Java工程师-J890130",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "101otDoYeMT.search.4",
+          "performance": "",
+          "salaryDesc": "10-15K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "java",
+            "医疗"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "java",
+              "highlight": false
+            },
+            {
+              "content": "医疗",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "44e68439ccbec7a91HRy2ty5ElZY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "海豚科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210106/de6ac35fca4f5ea3d5656c2216840c459cd143a39421c08ce08fa64807885397_s.jpg",
+          "brandStage": "A轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "梁女士",
+          "bossTitle": "HRG",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220715/607f1f3d68754fd07d9c7d31353e406f91605afbe7cf48767a1f71be87bd69af494c222381c93fee_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "java",
+            "医疗"
+          ],
+          "welfares": [],
+          "securityId": "08V1OnYjMo7xg-K1drXFs9ovVQ3K_3zvu-Er3vwxau_Ik506l-P4Pe0nlDvijmU1ILDKFg~~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

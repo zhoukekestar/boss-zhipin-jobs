@@ -1,0 +1,527 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "YWfcbiUrEg_wP-O1mfIv2AIT5JM73EX1bMRklhM72qZm_GKm_dzER4RL3XFfHV2peB3E-3Wa4SXjvb_083S42MPQ8qoIoracCrOMV7p-dS-8bCw8J-HeldXZ4tFc0RmVQ7bPoSc~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "47a9062f00bfaed21HZ83N24FFQ~",
+      "bossId": 32670546,
+      "securityId": "chvna8Z29mmaI-S16NLZGmvUkvg2yTyLuoNnYgnyWy2_MIEpKMYnTpFUXZr6CZWsXdB1ONxhlH023z9DdW-Tf1n2_so~",
+      "name": "胡勇",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+      "title": "研发经理",
+      "activeTimeDesc": "5月内活跃",
+      "activeTime": 1685355688000,
+      "bossOnline": false,
+      "brandName": "深睿医疗",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 53064001,
+      "encryptJobId": "55bd0dd4023381270nd63dm9EFM~",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "仓前",
+      "locationDesc": "杭州·余杭区·仓前",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 30,
+      "jobDesc": "岗位职责： \n1、与产品经理和交互、视觉设计师协作，根据需求文档、线框图、设计稿完成页面制作；\n2、与后台工程师协作，完成数据交互、动态信息展现和用户的互动;\n任职资格： \n1、3年以上web开发经验；\n2、精通HTML、CSS、JavaScript等前端技术； \n3、对标准化、可用性、页面性能有深入了解，多浏览器兼容经验；\n4、熟练使用PS或FW等图像处理工具，熟悉JAVA或至少一种后端开发语言；\n5、热爱前端技术，个性乐观，善于沟通，有较强的学习能力和团队协作精神； \n6、有MobileWeb、HTML5、CSS3、Node.js等开发经验者优先;\n7、有canvas、webgl、three.js等可视化经验者优先。",
+      "requiredSkills": [
+        "DIV+CSS",
+        "html",
+        "javascript"
+      ],
+      "address": "杭州余杭区中国(杭州)人工智能小镇8幢705",
+      "longitude": 119.965893,
+      "latitude": 30.270601,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/41159331157ed97195ee11fa631a12d1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/63bbf28013cc5dc5efda5415738d83ad",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-30K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "d2b57b26f07126310XN829W5",
+      "brandName": "深睿医疗",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181029/a8affd398413c67be4e55090b525973bcfcd208495d565ef66e7dff9f98764da.jpg",
+      "industryName": "医疗健康",
+      "stageName": "D轮及以上",
+      "scaleName": "500-999人",
+      "brandIntroduce": "深睿医疗成立于2017年3月，在北京、上海、杭州均设有独立运营公司，是国家\n高新技术企业，致力于通过突破性的人工智能“深度学习”技术及自主研发的核心算法，\n为各类医疗服务机构提供基于人工智能和互联网医疗的解决方案。深睿医疗产品遍布全\n国30多个省市，整体业务持续上扬，为数千家医疗机构提供人工智能服务，包括AI\n的辅助诊断、智能筛查、临床决策、患者服务、医疗大数据治理、科学研究、医生培训、\n能力建设等全链路的人工智能服务。深睿医疗五年完成七轮融资，已发展成为医疗人工\n智能领域领军企业。\n        深睿医疗云集了人工智能、互联网云计算、医学影像等多个领域的专业人才，目前\n已获700多个专利及软著，累计影响因子超1500，牵头或参与了7项科技部重大专项，\n15项国家自然科学基金项目，30多个省市级科研项目，涵盖了医学影像处理、医疗大\n数据知识体系的构建及应用以及相关数字疗法探讨。深睿医疗也是国内同时拥有8张\nNMPA三类证的医疗人工智能公司，获证数量及获证产品覆盖领域独占鳌头。\n        深睿医生，让看病不再困难。",
+      "comName": "北京深睿博联科技有限责任公司",
+      "legalPerson": "乔昕",
+      "startDate": "2017-03-01",
+      "regCapital": "115157.817742万人民币",
+      "statusDesc": "存续",
+      "regAddress": "北京市海淀区西三环北路甲2号院2号楼13层02室",
+      "businessScope": "销售第三类医疗器械；生产第二类、第三类医疗器械；技术开发、技术推广、技术转让、技术咨询、技术服务；健康管理、健康咨询（须经审批的诊疗活动除外）；计算机系统服务；基础软件服务、应用软件服务；软件开发；软件咨询；产品设计；模型设计；包装装潢设计；经济贸易咨询；文化咨询；公共关系服务；会议服务；工艺美术设计；电脑动画设计；企业策划、设计；设计、制作、代理、发布广告；企业管理咨询；组织文化艺术交流活动（不含营业性演出）；承办展览展示活动；销售医疗器械（Ⅰ类、Ⅱ类）、计算机、软件及辅助设备、生活用消毒用品；租赁医疗器械；生产第一类医疗器械。（市场主体依法自主选择经营项目，开展经营活动；生产第二类、第三类医疗器械、销售第三类医疗器械以及依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事国家和本市产业政策禁止和限制类项目的经营活动。）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "深睿医疗成立于2017年3月，在北京、上海、杭州均设有独立运营公司，是国家\n高新技术企业，致力于通过突破性的人工智能“深度学习”技术及自主研发的核心算法，\n为各类医疗服务机构提供基于人工智能和互联网医疗的解决方案。深睿医疗产品遍布全\n国30多个省市，整体业务持续上扬，为数千家医疗机构提供人工智能服务，包括AI\n的辅助诊断、智能筛查、临床决策、患者服务、医疗大数据治理、科学研究、医生培训、\n能力建设等全链路的人工智能服务。深睿医疗五年完成七轮融资，已发展成为医疗人工\n智能领域领军企业。\n        深睿医疗云集了人工智能、互联网云计算、医学影像等多个领域的专业人才，目前\n已获700多个专利及软著，累计影响因子超1500，牵头或参与了7项科技部重大专项，\n15项国家自然科学基金项目，30多个省市级科研项目，涵盖了医学影像处理、医疗大\n数据知识体系的构建及应用以及相关数字疗法探讨。深睿医疗也是国内同时拥有8张\nNMPA三类证的医疗人工智能公司，获证数量及获证产品覆盖领域独占鳌头。\n        深睿医生，让看病不再困难。",
+      "encryptComId": "79ca4f26d76f05a41XR-09m1EA~~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "算法研究员",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "古荡",
+          "distance": "",
+          "lid": "ZWmEDH68F2.search.1",
+          "performance": "",
+          "salaryDesc": "20-30K·14薪",
+          "jobLabels": [
+            "经验不限",
+            "硕士",
+            "视觉图像算法",
+            "算法设计",
+            "C++"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "视觉图像算法",
+              "highlight": false
+            },
+            {
+              "content": "算法设计",
+              "highlight": false
+            },
+            {
+              "content": "C++",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "94b80f70e946304f1nB-2Nm1EVdT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "深睿医疗",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181029/a8affd398413c67be4e55090b525973bcfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "D轮及以上",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "LIUXIAOQING",
+          "bossTitle": "算法总监",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "视觉图像算法",
+            "算法设计",
+            "C++",
+            "Python",
+            "机器学习算法",
+            "深度学习算法",
+            "自然语言处理",
+            "PyTorch"
+          ],
+          "welfares": [],
+          "securityId": "tjvJfpQjNh02Z-61UzWeaq1V94nQFG5qot0-OT7gzWzDv27LKgnbGX0_iGbXGqIG_6eo630D",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "算法实习生",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "黄龙",
+          "distance": "",
+          "lid": "ZWmEDH68F2.search.2",
+          "performance": "",
+          "salaryDesc": "200-300元/天",
+          "jobLabels": [
+            "4天/周",
+            "6个月",
+            "硕士",
+            "深度学习算法",
+            "机器学习算法"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "4天/周",
+              "highlight": false
+            },
+            {
+              "content": "6个月",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "深度学习算法",
+              "highlight": false
+            },
+            {
+              "content": "机器学习算法",
+              "highlight": false
+            }
+          ],
+          "jobType": 4,
+          "encryptJobId": "80b8a4dbaad612a61XZz3ti5EVNX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "深睿医疗",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181029/a8affd398413c67be4e55090b525973bcfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "D轮及以上",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "陈雪迎",
+          "bossTitle": "HRBP",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "深度学习算法",
+            "机器学习算法",
+            "视觉图像算法",
+            "TensorFlow",
+            "PyTorch",
+            "Keras"
+          ],
+          "welfares": [],
+          "securityId": "jjTT6ANc3VqAQ-h1Nk0Cz-pADq7UWE_tcxm9dKjl9y-u-w1-7EprkIdWhkq_IiwFpFRdAQ~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "项目经理",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZWmEDH68F2.search.3",
+          "performance": "",
+          "salaryDesc": "10-15K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "Java",
+            "SQL",
+            "HTML"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "HTML",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "98033593478931d91nV52Ni0EVRU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "深睿医疗",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181029/a8affd398413c67be4e55090b525973bcfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "D轮及以上",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "管玉虹",
+          "bossTitle": "HRBP",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210819/36e36d4b8125de3ad196f1b2de12e772c6cbdd7edce48f51c28ae4ce75910d62_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "SQL",
+            "HTML",
+            "CSS"
+          ],
+          "welfares": [],
+          "securityId": "p3p37MPAwuNyI-P1jL7R4UITGnO0FeZvnGQFpc495ro-aXoEVCUCH0db72P2I_C3r9hmJvo~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java后端架构师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "未来科技城",
+          "distance": "",
+          "lid": "ZWmEDH68F2.search.4",
+          "performance": "",
+          "salaryDesc": "20-40K·14薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "网络编程",
+            "Java",
+            "Spring"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "网络编程",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "bf426f93838cc5033nJ50t68F1M~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "深睿医疗",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181029/a8affd398413c67be4e55090b525973bcfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "D轮及以上",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "李一鸣",
+          "bossTitle": "联合创始人/CTO",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170518/2a99fb3e1a30f8b5be6f52087cccab8b8c7dd922ad47494fc02c388e12c00eac_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "网络编程",
+            "Java",
+            "Spring",
+            "Hibernate",
+            "微服务架构",
+            "负载均衡技术",
+            "架构师",
+            "容器技术"
+          ],
+          "welfares": [],
+          "securityId": "G2qZbe4KiFKe1-Z1c142ZtibIN8oGc1ELFoRX3IAJE__zI3g2Ml6agaQO-5CymLXEouJuA~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "java架构师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "黄龙",
+          "distance": "",
+          "lid": "ZWmEDH68F2.search.5",
+          "performance": "",
+          "salaryDesc": "35-50K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Java",
+            "网络编程",
+            "数据结构"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "网络编程",
+              "highlight": false
+            },
+            {
+              "content": "数据结构",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "402a8d33c6974def1HR53Nu1EVZQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "深睿医疗",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181029/a8affd398413c67be4e55090b525973bcfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "D轮及以上",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "陈雪迎",
+          "bossTitle": "HRBP",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "网络编程",
+            "数据结构",
+            "多线程",
+            "Spring",
+            "SpringMVC",
+            "Hibernate"
+          ],
+          "welfares": [],
+          "securityId": "z2CYahmdG0uWY-Q1vxMeRKYCPZnnHpGCyrSmb5zkH4tMErIIuyhmt7oqds2wrxYZEiEitw~~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

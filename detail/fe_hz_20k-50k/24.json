@@ -1,0 +1,140 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "y6ZINGZ6hDMka-u1MdogaHiq-mEwMGYpg8vhysKBNpo6qA_xz_-mjXVyYJat0tokPmC93miWiY0-THVQNckEXH6eE9QKJM8NQbXmLX6DG2t5ByGHhMDnj6Nxc6wbmK9yKNiJPdhi5SU~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "50dac8ec50290795031y39m7EVA~",
+      "bossId": 49844612,
+      "securityId": "6zXz6nrIs9vsa-j1UxA5X4zTIrTlqwmE5ne1k3nzN-_ZXVgnik4D4gDMrSPf6aESlwDH_rPsEFh--HVgcf4d5IBGU294",
+      "name": "周金金",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210302/992265ec1f866ab3d573e0bce2da8fdef08076af289482b0116e28be75aa037f_s.jpg",
+      "title": "行政",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1649286582000,
+      "bossOnline": false,
+      "brandName": "杭州太美文化艺术...",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 217744163,
+      "encryptJobId": "ed82d11f0a8baed51XV93Nm5EVRT",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "白马湖",
+      "locationDesc": "杭州·滨江区·白马湖",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 16,
+      "highSalary": 25,
+      "jobDesc": "3- -5年开发经验:\n\n1.本科及以上学历，三年以上前端开发经验;\n\n2.熟悉掌握HTML 5、CSS3开发规范，能编写出较高质量的代码;\n\n3.对JavaScript原生技术掌握良好，有封装插件的项目经验;4.熟练掌握Vue框架，熟练使用Vue的API,能快速搭建功能原型页面，有模块化、组件化思想;\n\n5.掌握Webpack或Gulp等前端自动构建化工具，实现开发流程自动化，熟悉使用git等代码管理工具;\n\n6.对多个浏览器的兼容问题和移动端适配问题有丰富的项目经验;\n\n7.具备良好的沟通表达能力、责任心和团队协作能力，抗压能力强",
+      "requiredSkills": [
+        "CSS",
+        "HTML5",
+        "前端开发",
+        "Windows",
+        "Web端"
+      ],
+      "address": "杭州滨江区长河1期",
+      "longitude": 120.210675,
+      "latitude": 30.151394,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/938e906330b1bb6475413e9a05d7777f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c3a435234ae7d6fe7936ec8e7eb46486",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "16-25K·13薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "45de80ede041f09c1nF90tq5ElM~",
+      "brandName": "杭州太美文化艺术...",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "industryName": "文化/体育/娱乐",
+      "stageName": "",
+      "scaleName": "0-20人",
+      "brandIntroduce": "",
+      "comName": "杭州太美文化艺术有限公司",
+      "legalPerson": "徐敏宇",
+      "startDate": "2014-05-08",
+      "regCapital": "300万人民币",
+      "statusDesc": "存续",
+      "regAddress": "杭州市滨江区浦沿街道六和路368号一幢（北）二楼B2063室",
+      "businessScope": "服务：文化艺术交流活动策划（除演出及演出中介）、公关礼仪、承办会展会务、企业形象策划、品牌策划、品牌管理、市场营销策划、图文设计、网页设计、平面设计、婚礼策划。批发、零售：工艺礼品、服装、箱包、日用百货、五金交电、建材、陶瓷制品、计算机配件、家具、家电、化妆品（除分装）、纺织品及面料、电子设备、汽车配件、石材、办公用品、展示道具",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "",
+      "encryptComId": "101c7a995ec06fc21HZ-2tu9FVc~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": null
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

@@ -1,0 +1,498 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "3VihHSYTNwBax-Q1ZGs66qeGKFpCum5Pj34s-1uXYab-RqA7bykUaaZMd6K6fmHVaFJoiKsQ3USh6TyFTjFQLNjuzvbtFYYQTQ1ZTh9EXLQfxbzmRe37fej55MGdeulMK9JHT7fcLw~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "cf23b9b7285327ac0XV70tS1FVs~",
+      "bossId": 61199859,
+      "securityId": "zwSqLd9PC270H-A18XO1l3B8PLnlWLXQXf4xGzZ4fP5asgmIbXtKeZqMw3RCYyYW7NPdZBo3FsE0aixB5DktmwlZkDIL",
+      "name": "谢晓静",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_11.png",
+      "title": "招聘者",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1658568811000,
+      "bossOnline": false,
+      "brandName": "坚果智慧",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 159144718,
+      "encryptJobId": "a694c0c02eb4451f1nFz2tm5F1NY",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端主管",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "仓前",
+      "locationDesc": "杭州·余杭区·仓前",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 12,
+      "highSalary": 24,
+      "jobDesc": "职责\n1、负责网站的前端开发工作，实现产品所需的交互和视觉效果；\n2、与后端开发保持良好的沟通，完成具体的协调工作；\n3、负责搭建前端框架、通用组件方案制定、前端性能优化相关工作；\n4、参与产品需求、研发设计的相关讨论，从前端设计角度提升产品用户体验；\n5、具备良好的团队协作精神，能利用自身技术能力提升团队整体研发效率，提高团队影响力；\n6、熟悉业务逻辑，针对不同业务需求给出前端技术解决方案，对产品交互及功能设计有一定的理解；\n7、负责制定前端规范；\n8、负责小程序功能的开发；\n要求：\n1、具有 4 年及以上前端开发工作经验；\n2、熟练掌握 HTML、CSS 、Javascript 和 ES6+ 语法标准；\n3、熟练掌握 react 相关技术并有 hooks + ts 项目开发经验；\n4、熟练掌握 git、less/sass、npm、webpack 等一系列开发工具，能够打造高效简洁的前端开发环境；\n5、对前端工程化和组件化有较深的理解，并运用到开发中提升开发效率和开发质量；\n6、熟悉 node.js，有实际的项目开发经验者优先；\n7、有前端技术管理岗经历；",
+      "requiredSkills": [
+        "前端开发",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "Less",
+        "ES6"
+      ],
+      "address": "杭州余杭区正元智慧A幢15楼",
+      "longitude": 119.993782,
+      "latitude": 30.277486,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f8c392877188d5cc71cc6c3ff7ad1b0a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/783f7fecc4fbe64f983e09b6a9b37910",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "12-24K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "5980089b4e57e4891HR5292-Eg~~",
+      "brandName": "坚果智慧",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210302/80ae8ede82060b8910a9804e8a37e1fbf36013eff8c2f5624b31c31d8c69309e_s.jpg",
+      "industryName": "互联网",
+      "stageName": "未融资",
+      "scaleName": "20-99人",
+      "brandIntroduce": "浙江坚果智慧科技有限公司，由浙江正元智慧科技有限公司、浙江新宇教育后勤管理有限公司、东阳市食惠科技有限公司三大企业联合成立，共同搭建以智能食品安全监管为核心的IOT智能生态圈。坚果智慧综合三大企业物联网、互联网、AI技术的优势，拥有专业强大的物联网、互联网研发人才资源优势，终端智能设备的技术优势和全国市场的先发优势，为客户提供全方位智能化的IOT 应用整体解决方案。\r\n     坚果智慧的核心系统架构体系将通过完善的全托管云平台，使物联网、互联网技术相互融合，配合终端智能设备等，形成以为智能晨检、智慧采购、智慧验收、智慧结算的IOT智能生态圈。坚果智慧科技打造的IOT智能生态圈云平台开放了嵌入式开发接口，无缝对接政府职能部门的监管系统，促进工商局、市场监管局与食品生产行业建立科学、公正、高效、准确的智能监管。",
+      "comName": "浙江坚果智慧科技有限公司",
+      "legalPerson": "周炜",
+      "startDate": "2018-10-11",
+      "regCapital": "1441.2万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市余杭区仓前街道舒心路359号正元智慧大厦A幢1512、1513、1514、1515室",
+      "businessScope": "技术开发、技术服务、技术咨询、成果转让：食品检测技术、计算机软硬件、互联网信息技术、计算机系统集成、通信技术、物联网技术、食品安全科学技术、云计算和机器视觉技术、生物技术、农业技术、营养检测和检验技术。计算机软硬件及配件、安全检查仪器、电子产品（除电子出版物）及通信设备、办公自动化设备的销售。室内装饰、装修；室内装饰设计服务；营养健康咨询服务；展会服务、广告设计。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "浙江坚果智慧科技有限公司，由浙江正元智慧科技有限公司、浙江新宇教育后勤管理有限公司、东阳市食惠科技有限公司三大企业联合成立，共同搭建以智能食品安全监管为核心的IOT智能生态圈。坚果智慧综合三大企业物联网、互联网、AI技术的优势，拥有专业强大的物联网、互联网研发人才资源优势，终端智能设备的技术优势和全国市场的先发优势，为客户提供全方位智能化的IOT 应用整体解决方案。\r\n     坚果智慧的核心系统架构体系将通过完善的全托管云平台，使物联网、互联网技术相互融合，配合终端智能设备等，形成以为智能晨检、智慧采购、智慧验收、智慧结算的IOT智能生态圈。坚果智慧科技打造的IOT智能生态圈云平台开放了嵌入式开发接口，无缝对接政府职能部门的监管系统，促进工商局、市场监管局与食品生产行业建立科学、公正、高效、准确的智能监管。",
+      "encryptComId": "fa9629d91e113c3f1nd_3Nm0ElY~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "java高级工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZRhlRHCQkt.search.1",
+          "performance": "",
+          "salaryDesc": "15-20K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Java",
+            "netty",
+            "spring cloud"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "netty",
+              "highlight": false
+            },
+            {
+              "content": "spring cloud",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "f3067edaa857683a33Vz0tq1F1E~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "坚果智慧",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210302/80ae8ede82060b8910a9804e8a37e1fbf36013eff8c2f5624b31c31d8c69309e_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "韩先生",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181113/477c4213bb01a0d8189b152e91ccf387cfcd208495d565ef66e7dff9f98764da_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "netty",
+            "spring cloud",
+            "rabbitmq"
+          ],
+          "welfares": [],
+          "securityId": "lw_e5Rv67W9Of-p1Iv3K9EbIv8rk5YjQYo7IRP8LbcHWa2e6Z4V7Qg6SOlAvjvDpqIJ3aw~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZRhlRHCQkt.search.2",
+          "performance": "",
+          "salaryDesc": "12-16K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "后端工程师",
+            "Java",
+            "Spring"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "8620d974bd8576121Xxz09S6F1dT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "坚果智慧",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210302/80ae8ede82060b8910a9804e8a37e1fbf36013eff8c2f5624b31c31d8c69309e_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "谢女士",
+          "bossTitle": "公司人事",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220618/607f1f3d68754fd0868421ffd330d2d659a94487610ff20e0058dc92bdb8a4d0dfe26cb02a597772_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "Java",
+            "Spring",
+            "MySQL",
+            "Java开发经验"
+          ],
+          "welfares": [],
+          "securityId": "32EjqbkN5o0kZ-A1vNsbboEtOzDkh1ncAG6kJbo-AXAJm7NeI5V7jdO_3A7GpqQUlMzlzeQ~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "前端开发",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZRhlRHCQkt.search.3",
+          "performance": "",
+          "salaryDesc": "11-20K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "前端开发",
+            "Node.js",
+            "HTML"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            },
+            {
+              "content": "Node.js",
+              "highlight": false
+            },
+            {
+              "content": "HTML",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "5cfe6531808dc02e1nFz2tm4FlJU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "坚果智慧",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210302/80ae8ede82060b8910a9804e8a37e1fbf36013eff8c2f5624b31c31d8c69309e_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "谢晓静",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_11.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "前端开发",
+            "Node.js",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "TypeScript",
+            "Less",
+            "ES6"
+          ],
+          "welfares": [],
+          "securityId": "PphmYX_vgfXX--518Swl6Dtafhx1GofZ2y2BmRJ7w_ssst9zzhxYdWnbPJF0owaaxkYKlpE~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "后端主管",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZRhlRHCQkt.search.4",
+          "performance": "",
+          "salaryDesc": "25-35K·13薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "全栈开发"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "全栈开发",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "b6232777d9b5c6cb1Xxy09-8GFNW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "坚果智慧",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210302/80ae8ede82060b8910a9804e8a37e1fbf36013eff8c2f5624b31c31d8c69309e_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "谢女士",
+          "bossTitle": "公司人事",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220618/607f1f3d68754fd0868421ffd330d2d659a94487610ff20e0058dc92bdb8a4d0dfe26cb02a597772_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "全栈开发"
+          ],
+          "welfares": [],
+          "securityId": "1FXSiYvM-zWTW-A1fe4shppVu1XsHfbI_QznrcI8Wp9TF1GzHCcstXbRiqMPPRHQuWLiAVc~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "项目实施",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZRhlRHCQkt.search.5",
+          "performance": "",
+          "salaryDesc": "4-8K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "计算机相关专业"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "计算机相关专业",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "13cbed43bf21d32b1XB80tq7GFRZ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "坚果智慧",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210302/80ae8ede82060b8910a9804e8a37e1fbf36013eff8c2f5624b31c31d8c69309e_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "谢女士",
+          "bossTitle": "公司人事",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220618/607f1f3d68754fd0868421ffd330d2d659a94487610ff20e0058dc92bdb8a4d0dfe26cb02a597772_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "计算机相关专业"
+          ],
+          "welfares": [],
+          "securityId": "Bmh25nxMssiA4-K1StzSdCQ8yHNuHXTtUi4OWjPRaWMHijqT89IJ9C8Mv_nbDTOfOcenDHk~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

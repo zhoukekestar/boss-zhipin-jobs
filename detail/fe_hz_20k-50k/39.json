@@ -1,0 +1,375 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "LEquUVpgM5aNc-E1haz3-_9_Xde8V0vufupMVYqErtJc8RsKbdbUHo6tTAEw6ZTD0kF8xNfT28bO2nETQkti8snMAmc8F7REbXARIsw0qxZ26wAVqI9-UyqdXRYZJWkbOPV5PGWcvn4~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "7719b9f27d826f4d0HB52dy0FFI~",
+      "bossId": 74321940,
+      "securityId": "Yb17Od7sFIYvh-E1hpyRgeDHJKi_QIkP8OjnqLe0esMfPOE_B2vd0F7s0dEI0bf8d6TyUIUaq_KUBMxWTj08j5oNjdGY",
+      "name": "邓仙民",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220219/607f1f3d68754fd00344da1a112692adef7d7591f53627b923a9fa62ccbe3f7add52c8ad8e06b5ae_s.jpg",
+      "title": "技术专家",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1677073867000,
+      "bossOnline": false,
+      "brandName": "以正以常科技有限公司",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 209402596,
+      "encryptJobId": "20e5f1ba13da2c041XRz392_FVtW",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "西溪",
+      "locationDesc": "杭州·西湖区·西溪",
+      "experienceName": "1-3年",
+      "degreeName": "学历不限",
+      "lowSalary": 15,
+      "highSalary": 30,
+      "jobDesc": "## 公司简介\n\n- 正常工场是一支新成立的创业团队，我们相信热爱改变世界，相信互联网和工具的力量\n- 两位创始人来自蚂蚁，是一对老战友。一位是14年蚂蚁老兵，33岁入选 MIT “全球35位35岁以下科技创新青年”榜单；另一位北大本硕，7年投行5年蚂蚁\n- 团队成员年轻，有来自牛津+微信的产品经理，中国美院硕士+创作者+创业的体验设计，西电硕士+蚂蚁10年研发的工程师，蚂蚁HR+银联商务拓展的HR\n- 我们寻找正常人，正是“做正确的事”，常是“保持平常心”\n- 初始坐标在杭州，志向在全球\n\n更多详情可见链接：\nhttps://bju326ujuq.feishu.cn/docs/doccnz7EWR4gbXkjWbuTuaMbZub#YWh5Cd\n\n## 职位要求\n\n工作地点: 杭州\n工作年限: 两年及以上工作经验\n学历: 大专及以上\n\n## 职位描述\n\n1、有机会接触到类似初创时期的微博，抖音，小红书等系统的架构设计和开发工作，承担核心功能或组件的代码编写；\n2、我们当前基本一穷二白，能够经历从0到1构建应用，快速帮助业务破局，可以看着自己参与建设的系统随着业务的扩增而不断的进化和演变；\n\n## 我们希望找到的人是什么样子的\n\n1、因为是初创公司，风险与机遇同在。我们看中的是有能够承担风险勇气，具有活力和朝气的年轻人。\n2、我们希望你热爱学习，保持谦虚，不抱怨，能够在工作中快速成长，具备很强责任心的人\n3、具有扎实的javascript基础、css基础，具有2及以上的前端相关工作经验\n4、熟悉vue2 或 react、webpack 相关框架\n5、了解Http、浏览器、前端缓存、v8虚拟机等\n6、了解MVVM、设计模式、数据结构等\n\n加分项：\n1、使用过TypeScript、Vue3、Vite、Vitest等相关技术\n2、对于前端项目调优有过相关经验，如：打包速度优化、首屏加载速度提升等\n3、使用过抓包工具，进行分析查错\n4、有社交、短视频、直播等互联网内容产品研发经验；具有互联网内容搜索/推荐，数据爬虫等业务和研发经验背景的优先考虑；",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "HTML5",
+        "前端开发"
+      ],
+      "address": "杭州西湖区金色西溪龙湖天街",
+      "longitude": 120.068614,
+      "latitude": 30.291206,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6301c49a3c56b5c7db583de2792c56e3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/17a22942c443fe90b23a5e94ed61e5a6",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-30K·14薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "ef7735f9e24b9d1b1nx80tu7FVc~",
+      "brandName": "以正以常科技有限公司",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210816/938bff5f93e05c24103e08ec0910a478f81ee2a3ba3698ecde8e87ef4836420f.jpg",
+      "industryName": "互联网",
+      "stageName": "天使轮",
+      "scaleName": "0-20人",
+      "brandIntroduce": "「正常工场」是一支新成立的创业团队，我们相信热爱改变世界，相信互联网和工具的力量。两位创始人来自蚂蚁，是一对老战友，一位14年老阿里，33岁入选 MIT TR35 全球榜单，另一位北大本硕，7年投行5年蚂蚁。我们的主要业务为软件产品的开发，第一个产品在 SaaS 领域，一个面向创作者帮助他们创业的操作系统，志在解放并激发创造性。\n\n我们正在组建一支最优质/最有潜力的队伍并承诺最充分的激励。我们希望你的加入，一起找到第二个、第三个、更多的有价值有意思的产品，体验真正的从无到有。\n\n网站：https://normal.works\n邮箱：*****\n微信公众号：「正常工场」",
+      "comName": "杭州以正以常科技有限公司",
+      "legalPerson": "许寄",
+      "startDate": "2021-05-25",
+      "regCapital": "333.3333万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市余杭区五常街道文一西路998号海创园4幢511室",
+      "businessScope": "许可项目：第二类增值电信业务；广播电视节目制作经营；网络文化经营（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。一般项目：计算机软硬件及辅助设备批发；计算机软硬件及辅助设备零售；计算机系统服务；信息系统集成服务；计算机软硬件及外围设备制造；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；软件开发；广告设计、代理；广告制作（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "「正常工场」是一支新成立的创业团队，我们相信热爱改变世界，相信互联网和工具的力量。两位创始人来自蚂蚁，是一对老战友，一位14年老阿里，33岁入选 MIT TR35 全球榜单，另一位北大本硕，7年投行5年蚂蚁。我们的主要业务为软件产品的开发，第一个产品在 SaaS 领域，一个面向创作者帮助他们创业的操作系统，志在解放并激发创造性。\n\n我们正在组建一支最优质/最有潜力的队伍并承诺最充分的激励。我们希望你的加入，一起找到第二个、第三个、更多的有价值有意思的产品，体验真正的从无到有。\n\n网站：https://normal.works\n邮箱：hi@normal.works\n微信公众号：「正常工场」",
+      "encryptComId": "42820d56dacd06ec1Hdz09i1GVE~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "学历不限",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "106TXwZIEBQ.search.1",
+          "performance": "",
+          "salaryDesc": "12-24K·14薪",
+          "jobLabels": [
+            "1-3年",
+            "学历不限",
+            "JavaScript",
+            "TypeScript",
+            "HTML"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "学历不限",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "TypeScript",
+              "highlight": false
+            },
+            {
+              "content": "HTML",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "fac7bede85bd7f541XV40tu6E1tW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "以正以常科技有限公司",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210816/938bff5f93e05c24103e08ec0910a478f81ee2a3ba3698ecde8e87ef4836420f.jpg",
+          "brandStage": "天使轮",
+          "brandScale": "0-20人",
+          "comName": null,
+          "bossName": "邓仙民",
+          "bossTitle": "技术专家",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220219/607f1f3d68754fd00344da1a112692adef7d7591f53627b923a9fa62ccbe3f7add52c8ad8e06b5ae_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript",
+            "TypeScript",
+            "HTML",
+            "CSS",
+            "MVC开发",
+            "网络协议",
+            "数据结构",
+            "React"
+          ],
+          "welfares": [],
+          "securityId": "BY8jCuUUJ9zC0-G1ULnwwBX2et6tVG0th3aEJBVPRQrnI8nKZDlnO41Uv-DQDIC8zJAWs-Q~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "移动web前端",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "106TXwZIEBQ.search.3",
+          "performance": "",
+          "salaryDesc": "25-40K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "前端开发",
+            "React",
+            "Vue.js"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            },
+            {
+              "content": "React",
+              "highlight": false
+            },
+            {
+              "content": "Vue.js",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "3e2cacdad6e9f4f61nN_2Nm5FVVX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "以正以常科技有限公司",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210816/938bff5f93e05c24103e08ec0910a478f81ee2a3ba3698ecde8e87ef4836420f.jpg",
+          "brandStage": "天使轮",
+          "brandScale": "0-20人",
+          "comName": null,
+          "bossName": "叶鹏程",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210813/ca18386da30884404b313fb94e2c5f1ef81ee2a3ba3698ecde8e87ef4836420f_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "前端开发",
+            "React",
+            "Vue.js",
+            "小程序",
+            "Web端",
+            "移动端",
+            "WEB开发"
+          ],
+          "welfares": [],
+          "securityId": "Suj5MbImY94fN-q1zHE89TPExdTEm0idqg5tCYpvpEF5d6WfSuphk4hPptrfVLsLx3fSdeSA",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "106TXwZIEBQ.search.4",
+          "performance": "",
+          "salaryDesc": "25-40K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "前端开发",
+            "Vue",
+            "Web端"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            },
+            {
+              "content": "Vue",
+              "highlight": false
+            },
+            {
+              "content": "Web端",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "ba858223e17d23571n190tm5FFNQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "以正以常科技有限公司",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210816/938bff5f93e05c24103e08ec0910a478f81ee2a3ba3698ecde8e87ef4836420f.jpg",
+          "brandStage": "天使轮",
+          "brandScale": "0-20人",
+          "comName": null,
+          "bossName": "江南",
+          "bossTitle": "Recruiter",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211123/607f1f3d68754fd06c74ae711db6e1495574e39e8153e5b5e46fa21dfd3ec7cd4740012b56ad544c_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "前端开发",
+            "Vue",
+            "Web端",
+            "移动端",
+            "PC端"
+          ],
+          "welfares": [],
+          "securityId": "wm8kiIXad8ul6-t1mmBRGQMH5G-bCjV8ZLiha_IRd2HsrePu26ZefXh4GOsfubHxvaqsZtQ~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

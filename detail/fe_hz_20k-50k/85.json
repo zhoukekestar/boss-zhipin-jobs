@@ -1,0 +1,138 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "dhT20X8tEJ0Qs-s1nVBdK3dDfZ4TcS52qTQ0WM0jhcMdAhQNrEpfAXQ4DSVoeK4moP6zbMzcQGZxpu97YTHAPko_SzDOeIrdvRmkArPHZhzeLn0871AmJ_aIM3Nji8caZP6TMVylez0~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "cd06329145d06ba303R72du9EVs~",
+      "bossId": 40126019,
+      "securityId": "Td5Z-tO9QXH4g-01tjc1lbVjBjCL1pQBN8RTNFGoNzOUD4C3kfbw0O_snrf-iphjvc5Oj-mX97y34K0CuGj0RHC2MV1d",
+      "name": "任曦",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210924/607f1f3d68754fd041f9fbae932a291aa7e8e919a2edeb29e1b04b9b9527ef282b6e2e22b20aee7b_s.png",
+      "title": "高级工程师",
+      "activeTimeDesc": "3月内活跃",
+      "activeTime": 1692880441000,
+      "bossOnline": false,
+      "brandName": "杭州源诚科技有限公司",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 295794003,
+      "encryptJobId": "9216a7c96be15df91X1_3NS5EFJT",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "高级前端开发",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "文二路",
+      "locationDesc": "杭州·西湖区·文二路",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "lowSalary": 11,
+      "highSalary": 22,
+      "jobDesc": "responsibility\n1.前端开发，与产品配合完成高质量的开发工作\n2.配合完成基础设施的建设，包括组件库的完善，脚手架的升级，框架的统一\n3.按时交付业务需求，不延期\n\nrequirement\n1. 本科以上学历(硬性要求)\n2. 只需要react技术栈\n3. js与css基础娴熟\n4. 对网络和webpack有一定了解\n5. 有较强的业务理解力和敏感性\n6. 熟悉umi和taro是加分项",
+      "requiredSkills": [
+        "JavaScript",
+        "React",
+        "Node.js"
+      ],
+      "address": "杭州西湖区华星世纪大楼606",
+      "longitude": 120.12309,
+      "latitude": 30.280745,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230407/48ba41acc9cef1bfee7ab3c9fe209756c42be93e3bcdcbca6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230516/48ba41acc9cef1bfb5d33bb4a48c68359eacb5f42e66d2216bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "11-22K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "8bbd137852ef3b251Xx839i8FFY~",
+      "brandName": "杭州源诚科技有限公司",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "industryName": "银行",
+      "stageName": "",
+      "scaleName": "20-99人",
+      "brandIntroduce": "",
+      "comName": "杭州源诚科技有限公司",
+      "legalPerson": "徐升",
+      "startDate": "2017-06-06",
+      "regCapital": "500万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市西湖区万塘路317号华星世纪大楼603、605室",
+      "businessScope": "技术开发、技术服务、技术咨询、成果转让：计算机软硬件、数据处理技术；服务：经济信息咨询（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "",
+      "encryptComId": "d299ac92d876cc240H163tW-Fg~~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": null
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

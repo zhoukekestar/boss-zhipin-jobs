@@ -1,0 +1,523 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "PiSfrm_xf6a0h-B1orfg6KUoB4xBdLGQklZxAPYR04_-Y4l9ASMY3NeLSvDVjDDLRgbUBhabfqoMrmOM6QJaxnhJpmto6oiijwKBltxtUGYgSNoZhVhvdcM74VZpI8dxA-jQDqT9of8~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "a1eb76ae0b2e921b0HF-0tq5E1s~",
+      "bossId": 75497439,
+      "securityId": "1qcrtRq63NCTZ-b14qBcQtQEmhzYEAN913Rnh3x9cKwRVF8Wz8Hbh1KEaWPH3tO2E1-6vm-ldcqlR0bzW2HbzL9eHJ5U",
+      "name": "刘杰",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+      "title": "CTO",
+      "activeTimeDesc": "2周内活跃",
+      "activeTime": 1697339460000,
+      "bossOnline": false,
+      "brandName": "杭州宠胖胖（总部）",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 293984055,
+      "encryptJobId": "f70de4abd18695d31X150tW5EFdV",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "资深前端工程师",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "仓前",
+      "locationDesc": "杭州·余杭区·仓前",
+      "experienceName": "5-10年",
+      "degreeName": "本科",
+      "lowSalary": 25,
+      "highSalary": 45,
+      "jobDesc": "岗位要求:\n1.具备前端架构能力，负责前端框架的设计、开发；\n2.负责大前端多端小程序、app架构设计、混合开发设计、脚手架开发、前端工程化和组件化建设；\n3.负责带领团队构建工具、组件和框架，提升大前端技术综合实力、研发效率和体验，完成框架搭建和具体业务系统的开发；\n4.具备中大型前端团队的技术管理经验和项目管理经验；\n任职要求\n1.大学本科或以上学历，6年以上工作经验；\n2.熟练掌握前端开发知识体系，熟悉前端工程的构建、打包、部署，能熟练运用各类前端工具；\n3.熟悉业界常见的框架，能熟练掌握React，RN，Flutter，Taro，uniapp等相关技术栈，具备成功项目经验；\n4.具备多端化架构设计能力、熟练掌握中后台、微前端技术、工程化、组件化、发布平台建设、脚手架开发、灰度、地图和低代码经验中的一种或几种；\n5.熟悉前端性能优化，熟悉web领域内常见的安全问题及防控方式；\n6.有良好的沟通能力，编码规范，乐于分享。",
+      "requiredSkills": [
+        "HTML5",
+        "React",
+        "Vue"
+      ],
+      "address": "杭州余杭区奥克斯中心41楼",
+      "longitude": 119.99753,
+      "latitude": 30.281352,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230609/48ba41acc9cef1bf097089dec8122c8a3fa8dfb4bcf0a2446bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230609/48ba41acc9cef1bffe1aa5ee0fd3f49285a72ec4ea64ff656bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "25-45K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "15e3e3dd4adfc1921n1-39W-E1A~",
+      "brandName": "杭州宠胖胖（总部）",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211102/7b5b554d84f9729ccedf9b7135810c2b74ccbb84098a7751b77775a40bb23124010379cff7eefec6.jpg",
+      "industryName": "互联网",
+      "stageName": "A轮",
+      "scaleName": "100-499人",
+      "brandIntroduce": "杭州宠胖胖科技有限公司创立于2019年，是步步高集团旗下的宠物兴趣综合平台。宠胖胖聚焦宠物生态，深耕爱宠人群，汇聚宠物内容，为亿万宠物兴趣爱好者、养宠人士、宠物服务商家搭建一个桥梁，致力打造一个宠物兴趣综合平台。\n\n宠胖胖将链接亿万宠物人群和宠物服务，让宠爱更省心。",
+      "comName": "杭州宠胖胖科技有限公司",
+      "legalPerson": "胡建强",
+      "startDate": "2021-07-06",
+      "regCapital": "2354.610642万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市余杭区仓前街道时代未来之城5幢4101室",
+      "businessScope": "一般项目：软件开发；平面设计；广告设计、代理；广告制作；会议及展览服务；宠物服务（不含动物诊疗）；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；市场调查（不含涉外调查）；社会经济咨询服务；企业管理咨询；组织文化艺术交流活动；日用百货销售；玩具销售；文具用品零售；计算机软硬件及辅助设备零售；宠物食品及用品零售；机械设备销售；电子产品销售；照相机及器材销售；照相器材及望远镜零售；通讯设备销售（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：互联网信息服务；第一类增值电信业务；第二类增值电信业务；动物诊疗；货物进出口；技术进出口；兽药经营；广播电视节目制作经营；出版物零售（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "杭州宠胖胖科技有限公司创立于2019年，是步步高集团旗下的宠物兴趣综合平台。宠胖胖聚焦宠物生态，深耕爱宠人群，汇聚宠物内容，为亿万宠物兴趣爱好者、养宠人士、宠物服务商家搭建一个桥梁，致力打造一个宠物兴趣综合平台。\n\n宠胖胖将链接亿万宠物人群和宠物服务，让宠爱更省心。",
+      "encryptComId": "2ed5a8cf8b5373c71HB-2N27E1E~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "高级大模型算法工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZVOqCFyfcW.search.1",
+          "performance": "",
+          "salaryDesc": "30-50K·14薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "业务导向",
+            "语音/图像识别",
+            "机器学习算法/工程化经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "业务导向",
+              "highlight": false
+            },
+            {
+              "content": "语音/图像识别",
+              "highlight": false
+            },
+            {
+              "content": "机器学习算法/工程化经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "97eee39620295d921X153dy9E1JV",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州宠胖胖（总部）",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211102/7b5b554d84f9729ccedf9b7135810c2b74ccbb84098a7751b77775a40bb23124010379cff7eefec6.jpg",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "刘杰",
+          "bossTitle": "CTO",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "业务导向",
+            "语音/图像识别",
+            "机器学习算法/工程化经验",
+            "数学/统计相关专业",
+            "深度学习经验"
+          ],
+          "welfares": [],
+          "securityId": "vCxCugWqJSZD_-T1kcbqaT4lXm_5zzrSx0_h8-LNgUVpzIKXeejXkE2i9cYK4HLSfPC0-PM~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "架构师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZVOqCFyfcW.search.2",
+          "performance": "",
+          "salaryDesc": "30-45K·14薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "Java",
+            "分布式技术",
+            "平台架构"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "平台架构",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "5d9b7218a9be6d061HV82dW4FFtV",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州宠胖胖（总部）",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211102/7b5b554d84f9729ccedf9b7135810c2b74ccbb84098a7751b77775a40bb23124010379cff7eefec6.jpg",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "张女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211118/607f1f3d68754fd0872bcb2db132c0b068641deb2d366d80fdf681bd1d546626a58178d258ae68d8_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "分布式技术",
+            "平台架构",
+            "微服务架构",
+            "算法基础",
+            "网络爬虫技术",
+            "APP架构师"
+          ],
+          "welfares": [],
+          "securityId": "2H18If78MbEmu-K1PlaPauODdTmq8U-4HyGeoHUh3A6T09__M641p4-o47Za7vBkx0O_rLlB",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "架构师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZVOqCFyfcW.search.3",
+          "performance": "",
+          "salaryDesc": "25-50K·14薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "Java",
+            "负载均衡技术",
+            "分布式技术"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "负载均衡技术",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "430c7c36649ec8d21X153dy8FFBQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州宠胖胖（总部）",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211102/7b5b554d84f9729ccedf9b7135810c2b74ccbb84098a7751b77775a40bb23124010379cff7eefec6.jpg",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "刘杰",
+          "bossTitle": "CTO",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "负载均衡技术",
+            "分布式技术"
+          ],
+          "welfares": [],
+          "securityId": "ROuZEsNJyVUq2-I13rFHsWgktKtFhfQcRahZDcdhYkl7ZiwOJ04RFDWzJghTWGsKY_C-xFI~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "机器学习算法工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZVOqCFyfcW.search.4",
+          "performance": "",
+          "salaryDesc": "25-40K·14薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "搜索/推荐",
+            "智能营销/广告",
+            "语音/图像识别"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "搜索/推荐",
+              "highlight": false
+            },
+            {
+              "content": "智能营销/广告",
+              "highlight": false
+            },
+            {
+              "content": "语音/图像识别",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "7077e7bdf1aa93471X1909-6GFdT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州宠胖胖（总部）",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211102/7b5b554d84f9729ccedf9b7135810c2b74ccbb84098a7751b77775a40bb23124010379cff7eefec6.jpg",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "张女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211118/607f1f3d68754fd0872bcb2db132c0b068641deb2d366d80fdf681bd1d546626a58178d258ae68d8_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "搜索/推荐",
+            "智能营销/广告",
+            "语音/图像识别",
+            "Python",
+            "C/C++",
+            "机器学习算法/工程化经验",
+            "深度学习经验"
+          ],
+          "welfares": [],
+          "securityId": "vSvp73rIl8Yoa-I1ga2u1zszT67Ve-TcjyJLDpsJH-E5JjNS-qvtXZB8vAbzFn1hcxyyVjQt",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "架构师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZVOqCFyfcW.search.5",
+          "performance": "",
+          "salaryDesc": "30-45K·14薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "Java",
+            "分布式技术",
+            "平台架构"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "平台架构",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "7f298576eabfef001X173dS1EVJQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州宠胖胖（总部）",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211102/7b5b554d84f9729ccedf9b7135810c2b74ccbb84098a7751b77775a40bb23124010379cff7eefec6.jpg",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "张女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211118/607f1f3d68754fd0872bcb2db132c0b068641deb2d366d80fdf681bd1d546626a58178d258ae68d8_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "分布式技术",
+            "平台架构",
+            "微服务架构",
+            "算法基础",
+            "网络爬虫技术",
+            "APP架构师"
+          ],
+          "welfares": [],
+          "securityId": "02EQuBmrpRpl1-A1hkxPqXJS9_fbh_YlxTOnL5Q1o_FAWEc-fRdLSTIb3wYl-N9qb3TC4nrz",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

@@ -1,0 +1,287 @@
+{
+    "code": 0,
+    "message": "Success",
+    "zpData": {
+        "pageType": 0,
+        "securityId": "gjfTiG4MoQMf7-C1Po9i-q1wL-cdMZJo8Q3kLb7X0LpktOQ7dde6BhQpjCdxm3SvJO4nGxmJK0I6HIfsVmEvxppcOxHqQyJ_HxfkBUaB-Al9YJZTQpWTZ2pWSOuvkYj7EaCwrLPCVjI~",
+        "bossBaseInfoVO": {
+            "encryptBossId": "2f552626e5eef8620HB93ti1GVo~",
+            "bossId": 74755898,
+            "securityId": "x1oajoMe2fA4z-51ru8xah3s25dvYZS8BjvJPG1jppeme-sweS8Qjx_VdcSLM_YLTYtyDXSPKT-M5jMESCwUbcDN9cne",
+            "name": "高杨",
+            "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230710/607f1f3d68754fd0be7c67cbde37459c3e041456ce0002b222b1991fae02e1a394523e79c25454e7_s.png.webp",
+            "title": "招聘主管",
+            "activeTimeDesc": "半年前活跃",
+            "activeTime": 1630658680000,
+            "bossOnline": false,
+            "brandName": "天启年",
+            "disableBossInfo": false
+        },
+        "jobBaseInfoVO": {
+            "jobId": 179655288,
+            "encryptJobId": "90fb07dd1f2f472d1nNz3di4ElpY",
+            "expectId": 0,
+            "jobValidStatus": 1,
+            "deleted": 0,
+            "position": 100901,
+            "positionName": "前端 VUE",
+            "positionCategory": "前端开发工程师",
+            "location": 101210100,
+            "locationName": "杭州",
+            "areaDistrict": "滨江区",
+            "businessDistrict": "浦沿",
+            "locationDesc": "杭州·滨江区·浦沿",
+            "experienceName": "3-5年",
+            "degreeName": "本科",
+            "lowSalary": 14,
+            "highSalary": 22,
+            "jobDesc": "1、 前端基础技能（H5、Jquerv）\n 2、 熟悉vue、react等主流框架,vue经验优先： \n3、 具备良好团队协作精神及沟通能力，工作积极主动",
+            "requiredSkills": [
+                "前端开发",
+                "HTML",
+                "React"
+            ],
+            "address": "杭州滨江区诺基亚通信创新软件园杭州-滨江区-信诚路诺基亚大厦",
+            "longitude": 120.171877,
+            "latitude": 30.188515,
+            "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/35c20447621856385a08e41e01a16970",
+            "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/77b57df7d001a491991bcb629342deff",
+            "salaryMonth": 0,
+            "performance": "",
+            "salarySchemeDesc": null,
+            "jobType": 0,
+            "jobSource": 0,
+            "daysPerWeekDesc": "",
+            "leastMonthDesc": "",
+            "salaryDesc": "14-22K",
+            "salaryDescAppend": null,
+            "salaryDetail": null,
+            "afterNameIcon": null,
+            "afterNameIcons": [],
+            "proxyJob": 0,
+            "proxyType": 0,
+            "anonymous": 0,
+            "salaryType": 0,
+            "newAddressTypeDesc": "",
+            "recruitNumDesc": "",
+            "jobSkills": null,
+            "jobTemplateModule": null,
+            "blueCollarPosition": false,
+            "graduateYearDesc": null,
+            "recruitEndTimeDesc": null
+        },
+        "brandComInfoVO": {
+            "encryptBrandId": "ad36b3f96d259ed51nB839S5Flc~",
+            "brandName": "天启年",
+            "proxyBrandName": null,
+            "customerBrandName": null,
+            "logo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+            "industryName": "电子商务",
+            "stageName": "",
+            "scaleName": "20-99人",
+            "brandIntroduce": "",
+            "comName": "深圳市天启年科技有限公司",
+            "legalPerson": "杨刚耀",
+            "startDate": "2020-02-14",
+            "regCapital": "100万人民币",
+            "statusDesc": "存续",
+            "regAddress": "深圳市宝安区新安街道海旺社区裕安一路3016号尚都2栋D-E座D座2801",
+            "businessScope": "一般经营项目是：电子产品的技术开发（不含生产和加工项目）与销售；五金制品、机械配件、手机配件的销售；国内贸易；投资兴办实业（具体项目另行申报）。，许可经营项目是：",
+            "srcFromDesc": "",
+            "srcUrl": null,
+            "brandWelfares": [],
+            "canJumpToBrandPage": true,
+            "introduce": "",
+            "encryptComId": "c84e7098a45af6171Xd809m5F1o~"
+        },
+        "relationInfoVO": {
+            "interested": false,
+            "applyJobDirectlyStyle": 0,
+            "friend": false
+        },
+        "relatedJobInfo": {
+            "relatedJobList": [
+                {
+                    "jobName": "Java（全栈）",
+                    "jobValidStatus": 1,
+                    "jobExperience": "5-10年",
+                    "jobDegree": "本科",
+                    "cityName": "杭州",
+                    "districtName": "滨江区",
+                    "businessName": "浦沿",
+                    "distance": "",
+                    "lid": "10x4eFbYd0x.search.1",
+                    "performance": "",
+                    "salaryDesc": "15-22K",
+                    "jobLabels": [
+                        "5-10年",
+                        "本科",
+                        "HTML",
+                        "CSS",
+                        "Spring"
+                    ],
+                    "highlightJobLabels": [
+                        {
+                            "content": "5-10年",
+                            "highlight": false
+                        },
+                        {
+                            "content": "本科",
+                            "highlight": false
+                        },
+                        {
+                            "content": "HTML",
+                            "highlight": false
+                        },
+                        {
+                            "content": "CSS",
+                            "highlight": false
+                        },
+                        {
+                            "content": "Spring",
+                            "highlight": false
+                        }
+                    ],
+                    "jobType": 0,
+                    "encryptJobId": "1cd1188cc8f8e92f1nx73di4GVBT",
+                    "afterNameIcon": null,
+                    "afterNameIcons": [],
+                    "beforeNameIcons": [],
+                    "picVideoList": [],
+                    "positionName": null,
+                    "commuteInfo": null,
+                    "optimalTag": null,
+                    "jobSource": 0,
+                    "iconUrl": "",
+                    "brandName": "天启年",
+                    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+                    "brandStage": "",
+                    "brandScale": "20-99人",
+                    "comName": null,
+                    "bossName": "高杨",
+                    "bossTitle": "招聘主管",
+                    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230710/607f1f3d68754fd0be7c67cbde37459c3e041456ce0002b222b1991fae02e1a394523e79c25454e7_s.png.webp",
+                    "bossCert": 0,
+                    "activeMsg": "",
+                    "bossOnline": null,
+                    "proxyJob": 0,
+                    "skills": [
+                        "HTML",
+                        "CSS",
+                        "Spring"
+                    ],
+                    "welfares": [],
+                    "securityId": "br4VY0piovLcM-P17Lvis8ovPTtfyJxxdQ7wqmHkXsiBYlpUFsD0hdEpPwxtSlv6-gov8T4~",
+                    "sessionId": "",
+                    "replayRate": ""
+                },
+                {
+                    "jobName": "前端（VUE）",
+                    "jobValidStatus": 1,
+                    "jobExperience": "5-10年",
+                    "jobDegree": "本科",
+                    "cityName": "杭州",
+                    "districtName": "滨江区",
+                    "businessName": "浦沿",
+                    "distance": "",
+                    "lid": "10x4eFbYd0x.search.2",
+                    "performance": "",
+                    "salaryDesc": "15-22K",
+                    "jobLabels": [
+                        "5-10年",
+                        "本科",
+                        "前端开发",
+                        "HTML",
+                        "React"
+                    ],
+                    "highlightJobLabels": [
+                        {
+                            "content": "5-10年",
+                            "highlight": false
+                        },
+                        {
+                            "content": "本科",
+                            "highlight": false
+                        },
+                        {
+                            "content": "前端开发",
+                            "highlight": false
+                        },
+                        {
+                            "content": "HTML",
+                            "highlight": false
+                        },
+                        {
+                            "content": "React",
+                            "highlight": false
+                        }
+                    ],
+                    "jobType": 0,
+                    "encryptJobId": "63e84edcdf2f35011nx73di-EFBX",
+                    "afterNameIcon": null,
+                    "afterNameIcons": [],
+                    "beforeNameIcons": [],
+                    "picVideoList": [],
+                    "positionName": null,
+                    "commuteInfo": null,
+                    "optimalTag": null,
+                    "jobSource": 0,
+                    "iconUrl": "",
+                    "brandName": "天启年",
+                    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+                    "brandStage": "",
+                    "brandScale": "20-99人",
+                    "comName": null,
+                    "bossName": "高杨",
+                    "bossTitle": "招聘主管",
+                    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230710/607f1f3d68754fd0be7c67cbde37459c3e041456ce0002b222b1991fae02e1a394523e79c25454e7_s.png.webp",
+                    "bossCert": 0,
+                    "activeMsg": "",
+                    "bossOnline": null,
+                    "proxyJob": 0,
+                    "skills": [
+                        "前端开发",
+                        "HTML",
+                        "React"
+                    ],
+                    "welfares": [],
+                    "securityId": "ywAOtXYnvxb0g-R1LyPZHJS2fJ2mW8RRtdqxZfEVgqdZxytEPC_TiqpKR5DF994jTEn1I5o~",
+                    "sessionId": "",
+                    "replayRate": ""
+                }
+            ]
+        },
+        "safeTipInfo": {
+            "title": "BOSS安全提示",
+            "safeReport": {
+                "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+                "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+                "hlname": "请立即举报",
+                "highlightList": [
+                    {
+                        "startIndex": 115,
+                        "endIndex": 120
+                    }
+                ]
+            },
+            "riskTip": null,
+            "safeGuidTip": "了解更多职场安全防范知识",
+            "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+        },
+        "workEnvironment": null,
+        "bannerList": null,
+        "commitment": null,
+        "homeAddressInfo": {
+            "status": 0,
+            "longitude": 0,
+            "latitude": 0,
+            "poiTitle": null,
+            "address": null,
+            "distanceDesc": "距离我的住址 ··· 千米"
+        },
+        "handicappedInfo": null,
+        "highlightInfo": null,
+        "atsOnlineApplicationInfo": null,
+        "showGroupTip": false
+    }
+}

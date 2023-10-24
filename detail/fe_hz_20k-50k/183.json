@@ -1,0 +1,524 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "AJ8i-N48HIg6C--1_m3F7Ludosr1pAQvPpjlcu2q63QMRL7FXvF4MISdDGzGRClgKcHXSq2nZM1UrreNtDpRGYnsZ2Ii9qnKKsFt28gkXCFaxJ4fwp0yWKqyIw3o2LDUV6kDGJX0Q9-b",
+    "bossBaseInfoVO": {
+      "encryptBossId": "487a1ce0b385069b0nV43Nm0E1pU",
+      "bossId": 512749384,
+      "securityId": "-RSfnfzPErWhJ-U1EHnx2ThA6f3I6ncvUKeYFYkuCRFMSkxhFjuoGCGA75yDJDXwDCZyFXW1jDEwsdqO-junqUBB5AX8IQ~~",
+      "name": "方海涛",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210106/8278e6c31503b8d270bf0d67b46bf7221b9149824a13fbf78c3b65c4ce69904f_s.jpg",
+      "title": "CEO",
+      "activeTimeDesc": "今日活跃",
+      "activeTime": 1698068354712,
+      "bossOnline": false,
+      "brandName": "环界云计算",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 242153316,
+      "encryptJobId": "2b9c6f25dccd85741XB42ti-E1NW",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "五常",
+      "locationDesc": "杭州·余杭区·五常",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 30,
+      "jobDesc": "1. 参与开源项目 sealos 和 laf 的开发\n2. 前端技术选型，技术架构\n3. 一起来写一个很酷的云操作系统！\n\n要求\n\n1. 学习能力强\n2. 有想法，创意满天飞\n3. 熟悉 react nextjs 等技术\n4. 工作效率高\n\n我们是一家开源公司，工作内容就是参与开源项目开发，工程师氛围浓，拒绝 996，拒绝 PUA",
+      "requiredSkills": [
+        "JavaScript",
+        "React",
+        "Node.js"
+      ],
+      "address": "杭州余杭区西溪联合科技广场427",
+      "longitude": 120.02341,
+      "latitude": 30.275318,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ed15a7dafdfda2ae460660304ec93853",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d12030b0c626b7751aea8c4e667b020c",
+      "salaryMonth": 0,
+      "performance": "16 薪，有股权，公司高速增长中～",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-30K·16薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "06ca56970c3b8eb51XV_2dq8GVY~",
+      "brandName": "环界云计算",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220812/7b5b554d84f9729c22d557c3572f4ef3f50a754dbae1fc5b4d1c285666ab25083f99ac6a62b20afc.jpg",
+      "industryName": "计算机软件",
+      "stageName": "天使轮",
+      "scaleName": "0-20人",
+      "brandIntroduce": "杭州环界云计算有限公司是一家专注于云原生生态产品与服务的公司,\n\n公司的核心产品是做以 kubernetes 为内核的云操作系统发行版，\n\n使命是让云原生简单普及。陆奇团队的奇绩创坛完成对环界的投资。\n\n核心团队来自阿里云/字节等，有着丰富的开源经验，如 sealos 作者 CNCF sealer 项目发起人，laf 作者，\n\n团队中成员中还有编程世界冠军，星际争霸 AI 算法大赛世界第二等，\n\n团队中多名成员具有连续创业经验，如半次元(被头条收购)技术合伙人。",
+      "comName": "珠海环界云计算有限公司",
+      "legalPerson": "方海涛",
+      "startDate": "2022-03-17",
+      "regCapital": "267.9084万人民币",
+      "statusDesc": "在营",
+      "regAddress": "珠海市香洲区旅游路168号（梅溪商业广场B座）云溪谷数字产业园5层5-564（集中办公区）",
+      "businessScope": "一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；计算机软硬件及辅助设备批发；计算机软硬件及辅助设备零售；云计算装备技术服务；软件开发；云计算设备销售；人工智能应用软件开发；信息系统集成服务；物联网技术研发；电机及其控制系统研发；在线能源计量技术研发；工业互联网数据服务。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）许可项目：第二类增值电信业务。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "杭州环界云计算有限公司是一家专注于云原生生态产品与服务的公司,\n\n公司的核心产品是做以 kubernetes 为内核的云操作系统发行版，\n\n使命是让云原生简单普及。陆奇团队的奇绩创坛完成对环界的投资。\n\n核心团队来自阿里云/字节等，有着丰富的开源经验，如 sealos 作者 CNCF sealer 项目发起人，laf 作者，\n\n团队中成员中还有编程世界冠军，星际争霸 AI 算法大赛世界第二等，\n\n团队中多名成员具有连续创业经验，如半次元(被头条收购)技术合伙人。",
+      "encryptComId": "f82a79964604d4d51H173d-_FVY~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "容器安全专家",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "ZSfBE3xq4v.search.1",
+          "performance": "",
+          "salaryDesc": "30-35K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "安全体系架构和研发",
+            "Golang",
+            "安全产品/平台开发经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "安全体系架构和研发",
+              "highlight": false
+            },
+            {
+              "content": "Golang",
+              "highlight": false
+            },
+            {
+              "content": "安全产品/平台开发经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "3af7dcd96e5644fd1XFy0t69E1VT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "环界云计算",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220812/7b5b554d84f9729c22d557c3572f4ef3f50a754dbae1fc5b4d1c285666ab25083f99ac6a62b20afc.jpg",
+          "brandStage": "天使轮",
+          "brandScale": "0-20人",
+          "comName": null,
+          "bossName": "方海涛",
+          "bossTitle": "CEO",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210106/8278e6c31503b8d270bf0d67b46bf7221b9149824a13fbf78c3b65c4ce69904f_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "安全体系架构和研发",
+            "Golang",
+            "安全产品/平台开发经验",
+            "数据安全管理经验",
+            "攻防对抗经验"
+          ],
+          "welfares": [],
+          "securityId": "PGfS4BeleTomr-D15qHb50JIJSk_lWFGSHmWZjVedL8hd6EJ9UmUEeg-ej2t9pyLBvqaKR97",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "web前端",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "ZSfBE3xq4v.search.2",
+          "performance": "",
+          "salaryDesc": "200-300元/天",
+          "jobLabels": [
+            "5天/周",
+            "6个月",
+            "本科",
+            "JavaScript",
+            "HTML5"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5天/周",
+              "highlight": false
+            },
+            {
+              "content": "6个月",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "HTML5",
+              "highlight": false
+            }
+          ],
+          "jobType": 4,
+          "encryptJobId": "00616a40b4be36231XF_2961FlZQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "环界云计算",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220812/7b5b554d84f9729c22d557c3572f4ef3f50a754dbae1fc5b4d1c285666ab25083f99ac6a62b20afc.jpg",
+          "brandStage": "天使轮",
+          "brandScale": "0-20人",
+          "comName": null,
+          "bossName": "方海涛",
+          "bossTitle": "CEO",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210106/8278e6c31503b8d270bf0d67b46bf7221b9149824a13fbf78c3b65c4ce69904f_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript",
+            "HTML5",
+            "React",
+            "计算机/软件工程相关专业",
+            "前端开发经验",
+            "技术博客/开源项目有所贡献",
+            "积极",
+            "学习能力强",
+            "追求完美"
+          ],
+          "welfares": [],
+          "securityId": "okwxUyUsNwvBT-71G-vzr01MUP7CX7vBY4_797jvK36OBlLXMl8UdWjjXd60IhzGsm_LU9Q5",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "nodejs 实习生",
+          "jobValidStatus": 1,
+          "jobExperience": "1年以内",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "未来科技城",
+          "distance": "",
+          "lid": "ZSfBE3xq4v.search.3",
+          "performance": "",
+          "salaryDesc": "12-16K·15薪",
+          "jobLabels": [
+            "1年以内",
+            "本科",
+            "JavaScript/TypeScript",
+            "Node.js开发经验",
+            "Node.js"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1年以内",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript/TypeScript",
+              "highlight": false
+            },
+            {
+              "content": "Node.js开发经验",
+              "highlight": false
+            },
+            {
+              "content": "Node.js",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "e51a8408bffc44a41XJy2N-9GFVT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "环界云计算",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220812/7b5b554d84f9729c22d557c3572f4ef3f50a754dbae1fc5b4d1c285666ab25083f99ac6a62b20afc.jpg",
+          "brandStage": "天使轮",
+          "brandScale": "0-20人",
+          "comName": null,
+          "bossName": "李振强",
+          "bossTitle": "前端架构师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript/TypeScript",
+            "Node.js开发经验",
+            "Node.js",
+            "后端",
+            "计算机/软件工程相关专业"
+          ],
+          "welfares": [],
+          "securityId": "Ts7tnLAXpCmd4-g1gvubXMQfg0Mfl2WX7IqRLErFgtMwp7pBYoSVr_HZy7IgYB1DNvSOvNw~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "后端开发",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "ZSfBE3xq4v.search.4",
+          "performance": "",
+          "salaryDesc": "200-400元/天",
+          "jobLabels": [
+            "4天/周",
+            "6个月",
+            "本科",
+            "Golang",
+            "Docker"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "4天/周",
+              "highlight": false
+            },
+            {
+              "content": "6个月",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Golang",
+              "highlight": false
+            },
+            {
+              "content": "Docker",
+              "highlight": false
+            }
+          ],
+          "jobType": 4,
+          "encryptJobId": "f98c776fe4c331f31Xdz2ty6EFtZ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "环界云计算",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220812/7b5b554d84f9729c22d557c3572f4ef3f50a754dbae1fc5b4d1c285666ab25083f99ac6a62b20afc.jpg",
+          "brandStage": "天使轮",
+          "brandScale": "0-20人",
+          "comName": null,
+          "bossName": "方海涛",
+          "bossTitle": "CEO",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210106/8278e6c31503b8d270bf0d67b46bf7221b9149824a13fbf78c3b65c4ce69904f_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Golang",
+            "Docker",
+            "Kubernetes",
+            "计算机相关专业",
+            "英语读写能力良好"
+          ],
+          "welfares": [],
+          "securityId": "njptTNMMtR1Ra-h15xtwjsu1cmTzp3kLuqFn_KWlSchu1Ts7lQS0qptoMDJmAOMa_JOw7zHy",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "kubernetes 技术专家",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "ZSfBE3xq4v.search.5",
+          "performance": "",
+          "salaryDesc": "20-40K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Golang",
+            "Docker",
+            "Kubernetes"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Golang",
+              "highlight": false
+            },
+            {
+              "content": "Docker",
+              "highlight": false
+            },
+            {
+              "content": "Kubernetes",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "cc2e05fa43d7c3421XFy0t-0GVpQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "环界云计算",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220812/7b5b554d84f9729c22d557c3572f4ef3f50a754dbae1fc5b4d1c285666ab25083f99ac6a62b20afc.jpg",
+          "brandStage": "天使轮",
+          "brandScale": "0-20人",
+          "comName": null,
+          "bossName": "方海涛",
+          "bossTitle": "CEO",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210106/8278e6c31503b8d270bf0d67b46bf7221b9149824a13fbf78c3b65c4ce69904f_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Golang",
+            "Docker",
+            "Kubernetes",
+            "计算机相关专业",
+            "系统架构设计经验",
+            "英语读写能力良好"
+          ],
+          "welfares": [],
+          "securityId": "AQ_A_2p8s1aKZ-w1Lofz26mcnEXrb81yv4HUwtFyhz33S6wtzl2xZOiZwhiJlcIFN3-77Lrm",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

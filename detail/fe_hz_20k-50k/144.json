@@ -1,0 +1,535 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "qOXrwweUevm3K-V1B2ggGGEp58DRFscm_mCV4IrdX2WsTDwpwiPA_YbhqLpAY2ddOewwjDlEh9z6u04DoudzKb__72eM1i1XVBIXYi-HEbjUvtirDk3N2OJhOPP37f28FDJ2J_yUtiw~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "ade68ad3b81421250nN83tS8GFM~",
+      "bossId": 57659181,
+      "securityId": "qjq8XqA3ky2fO-e1bf4w3zwH8dilUsIQzSZreABjYQEVuuotdlW6Qb_jibMc2bAHdNdcFCA1pGaCBt7CXn70QbBGEYzM",
+      "name": "贾超",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+      "title": "技术总监",
+      "activeTimeDesc": "近半年活跃",
+      "activeTime": 1682780544000,
+      "bossOnline": false,
+      "brandName": "杭州奥阁门科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 225509566,
+      "encryptJobId": "97f8dacb75c3d5611XZ_3t20FVRW",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端架构师",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "萧山区",
+      "businessDistrict": "钱江世纪城",
+      "locationDesc": "杭州·萧山区·钱江世纪城",
+      "experienceName": "5-10年",
+      "degreeName": "本科",
+      "lowSalary": 25,
+      "highSalary": 50,
+      "jobDesc": "职位要求：\n1. 5年及以上前端软件研发⼯作经验，有团队管理经验；\n2. 统招本科及以上学历，计算机/软件、通信、电⼦等相关专业，专业基础知识扎实；\n3. 精通各种Web前端技术，熟悉⾯向对象，函数式编程等常⻅技术开发模式；\n4. 理解最新Web标准和转换策略，对ES6的可⽤性相关知识有实际的了解和实践经验；\n5. 对前端MV*框架有深刻理解，⾄少有⼀个现代库或框架的⼤型项⽬经验（如：Vue、React、Backbone、Angular）；\n6. 对浏览器⼯作原理有深刻理解，熟悉不同浏览器上的调试技术；\n7. 有前端架构设计、性能优化、组件化和模块化⽅⾯的实践经验；\n8. 熟悉前端⼯程化⼯具，如Webpack、Rollup等；\n9. 熟悉⼀⻔服务端语⾔并有⼀定的开发经验 (如：Go、Node，Python，C#，Java)；\n10. 具备丰富的编码和Code Review经验，具备良好的编码习惯;\n11. 对⾃动化测试、单元测试、集成测试、静态代码分析等代码质量优化⽅式有⼀定的理解和实践；\n12. 对软件⼯程与软件质量管理有深刻的认识，质量意识⾼，对项⽬质量追求完美；\n13. 具有良好的语⾔与⽂字表达沟通能⼒；\n14. 具有良好的团队合作精神；\n15. 良好的职业素养和⾃驱⼒，优秀的技术热情，能够持续学习和⾃我提⾼；\n16. 热衷分享，有⾃⼰的开源社区项⽬或者技术博客优先；\n17. 具备良好的英⽂读写能⼒，能够阅读与编写技术⽂档。\n⼯作职责：\n1. 负责公司商业系统的设计和开发，完成项⽬的前端架构设计和技术栈选型，并带领团队完成具体业务落地；\n2. 持续改进公司前端⼯程化体系，推动前端的⾃动化、⼯具化；\n3. 为团队建⽴明确的技术发展路线，构建统⼀的企业级前端运⾏态框架和组件库；\n4. 优秀的技术敏锐性，紧跟技术发展，并将成果应⽤于组织；\n5. 营造良好的前端技术氛围，领导并促进团队成⻓；\n6. 负责解决前端开发流程中的各种痛点，带领技术攻关；\n7. 配合产品经理和设计师，参与产品的定义、设计与研发，提升产品质量。",
+      "requiredSkills": [
+        "JavaScript",
+        "ES6",
+        "前端开发",
+        "Web端",
+        "React"
+      ],
+      "address": "杭州萧山区博地中心A座30层3002室",
+      "longitude": 120.252365,
+      "latitude": 30.235474,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bd3e704a8851344d729fcf74be8ce5e7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5027e67f18f4f168a565397d3fa30807",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "25-50K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "827fa896363d83971XR83Nq1F1A~",
+      "brandName": "杭州奥阁门科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220510/7b5b554d84f9729c08d568559b7fecb1a33b83903cb3a57738681cb28cdca365ec4240815c359e87.png",
+      "industryName": "互联网",
+      "stageName": "不需要融资",
+      "scaleName": "20-99人",
+      "brandIntroduce": "奥阁门(杭州)科技有限公司基于自主研发的Enlighten系列产品为行业用户提供专业的零售及供应链信息化解决方案，协助行业用户实现业务流程的数字化转型与升级。公司目前已与可莎蜜兒达成长期战略合作，全面承接并实施集团信息化建设与业务数字化转型有关工作。\n\n公司目前已组建核心团队，总裁互联网行业工程技术出身，在华中科技大学就读期间创立问卷星（互联网问卷调查平台），后加入微软中国、北京云基地等公司，先后从事企业应用研发咨询、云计算PaaS平台与大数据等相关产品的解决方案研发、DevOps体系建设等相关工作。2013年加入以色列施拉特公司，在北京中以国际技术转移中心（SITIC），从事ICT领域投资项目管理、企业孵化、跨国技术转移等工作。\n\n公司地处杭州中心地段，临2号线盈丰路地铁站，交通便利。目前正在招募完备的研发团队，提供完善的薪酬福利体系，期待您的加入！",
+      "comName": "奥阁门（杭州）科技有限公司",
+      "legalPerson": "王海磊",
+      "startDate": "2021-09-23",
+      "regCapital": "100万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市萧山区宁围街道博地世纪中心1幢3002室",
+      "businessScope": "一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；企业管理咨询；网络与信息安全软件开发；工程和技术研究和试验发展；市场调查（不含涉外调查）；电子产品销售；人工智能硬件销售；广告设计、代理（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "奥阁门(杭州)科技有限公司基于自主研发的Enlighten系列产品为行业用户提供专业的零售及供应链信息化解决方案，协助行业用户实现业务流程的数字化转型与升级。公司目前已与可莎蜜兒达成长期战略合作，全面承接并实施集团信息化建设与业务数字化转型有关工作。\n\n公司目前已组建核心团队，总裁互联网行业工程技术出身，在华中科技大学就读期间创立问卷星（互联网问卷调查平台），后加入微软中国、北京云基地等公司，先后从事企业应用研发咨询、云计算PaaS平台与大数据等相关产品的解决方案研发、DevOps体系建设等相关工作。2013年加入以色列施拉特公司，在北京中以国际技术转移中心（SITIC），从事ICT领域投资项目管理、企业孵化、跨国技术转移等工作。\n\n公司地处杭州中心地段，临2号线盈丰路地铁站，交通便利。目前正在招募完备的研发团队，提供完善的薪酬福利体系，期待您的加入！",
+      "encryptComId": "7595addeb53ea8f81HF50tq4FFY~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "系统运维工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "钱江世纪城",
+          "distance": "",
+          "lid": "ZVSr09kQGB.search.1",
+          "performance": "",
+          "salaryDesc": "13-26K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Python",
+            "Shell",
+            "容器技术"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "Shell",
+              "highlight": false
+            },
+            {
+              "content": "容器技术",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "0dd9107d3e5a0e2d1XZ_3ty9EVFQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州奥阁门科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220510/7b5b554d84f9729c08d568559b7fecb1a33b83903cb3a57738681cb28cdca365ec4240815c359e87.png",
+          "brandStage": "不需要融资",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "贾超",
+          "bossTitle": "技术总监",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Python",
+            "Shell",
+            "容器技术",
+            "Linux",
+            "MySQL",
+            "系统运维",
+            "Docker",
+            "Kubernetes"
+          ],
+          "welfares": [],
+          "securityId": "hhouaRO1RKXfn-I1uzcZMsyapvfir1zwHFJCqq44F9oegLJpESKjO7-t4mxcP9Kp_tG_HUQ~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "数据分析",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "钱江世纪城",
+          "distance": "",
+          "lid": "ZVSr09kQGB.search.2",
+          "performance": "",
+          "salaryDesc": "12-24K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "SQL",
+            "Python",
+            "数学/统计相关专业"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "数学/统计相关专业",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "872bea675b1847ee1HR-2Nq4GVZQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州奥阁门科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220510/7b5b554d84f9729c08d568559b7fecb1a33b83903cb3a57738681cb28cdca365ec4240815c359e87.png",
+          "brandStage": "不需要融资",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "汪女士",
+          "bossTitle": "人事",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_12.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": {
+            "listingOnline": {
+              "onlineImgUrl": "https://img.bosszhipin.com/beijin/mcs/banner/a403e91441cbb05c6894e9f5593291fdcfcd208495d565ef66e7dff9f98764da.png",
+              "widthPx": 132,
+              "heightPx": 51
+            },
+            "detailOnline": {
+              "onlineImgUrl": "https://img.bosszhipin.com/beijin/mcs/banner/a403e91441cbb05c6894e9f5593291fdcfcd208495d565ef66e7dff9f98764da.png",
+              "widthPx": 132,
+              "heightPx": 51
+            }
+          },
+          "proxyJob": 0,
+          "skills": [
+            "SQL",
+            "Python",
+            "数学/统计相关专业"
+          ],
+          "welfares": [],
+          "securityId": "aJW0o38whV2Md-s1x8X4G_DzpwMO0pV0z3e9QJzyJH0Jy65SeQACg36IHJRp80QGgP5D2ZAbzwO0lbP1_gv7tDeDjxpkW0MEbrslx4vrwWff",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "后端架构师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "钱江世纪城",
+          "distance": "",
+          "lid": "ZVSr09kQGB.search.3",
+          "performance": "",
+          "salaryDesc": "25-50K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "C#",
+            "Go",
+            "SQL"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "C#",
+              "highlight": false
+            },
+            {
+              "content": "Go",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "8e87de7e119eaf491XZ_3t20ElJZ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州奥阁门科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220510/7b5b554d84f9729c08d568559b7fecb1a33b83903cb3a57738681cb28cdca365ec4240815c359e87.png",
+          "brandStage": "不需要融资",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "贾超",
+          "bossTitle": "技术总监",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "C#",
+            "Go",
+            "SQL",
+            "微服务架构",
+            "搜索引擎技术",
+            "分布式技术"
+          ],
+          "welfares": [],
+          "securityId": "CRsHm3ci8HcsW-X195UtAZaFk7xM9NOKRIDzO_36_oH4YTwlX0lXoZAthRbISuBobHIyYMY~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "前端研发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "钱江世纪城",
+          "distance": "",
+          "lid": "ZVSr09kQGB.search.4",
+          "performance": "",
+          "salaryDesc": "10-15K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "HTML5",
+            "CSS",
+            "计算机/软件工程相关专业"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "HTML5",
+              "highlight": false
+            },
+            {
+              "content": "CSS",
+              "highlight": false
+            },
+            {
+              "content": "计算机/软件工程相关专业",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "52e9d77f4df47eab1XJ52NS8EVBS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州奥阁门科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220510/7b5b554d84f9729c08d568559b7fecb1a33b83903cb3a57738681cb28cdca365ec4240815c359e87.png",
+          "brandStage": "不需要融资",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "贾超",
+          "bossTitle": "技术总监",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "HTML5",
+            "CSS",
+            "计算机/软件工程相关专业",
+            "前端开发经验"
+          ],
+          "welfares": [],
+          "securityId": "cHMMUhBEQycBM-v1NCno5-DtQEuVhbuAbjnGXVSzq91vCEIckAYU9wnAmwKtwzjm2sbPeBs~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Golang开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "钱江世纪城",
+          "distance": "",
+          "lid": "ZVSr09kQGB.search.6",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "微服务架构",
+            "容器技术",
+            "分布式技术"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "微服务架构",
+              "highlight": false
+            },
+            {
+              "content": "容器技术",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "cdcda081df7d235b1XZ_3t21EFtX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州奥阁门科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220510/7b5b554d84f9729c08d568559b7fecb1a33b83903cb3a57738681cb28cdca365ec4240815c359e87.png",
+          "brandStage": "不需要融资",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "贾超",
+          "bossTitle": "技术总监",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "微服务架构",
+            "容器技术",
+            "分布式技术",
+            "数据结构",
+            "后端开发",
+            "Linux",
+            "Golang"
+          ],
+          "welfares": [],
+          "securityId": "_TLt0FOSzABCk-51kxMZP4BWNAj1NykgvRW4Nl3eyy1mQscFloLdbT0sdI8QVzTr7g53yqY~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

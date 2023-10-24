@@ -1,0 +1,293 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "BNARxNDVJ0UZL-71Lof2fRySNSw_KVxbNdCTB295N9el2LW5sUlqlW80EktjTKbMRAFdZ7YurCpUaoUD9rfvEv0UEs0yUoXwlX9kzI6suXT0-3d-2xElxaiqvc-fNWFcydf_EbM~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "a98d85ed5c74932e0nV70tu7Fw~~",
+      "bossId": 5119667,
+      "securityId": "l5jZOHPlulIW2-11N9_JJVfleMsPJuy-hnZg0IvN-yajDUrROWwBFbWbnTz9M9f421vrzp5TTs2_WvdPF0VxpPUNMA~~",
+      "name": "吴先生",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190602/575a85af8f3ee6baa9df8d8f20b04b9c46a870217ef789dbd18e041caf8b10d4_s.jpg",
+      "title": "招聘者",
+      "activeTimeDesc": "本周活跃",
+      "activeTime": 1697716537562,
+      "bossOnline": false,
+      "brandName": "老果树",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 96166852,
+      "encryptJobId": "ca4281aeeb959e893nJ73du1FVA~",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端高级工程师",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "仓前",
+      "locationDesc": "杭州·余杭区·仓前",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 12,
+      "highSalary": 24,
+      "jobDesc": "重要：我们是一支初创团队（团队主要成员均来自世界计算机知名大学硕士研究生毕业），我们成立项目组希望以此项目切入来延伸发展，并参与努力改善国内游戏环境的愿景目标，项目前期行业调研考察已有三年多时间。目前我们第一款产品是以人工智能切入到游戏数据分析领域。目前招募的主要是初创团队成员，我们团队采用敏捷开发协同模式，因此，我们初期可以接受远程办公合作。\n\n原则上谢绝有“房贷、车贷”的朋友加入，因为创业真的风险很高，如果您能承受项目失败的风险，我们也非常欢迎您加入。\n\n注：本公司账号非最终运营账号，仅作为招募人才使用。办公地址暂定：杭州余杭区梦想小镇互联网村。同时我们能接受远程办公。\n\n岗位描述：\n- 开发 产品 Web和小程序 相关功能和界面实现\n- 前端功能梳理、开发以及撰写单元测试\n- 需求分析,提供的解决方案及设计,辅导/协助团队成员定位问题\n- 对前端架构进行优化,绘制架构图\n- 对技术有强烈的进取心,主观能动性,优秀的分析问题和解决问题的能力\n\n岗位要求：\n- 至少掌握一门现代前端框架如 React/Vue/Angular 并熟悉其中的运作原理\n- 在项目中使用过 Redux / Vuex 等前端数据流框架\n- 熟练使用 Git 或类似的代码版本管理工具\n- 良好的编程风格\n- 熟悉模块化、前端编译和构建工具（包括但不限于gulp/webpack）\n- 熟悉HTTP的基本工作原理以及常用Web开发调试工具\n- 善于交流\n\n加分项\n- 资深游戏玩家，不管何种游戏自己都可以很容易上手。\n- 有在项目进行单元测试的经验\n- 有 RxJS 开发经验\n- 有 Node.js 开发经验\n- 有开发过大型Web应用程序经验\n- 有复杂性能调优经验\n\n后话：我们正在为游戏玩家开发一款人工智能、社交类产品，我们是一家初创团队，帮助玩家成长是我们产品使命，一切可以说从零开始，如果也希望为国内游戏环境做一些改变，请加入我们，我们为您提供1-10%的原始股。",
+      "requiredSkills": [
+        "前端开发",
+        "Node.js",
+        "Web端",
+        "小程序",
+        "Vue"
+      ],
+      "address": "杭州余杭区梦想小镇互联网村",
+      "longitude": 120.00487,
+      "latitude": 30.292227,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cb5a91dc2e65b16e1d46631912aa4941",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b7c59511042065df6335801481a873da",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "12-24K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "eca219335f4145001nJ_2ty8GQ~~",
+      "brandName": "老果树",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190712/5427744c1ada6ce32bb32da76756548746a870217ef789dbd18e041caf8b10d4_s.jpg",
+      "industryName": "电子商务",
+      "stageName": "未融资",
+      "scaleName": "0-20人",
+      "brandIntroduce": "我们希望为游戏玩家提供社交和服务；希望我们能为国内较差的游戏环境注入一些新鲜血液。\n\n本账号非最终运营账号，仅作为招募人才使用。",
+      "comName": "仙居县老果树网络科技有限公司",
+      "legalPerson": "吴健荣",
+      "startDate": "2015-02-05",
+      "regCapital": "100万人民币",
+      "statusDesc": "存续",
+      "regAddress": "仙居县南峰街道南苑新村12幢2号",
+      "businessScope": "一般项目：软件开发；软件销售；信息技术咨询服务；广告制作；广告发布；新鲜水果批发；新鲜水果零售；食用农产品批发；食用农产品零售；互联网销售（除销售需要许可的商品）（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "我们希望为游戏玩家提供社交和服务；希望我们能为国内较差的游戏环境注入一些新鲜血液。\n\n本账号非最终运营账号，仅作为招募人才使用。",
+      "encryptComId": "b8c67b3b6af0218333V-3d-9Ew~~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "数据科学家-项目合伙人",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZVcGEJtv5Q.search.1",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "3-5年",
+            "硕士",
+            "研究导向",
+            "Python",
+            "数学/统计相关专业"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "研究导向",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "数学/统计相关专业",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "4516f3fef010e9a21HRz29q0FFpR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "老果树",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190712/5427744c1ada6ce32bb32da76756548746a870217ef789dbd18e041caf8b10d4_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "0-20人",
+          "comName": null,
+          "bossName": "吴先生",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190602/575a85af8f3ee6baa9df8d8f20b04b9c46a870217ef789dbd18e041caf8b10d4_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "研究导向",
+            "Python",
+            "数学/统计相关专业",
+            "机器学习算法/工程化经验",
+            "深度学习经验"
+          ],
+          "welfares": [],
+          "securityId": "U6FChg_gXdLqE-o1cayAmSvfIpsNEOQMAD24oRRBkEcylWj8-DEPftmysG7wRseJ8ZQpRQ~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "AI算法工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZVcGEJtv5Q.search.2",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "1-3年",
+            "硕士",
+            "业务导向/研究导向",
+            "Python",
+            "有国际期刊/会议论文发表"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "业务导向/研究导向",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "有国际期刊/会议论文发表",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "166ca664a73b94701HRz29q0FFpW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "老果树",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190712/5427744c1ada6ce32bb32da76756548746a870217ef789dbd18e041caf8b10d4_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "0-20人",
+          "comName": null,
+          "bossName": "吴先生",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190602/575a85af8f3ee6baa9df8d8f20b04b9c46a870217ef789dbd18e041caf8b10d4_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "业务导向/研究导向",
+            "Python",
+            "有国际期刊/会议论文发表",
+            "机器学习算法/工程化经验",
+            "数学/统计相关专业"
+          ],
+          "welfares": [],
+          "securityId": "nKt4tts8aB6X_-j1W7r7Z4XHrb6ceFXzy5zYsrYVHQilW4AgUmV-oXpi7DM7oM1PqtI6yQ~~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

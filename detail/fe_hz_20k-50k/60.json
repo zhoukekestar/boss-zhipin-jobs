@@ -1,0 +1,214 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "X3PZEEe1zK9fS-m1k1LtlTWwwINii1zwxXXoJIOKaM6Qh0LBn4q1kpyYYwQYGxW3xeJajdmTg3OjVI8vGO0tN2UI070Z1ijulbkLj25lIyJrZ7JD6diSOg2_qb4iGsYIx6fRaT6QbFlD",
+    "bossBaseInfoVO": {
+      "encryptBossId": "ba03cd10f505a28b0n1-3tq1GFFY",
+      "bossId": 594578838,
+      "securityId": "bKVuLXZthHsaz-a1qFdrDr6uFbIvaJIhpiGokhvSgc8mUGC0MzoqN8mR5Sv5XlSdPQ9a97rw_rTPzE5NEgHrK5veSolKdg~~",
+      "name": "王柃然",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+      "title": "招聘者",
+      "activeTimeDesc": "4月内活跃",
+      "activeTime": 1688986665000,
+      "bossOnline": false,
+      "brandName": "互寻岛",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 286794831,
+      "encryptJobId": "442afb659496e0181Xx83NS5GFFR",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "钱塘区",
+      "businessDistrict": "和达东东城",
+      "locationDesc": "杭州·钱塘区·和达东东城",
+      "experienceName": "经验不限",
+      "degreeName": "学历不限",
+      "lowSalary": 20,
+      "highSalary": 30,
+      "jobDesc": "1.会敲代码（主要负责和团队一起敲小程序）\n2.喜欢计算机技术\n3.抗压能力强\n4.线上协作",
+      "requiredSkills": [
+        "JavaScript",
+        "HTML5",
+        "CSS"
+      ],
+      "address": "杭州钱塘区浙江财经大学下沙校区创业学院F1",
+      "longitude": 120.392294,
+      "latitude": 30.319307,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fa5b51784b5fe382c9778f7235756f5c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/69f128feb5121c18435091610ee5b832",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-30K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "c944356be339d7171XJ92N28E1M~",
+      "brandName": "互寻岛",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230423/7b5b554d84f9729c9965d4c88d79c0db737c08be95473ecb00160c48263df5c436881f48f5978ed5.png",
+      "industryName": "在线教育",
+      "stageName": "天使轮",
+      "scaleName": "0-20人",
+      "brandIntroduce": "公司成立于 2023年\n主要经营 互联网教育互助平台\n工作弹性支持线上工作\n充满活力的初创团队，有股权期权激励",
+      "comName": "杭州互寻岛科技有限公司",
+      "legalPerson": "王柃然",
+      "startDate": "2023-03-09",
+      "regCapital": "10.1万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市钱塘区白杨街道浙江财经大学大学生创业园107-155室",
+      "businessScope": "一般项目：软件开发；软件销售；劳务服务（不含劳务派遣）；人工智能基础软件开发；人工智能应用软件开发；人工智能理论与算法软件开发；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；科技中介服务；教育教学检测和评价活动；个人商务服务（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "公司成立于 2023年\n主要经营 互联网教育互助平台\n工作弹性支持线上工作\n充满活力的初创团队，有股权期权激励",
+      "encryptComId": "3fcc3e03aead0fcf1H1-2Ni-E1E~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "后端开发",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "学历不限",
+          "cityName": "杭州",
+          "districtName": "钱塘区",
+          "businessName": "和达东东城",
+          "distance": "",
+          "lid": "104ajny7qTM.search.2",
+          "performance": "",
+          "salaryDesc": "20-30K",
+          "jobLabels": [
+            "经验不限",
+            "学历不限",
+            "Golang",
+            "MySQL",
+            "MongoDB"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "学历不限",
+              "highlight": false
+            },
+            {
+              "content": "Golang",
+              "highlight": false
+            },
+            {
+              "content": "MySQL",
+              "highlight": false
+            },
+            {
+              "content": "MongoDB",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "ffba971dda7ba0931Xx93N69ElNT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "互寻岛",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230423/7b5b554d84f9729c9965d4c88d79c0db737c08be95473ecb00160c48263df5c436881f48f5978ed5.png",
+          "brandStage": "天使轮",
+          "brandScale": "0-20人",
+          "comName": null,
+          "bossName": "王柃然",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Golang",
+            "MySQL",
+            "MongoDB",
+            "英语读写能力良好"
+          ],
+          "welfares": [],
+          "securityId": "ZUqceRlj54ps2-A1jkHtypfh7uSClCc_MnW-I8vcBiV-JjmrMiwjuIXXToSmivKmsJleruyI",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

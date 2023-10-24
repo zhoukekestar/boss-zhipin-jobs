@@ -1,0 +1,207 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "Y4Lp7MEmYDqGU-d15qr0caB-3g1nf2zqsqcjqMGrzErbHex-TpWUXi2-4kR4EhsuRe1mwNqafUZdTI11d_pKtNHNEYOY-9cemdPVtC2Ni-qa9854GLnypAtQ45eEYmtQrssSg1Bp",
+    "bossBaseInfoVO": {
+      "encryptBossId": "1c76b32e728d238f33V52tm-GFE~",
+      "bossId": 81314383,
+      "securityId": "GEFzsIf66dF1j-J1_tlolR3bUMpzhGxhgrQfbqDVHRqkfRSuFRhOIrYMg2rpUlWmo_4X3BCON2osxBBgQ18RK-XWE4M~",
+      "name": "刘女士",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+      "title": "招聘者",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1581668023000,
+      "bossOnline": false,
+      "brandName": "杭州量软",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 63232915,
+      "encryptJobId": "a16919b87193dfe70Xd42N-0EVc~",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端开发",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "西兴",
+      "locationDesc": "杭州·滨江区·西兴",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "lowSalary": 11,
+      "highSalary": 22,
+      "jobDesc": "岗位要求\r\n1、专科以上学历,计算机相关专业;\r\n2、有微服务开发经验优先；\r\n3、有2年前端开发经验、vue开发经验，熟悉antd组件库，熟悉mobx或dva等数据流；\r\n4、熟悉掌握Nginx部署应用",
+      "requiredSkills": [
+        "Vue",
+        "前端开发",
+        "电子商务"
+      ],
+      "address": "杭州滨江区华为研究所",
+      "longitude": 120.208476,
+      "latitude": 30.182958,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4e5312becc0e3d3e4b12a8bced7a1468",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a62494344dc39d656094db0eeec47e8b",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "11-22K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "379eed28d036d8870XF50926Fw~~",
+      "brandName": "杭州量软",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "industryName": "互联网",
+      "stageName": "",
+      "scaleName": "100-499人",
+      "brandIntroduce": "",
+      "comName": "杭州量软科技有限公司",
+      "legalPerson": "刘伟帅",
+      "startDate": "2016-03-22",
+      "regCapital": "100万人民币",
+      "statusDesc": "存续",
+      "regAddress": "桐庐县城迎春南路28号海陆世贸中心一区409-57",
+      "businessScope": "服务：计算机软硬件、网络技术的技术开发、技术服务、技术咨询、成果转让；计算机网络维护、计算机网络工程、弱电工程（涉及资质的凭证经营）、系统集成；电子商务平台的建设及维护。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "",
+      "encryptComId": "2aa16acd29b67a961nR-0ty7E1M~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "Android",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "西兴",
+          "distance": "",
+          "lid": "ZSQJvfKRt3.search.1",
+          "performance": "",
+          "salaryDesc": "12-24K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "Android",
+            "IOS"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Android",
+              "highlight": false
+            },
+            {
+              "content": "IOS",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "671e7390c3f209810XZz2tS5EFU~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州量软",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "刘女士",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Android",
+            "IOS"
+          ],
+          "welfares": [],
+          "securityId": "KaicnZdldniu--21eTSNJdQkccLMydTSaqY_EdikJ0WCG9KOnyQpT4Q8pDg4DHOTWihjFQ~~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

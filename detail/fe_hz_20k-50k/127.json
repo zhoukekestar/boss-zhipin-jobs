@@ -1,0 +1,527 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "maDC2zX6TXa04-s1d_xI_ArPI5ZKdd3pbgWo9DJW51iql-EIYno2ybTfldHEGh8R-hqwHnmpkUTfbfzUAkEK8rwOGTOItPqAxx8Foyx4bTFlfxEeuupkkB6sQl5Ut6FjerRi_HB9UQ~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "91f39dfcf59fd8a20Xdz3N64F1M~",
+      "bossId": 63973571,
+      "securityId": "4jOhp29LVyUnT-t1W-pRyUKkbE6IDmMCUA9WEIooAwRYq_9QB_yPUY8HRbzqIlrSlC6-H3hM8L4VxB7AIYf4BlNpoZUh",
+      "name": "甘雨",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210412/241864efe701c50fc8a83dcca04e44a6af2073e004323674141df74421f4a7f3_s.png",
+      "title": "前端技术专家",
+      "activeTimeDesc": "2月内活跃",
+      "activeTime": 1695004515000,
+      "bossOnline": false,
+      "brandName": "浙江银泰百货有限...",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 147142255,
+      "encryptJobId": "575dd85470c4e3421nB92tm_EldV",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "拱墅区",
+      "businessDistrict": "武林",
+      "locationDesc": "杭州·拱墅区·武林",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 20,
+      "highSalary": 30,
+      "jobDesc": "职位描述：\n1.负责ToB系统的前端基础建设。\n2.负责ToB业务的解决方案。\n3.对业务目标及技术目标的达成负责，对问题快速响应，利用工程化的手段提高研发效率、质量。\n4.关注前端前沿技术研究，通过新技术服务团队和业务。\n\n职位要求：\n1.三年以上工作经验，参与过B端系统的基础建设，包括但不限于：性能优化、监控、可视化搭建、微前端、持续集成等工作。\n2.具备web应用设计所需的基础知识，包括但不限于网络知识（集群/dns/nginx/http）、运维相关（dock/防刷防爬）、持续集成、spa/mpa、前端框架、rpc请求等。\n3.有 NodeJS 开发中大型应用的实践经验，有 koa/eggjs 框架经验优先；\n4.对技术有激情，喜欢钻研，能快速接受和掌握新技术，有较强的独立、主动的学习能力，良好的沟通表达能力和团队协作能力；\n5.具备一定的项目管理能力，能主导前端项目的落地推进。",
+      "requiredSkills": [
+        "Node.js",
+        "JavaScript",
+        "React",
+        "移动端",
+        "前端开发",
+        "Web端"
+      ],
+      "address": "杭州拱墅区延中大楼A座",
+      "longitude": 120.16435,
+      "latitude": 30.265517,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e079376db0a83aa69253ad74b29c9738",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e690f3f097438dfb63ac9595ec192e63",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-30K·16薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "fa42da970435f4e61XB_39W1GA~~",
+      "brandName": "浙江银泰百货有限...",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181214/8385cad516980e9199af3b6b374c70b547d7a389c6018ab5535aacfb95494d6b.jpg",
+      "industryName": "O2O",
+      "stageName": "不需要融资",
+      "scaleName": "1000-9999人",
+      "brandIntroduce": "银泰商业（集团）有限公司于1998年成立，是一家以百货零售、购物中心和互联网+为核心的大型商业连锁集团，旗下拥有63家门店，营业面积、经营业绩和业务创新能力皆位居中国零售业前茅。银泰商业立足全国，以实现“好东西不贵”为使命，以成为大数据驱动的消费解决方案提供商为愿景。\n银泰商业作为阿里巴巴集团控股有限公司的控股子公司和新零售八大纵队中的重要一员，引领百货行业的新零售重构——通过“人、货、场”的数字化重构，实现会员通、商品通和服务通。银泰商业致力于建立数字化会员系统和全国首个百货业付费会员体系INTIME365，整合优化供应链，银泰创新新零售，推出喵街、西有、西选等多个互联网+产品，着力打造智能化新商场，开创了线上线下相融合的购物场景和营运模式。\n核心岗位虚位以待，期待业界大牛加入。如果你对新零售的未来充满期待，如果你对零售工作饱含激情，如果你对品牌有敏锐的洞察力，如果你对商品精细化管理超有感觉.......那么，你就是我们追求的那个对的人！\n官网链接：https://www.intime.com.cn/yintai",
+      "comName": "浙江银泰百货有限公司",
+      "legalPerson": "陈晓东",
+      "startDate": "1997-08-07",
+      "regCapital": "100000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "杭州市延安路530号",
+      "businessScope": "一般项目：日用百货销售；互联网销售（除销售需要许可的商品）；日用杂品销售；日用品销售；化妆品零售；针纺织品销售；服装服饰零售；鞋帽零售；珠宝首饰零售；鞋和皮革修理；皮革制品销售；五金产品零售；通讯设备销售；家具销售；眼镜销售（不含隐形眼镜）；玩具、动漫及游艺用品销售；建筑装饰材料销售；体育用品及器材零售；第二类医疗器械销售；化工产品销售（不含许可类化工产品）；工艺美术品及礼仪用品制造（象牙及其制品除外）；化妆品批发；珠宝首饰批发；服装服饰批发；珠宝首饰回收修理服务；摄影扩印服务；缝纫修补服务；停车场服务；信息咨询服务（不含许可类信息咨询服务）；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；网络技术服务；洗染服务；洗车服务；机动车修理和维护；美甲服务；代驾服务；物业管理；柜台、摊位出租；广告发布；广告设计、代理；日用化学产品销售；消毒剂销售（不含危险化学品）；卫生用品和一次性使用医疗用品销售（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：食品互联网销售；食品销售；餐饮服务；药品零售；生活美容服务（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "银泰商业（集团）有限公司于1998年成立，是一家以百货零售、购物中心和互联网+为核心的大型商业连锁集团，旗下拥有63家门店，营业面积、经营业绩和业务创新能力皆位居中国零售业前茅。银泰商业立足全国，以实现“好东西不贵”为使命，以成为大数据驱动的消费解决方案提供商为愿景。\n银泰商业作为阿里巴巴集团控股有限公司的控股子公司和新零售八大纵队中的重要一员，引领百货行业的新零售重构——通过“人、货、场”的数字化重构，实现会员通、商品通和服务通。银泰商业致力于建立数字化会员系统和全国首个百货业付费会员体系INTIME365，整合优化供应链，银泰创新新零售，推出喵街、西有、西选等多个互联网+产品，着力打造智能化新商场，开创了线上线下相融合的购物场景和营运模式。\n核心岗位虚位以待，期待业界大牛加入。如果你对新零售的未来充满期待，如果你对零售工作饱含激情，如果你对品牌有敏锐的洞察力，如果你对商品精细化管理超有感觉.......那么，你就是我们追求的那个对的人！\n官网链接：https://www.intime.com.cn/yintai",
+      "encryptComId": "d17e45d0fed8d4c41nB82dW9Eg~~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "java开发/高级开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "拱墅区",
+          "businessName": "武林",
+          "distance": "",
+          "lid": "ZXAG62A93w.search.1",
+          "performance": "",
+          "salaryDesc": "20-30K·13薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "后端工程师",
+            "Java",
+            "Spring"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "6d0b6fec67f988e11XN52tm8E1ZQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "浙江银泰百货有限...",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181214/8385cad516980e9199af3b6b374c70b547d7a389c6018ab5535aacfb95494d6b.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "王超",
+          "bossTitle": "高级技术专家",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "Java",
+            "Spring",
+            "MySQL",
+            "Java开发经验"
+          ],
+          "welfares": [],
+          "securityId": "shQqR2YhsdYjD-E1OLP6Lxltbb2LjPaYrYSAr9i9c0vviuzOiJCGIVv6u8fWRtVrQFHjvp0~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "阿里巴巴银泰商业JAVA高级开发工程师/专家",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "拱墅区",
+          "businessName": "申花",
+          "distance": "",
+          "lid": "ZXAG62A93w.search.2",
+          "performance": "",
+          "salaryDesc": "20-40K·16薪",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "分布式技术",
+            "多线程",
+            "数据结构"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "多线程",
+              "highlight": false
+            },
+            {
+              "content": "数据结构",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "18c3bb1d9ed674b41nJ72Nm7GVtW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "浙江银泰百货有限...",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181214/8385cad516980e9199af3b6b374c70b547d7a389c6018ab5535aacfb95494d6b.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "李亚博",
+          "bossTitle": "技术专家",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "分布式技术",
+            "多线程",
+            "数据结构",
+            "消息队列",
+            "Dubbo",
+            "SpringBoot",
+            "SpringCloud",
+            "NoSQL"
+          ],
+          "welfares": [],
+          "securityId": "9hziWUCsftYaC-r1TCTyM3EjIfdrqw9f-q5qgC4QAMMxQoNfNWnQ8P1DjB4Uu4hk5HZp-Fc~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "测试开发",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "拱墅区",
+          "businessName": "武林",
+          "distance": "",
+          "lid": "ZXAG62A93w.search.3",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "SQL",
+            "Java",
+            "Python"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "92e3e4e827e42e9d1Xd4292_EFFT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "浙江银泰百货有限...",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181214/8385cad516980e9199af3b6b374c70b547d7a389c6018ab5535aacfb95494d6b.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "陈晓",
+          "bossTitle": "测试开发",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "SQL",
+            "Java",
+            "Python",
+            "MySQL",
+            "接口自动化测试",
+            "移动端测试",
+            "Jmeter"
+          ],
+          "welfares": [],
+          "securityId": "Mz7fA4VR41SKA-317RHGsQF_vS1CkIjwuRVEqIlAQ_-p7DDHsbz8TNkLNZFk4SZmQl4Enzs~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "测试开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "拱墅区",
+          "businessName": "武林",
+          "distance": "",
+          "lid": "ZXAG62A93w.search.4",
+          "performance": "",
+          "salaryDesc": "15-30K·16薪",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "自动化测试",
+            "Java",
+            "服务端测试"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "自动化测试",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "服务端测试",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "7e224d73a7f12f291n1439-4EFFQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "浙江银泰百货有限...",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181214/8385cad516980e9199af3b6b374c70b547d7a389c6018ab5535aacfb95494d6b.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "路青云",
+          "bossTitle": "测试开发",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "自动化测试",
+            "Java",
+            "服务端测试"
+          ],
+          "welfares": [],
+          "securityId": "dMVFmolgID9X_-r1ECDaP__q_Y3myY7sBG6aUKb1sfJVIw9prWbBR6D8ha1wapr4JINiv9c~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "银泰星-前端开发工程师(J10276)",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "拱墅区",
+          "businessName": "武林",
+          "distance": "",
+          "lid": "ZXAG62A93w.search.5",
+          "performance": "",
+          "salaryDesc": "20-25K·16薪",
+          "jobLabels": [
+            "在校/应届",
+            "本科",
+            "React",
+            "Vue",
+            "Node.js"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "在校/应届",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "React",
+              "highlight": false
+            },
+            {
+              "content": "Vue",
+              "highlight": false
+            },
+            {
+              "content": "Node.js",
+              "highlight": false
+            }
+          ],
+          "jobType": 5,
+          "encryptJobId": "ede500ddcff899001HR-3Nq-E1tT",
+          "afterNameIcon": null,
+          "afterNameIcons": [
+            "https://img.bosszhipin.com/beijin/mcs/banner/4d77f815083a7850d8c5188f10b2ff0dcfcd208495d565ef66e7dff9f98764da.png"
+          ],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "浙江银泰百货有限...",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181214/8385cad516980e9199af3b6b374c70b547d7a389c6018ab5535aacfb95494d6b.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "李女士",
+          "bossTitle": "招聘专家",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210630/3ffc79b12c8b757ecca89d89d6fcac2c9dcbd9b40b278142ec8d4ede8c4f1940_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "React",
+            "Vue",
+            "Node.js",
+            "前端开发经验",
+            "计算机/软件工程相关专业"
+          ],
+          "welfares": [],
+          "securityId": "fVWt8KaFOXo6d-912n84_ied3XfUwhBwSe3TE1cC4N1SD7TYXAvsCmz7xfuu7j9Osftkjkw~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

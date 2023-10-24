@@ -1,0 +1,517 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "ZS2IPDVsq1oH1-m1VIEl3npWbfZuvNP_vsgZDTDFjGV65xgqsS9h1z237RK-ry1UmRXQ1CWZPDXOQWQN9mBphVdCvHj1TpjzjSvseMVzpLl145gZlWgQwRi8FwkGrMkWCgEcf3Lk",
+    "bossBaseInfoVO": {
+      "encryptBossId": "39c3db636533220533F429W5Elc~",
+      "bossId": 85208425,
+      "securityId": "0Bxu5SxK3I_bT-G1B_WYbdBKBGYJb6XtRcYO3fopnRaOYWb6_c80CVF_yTHqjHdl9KDKZb8LT0zx6rbwyBSHa7NrrL4~",
+      "name": "王先生",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+      "title": "招聘者",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1632744240000,
+      "bossOnline": false,
+      "brandName": "推绎科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 66898074,
+      "encryptJobId": "c2a8140e4ab3e8380XJy0tW9F1Y~",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端工程师",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "仓前",
+      "locationDesc": "杭州·余杭区·仓前",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "lowSalary": 18,
+      "highSalary": 35,
+      "jobDesc": "前端开发工程师\r\n岗位描述\r\n与Microsoft, MIT, Harvard的团队同伴们一起并肩作战在一线的人工智能产品创新中\r\n团队负责通用Web组件的开发，及最后通过Ionic, Electron在Web, iOS, Android, 桌面应用完成成品\r\n岗位要求\r\n1、本科及以上学历，计算机等相关专业；\r\n2、对主流前端开发框架（如Vue/Angular/React等）有全面的了解，熟练使用至少一种；\r\n3、熟悉WEB前端技术，对符合WEB标准的网站重构、网站性能提升等有丰富经验，有成功作品；\r\n4、良好的设计和编码品味，能产出高质量的设计和代码；较好的产品意识，愿意将产品效果做为工作最重要的驱动因素；\r\n5、有Electron开发经验者优先；\r\n6、有Ionic开发经验者优先；\r\n7、有较好的代码协作习惯，能够像对待一个产品一样对待自己的代码模块，维护队友们高品质完整的协作体验；",
+      "requiredSkills": [
+        "JavaScript",
+        "React",
+        "Web端",
+        "TypeScript",
+        "移动端",
+        "MVC开发",
+        "前端开发"
+      ],
+      "address": "杭州余杭区创鑫时代广场3幢A1402",
+      "longitude": 119.976795,
+      "latitude": 30.273262,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/745c8f9f782d1910fbbdb424d54c8690",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1340b2bb5e121c5b40d60270c8ae59b4",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "18-35K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "a18b8ec7048c3a7b0HR42Ny0EQ~~",
+      "brandName": "推绎科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220425/7bf6f160950405e906b753aae8e076aea2f10a2f2c2a8a7d59ab241f1c992186877fbc4c2a04505b.jpg",
+      "industryName": "互联网",
+      "stageName": "A轮",
+      "scaleName": "0-20人",
+      "brandIntroduce": "我们是一支由创业资深人士组成的团队，拥有超1.5亿估值初创公司的创始产品经理，国内TOP2大厂出身的运营团队，斯坦福大学、麻省理工学院、康奈尔大学的学术经验以及谷歌、Facebook，阿里，头条等出身的技术团队。S3 Labs正在致力于通过开源软件架构技术及模式重新定义创造者经济。 \nSwapChat是由S3 Labs开发的跨平台开源架构技术实现端到端加密即时通讯工具。依靠我们开发的Web3MQ通讯协议，为用户提供跨越多平台的通讯服务。Web3MQ作为原生的通讯基础设施，在同赛道目前处于领先水平，是亚太乃至全球通讯协议层赛道实力最强的团队之一。\n links: Web3MQ 官网：https://www.web3mq.com/\n文档：https://docs.web3mq.com/docs/Intro/\ndApp SwapChat：https://swapchat.me \n关于我们：https://s3labs.notion.site/Working-at-S3-Labs-1bb5dd8a93c641d8aa2bdf3938ccee7a",
+      "comName": "杭州推绎科技有限公司",
+      "legalPerson": "生守兰",
+      "startDate": "2019-12-29",
+      "regCapital": "105.263158万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市余杭区仓前街道龙园路88号3号楼A1402",
+      "businessScope": "软件开发（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "我们是一支由创业资深人士组成的团队，拥有超1.5亿估值初创公司的创始产品经理，国内TOP2大厂出身的运营团队，斯坦福大学、麻省理工学院、康奈尔大学的学术经验以及谷歌、Facebook，阿里，头条等出身的技术团队。S3 Labs正在致力于通过开源软件架构技术及模式重新定义创造者经济。 \nSwapChat是由S3 Labs开发的跨平台开源架构技术实现端到端加密即时通讯工具。依靠我们开发的Web3MQ通讯协议，为用户提供跨越多平台的通讯服务。Web3MQ作为原生的通讯基础设施，在同赛道目前处于领先水平，是亚太乃至全球通讯协议层赛道实力最强的团队之一。\n links: Web3MQ 官网：https://www.web3mq.com/\n文档：https://docs.web3mq.com/docs/Intro/\ndApp SwapChat：https://swapchat.me \n关于我们：https://s3labs.notion.site/Working-at-S3-Labs-1bb5dd8a93c641d8aa2bdf3938ccee7a",
+      "encryptComId": "05740f236d42801b1XZ80t21GFI~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "web3后端开发",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "103Hiy0JfCl.search.1",
+          "performance": "",
+          "salaryDesc": "20-40K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "计算机相关专业",
+            "web3",
+            "底层开发"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "计算机相关专业",
+              "highlight": false
+            },
+            {
+              "content": "web3",
+              "highlight": false
+            },
+            {
+              "content": "底层开发",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "ccbe88bf87b72a5a1X1z3d60FlpT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "推绎科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220425/7bf6f160950405e906b753aae8e076aea2f10a2f2c2a8a7d59ab241f1c992186877fbc4c2a04505b.jpg",
+          "brandStage": "A轮",
+          "brandScale": "0-20人",
+          "comName": null,
+          "bossName": "岳婷婷",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200717/3e5e179d5e6f140f1b16c57aea29bb1259ab241f1c992186877fbc4c2a04505b_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "计算机相关专业",
+            "web3",
+            "底层开发",
+            "Substrate开发"
+          ],
+          "welfares": [],
+          "securityId": "lY0sSdq81IRPQ-l1jrRYbJJKpV7pzERrmcAkz2aE5UkrsuNkpfnVujMSbFy_JrFuQJj8zjE~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "web3后端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "103Hiy0JfCl.search.2",
+          "performance": "",
+          "salaryDesc": "25-40K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Substrate开发",
+            "web3",
+            "rust"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Substrate开发",
+              "highlight": false
+            },
+            {
+              "content": "web3",
+              "highlight": false
+            },
+            {
+              "content": "rust",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "812d62ff21cbd5f51HR92d60FVtV",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "推绎科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220425/7bf6f160950405e906b753aae8e076aea2f10a2f2c2a8a7d59ab241f1c992186877fbc4c2a04505b.jpg",
+          "brandStage": "A轮",
+          "brandScale": "0-20人",
+          "comName": null,
+          "bossName": "岳婷婷",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200717/3e5e179d5e6f140f1b16c57aea29bb1259ab241f1c992186877fbc4c2a04505b_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Substrate开发",
+            "web3",
+            "rust"
+          ],
+          "welfares": [],
+          "securityId": "AFXZyhoHQh9oB-X17K4UH5ksvtBD-a1FOMI5GJVk4V9uWlFB4bafb8niwh7nhAxzKKJdO6g~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "前端开发",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "103Hiy0JfCl.search.3",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "React",
+            "计算机/软件工程相关专业",
+            "ts"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "React",
+              "highlight": false
+            },
+            {
+              "content": "计算机/软件工程相关专业",
+              "highlight": false
+            },
+            {
+              "content": "ts",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "b49e1ffb4ae13c2f1X1z3dm9EVtT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "推绎科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220425/7bf6f160950405e906b753aae8e076aea2f10a2f2c2a8a7d59ab241f1c992186877fbc4c2a04505b.jpg",
+          "brandStage": "A轮",
+          "brandScale": "0-20人",
+          "comName": null,
+          "bossName": "岳婷婷",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200717/3e5e179d5e6f140f1b16c57aea29bb1259ab241f1c992186877fbc4c2a04505b_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "React",
+            "计算机/软件工程相关专业",
+            "ts"
+          ],
+          "welfares": [],
+          "securityId": "kD-AtEhXmLKqV-4104CpOlhEU08DKOLoMgnw4DElzpx5gV_heK-HzuR7iq3iIVsThO_6tKw~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "web3后端rust开发",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "103Hiy0JfCl.search.4",
+          "performance": "",
+          "salaryDesc": "20-40K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "web3",
+            "公链",
+            "后端"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "web3",
+              "highlight": false
+            },
+            {
+              "content": "公链",
+              "highlight": false
+            },
+            {
+              "content": "后端",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "aa8f38d3d06576911HV72dy0ElVT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "推绎科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220425/7bf6f160950405e906b753aae8e076aea2f10a2f2c2a8a7d59ab241f1c992186877fbc4c2a04505b.jpg",
+          "brandStage": "A轮",
+          "brandScale": "0-20人",
+          "comName": null,
+          "bossName": "岳婷婷",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200717/3e5e179d5e6f140f1b16c57aea29bb1259ab241f1c992186877fbc4c2a04505b_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "web3",
+            "公链",
+            "后端",
+            "rust"
+          ],
+          "welfares": [],
+          "securityId": "1WDO7Ycgw2ky5-F1jnHyAe4Y7UffCxxFzHbcxz0-R5LcnJxdCpYM8RWtMIbbYZLvKi6EW3w~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "项目管理",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "103Hiy0JfCl.search.6",
+          "performance": "",
+          "salaryDesc": "30-45K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "计算机相关专业",
+            "管理相关专业",
+            "软件研发经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "计算机相关专业",
+              "highlight": false
+            },
+            {
+              "content": "管理相关专业",
+              "highlight": false
+            },
+            {
+              "content": "软件研发经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "24d250bd41fe076d1X1_3N61GVJT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "推绎科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220425/7bf6f160950405e906b753aae8e076aea2f10a2f2c2a8a7d59ab241f1c992186877fbc4c2a04505b.jpg",
+          "brandStage": "A轮",
+          "brandScale": "0-20人",
+          "comName": null,
+          "bossName": "岳婷婷",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200717/3e5e179d5e6f140f1b16c57aea29bb1259ab241f1c992186877fbc4c2a04505b_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "计算机相关专业",
+            "管理相关专业",
+            "软件研发经验",
+            "web3",
+            "区块链"
+          ],
+          "welfares": [],
+          "securityId": "h2hRn7q9kDQCS-H1qn3VOEN_Ctk5wJ-PJEi1Z_ENy9qujOGIJPjjpArtZC_2Wl7UOZT1bcc~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

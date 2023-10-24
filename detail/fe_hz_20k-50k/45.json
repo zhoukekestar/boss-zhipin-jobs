@@ -1,0 +1,524 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "7n7MkxVMHlxWi-O13KJr1KOKNQxHt5YiOMUbqVmTI9xv497WSj5sO_tsDJEM8mWrq5z5HtryGb0DR4cOOcZ2SevcMWF5xqs32816bAZLRgRl_6sTrTx7CXJtUn5fvqwYVFDMq1FZ",
+    "bossBaseInfoVO": {
+      "encryptBossId": "28f12de73572c3bc03dy3Ny0F1Q~",
+      "bossId": 43871976,
+      "securityId": "wyb9oBNJuaMjr-317kb1o24grC0VA_R2lJylmL0ZzjE1B6tdqQRGrEC31M2kgAG0qXyyvNaQ2kmre_i29xDKArnxVN2i",
+      "name": "彭铭泽",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+      "title": "高级前端工程师",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1624346674000,
+      "bossOnline": false,
+      "brandName": "百世集团",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 163751687,
+      "encryptJobId": "c38f4db25e79901c1nJ53Ni8FlpX",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "古荡",
+      "locationDesc": "杭州·西湖区·古荡",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 24,
+      "jobDesc": "岗位描述\n根据产品设计需求，配合后台开发人员实现产品界面和功能，维护及优化前端页面性能\n勇于探索前端新领域和新技术，乐于分享\n\n岗位要求\n1、前端基础扎实，熟悉JavaScript、HTML、CSS、HTTP等技术\n2、经验丰富，开发过中大型Web应用程序，良好的UI交互实现能力\n3、熟悉ES6/Less/Webpack/等技术和工具\n4、至少熟悉React、Vue、Angular里其中一种MVVM相关开发框架\n5、具有一定专研精神，敢于挑战自我，解决各种未知问题",
+      "requiredSkills": [
+        "前端开发",
+        "HTML",
+        "TypeScript",
+        "CSS",
+        "JavaScript",
+        "React"
+      ],
+      "address": "杭州西湖区华星现代产业园A座",
+      "longitude": 120.121821,
+      "latitude": 30.274796,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fc6fee008366ebf63defefbfaa145a81",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ad04155c79e2b87291f62032a0b61e2e",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-24K·14薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "759889125da03ce71XZ60tq0",
+      "brandName": "百世集团",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/584968f1d7789255c03de92a3e9ddd5ecfcd208495d565ef66e7dff9f98764da.jpg",
+      "industryName": "物流/仓储",
+      "stageName": "已上市",
+      "scaleName": "10000人以上",
+      "brandIntroduce": "百世集团（股票代码：BEST）成立于2007年，是中国领先的智慧供应链解决方案和物流服务提供商，集供应链管理、快运、国际物流等业务板块于一体，建立了“门到门”的B2B2C的一站式服务。\n\n成立以来，百世始终致力于科技创新，以信息技术、人工智能和大数据，打造综合的线上线下物流和供应链服务能力，不断创新商业模式，重视自动化、科技化、智能化和绿色化发展，并凭借强大的自主研发能力，有效提升服务水平和运营效率，助力企业降本增效，为客户提供高效优质的供应链和物流服务。截至目前，百世已建立覆盖全国的物流配送网络，并在美国、泰国、越南、马来西亚等11个海外国家开展业务。\n\n在发展壮大的同时，百世以实际行动承担并履行社会责任，为员工、股东和社会创造更好的价值和回报。百世的愿景是通过技术和商业模式的创新，建立更智能、更高效的供应链，在数字经济时代实现“成就商业，精彩生活”。",
+      "comName": "杭州百世网络技术有限公司",
+      "legalPerson": "吴蓉眉",
+      "startDate": "2007-08-22",
+      "regCapital": "1377.98万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市滨江区长河街道江南大道588号恒鑫大厦20层2015室",
+      "businessScope": "服务：货运（普通货运，货运站[场]经营：货运代理、仓储理货），第二类增值电信业务中的信息服务业务（仅限互联网信息服务业务，具体按许可证浙B2－20070189范围经营），利用信息网络经营游戏产品（含网络游戏虚拟货币发行），国内快递（邮政企业专营业务除外），国际快递（邮政企业专营业务除外）（涉及前置审批项目的在有效期内方可经营）  技术开发、技术服务：计算机网络管理技术、电子通讯技术、物流信息服务技术；批发、零售：服装服饰、工艺礼品、鞋帽、日用百货、电子产品、建筑材料、机械设备、五金交电、家用电器、一般劳保用品；设计、制作、代理、发布：国内广告，利用800best.com；800best.net；800best.cn；800best.com.cn；baishinetwork.com;bestdianjia.com;kdqsd.com;dianjia.com;800bestwin.com;800bestwin.com.cn;800bestwin.cn;800bestwin.net.cn;800bestwin.net;yolexi.com;ecsbbs.com;800youhuo.com网站发布国内网络广告；货物进出口（法律、行政法规禁止经营的项目除外，法律、行政法规限制经营的项目取得许可后方可经营）；其它无需报经审批的一切合法项目（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "百世集团（股票代码：BEST）成立于2007年，是中国领先的智慧供应链解决方案和物流服务提供商，集供应链管理、快运、国际物流等业务板块于一体，建立了“门到门”的B2B2C的一站式服务。\n\n成立以来，百世始终致力于科技创新，以信息技术、人工智能和大数据，打造综合的线上线下物流和供应链服务能力，不断创新商业模式，重视自动化、科技化、智能化和绿色化发展，并凭借强大的自主研发能力，有效提升服务水平和运营效率，助力企业降本增效，为客户提供高效优质的供应链和物流服务。截至目前，百世已建立覆盖全国的物流配送网络，并在美国、泰国、越南、马来西亚等11个海外国家开展业务。\n\n在发展壮大的同时，百世以实际行动承担并履行社会责任，为员工、股东和社会创造更好的价值和回报。百世的愿景是通过技术和商业模式的创新，建立更智能、更高效的供应链，在数字经济时代实现“成就商业，精彩生活”。",
+      "encryptComId": "061fc5c9a72ff5893n172NS7"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "web前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "古荡",
+          "distance": "",
+          "lid": "105Aw53o1t3.search.1",
+          "performance": "",
+          "salaryDesc": "10-20K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "HTML/CSS",
+            "HTML5",
+            "Web前端"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "HTML/CSS",
+              "highlight": false
+            },
+            {
+              "content": "HTML5",
+              "highlight": false
+            },
+            {
+              "content": "Web前端",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "c4731ba1e0bf72ce1nF43dS6E1I~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "百世集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/584968f1d7789255c03de92a3e9ddd5ecfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "杨先生",
+          "bossTitle": "架构",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "HTML/CSS",
+            "HTML5",
+            "Web前端"
+          ],
+          "welfares": [],
+          "securityId": "WVxrSb-X2wtAQ-M1zjWGgpcfLFKJvmesIkRI79M6fBWOWYGKVimhfIGKKZVlPkqGQLJY",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "java研发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "古荡",
+          "distance": "",
+          "lid": "105Aw53o1t3.search.2",
+          "performance": "",
+          "salaryDesc": "10-20K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "数据库",
+            "Java",
+            "后端开发"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "数据库",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "后端开发",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "f92edded855c11f103x_3NS-FA~~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "百世集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/584968f1d7789255c03de92a3e9ddd5ecfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "杨先生",
+          "bossTitle": "架构",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "数据库",
+            "Java",
+            "后端开发"
+          ],
+          "welfares": [],
+          "securityId": "YT0SSd837vH4C-p1S_X3G3Lqm6AKBNXCKC1DkUgNT-uvzya6EcfV0jJVV2NLSQHSAEU~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "黄龙",
+          "distance": "",
+          "lid": "105Aw53o1t3.search.3",
+          "performance": "",
+          "salaryDesc": "10-15K",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "前端开发",
+            "HTML",
+            "CSS"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            },
+            {
+              "content": "HTML",
+              "highlight": false
+            },
+            {
+              "content": "CSS",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "80d256f2f99883961nZy29-5ElJW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "百世集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/584968f1d7789255c03de92a3e9ddd5ecfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "袁女士",
+          "bossTitle": "品牌营销策划",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210308/beb7a3ff9f4078d3171925c1f700c8089d1b2881511ee04612606e69d621e27c_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "前端开发",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Vue",
+            "计算机软件"
+          ],
+          "welfares": [],
+          "securityId": "u4Or-TfPT62fc-G10k-J7HIVDvs5GR3dIVqcRilhOXNWYMxvOJHwNoSvFSa4L6bfKU5t97dq",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "JAVA（canal、etl、es）",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "105Aw53o1t3.search.4",
+          "performance": "",
+          "salaryDesc": "13-22K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "后端工程师",
+            "全栈工程师",
+            "Java"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "全栈工程师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "d119778795b8ba411HRy0t26F1VS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "百世集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/584968f1d7789255c03de92a3e9ddd5ecfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "储洋",
+          "bossTitle": "招聘信息部",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180822/ad97e3513f9438c75d35789e1c01d5eccfcd208495d565ef66e7dff9f98764da_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "全栈工程师",
+            "Java",
+            "Spring",
+            "MySQL",
+            "计算机/软件工程相关经验",
+            "Java开发经验",
+            "大数据处理经验",
+            "不接受居家办公"
+          ],
+          "welfares": [],
+          "securityId": "GpxJRmoSvELb--G1kZI5MlEZzvqhG_khVePbspA6Iv95pq2v2Bb7nBakutfkeNltUHXnymw~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级前端开发工程师/专家",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "黄龙",
+          "distance": "",
+          "lid": "105Aw53o1t3.search.5",
+          "performance": "",
+          "salaryDesc": "20-40K",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "前端开发",
+            "HTML",
+            "CSS"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            },
+            {
+              "content": "HTML",
+              "highlight": false
+            },
+            {
+              "content": "CSS",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "70b9271105f1bd821nd429m7F1JZ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "百世集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/584968f1d7789255c03de92a3e9ddd5ecfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "尤女士",
+          "bossTitle": "高级开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "前端开发",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Vue",
+            "React"
+          ],
+          "welfares": [],
+          "securityId": "RFmREHNyukCtk-o1VhFQzRl8TgH93_InykSlRg_VZ3HbprVOSk21V0gC1QC-X521rfeSvSY~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

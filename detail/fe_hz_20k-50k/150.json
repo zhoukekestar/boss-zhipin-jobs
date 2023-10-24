@@ -1,0 +1,526 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "0SkR9ClZonNII-513PTpRQfphw7W6bFp2BqT16mmxjDzPmMacukQnU6ebual0MoaNUSQFRXGEmqWNGY79qbmu99gFfqmgd6U_kBBN1c5-R4_P8AWsr_Bx6m5WOQLpqJ0TznKRtKMd0Lw",
+    "bossBaseInfoVO": {
+      "encryptBossId": "b63232cf0872a9fa0XV73N29GVBT",
+      "bossId": 611700923,
+      "securityId": "7dmCkC4mp3Hf2-N1reCFfLYNbighn5Rlt36p2ab4BQO0p_u14a5oQ6mgb0u-0Axt3X0q3CQJXzKLusjF2NoYA03AFLaLZA~~",
+      "name": "毛轻萍",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+      "title": "HRBP",
+      "activeTimeDesc": "本月活跃",
+      "activeTime": 1695883830000,
+      "bossOnline": false,
+      "brandName": "应物云谷",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 298555674,
+      "encryptJobId": "e2bf765afb5ddb301X1y3ti4FlVU",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端UI开发主管",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "钱塘区",
+      "businessDistrict": "和达东东城",
+      "locationDesc": "杭州·钱塘区·和达东东城",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 25,
+      "jobDesc": "岗位职责：\n1、开发团队管理。\n2、与产品经理及客户一起完成产品设计。\n3、带领团队完成代码开发、测试到客户界面交付的端到端开发过程。\n\n任职资格和要求：\n1、计算机相关专业，本科或以上学历。\n2、有3年以上开发和项目交付经验的工程师。\n3、PC端UI开发：熟悉业界主流UI开发平台及开发工具。\n4、移动端开发：熟悉Flutter 2等业界主流移动端开发平台及工具。\n5、有从客户需求、概念设计到产品开发与交付的端到端项目交付经验。\n6、有团队管理经验优先。",
+      "requiredSkills": [
+        "Vue",
+        "React",
+        "前端开发经验",
+        "项目经理",
+        "移动端前端开发",
+        "数据中台"
+      ],
+      "address": "杭州钱塘云谷6幢1701室",
+      "longitude": 120.370655,
+      "latitude": 30.301702,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf3654fd18ba92cf95445a0291b11878c86bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf32a78612169a96929d86e1f4cc06e4a66bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-25K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "8bae6169706c93241XV92Ni1GVo~",
+      "brandName": "应物云谷",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230722/7b5b554d84f9729cb2eac10b3050c3359889c075b90ab76d69c179b2c05bc7b2b46d6dde32ed3364.png",
+      "industryName": "计算机软件",
+      "stageName": "A轮",
+      "scaleName": "20-99人",
+      "brandIntroduce": "公司聚焦于工业数字化技术和解决方案，核心团队均来自于华为和英特尔等500强企业，并拥有行业顶级顾问加持，具备顶级的研发和市场能力。\n\r\n我们秉承“赋能数字化转型，助力产业升级”的企业使命，在国家推动“数字中国”战略的历史进程中，与各行业伙伴一道，使工业生产更高效、更安全和更智能。\n\r\n核心产品是工业智能化平台和工业融合算力服务器。我们在工业数字化的解决方案和商业落地上已经取得关键突破。战略规划上，希望通过团队和技术架构优势领先市场并逐步打破海外友商对数字化、元宇宙技术的壁垒。",
+      "comName": "杭州应物云谷科技有限公司",
+      "legalPerson": "康凯",
+      "startDate": "2020-12-14",
+      "regCapital": "2000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "中国（浙江）自由贸易试验区杭州市钱塘区白杨街道6号大街68号6幢1701室",
+      "businessScope": "一般项目：软件开发；计算机软硬件及辅助设备零售；软件销售；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；信息系统集成服务；计算机系统服务；电子产品销售；通讯设备销售（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "公司聚焦于工业数字化技术和解决方案，核心团队均来自于华为和英特尔等500强企业，并拥有行业顶级顾问加持，具备顶级的研发和市场能力。\n\r\n我们秉承“赋能数字化转型，助力产业升级”的企业使命，在国家推动“数字中国”战略的历史进程中，与各行业伙伴一道，使工业生产更高效、更安全和更智能。\n\r\n核心产品是工业智能化平台和工业融合算力服务器。我们在工业数字化的解决方案和商业落地上已经取得关键突破。战略规划上，希望通过团队和技术架构优势领先市场并逐步打破海外友商对数字化、元宇宙技术的壁垒。",
+      "encryptComId": "d2081b0fb736f8901HJ73NS5EVE~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "视频云技术总监",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "钱塘区",
+          "businessName": "和达东东城",
+          "distance": "",
+          "lid": "ZVnwcbv0Ec.search.1",
+          "performance": "",
+          "salaryDesc": "25-50K",
+          "jobLabels": [
+            "5-10年",
+            "硕士",
+            "流媒体技术",
+            "网络协议",
+            "UE4开发"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "流媒体技术",
+              "highlight": false
+            },
+            {
+              "content": "网络协议",
+              "highlight": false
+            },
+            {
+              "content": "UE4开发",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "00049451ee81b7a51HR63Nm4E1BR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "应物云谷",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230722/7b5b554d84f9729cb2eac10b3050c3359889c075b90ab76d69c179b2c05bc7b2b46d6dde32ed3364.png",
+          "brandStage": "A轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "毛轻萍",
+          "bossTitle": "HRBP",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "流媒体技术",
+            "网络协议",
+            "UE4开发",
+            "音视频编解码",
+            "MR/AR"
+          ],
+          "welfares": [],
+          "securityId": "oy7zHSFVeEMfF-51ibp6AHQttzysryj1GGJt98ljIyjgJsGHqTKC0gmZdmBL-R3rODqrGkpd",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "IOT开发主管",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "钱塘区",
+          "businessName": "和达东东城",
+          "distance": "",
+          "lid": "ZVnwcbv0Ec.search.2",
+          "performance": "",
+          "salaryDesc": "20-40K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Java",
+            "Java开发经验",
+            "团队管理经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Java开发经验",
+              "highlight": false
+            },
+            {
+              "content": "团队管理经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "412b9ffca423d3e81X1y3ti_FlpS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "应物云谷",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230722/7b5b554d84f9729cb2eac10b3050c3359889c075b90ab76d69c179b2c05bc7b2b46d6dde32ed3364.png",
+          "brandStage": "A轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "毛轻萍",
+          "bossTitle": "HRBP",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "Java开发经验",
+            "团队管理经验",
+            "IOT",
+            "数据中台",
+            "私有云"
+          ],
+          "welfares": [],
+          "securityId": "0YJKFiwzq8Bfm-X1LYouX9VtCQuEtNzKtNsfzZHJEBEX29Gjyu26Fthlxbqrce5OrqqaOMeG",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "测试经理",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "钱塘区",
+          "businessName": "和达东东城",
+          "distance": "",
+          "lid": "ZVnwcbv0Ec.search.4",
+          "performance": "",
+          "salaryDesc": "15-25K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "软件测试",
+            "移动端测试",
+            "项目经理"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "软件测试",
+              "highlight": false
+            },
+            {
+              "content": "移动端测试",
+              "highlight": false
+            },
+            {
+              "content": "项目经理",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "cbac8b275e2140c81X1y3ti1FVNT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "应物云谷",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230722/7b5b554d84f9729cb2eac10b3050c3359889c075b90ab76d69c179b2c05bc7b2b46d6dde32ed3364.png",
+          "brandStage": "A轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "毛轻萍",
+          "bossTitle": "HRBP",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "软件测试",
+            "移动端测试",
+            "项目经理",
+            "3D应用测试",
+            "IOT应用测试"
+          ],
+          "welfares": [],
+          "securityId": "Njcm7w1imspuv-610hxGe45g59x3ykwSwKYfYHUDgjydEZdzJ8z_OHau_nhztsTSB0xYPelv",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "U3D高级开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "钱塘区",
+          "businessName": "和达东东城",
+          "distance": "",
+          "lid": "ZVnwcbv0Ec.search.5",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "C#",
+            "项目经理",
+            "Unity3D"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "C#",
+              "highlight": false
+            },
+            {
+              "content": "项目经理",
+              "highlight": false
+            },
+            {
+              "content": "Unity3D",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "0370b9cf74f0c2501HR439S6EVFU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "应物云谷",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230722/7b5b554d84f9729cb2eac10b3050c3359889c075b90ab76d69c179b2c05bc7b2b46d6dde32ed3364.png",
+          "brandStage": "A轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "毛轻萍",
+          "bossTitle": "HRBP",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "C#",
+            "项目经理",
+            "Unity3D",
+            "UE4",
+            "VR/AR开发经验",
+            "3D数字孪生",
+            "Unity3D开发经验",
+            "软件开发经验"
+          ],
+          "welfares": [],
+          "securityId": "1048kRaN2jtc9-c1hPoeDgiaB3mFJEBFBIghOVZ3Uw8QFJNOqUUKYLGaBkk24tMGcZOOoBF9",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "MR/VR 3D产品开发经理",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "钱塘区",
+          "businessName": "工业园南",
+          "distance": "",
+          "lid": "ZVnwcbv0Ec.search.6",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "企业内部技术项目管理",
+            "计算机相关专业",
+            "软件研发经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "企业内部技术项目管理",
+              "highlight": false
+            },
+            {
+              "content": "计算机相关专业",
+              "highlight": false
+            },
+            {
+              "content": "软件研发经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "70a1c157b106405a1XF92Ny9F1tR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "应物云谷",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230722/7b5b554d84f9729cb2eac10b3050c3359889c075b90ab76d69c179b2c05bc7b2b46d6dde32ed3364.png",
+          "brandStage": "A轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "罗仕波",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221125/607f1f3d68754fd0935487d5ba0c6c5a95f78a1b70227a94d2d4c6b74548a81e78c18bda8b710ced_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "企业内部技术项目管理",
+            "计算机相关专业",
+            "软件研发经验",
+            "中大型软件项目管理经验",
+            "无留学背景偏好"
+          ],
+          "welfares": [],
+          "securityId": "Ea0KuchqoUKKv-j13J3pw_hwwQRxZCPDPqLDZO1g7RDHB-0zKZ8TfsFaZfFZI1Sv1OeHtO1F",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

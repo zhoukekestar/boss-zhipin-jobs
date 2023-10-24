@@ -1,0 +1,485 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "6BSEx5POkHPSn-n1zE6UgoZNE4DwVTonMzjIx6bAETqOKpXfRt1MVsXKpYxvEzOcsOCMGH_YFvYiDz0MTi4Tn3-WymdJckteoc-uytHyS0ZUmTyfhY5iAfpUnxeZLCgL4RNNTgQL",
+    "bossBaseInfoVO": {
+      "encryptBossId": "3c7a6eef4728e2b10HV-3tu6Eg~~",
+      "bossId": 7145672,
+      "securityId": "SYiJ6ulUkLq5i-z1nraWMxBI_qWufpZcE_DhYosqxuU4VwN2pZvK8UmAwxmulxb1LYWfiG59uaA0dmuqOwCq-NgrgWo~",
+      "name": "李锦玉",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200519/8f12451ecb2181450853305ead06e80df5b77ad5ca30aa9e415d7110335feeb1_s.jpg",
+      "title": "HR",
+      "activeTimeDesc": "3日内活跃",
+      "activeTime": 1698057411694,
+      "bossOnline": false,
+      "brandName": "易企银",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 271922259,
+      "encryptJobId": "67340aedc836795b1XN70t-_EldZ",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端研发工程师",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "萧山区",
+      "businessDistrict": "钱江世纪城",
+      "locationDesc": "杭州·萧山区·钱江世纪城",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 30,
+      "jobDesc": "职位描述\n1.负责相应系统的前端架构设计和产品研发；\n2.负责前端框架的研发体验和用户体验；\n3.主动学习新技术，并能够在实践中应用，协助团队提升技术氛围。\n\n职位条件\n1.具有3年及以上系统开发经验，计算机、软件工程、通信、电子、信息、自动化、控制工程等相关专业；\n2.熟练掌握Vue或者React等MV框架，有项目实战经验，熟练使用HTML5、CSS3、ECMA等开发技术，有数据库使用常识；\n3.熟悉Linux操作系统，了解分布式应用部署环境，熟练使用svn、idea、git、maven等工具；\n4.有政府、国企、银行相关项目或数字化改革项目实施经验者优先。",
+      "requiredSkills": [
+        "React",
+        "Vue"
+      ],
+      "address": "杭州萧山区浙商银行总行科研中心",
+      "longitude": 120.255613,
+      "latitude": 30.238598,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6d04669209c720f3823c02e2f62f0556",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/56a313c59184b8608a9b17249be64bcb",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-30K·18薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "0fb834c05f94a0c10HJ83d67EQ~~",
+      "brandName": "易企银",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200602/9eedd1eaa11ff53086b72f09a345bad7fd92b483c8591a9e6d96a2abb0418bf3_s.jpg",
+      "industryName": "互联网",
+      "stageName": "不需要融资",
+      "scaleName": "1000-9999人",
+      "brandIntroduce": "易企银（杭州）科技有限公司、杭州亿家银网络有限公司是浙商银行金融科技的重要组成部分，总部位于浙江杭州。公司以客户价值创造和极致的客户体验为导向，致力于为浙商银行及其客户等合作机构提供各种金融科技产品及服务。\n易企银（杭州）科技有限公司主要提供金融软件应用研发、平台运营、新技术研发与应用等服务，不断深化云计算、大数据、区块链、人工智能等创新技术在金融场景的应用，为客户定制各类场景下的金融和技术综合服务方案，推动科技、金融、行业和企业的深度融合，创新合作模式。\n杭州亿家银网络有限公司主要提供电子商城平台产品设计、市场推广、平台运营、技术运维等服务，创新电商交易与客户服务模式，培育电商金融生态圈，打造开放、智能、敏捷的客户服务平台。",
+      "comName": "易企银（杭州）科技有限公司",
+      "legalPerson": "王峰",
+      "startDate": "2020-02-27",
+      "regCapital": "2000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市萧山区宁围街道鸿宁路1788号水天城2幢4单元2501室",
+      "businessScope": "一般项目：软件开发；软件外包服务；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；计算机软硬件及辅助设备批发；计算机软硬件及辅助设备零售；信息系统集成服务；互联网数据服务；信息系统运行维护服务；人工智能基础资源与技术平台；数据处理和存储支持服务；信息技术咨询服务；企业形象策划；市场营销策划；项目策划与公关服务；会议及展览服务；信息咨询服务（不含许可类信息咨询服务）；翻译服务；广告设计、制作、代理；广告发布（非广播电台、电视台、报刊出版单位）；企业管理；教育咨询服务（不含教育培训活动）；社会经济咨询服务；财务咨询；国内贸易代理；贸易经纪（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：技术进出口；货物进出口（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "易企银（杭州）科技有限公司、杭州亿家银网络有限公司是浙商银行金融科技的重要组成部分，总部位于浙江杭州。公司以客户价值创造和极致的客户体验为导向，致力于为浙商银行及其客户等合作机构提供各种金融科技产品及服务。\n易企银（杭州）科技有限公司主要提供金融软件应用研发、平台运营、新技术研发与应用等服务，不断深化云计算、大数据、区块链、人工智能等创新技术在金融场景的应用，为客户定制各类场景下的金融和技术综合服务方案，推动科技、金融、行业和企业的深度融合，创新合作模式。\n杭州亿家银网络有限公司主要提供电子商城平台产品设计、市场推广、平台运营、技术运维等服务，创新电商交易与客户服务模式，培育电商金融生态圈，打造开放、智能、敏捷的客户服务平台。",
+      "encryptComId": "c576c125b14534e01XB60t65FFU~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "研发专家",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "钱江世纪城",
+          "distance": "",
+          "lid": "ZUqDHeAQUL.search.1",
+          "performance": "",
+          "salaryDesc": "28-55K·18薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "架构师",
+            "后端工程师",
+            "全栈工程师"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "架构师",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "全栈工程师",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "4bd168a0ecb56df41HV629i4FVJQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "易企银",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200602/9eedd1eaa11ff53086b72f09a345bad7fd92b483c8591a9e6d96a2abb0418bf3_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "李锦玉",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200519/8f12451ecb2181450853305ead06e80df5b77ad5ca30aa9e415d7110335feeb1_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "架构师",
+            "后端工程师",
+            "全栈工程师",
+            "Java"
+          ],
+          "welfares": [],
+          "securityId": "N4Wv-79dIy4Aq-j1P2ovxiVC2noU-dq2BjJx2GsbVFymampGZxnB3qpo7Kz6Inb2KtB_Yw~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "营销模型专家",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "钱江世纪城",
+          "distance": "",
+          "lid": "ZUqDHeAQUL.search.2",
+          "performance": "",
+          "salaryDesc": "28-55K·18薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "智能营销/广告",
+            "TensorFlow/PyTorch",
+            "业务导向"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "智能营销/广告",
+              "highlight": false
+            },
+            {
+              "content": "TensorFlow/PyTorch",
+              "highlight": false
+            },
+            {
+              "content": "业务导向",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "45c0d712ba99afc11XN70t-_F1RR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "易企银",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200602/9eedd1eaa11ff53086b72f09a345bad7fd92b483c8591a9e6d96a2abb0418bf3_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "李锦玉",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200519/8f12451ecb2181450853305ead06e80df5b77ad5ca30aa9e415d7110335feeb1_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "智能营销/广告",
+            "TensorFlow/PyTorch",
+            "业务导向"
+          ],
+          "welfares": [],
+          "securityId": "C3m2KWNk1m33W-51zOTb1nL5CksD3u41VTLc0UdPZ1KieXaLqLbON3KVcfmn5gw1qCH-CA~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "系统运维工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "钱江世纪城",
+          "distance": "",
+          "lid": "ZUqDHeAQUL.search.3",
+          "performance": "",
+          "salaryDesc": "11-22K·18薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "DBA",
+            "运维开发/DevOps",
+            "系统运维"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "DBA",
+              "highlight": false
+            },
+            {
+              "content": "运维开发/DevOps",
+              "highlight": false
+            },
+            {
+              "content": "系统运维",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "2c514498486e45661HV_2tq8ElFX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "易企银",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200602/9eedd1eaa11ff53086b72f09a345bad7fd92b483c8591a9e6d96a2abb0418bf3_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "明鹏",
+          "bossTitle": "易企银科技公司HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191021/2054f7a3a8de41cd3e1e1d7e3d492c735b1c453b4acc2a8d540cd04bd0348e25_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "DBA",
+            "运维开发/DevOps",
+            "系统运维"
+          ],
+          "welfares": [],
+          "securityId": "D9OCFYtUJtgo_-_15VYkRHaWfl6K7PrZ4anf1zvg0af81Yb4gma-1ob90bTi8vRg8eGSsOw~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "技术架构专家",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "钱江世纪城",
+          "distance": "",
+          "lid": "ZUqDHeAQUL.search.4",
+          "performance": "",
+          "salaryDesc": "28-55K·18薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "Java"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "76fdce794091226e1HV629u5EltV",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "易企银",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200602/9eedd1eaa11ff53086b72f09a345bad7fd92b483c8591a9e6d96a2abb0418bf3_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "李锦玉",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200519/8f12451ecb2181450853305ead06e80df5b77ad5ca30aa9e415d7110335feeb1_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java"
+          ],
+          "welfares": [],
+          "securityId": "zDe61s7bfckNd-T15DfWQE3TkxRmFitKBCnHZEKQ_XEvLrLvygJZk4gTWpbXxeIevOzAaA~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "项目经理",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "钱江世纪城",
+          "distance": "",
+          "lid": "ZUqDHeAQUL.search.5",
+          "performance": "",
+          "salaryDesc": "28-55K·18薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "企业内部技术项目管理"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "企业内部技术项目管理",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "7df4a1b030e7dfaf1HV_2tq_GFZR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "易企银",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200602/9eedd1eaa11ff53086b72f09a345bad7fd92b483c8591a9e6d96a2abb0418bf3_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "明鹏",
+          "bossTitle": "易企银科技公司HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191021/2054f7a3a8de41cd3e1e1d7e3d492c735b1c453b4acc2a8d540cd04bd0348e25_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "企业内部技术项目管理"
+          ],
+          "welfares": [],
+          "securityId": "hsodF9zGi5Yma-Q1VZ5fq3M6PuWckJsb3f5BXnM0yTygfqAlFRZqwulCL8U1yDGNBQQnzDQ~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

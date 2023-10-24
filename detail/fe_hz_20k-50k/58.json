@@ -1,0 +1,485 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "QEHvg07YKEXqj-L1V7o-yOGw9bjESiB67pWhT0c8X0nI5Iw_woPhnWiI6wzC53Vgyet3yK40WjhJ84FkqdHlzcwat-nuh7OEMxaeMg5rIdpw989GgBklRgZlosKA9dayAiTm-Tb1zLk~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "980ac6a8524904191H1-29m4FlU~",
+      "bossId": 39404567,
+      "securityId": "_nXIGTv8vT_WT-j1Z_LeR3-bKG-XwvqFke_l-YIcmOJ6taq2lPlVcNhI953bFJ_Q8azS4hDRDq0QQDls2l9gyCyRmDAg",
+      "name": "郭大军",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191112/4a345a5140c984f88198ccb9f72b63d32260d2d4f3267c51c820c4d88c013cb7_s.png",
+      "title": "HR",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1675048031000,
+      "bossOnline": false,
+      "brandName": "天翼智慧城市",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 252193119,
+      "encryptJobId": "1312ddf7ca176ddf1XF42tS-EVNZ",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "五常",
+      "locationDesc": "杭州·余杭区·五常",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 25,
+      "jobDesc": "岗位职责（前端）\n1、参与公司软件产品的需求分析 、架构设计、重构、优化；\n2、参与技术规划、技术路线、技术标准、框架和规范的制定；\n3、负责核心功能的架构与代码编写，开发与维护系统公用核心模块；\n4、负责软件质量审查；\n5、解决项目中的关键问题和技术难题；\n6、负责现有系统的升级、二次开发与改进、性能调优等。\n任职要求：\n1、教育背景：2023年本科及以上学历应届毕业生；\n2、热爱软件开发，具有自我驱动力，有探索新技术、新知识的兴趣和乐于分享的精神；\n3、具备软件开发的基础知识；\n4、具备团队精神和合作精神，思路清晰，善于思考。",
+      "requiredSkills": [
+        "JavaScript"
+      ],
+      "address": "杭州余杭区中国电信浙江创新园溪沁街8号",
+      "longitude": 120.049564,
+      "latitude": 30.294975,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fee6bdb856c27cfe5e3c0cef4b6d0401",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3fbc462494fc5907d627effa2f575f36",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 5,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-25K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": "2023年",
+      "recruitEndTimeDesc": "2023.05.31"
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "2e8a25169980305b1nR909y-E1U~",
+      "brandName": "天翼智慧城市",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200731/2c0cfcc509fe1463a5b089ef3c7e60951b1cc1442a3f397b549a214739028a5d_s.jpg",
+      "industryName": "计算机软件",
+      "stageName": "未融资",
+      "scaleName": "100-499人",
+      "brandIntroduce": "杭州天翼智慧城市科技有限公司，是在“中国电信政务行业信息化应用（杭州）基地”的基础上、由中国电信股份有限公司出资设立的一家国营企业，专业从事智慧政务信息化建设。\n       公司基于物联网、大数据、人工智能、云计算、区块链、5G通信等前沿技术，聚焦于政务、城市、社区管理、基层治理等领域，通过提供政务信息化和城市管理及服务系列产品，依托中国电信集团在行业信息化应用领域的核心优势，通过机制体制创新，为中国智慧城市建设提供全面解决方案和一揽子服务。\n       公司作为国家高新技术企业，通过CMMI L5认证，设有省级研究开发中心，参与编制了多部智慧城市建设规划，参与了国家级省级多项标准规范的制定，承接了多项国家、省市的研究课题，是浙江省大数据应用示范企业和2018年度浙江省软件行业成长型百强企业。",
+      "comName": "杭州天翼智慧城市科技有限公司",
+      "legalPerson": "黄晓鲁",
+      "startDate": "2015-01-09",
+      "regCapital": "3700万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市余杭区五常街道溪沁街8号A3楼1单元3层",
+      "businessScope": "许可项目：第一类增值电信业务；第二类增值电信业务；互联网信息服务（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。一般项目：软件开发；信息技术咨询服务；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；网络技术服务；人工智能应用软件开发；网络与信息安全软件开发；通信设备销售；计算机软硬件及外围设备制造；信息系统集成服务；计算机系统服务；软件销售；电子产品销售；物联网设备销售；互联网数据服务；信息系统运行维护服务；大数据服务；数据处理和存储支持服务；通讯设备销售；网络设备销售（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "杭州天翼智慧城市科技有限公司，是在“中国电信政务行业信息化应用（杭州）基地”的基础上、由中国电信股份有限公司出资设立的一家国营企业，专业从事智慧政务信息化建设。\n       公司基于物联网、大数据、人工智能、云计算、区块链、5G通信等前沿技术，聚焦于政务、城市、社区管理、基层治理等领域，通过提供政务信息化和城市管理及服务系列产品，依托中国电信集团在行业信息化应用领域的核心优势，通过机制体制创新，为中国智慧城市建设提供全面解决方案和一揽子服务。\n       公司作为国家高新技术企业，通过CMMI L5认证，设有省级研究开发中心，参与编制了多部智慧城市建设规划，参与了国家级省级多项标准规范的制定，承接了多项国家、省市的研究课题，是浙江省大数据应用示范企业和2018年度浙江省软件行业成长型百强企业。",
+      "encryptComId": "eab84552121b08f31nR83t-7Eg~~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "售前解决方案工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "104j3Fs89LV.search.1",
+          "performance": "",
+          "salaryDesc": "10-15K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "产品咨询",
+            "技术沟通",
+            "技术方案"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "产品咨询",
+              "highlight": false
+            },
+            {
+              "content": "技术沟通",
+              "highlight": false
+            },
+            {
+              "content": "技术方案",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "a696e7b24731f3311XZ42t-1GVJX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "天翼智慧城市",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200731/2c0cfcc509fe1463a5b089ef3c7e60951b1cc1442a3f397b549a214739028a5d_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "张超",
+          "bossTitle": "售前主管",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_12.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "产品咨询",
+            "技术沟通",
+            "技术方案",
+            "客户交流"
+          ],
+          "welfares": [],
+          "securityId": "rJ97di0tMvLIk-u1pSXCkJz6L80fZG8MH8ddQGF4x1dqzc3XhL1APTwYYlOZjSm5Wx1gH6tW",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "技术支持",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "104j3Fs89LV.search.2",
+          "performance": "",
+          "salaryDesc": "14-20K",
+          "jobLabels": [
+            "在校/应届",
+            "本科",
+            "企业内部IT技术支持"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "在校/应届",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "企业内部IT技术支持",
+              "highlight": false
+            }
+          ],
+          "jobType": 5,
+          "encryptJobId": "aa437835a3bcfb461XF42tW8EFtT",
+          "afterNameIcon": null,
+          "afterNameIcons": [
+            "https://img.bosszhipin.com/beijin/mcs/banner/4d77f815083a7850d8c5188f10b2ff0dcfcd208495d565ef66e7dff9f98764da.png"
+          ],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "天翼智慧城市",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200731/2c0cfcc509fe1463a5b089ef3c7e60951b1cc1442a3f397b549a214739028a5d_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "郭大军",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191112/4a345a5140c984f88198ccb9f72b63d32260d2d4f3267c51c820c4d88c013cb7_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "企业内部IT技术支持"
+          ],
+          "welfares": [],
+          "securityId": "Y0d7MHuI-1ekR-H1W5PdfpMUqS1PanNo0SxMkCpTC6cPtDgejl7b61KuWGo-FBpNyNANiPY~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "项目经理",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "104j3Fs89LV.search.3",
+          "performance": "",
+          "salaryDesc": "15-25K",
+          "jobLabels": [
+            "在校/应届",
+            "本科",
+            "项目经理"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "在校/应届",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "项目经理",
+              "highlight": false
+            }
+          ],
+          "jobType": 5,
+          "encryptJobId": "0fea978526457f091XF42tW8GFRV",
+          "afterNameIcon": null,
+          "afterNameIcons": [
+            "https://img.bosszhipin.com/beijin/mcs/banner/4d77f815083a7850d8c5188f10b2ff0dcfcd208495d565ef66e7dff9f98764da.png"
+          ],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "天翼智慧城市",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200731/2c0cfcc509fe1463a5b089ef3c7e60951b1cc1442a3f397b549a214739028a5d_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "郭大军",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191112/4a345a5140c984f88198ccb9f72b63d32260d2d4f3267c51c820c4d88c013cb7_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "项目经理"
+          ],
+          "welfares": [],
+          "securityId": "7yWpAnctC3ZGU-B1gezYq9eiL31g5Q40TMS_hthDwZv7x4VtzvHhTlOvVL2Mkl3hdYRu35g~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "运维工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "104j3Fs89LV.search.4",
+          "performance": "",
+          "salaryDesc": "10-13K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "系统运维",
+            "linux"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "系统运维",
+              "highlight": false
+            },
+            {
+              "content": "linux",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "a7f6740cd648c06c1XF73N--GFVW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "天翼智慧城市",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200731/2c0cfcc509fe1463a5b089ef3c7e60951b1cc1442a3f397b549a214739028a5d_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "郭大军",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191112/4a345a5140c984f88198ccb9f72b63d32260d2d4f3267c51c820c4d88c013cb7_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "系统运维",
+            "linux"
+          ],
+          "welfares": [],
+          "securityId": "6Tn8b902pr-LP-Q10KiluRthU-xoUdAAjBPxVRoYSbGnE0NI6DvV1mqMxnwTLiJ1YdrCoV4~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "测试",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "104j3Fs89LV.search.5",
+          "performance": "",
+          "salaryDesc": "10-15K",
+          "jobLabels": [
+            "在校/应届",
+            "本科",
+            "功能测试",
+            "自动化测试",
+            "计算机相关专业"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "在校/应届",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "功能测试",
+              "highlight": false
+            },
+            {
+              "content": "自动化测试",
+              "highlight": false
+            },
+            {
+              "content": "计算机相关专业",
+              "highlight": false
+            }
+          ],
+          "jobType": 5,
+          "encryptJobId": "e36acc063b29466e1XF82dS8EFtY",
+          "afterNameIcon": null,
+          "afterNameIcons": [
+            "https://img.bosszhipin.com/beijin/mcs/banner/4d77f815083a7850d8c5188f10b2ff0dcfcd208495d565ef66e7dff9f98764da.png"
+          ],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "天翼智慧城市",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200731/2c0cfcc509fe1463a5b089ef3c7e60951b1cc1442a3f397b549a214739028a5d_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "郭大军",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191112/4a345a5140c984f88198ccb9f72b63d32260d2d4f3267c51c820c4d88c013cb7_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "功能测试",
+            "自动化测试",
+            "计算机相关专业",
+            "通信相关专业"
+          ],
+          "welfares": [],
+          "securityId": "J1_V7B5W6vGwf-V1P00juxH66zbZFo9RUjm4noTbzthKIqmdPM8BplqlAVwMRHI4HIMF8JI~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

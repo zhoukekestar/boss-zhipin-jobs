@@ -1,0 +1,537 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "D9MAzBFlFCMEF-K12t8tUc5ptr6N_KQElSlhp8r7_lGTi5IvUWm0mwbyzb-ZnJkp-hmdAtYQbBTeMoBjjlk6j8DvgkOVqHhHcNUCTlUV7Q-l_IU8TaTsL3MS7pvVDk8r4wB_8Xzo4A~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "efd3e410c2a8175c0nR43tW1FldT",
+      "bossId": 502588653,
+      "securityId": "QTzcEM46TlauN-c1XvjsgEKXqZsBqCYTOSzPWnXxW8vSRIwH5r1smPkurTKUUofYhl6ShjFI8eYGdU9ptuU6beiyHu4TGQ~~",
+      "name": "乔立祥",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201201/53eefbff596793de9d094ba1fd85095701f0e43b8c0e192e5a47dfe505172870_s.jpg",
+      "title": "高级软件开发工程师",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1648798369000,
+      "bossOnline": false,
+      "brandName": "阿里集团",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 113387197,
+      "encryptJobId": "443bdf43818274851nV52NW6EVtX",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "西溪",
+      "locationDesc": "杭州·余杭区·西溪",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 25,
+      "highSalary": 50,
+      "jobDesc": "职位描述\n1. 参与阿里业务产品的前端开发，使用合理的设计方案；\n\n2. 根据产品需求与技术需求，对相关项目进行编码、迭代、维护、重构等工作。\n\n职位要求\n1. 熟练掌握 JavaScript、CSS、HTML 语义化标签，前端基础扎实，了解SEO的优化手段；\n\n2. 熟练掌握相关的前端调试技术，chrome developer tools、抓包等。；\n\n3. 熟练掌握移动web开发技术；\n\n4. 对工程化的构建流程有较为深刻的认识；\n\n5. 具备Node.js相关的开发经验，理解BFF相关的概念，理解客户端渲染与服务端渲染的node实现，使用过egg.js的优先；\n\n6. 具备MV*（MVVM/MVC）类前端框架的项目实践经验，如Vue/React等；\n\n7. 熟悉 HTTP 协议及缓存，了解基本的浏览器渲染及网络传输过程；\n\n8. 关注业界动态及技术发展趋势，具备良好的学习能力；\n\n9. 英语口语可工作沟通为加分项。",
+      "requiredSkills": [
+        "前端开发",
+        "WEB开发",
+        "CSS",
+        "HTML",
+        "React",
+        "Web端",
+        "移动端",
+        "Node.js"
+      ],
+      "address": "杭州余杭区阿里巴巴乐佳园区4号楼8楼",
+      "longitude": 120.009138,
+      "latitude": 30.279634,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c8788f9565423580e51dc329a5d05423",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/27ec9db0b71b4b592eebc30dbf6cfc79",
+      "salaryMonth": 0,
+      "performance": "按照绩效表现来",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "25-50K·16薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "5642431d2265b24f03d939W7",
+      "brandName": "阿里集团",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/bar/brand/437486.jpg",
+      "industryName": "移动互联网",
+      "stageName": "已上市",
+      "scaleName": "10000人以上",
+      "brandIntroduce": "阿里巴巴本地生活",
+      "comName": "阿里巴巴（中国）有限公司",
+      "legalPerson": "蒋芳",
+      "startDate": "2007-03-26",
+      "regCapital": "15412.76491万美元",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市滨江区长河街道网商路699号4号楼5楼508室",
+      "businessScope": "服务：企业管理，计算机系统服务，电脑动画设计，经济信息咨询服务（除商品中介），成年人的非证书劳动职业技能培训和成年人的非文化教育培训（涉及前置审批的项目除外）；生产：计算机软件；销售自产产品。（国家禁止和限制的除外，凡涉及许可证制度的凭证经营）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "阿里巴巴本地生活",
+      "encryptComId": "511911d2ea143bdf1Xd42tm9"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "大数据与算法工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "ZQanznp5jz.search.1",
+          "performance": "",
+          "salaryDesc": "20-35K·15薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "数据仓库",
+            "ETL",
+            "数据分析"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "数据仓库",
+              "highlight": false
+            },
+            {
+              "content": "ETL",
+              "highlight": false
+            },
+            {
+              "content": "数据分析",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "846e17fde9b7eb930Hd62d-7FFU~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "阿里集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/brand/437486.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "王鹏程",
+          "bossTitle": "高级技术专家",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190704/b05e7e1ce63481cb9d7a1e9dbbb4f0a2534061f2860ab998a9a059880d76f4a1_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "数据仓库",
+            "ETL",
+            "数据分析",
+            "Python",
+            "Scala"
+          ],
+          "welfares": [],
+          "securityId": "Kq79RScZ2KHYp-911V05EpCd8cHA9Fqu42iy8SI8-3LG0Rnkwg6wjHYBQM4SfGuYq-Am4Q~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "JAVA研发/JAVA架构",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZQanznp5jz.search.2",
+          "performance": "",
+          "salaryDesc": "20-25K·16薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "Java",
+            "不接受居家办公",
+            "大数据处理经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "不接受居家办公",
+              "highlight": false
+            },
+            {
+              "content": "大数据处理经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "cdb4b9eafa0404811nZy09y5ElZX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "阿里集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/brand/437486.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "孙伟光",
+          "bossTitle": "高级数据技术专家",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191130/6ee306c0e56b2f23c07c1353f4f34b326612697df39eb646cdf2ba8f366a582a_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "不接受居家办公",
+            "大数据处理经验",
+            "数据仓库",
+            "分布式技术",
+            "架构师",
+            "Spring",
+            "后端工程师",
+            "Java开发经验",
+            "分布式系统开发经验",
+            "MyBatis",
+            "Framework",
+            "大数据",
+            "云计算"
+          ],
+          "welfares": [],
+          "securityId": "KZPcaEDgHePHu-I1XNOCxuBhohNf2MF0sKhgZdCkYTs83aDL785iXtCKf6M1vcPY2JI5wJs~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级Java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "ZQanznp5jz.search.3",
+          "performance": "",
+          "salaryDesc": "20-40K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "分布式技术",
+            "微服务架构",
+            "Spring"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "微服务架构",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "c6dd3388efd43ccd1nZy3d-6FFRW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "阿里集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/brand/437486.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "张先生",
+          "bossTitle": "Java开发",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210302/e340307de2dd3f126af7c3ecfa33b52eefd3fc5c091f5ecb6d6ee06136d3ad1d_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "分布式技术",
+            "微服务架构",
+            "Spring",
+            "SpringBoot",
+            "Dubbo",
+            "MySQL",
+            "办公协同",
+            "消息队列"
+          ],
+          "welfares": [],
+          "securityId": "pfaV_vcgvdtuf-L1x5Nd50ADXXolTPtqv44ot5ZnoYQL4xEy57xwjkrAioAtUujh9nMv32E~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZQanznp5jz.search.4",
+          "performance": "",
+          "salaryDesc": "20-40K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "Java",
+            "系统架构",
+            "全栈"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "系统架构",
+              "highlight": false
+            },
+            {
+              "content": "全栈",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "1517233ac9523a041nZz29m7FlI~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "阿里集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/brand/437486.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "周锋",
+          "bossTitle": "资深研发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170720/22cc3abc87d7d3b33241386ec2f45c5d6ab4bfb486c5e571d63bea9325c5c6d1_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "系统架构",
+            "全栈"
+          ],
+          "welfares": [],
+          "securityId": "-hphUdEi1w1yN-d10-Z0T_OP-4OD03oMhAXnCtgSP40yGhydoix5GH7urdWFlJjaxjZn",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级Java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "ZQanznp5jz.search.5",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "分布式技术",
+            "微服务架构",
+            "多线程"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "微服务架构",
+              "highlight": false
+            },
+            {
+              "content": "多线程",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "33988f932c29c96e1nZ42dm_EltW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "阿里集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/brand/437486.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "潘先生",
+          "bossTitle": "高级Java开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220526/607f1f3d68754fd082f3a84bc1a1b16b21c5a46cba519112e0cbb112d891b2278b9b5af3de90d079_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "分布式技术",
+            "微服务架构",
+            "多线程",
+            "消息队列",
+            "MVC开发",
+            "Spring",
+            "Dubbo",
+            "Redis"
+          ],
+          "welfares": [],
+          "securityId": "BRvBkMPNUA9GB-b1aOkjNpahjVgWMDyJk96gTedJ07oY4PNTJFMR9roDqzvzRqfl0Xb87gE~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

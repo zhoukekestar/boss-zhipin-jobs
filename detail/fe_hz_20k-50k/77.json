@@ -1,0 +1,519 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "UKHf35LqWTwoK-x1Zmf5FI3kXDuBqnWYKjOKcJhHPANypXCBNnHCWb4puwVNH7MFCrW7FeSCtJMaW-MdkLiCdb-OX7sF53Nd031KBUq-cu_Z-I1UaDRqMLo5SbBR151ZCT1CRA~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "a51848f8fb2f86e60nF72tq8GFM~",
+      "bossId": 55117181,
+      "securityId": "POa5nt9eF4VQv-N1YPaO7bu-zsXEvrjXjNmq0wxfRjkZv_XIydiHcrzT7x9VL0Ct6nomPm7kRQIdltguC7KGKPt1QFE~",
+      "name": "周立光",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+      "title": "开发主管",
+      "activeTimeDesc": "2周内活跃",
+      "activeTime": 1697527955000,
+      "bossOnline": false,
+      "brandName": "浙江大华",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 35641994,
+      "encryptJobId": "6320e8e757e3b0221HF839y0GVY~",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端开发",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "长河",
+      "locationDesc": "杭州·滨江区·长河",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 12,
+      "highSalary": 22,
+      "jobDesc": "职责描述：\r\n1. 参与公司项目需求、研发设计的相关讨论，从前端设计角度提出优化建议\r\n2. 负责公司产品项目的前端开发工作，实现产品所需的交互效果\r\n3. 与后端开发保持良好的沟通，高效完成具体的开发工作\r\n4. 持续优化前端体验和页面响应速度，并保证适配和兼容性\r\n\r\n任职要求：\r\n1.熟练掌握使用es6、html/html5、css/css3、Ajax等前端相关技术，熟悉W3C标准\r\n2.熟练使用JQuery、Require JS、echarts、less/sass、webpack/gulp等前端开发框架\r\n3.熟悉vue等MVVM框架，有vue、vuex、vue-router、vue-axios、iview项目开发经验\r\n4.有iview等第三方组件库封装经验者优先\r\n5.有openlayers地图开发，或三维地图开发经验者优先\r\n6.热爱前端技术，个性乐观开朗，逻辑性强、善于总结及和人沟通合作，具有强烈责任心\r\n7.有较强的学习能力，有深入思考并解决较为复杂的技术问题的能力",
+      "requiredSkills": [
+        "javascript",
+        "vue.js"
+      ],
+      "address": "杭州滨江区浙江大华技术股份有限公司1399号",
+      "longitude": 120.185358,
+      "latitude": 30.18922,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/403e184b1af74e6ee35343e80c25232b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ddbb2998c70a7bd18e43626e0d56bf49",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "12-22K·14薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "b47e59175cdd71cd33d82dQ~",
+      "brandName": "浙江大华",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/2c58f03d8309365e12ed525cc327ed7fcfcd208495d565ef66e7dff9f98764da.jpg",
+      "industryName": "互联网",
+      "stageName": "已上市",
+      "scaleName": "10000人以上",
+      "brandIntroduce": "浙江大华技术股份有限公司，是全球领先的以视频为核心的智慧物联解决方案提供商和运营服务商，以技术创新为基础，围绕客户服务持续构建全链路的技术开放体系，全面拓展城市级、企业级市场的物联数据应用与深度，为城市、企业、家庭数字化转型提供一站式智慧物联服务与解决方案。\n2021上半年，公司实现营业收入135.05亿元，同比增长37.27%；净利润16.43亿元，同比增长20.03%，2020年，实现营业收入264.66亿元，公司现拥有18000多名员工，其中研发人员占比超50%。公司每年以10% 左右的销售收入投入研发，不断致力于技术创新，建立了先进技术研究院、大数据研究院、中央研究院、网络安全研究院和智慧城市研究院。依托对智慧物联的深入洞察与布局，公司持续探索新兴业务，延展了机器视觉、机器人、视讯协作、智慧无人机、智慧消防、汽车技术、智慧存储、智慧安检、智慧显控、智慧控制等创新业务。\n大华股份的营销和服务网络覆盖全球，在亚洲、北美洲、南美洲、欧洲、非洲、大洋洲建立了58个境外分支机构，在国内设立了200多个办事处，为客户提供快速、优质的服务。公司产品和解决方案覆盖全球180个国家和地区，广泛应用于交通、制造、教育、能源、金融、环保等多个领域，并参与了中国国际进口博览会、G20杭州峰会、里约奥运会、厦门金砖国家峰会、老挝东盟峰会、上海世博会、广州亚运会、港珠澳大桥等重大工程项目。\n大华股份将秉承“以客户为中心，以奋斗者为本”的核心价值观，践行“让社会更安全，让生活更智能”的使命，以卓越品质与服务立足市场，为客户创造更多价值，为构建一个安全、智能、便捷、高效的社会而不懈努力。\n*.详见官网：https://www.dahuatech.com/",
+      "comName": "浙江大华技术股份有限公司",
+      "legalPerson": "傅利泉",
+      "startDate": "2001-03-12",
+      "regCapital": "329446.899万人民币",
+      "statusDesc": "存续",
+      "regAddress": "杭州市滨江区滨安路1187号",
+      "businessScope": "一般项目：软件开发；数字视频监控系统制造；数字视频监控系统销售；安防设备制造；安防设备销售；物联网设备制造；物联网设备销售；物联网技术研发；物联网技术服务；物联网应用服务；大数据服务；5G通信技术服务；计算机软硬件及外围设备制造；计算机软硬件及辅助设备批发；计算机软硬件及辅助设备零售；云计算设备制造；云计算设备销售；云计算装备技术服务；通信设备制造；通信设备销售；移动通信设备制造；移动通信设备销售；网络设备制造；网络设备销售；显示器件制造；显示器件销售；智能无人飞行器制造；智能无人飞行器销售；通用设备制造（不含特种设备制造）；雷达及配套设备制造；配电开关控制设备研发；配电开关控制设备制造；配电开关控制设备销售；仪器仪表制造；仪器仪表销售；电子元器件制造；电子元器件批发；电子元器件零售；光伏设备及元器件制造；光伏设备及元器件销售；安全、消防用金属制品制造；照明器具制造；照明器具销售；机械设备研发；机械设备销售；机械电气设备制造；机械电气设备销售；电子产品销售；可穿戴智能设备制造；可穿戴智能设备销售；金属结构制造；金属结构销售；音响设备制造；音响设备销售；环境保护专用设备制造；环境保护专用设备销售；特种劳动防护用品生产；特种劳动防护用品销售；虚拟现实设备制造；互联网销售（除销售需要许可的商品）；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；信息系统集成服务；智能控制系统集成；人工智能公共数据平台；人工智能行业应用系统集成服务；计算机系统服务；互联网数据服务；数据处理和存储支持服务；安全系统监控服务；电子、机械设备维护（不含特种设备）；租赁服务（不含许可类租赁服务）；停车场服务；环境保护监测；货物进出口；技术进出口（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：Ⅱ、Ⅲ类射线装置销售；放射性同位素生产（除正电子发射计算机断层扫描用放射性药物）；Ⅱ、Ⅲ、Ⅳ、Ⅴ类放射源销售；建设工程设计；Ⅱ、Ⅲ类射线装置生产（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "浙江大华技术股份有限公司，是全球领先的以视频为核心的智慧物联解决方案提供商和运营服务商，以技术创新为基础，围绕客户服务持续构建全链路的技术开放体系，全面拓展城市级、企业级市场的物联数据应用与深度，为城市、企业、家庭数字化转型提供一站式智慧物联服务与解决方案。\n2021上半年，公司实现营业收入135.05亿元，同比增长37.27%；净利润16.43亿元，同比增长20.03%，2020年，实现营业收入264.66亿元，公司现拥有18000多名员工，其中研发人员占比超50%。公司每年以10% 左右的销售收入投入研发，不断致力于技术创新，建立了先进技术研究院、大数据研究院、中央研究院、网络安全研究院和智慧城市研究院。依托对智慧物联的深入洞察与布局，公司持续探索新兴业务，延展了机器视觉、机器人、视讯协作、智慧无人机、智慧消防、汽车技术、智慧存储、智慧安检、智慧显控、智慧控制等创新业务。\n大华股份的营销和服务网络覆盖全球，在亚洲、北美洲、南美洲、欧洲、非洲、大洋洲建立了58个境外分支机构，在国内设立了200多个办事处，为客户提供快速、优质的服务。公司产品和解决方案覆盖全球180个国家和地区，广泛应用于交通、制造、教育、能源、金融、环保等多个领域，并参与了中国国际进口博览会、G20杭州峰会、里约奥运会、厦门金砖国家峰会、老挝东盟峰会、上海世博会、广州亚运会、港珠澳大桥等重大工程项目。\n大华股份将秉承“以客户为中心，以奋斗者为本”的核心价值观，践行“让社会更安全，让生活更智能”的使命，以卓越品质与服务立足市场，为客户创造更多价值，为构建一个安全、智能、便捷、高效的社会而不懈努力。\n*.详见官网：https://www.dahuatech.com/",
+      "encryptComId": "a4450d1aa02f080b0nB72dm9"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "运维工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "102D8gsgBNj.search.1",
+          "performance": "",
+          "salaryDesc": "6-9K·13薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "IT服务",
+            "运维工程师",
+            "IT技术支持"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "IT服务",
+              "highlight": false
+            },
+            {
+              "content": "运维工程师",
+              "highlight": false
+            },
+            {
+              "content": "IT技术支持",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "2683884d6c7239eb1nR509i8ElpQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "浙江大华",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/2c58f03d8309365e12ed525cc327ed7fcfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "郭婕",
+          "bossTitle": "人事专员",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210512/c24b3374cdb45a833c1d3a59ecafe9dc44904bdadf0459af64f233e64117553f_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "IT服务",
+            "运维工程师",
+            "IT技术支持"
+          ],
+          "welfares": [],
+          "securityId": "qovTHOIw2wD5b-L15-aimCffZ9-J8AgvhbwcOydckSPDSy-Af4GOGcPzeocYVd5pb6AUMgg~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "海外智慧城市专家(J20008)",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "102D8gsgBNj.search.2",
+          "performance": "",
+          "salaryDesc": "3-6K",
+          "jobLabels": [
+            "5-10年",
+            "硕士",
+            "智慧城市",
+            "业务架构",
+            "技术方案"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "智慧城市",
+              "highlight": false
+            },
+            {
+              "content": "业务架构",
+              "highlight": false
+            },
+            {
+              "content": "技术方案",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "b8d000eca08f13ac1HV-3dy-EFdX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "浙江大华",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/2c58f03d8309365e12ed525cc327ed7fcfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "刘梦雪",
+          "bossTitle": "海外招聘经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230815/607f1f3d68754fd0720b39833025123d48f68ebceaf2ed966726503e99f20d4229c69dc03d7b77c4_s.jpg.webp",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "智慧城市",
+            "业务架构",
+            "技术方案",
+            "顶层设计",
+            "海外市场",
+            "高层客户",
+            "战略研究",
+            "行业解决方案"
+          ],
+          "welfares": [],
+          "securityId": "kQcIBTXYc4WAp-a1TU2Lqz8HOehXo4jjZmEThyBrFn3V5mpNvDRwkBk-uZki-_0BwxTbGHo~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "技术支持工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "102D8gsgBNj.search.3",
+          "performance": "",
+          "salaryDesc": "8-13K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "远程技术支持",
+            "Linux",
+            "数据库技术支持"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "远程技术支持",
+              "highlight": false
+            },
+            {
+              "content": "Linux",
+              "highlight": false
+            },
+            {
+              "content": "数据库技术支持",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "d3032aa26fa7651503190ty5EVI~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "浙江大华",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/2c58f03d8309365e12ed525cc327ed7fcfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "岑帆帆",
+          "bossTitle": "技术支持专家",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221215/607f1f3d68754fd0d8516d0bccc299d2e51ae492346fdd344e32f22570f06c8aa63dc77b1a8d75a3_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "远程技术支持",
+            "Linux",
+            "数据库技术支持"
+          ],
+          "welfares": [],
+          "securityId": "f1Y1LfC0OPAxN-e1N99DNPyE06t4YlpHNjHAhUE92SRgCW1WfXHqzvriiZOtK676lCIpZQ~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "2024届解决方案实习生",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "102D8gsgBNj.search.4",
+          "performance": "",
+          "salaryDesc": "140-250元/天",
+          "jobLabels": [
+            "4天/周",
+            "3个月",
+            "本科",
+            "系统集成",
+            "计算机/通信相关专业"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "4天/周",
+              "highlight": false
+            },
+            {
+              "content": "3个月",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "系统集成",
+              "highlight": false
+            },
+            {
+              "content": "计算机/通信相关专业",
+              "highlight": false
+            }
+          ],
+          "jobType": 4,
+          "encryptJobId": "ffc4773a20f654041Xx509y4FFZT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "浙江大华",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/2c58f03d8309365e12ed525cc327ed7fcfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "张女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200426/604872aa24abc7adca00b44d86d6928ce7a09466cdd69e8917b4494506de15c1_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "系统集成",
+            "计算机/通信相关专业",
+            "售前技术支持经验"
+          ],
+          "welfares": [],
+          "securityId": "-7arbT39TPKrv--1zy9vBGzB5_6r3XhXn5UJHh2kVaICmI_gA1r0qJoFGlDFxibfP716M24~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "GIS研发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "102D8gsgBNj.search.5",
+          "performance": "",
+          "salaryDesc": "12-20K·14薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "地图",
+            "Vue",
+            "Web端"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "地图",
+              "highlight": false
+            },
+            {
+              "content": "Vue",
+              "highlight": false
+            },
+            {
+              "content": "Web端",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "f5996e8d44f8207a0HR72961GFQ~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "浙江大华",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/2c58f03d8309365e12ed525cc327ed7fcfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "李莹",
+          "bossTitle": "应用开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200307/2f61b040ba283a3bdbe64873a2d96fd77879c89b69f76f6ec21407f9f3171c49_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "地图",
+            "Vue",
+            "Web端",
+            "Webgis"
+          ],
+          "welfares": [],
+          "securityId": "HkNih2AhV4kAA-G1TdXSYl1WmCb6svnpO1wT2QDOHARywBx2cvqzixiqzGXpUTuUhihHFQ~~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": {
+        "name": "请注意，该公司部分职位工作地点为海外。如应聘该公司职位可能涉及个人信息出境，建议提前与企业核实情况，谨慎投递。",
+        "code": null,
+        "hlname": null,
+        "highlightList": []
+      },
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

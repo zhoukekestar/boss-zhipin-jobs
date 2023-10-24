@@ -1,0 +1,374 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "gH-2VvZoMLnOu-F1nOiPbBzCjb3trKTQlry9pC9y5oLcObCkcu4Y8lA5Osnqc-JprPSI5bhBqvkIuH3lGUoEszitztXiSHeg6ij4yPQC4GUx_K3h8_rE5Fc3oX-QgD8xHOswo7rUJQ~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "f4ccbe42371aadee0nd63d6_GFBR",
+      "bossId": 530632821,
+      "securityId": "ws7r8jvWAhSdO-D1jUtgQMakjMncd_kNp6JmzYTe2hCWxisYcwwZdqzg7NAjxM2CV4m5CFSnvwpt7XtCjgKe7Kwn6ufvgg~~",
+      "name": "徐怀远",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210507/a406411f96bdb48e07343899350d2bc28b6396a428fd4d0412b91750de8243ff_s.png",
+      "title": "前端工程师",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1638010442000,
+      "bossOnline": false,
+      "brandName": "保险师",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 152785145,
+      "encryptJobId": "f9aea192660176ee1nF43NW4EVZV",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "文二路",
+      "locationDesc": "杭州·西湖区·文二路",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 25,
+      "jobDesc": "岗位职责：\n负责参与互联网保险核心系统平台、运营管理平台等系统设计开发。\n\n任职资格：\n1、优化APP前端功能设计；\r\n3、负责移动端H5页面开发、页面重构以及交互设计逻辑处理；\r\n4、设计和建造高效、可重用的界面架构,可对JavaScript程序组件模块开发；\r\n5、Web前端表现层及与后端交互的设计和开发；\r\n6、通过各种前端技术手段，提高用户体验并满足性能要求 。\r\n岗位要求：\r\n1、本科以上学历，3年以上 APP前端工作经验;\r\n2、对原生JS有深入的理解;\r\n3、熟练HTML5+CSS3+JS编程，熟悉各种前端调试工具，能够高保真还原设计稿，具备良好的代码风格以及接口、架构设计能力；熟悉JS性能优化；熟练解决各种浏览器兼容问题；\r\n4、熟练使用jQuery，并了解其运行机制；熟悉Vue或Angular、React等主流框架，熟练使用git；熟悉node、webpack；熟悉前端模块化，前端工程化；\r\n5、与后端联调经验丰富，有前端安全经验者优先。",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "CSS3",
+        "HTML5",
+        "移动端",
+        "小程序",
+        "GIT"
+      ],
+      "address": "杭州西湖区计量大厦18楼",
+      "longitude": 120.125644,
+      "latitude": 30.277443,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c07c1df6a346fb65b4ae7f340238d34d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5e27a0ea3cd5e51fa90e845f6144044a",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-25K·13薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "8914be458be7097a0nJz096_",
+      "brandName": "保险师",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180409/4c59cb5d5ee6c2ed03c77736f503ba37cfcd208495d565ef66e7dff9f98764da.jpg",
+      "industryName": "移动互联网",
+      "stageName": "C轮",
+      "scaleName": "100-499人",
+      "brandIntroduce": "一、公司介绍\r\n 杭州微易信息科技－互联网金融的新兴力量，成立于2014年，是一家致力于保险领域互联网模式探索的保险科技公司，目前已是互联网保险行业领军品牌。公司旗下产品“保险师”自2015年5月上线以来，本着“服务社会、服务行业、服务代理人”的创业初心，拥有行业领先的用户量，并获得行业和用户的一致认可，目前已成为全国最大的互联网+保险服务平台。\r\n2017年度已完成B轮融资，融资规模数亿元人民币，蚂蚁金服、新浪等众多知名企业成为公司战略投资人，并在科技创新与资源整合等方面开展了全面的合作。同时，与中国保险行业协会达成战略合作，成为其官方活动信息发布平台。与全国60多家保险企业达成合作关系，共谋保险产品、保险服务的创新与发展。\r\n目前公司现有员工300人，以CEO王玮华为代表的创始团队深谙互联网经营之道，技术与管理团队来自阿里、网易、中国平安、中国人寿等知名企业，目前已具备行业领先的技术研发及平台运营能力。\r\n奋进中的微易人，年轻、激情、创新，现面向全国诚招优秀的保险人才及互联网精英。良好的行业前景、开放的创业环境、优厚的薪酬福利计划，期待与你共创互联网保险新未来。\r\n\r\n\r\n二、发展历程\r\n2018年1月荣获2017年度互联网保险平台最具创新力产品\r\n2017年10月B轮融资数亿元，蚂蚁金服领投，经纬、诺亚财富、新浪跟投\r\n2017年6月获第二届中国互联网保险大会2016互联网保险年度第三方平台\r\n2017年6月第二届中国互联网保险大会首席合作伙伴\r\n2017年4月与CICE寿险资格认证机构成为战略合作伙伴\r\n2017年4月成为中国保险报战略合作伙伴\r\n2016年7月首创保险行业直播平台\r\n2016年1月完成A轮融资\r\n2015年5月保险师APP正式上线，计划书功能被追捧\r\n\r\n三、发展愿景\r\n 近年来，提高社会保险意识，提升全民保险保障已上升为国民需求。让社会更加了解保险，让人民拥有普惠的保障，微易科技正在积极的尝试与努力。作为一家有着强烈社会责任感的金融科技公司，微易科技本着“服务社会、服务行业、服务代理人”的创业初心，以“让每个人拥有安心的保险”为使命。坚持科技驱动与金融创新、为中国保险行业发展贡献力量。\r\n创业与创新，我们一直在路上。。。",
+      "comName": "杭州微易信息科技有限公司",
+      "legalPerson": "陈晓",
+      "startDate": "2014-03-20",
+      "regCapital": "262.3598万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市西湖区万塘路252号1幢18楼1819室",
+      "businessScope": "一般项目：软件开发；信息技术咨询服务；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；数据处理和存储支持服务；信息咨询服务（不含许可类信息咨询服务）；社会经济咨询服务；计算机系统服务；网络技术服务；人工智能应用软件开发；区块链技术相关软件和服务；工艺美术品及收藏品零售（象牙及其制品除外）；工艺美术品及收藏品批发（象牙及其制品除外）；日用品销售；日用品批发；计算机软硬件及辅助设备批发；计算机软硬件及辅助设备零售；互联网销售（除销售需要许可的商品）；互联网数据服务（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：互联网信息服务；第二类增值电信业务（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "一、公司介绍\r\n\t 杭州微易信息科技－互联网金融的新兴力量，成立于2014年，是一家致力于保险领域互联网模式探索的保险科技公司，目前已是互联网保险行业领军品牌。公司旗下产品“保险师”自2015年5月上线以来，本着“服务社会、服务行业、服务代理人”的创业初心，拥有行业领先的用户量，并获得行业和用户的一致认可，目前已成为全国最大的互联网+保险服务平台。\r\n2017年度已完成B轮融资，融资规模数亿元人民币，蚂蚁金服、新浪等众多知名企业成为公司战略投资人，并在科技创新与资源整合等方面开展了全面的合作。同时，与中国保险行业协会达成战略合作，成为其官方活动信息发布平台。与全国60多家保险企业达成合作关系，共谋保险产品、保险服务的创新与发展。\r\n目前公司现有员工300人，以CEO王玮华为代表的创始团队深谙互联网经营之道，技术与管理团队来自阿里、网易、中国平安、中国人寿等知名企业，目前已具备行业领先的技术研发及平台运营能力。\r\n奋进中的微易人，年轻、激情、创新，现面向全国诚招优秀的保险人才及互联网精英。良好的行业前景、开放的创业环境、优厚的薪酬福利计划，期待与你共创互联网保险新未来。\r\n\r\n\r\n二、发展历程\r\n2018年1月荣获2017年度互联网保险平台最具创新力产品\r\n2017年10月B轮融资数亿元，蚂蚁金服领投，经纬、诺亚财富、新浪跟投\r\n2017年6月获第二届中国互联网保险大会2016互联网保险年度第三方平台\r\n2017年6月第二届中国互联网保险大会首席合作伙伴\r\n2017年4月与CICE寿险资格认证机构成为战略合作伙伴\r\n2017年4月成为中国保险报战略合作伙伴\r\n2016年7月首创保险行业直播平台\r\n2016年1月完成A轮融资\r\n2015年5月保险师APP正式上线，计划书功能被追捧\r\n\r\n三、发展愿景\r\n\t 近年来，提高社会保险意识，提升全民保险保障已上升为国民需求。让社会更加了解保险，让人民拥有普惠的保障，微易科技正在积极的尝试与努力。作为一家有着强烈社会责任感的金融科技公司，微易科技本着“服务社会、服务行业、服务代理人”的创业初心，以“让每个人拥有安心的保险”为使命。坚持科技驱动与金融创新、为中国保险行业发展贡献力量。\r\n创业与创新，我们一直在路上。。。",
+      "encryptComId": "bc71fde70143308d1HVz2tW8"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "测试工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "翠苑",
+          "distance": "",
+          "lid": "ZXf3ThOrl6.search.1",
+          "performance": "",
+          "salaryDesc": "100-150元/天",
+          "jobLabels": [
+            "5天/周",
+            "6个月",
+            "本科",
+            "Android",
+            "iOS"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5天/周",
+              "highlight": false
+            },
+            {
+              "content": "6个月",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Android",
+              "highlight": false
+            },
+            {
+              "content": "iOS",
+              "highlight": false
+            }
+          ],
+          "jobType": 4,
+          "encryptJobId": "8b4df87cb6cf76c11XV739-0ElFT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "保险师",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180409/4c59cb5d5ee6c2ed03c77736f503ba37cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "C轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "黄琴",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170813/f8a49ea117785d9dbd0f918cc13993b38c7dd922ad47494fc02c388e12c00eac_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Android",
+            "iOS",
+            "Java",
+            "测试开发"
+          ],
+          "welfares": [],
+          "securityId": "bXnZxpOgaoCLR-u11pmnfGxW4dcakVIt6OEJD390mdFJWqKQQbf0oKOoRAx7xBYgWa6kYw~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "web前端",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "文二路",
+          "distance": "",
+          "lid": "ZXf3ThOrl6.search.2",
+          "performance": "",
+          "salaryDesc": "12-24K",
+          "jobLabels": [
+            "3-5年",
+            "大专",
+            "GIT",
+            "前端开发",
+            "Vue"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "GIT",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            },
+            {
+              "content": "Vue",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "440b4dc82e755f9e1nJ63Nm7FFJW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "保险师",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180409/4c59cb5d5ee6c2ed03c77736f503ba37cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "C轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "余军波",
+          "bossTitle": "技术总监",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "GIT",
+            "前端开发",
+            "Vue",
+            "Vue.js",
+            "Web端",
+            "小程序"
+          ],
+          "welfares": [],
+          "securityId": "aPjJjeavrvPEo-y1156JMTWELKQ2ymZ6sn5Macib15bBw5NowCoQeQzX68CfRJUVlzZroAnd",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "文二路",
+          "distance": "",
+          "lid": "ZXf3ThOrl6.search.4",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "5-10年",
+            "大专",
+            "分布式技术",
+            "多线程",
+            "MongoDB"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "多线程",
+              "highlight": false
+            },
+            {
+              "content": "MongoDB",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "dbf6b075b8604c761nJ62tS-EldW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "保险师",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180409/4c59cb5d5ee6c2ed03c77736f503ba37cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "C轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "余军波",
+          "bossTitle": "技术总监",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "分布式技术",
+            "多线程",
+            "MongoDB",
+            "MySQL",
+            "消息队列",
+            "Spring",
+            "高级软件工程师"
+          ],
+          "welfares": [],
+          "securityId": "9EB5pBmtaZMCl-b1f0EHYHnoK6u5U1tKu_fczr3baSMbTtweAkJ6mrKJGCIt_DlLQvhdxHL4",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

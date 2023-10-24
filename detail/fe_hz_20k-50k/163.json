@@ -1,0 +1,141 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "Q4XWHJhA80ODp-k1eBcP4V9j3u-gB93-7vgz1swHngFO72s_OnHjM3xXEjNTwO3doLEESbxFNLLR5vOpjwfmOlWMDfP5P7ZCveZQk0BjjgPW7RBhxF-KuSL5dW3Ssp7N0LrerEoYd9g~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "43ddfcdb5eb37a160nJ439-0ElE~",
+      "bossId": 56242923,
+      "securityId": "8EBCSjCLMjyl7-Y1SeVsek7EROcZJwdnhM5MykOX3pvdbLszezK2vDsYIvjlIxFEsp5-mP5jSfRbU4hTnW7P2Hgqiz1K",
+      "name": "董昊",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220915/607f1f3d68754fd09984f9ebf79e29a582455fd9b2aec351629c55a33a311a9d97f06944b551ece2_s.jpg",
+      "title": "人事主管 HR",
+      "activeTimeDesc": "刚刚活跃",
+      "activeTime": 1698120412115,
+      "bossOnline": false,
+      "brandName": "极傲科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 283942767,
+      "encryptJobId": "fd105b5f515ceb001Xx50tm_F1RX",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "上城区",
+      "businessDistrict": "钱江新城",
+      "locationDesc": "杭州·上城区·钱江新城",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "lowSalary": 11,
+      "highSalary": 22,
+      "jobDesc": "1、一年以上前端开发经验，有Vue前端大型项目经验者优先；\n2. 掌握H5/CSS3，熟悉es6/es7语法，熟练运用jquery、正则表达式；\n3. 熟练使用vue、vue-router、vuex、axios和vue-resource等vue全家桶\n4. 熟练使用Element-UI组件库搭建前端页面，及ECharts等开源组件展示数据\n5. 具有微信公众号，小程序、Uniapp 开发经验者优先\n6. 对前端开发有浓厚兴趣，沟通理解能力强，能承受一定的工作压力\n7.具备良好的沟通能力、独立解决技术问题的能力，并且能考虑到修复某个bug会影响到其他地方的风险",
+      "requiredSkills": [
+        "HTML5",
+        "Vue",
+        "CSS",
+        "前端开发经验",
+        "计算机/软件工程相关专业",
+        "技术博客/开源项目有所贡献"
+      ],
+      "address": "杭州上城区中豪·江河时代A座1101",
+      "longitude": 120.219954,
+      "latitude": 30.261331,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c05e795ccd35762d4802884636ce7af4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e6d85f107ff5fcf40488ad7dbd693208",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "11-22K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "5b38d5df4438f09d1nNz3Nm0FVM~",
+      "brandName": "极傲科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+      "industryName": "移动互联网",
+      "stageName": "",
+      "scaleName": "20-99人",
+      "brandIntroduce": "",
+      "comName": "杭州极傲科技有限公司",
+      "legalPerson": "陈健",
+      "startDate": "2021-01-28",
+      "regCapital": "100万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市上城区三新路37号11楼1101室-1",
+      "businessScope": "一般项目：显示器件销售；五金产品研发；互联网销售（除销售需要许可的商品）；物联网技术研发；信息咨询服务（不含许可类信息咨询服务）；电工机械专用设备制造；计算机软硬件及外围设备制造；智能机器人的研发；工业机器人销售；工业机器人制造；人工智能硬件销售；智能机器人销售；智能家庭消费设备制造；人工智能应用软件开发；电子产品销售；人工智能基础软件开发；可穿戴智能设备制造；人工智能行业应用系统集成服务；人工智能基础资源与技术平台；智能基础制造装备销售；工业控制计算机及系统制造；信息系统集成服务；制冷、空调设备制造；智能家庭消费设备销售；软件开发；工业设计服务；日用电器修理；工业机器人安装、维修；数字文化创意内容应用服务；数字内容制作服务（不含出版发行）（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "",
+      "encryptComId": "dd94321929943afb1HZ42ti6FlI~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": null
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

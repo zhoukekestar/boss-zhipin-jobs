@@ -1,0 +1,528 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "k3SAP7Rl55B5E-n124lOEJTA6fbb88Hbk1XVRLTaTMjkIcC9-8QaWakAzpvce0XwOtLVb4BSwOuG5DRbXbWnWxTDhLYwPWWQTO6OcWUDZMJl1IMPU7ZYvwhMD1v_kkPvEcErFeYNhw~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "17a653612e1bb3840nR73Nu4EVdQ",
+      "bossId": 501765150,
+      "securityId": "cSrQIX4nBAKrQ-U1scJKOuONalYhplRoQ3mll99mv6Yl72nWeWZ7S52XGLSKO8q8AANgQidNFG7XVgYkomoFJy5N2fxiQQ~~",
+      "name": "詹杰",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+      "title": "HRBP",
+      "activeTimeDesc": "本周活跃",
+      "activeTime": 1697785446023,
+      "bossOnline": false,
+      "brandName": "中奥科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 306039768,
+      "encryptJobId": "a9eec659aeac269e1HR82960F1RY",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端主管",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "拱墅区",
+      "businessDistrict": "石祥路",
+      "locationDesc": "杭州·拱墅区·石祥路",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 17,
+      "highSalary": 25,
+      "jobDesc": "1.高质量还原UI设计原型界面，有良好交互体验;\n2.负责联调后端接口，持续优化交互体验和页面响应，保持良好兼容性；\n3.小组成员开发任务分配，进度跟踪以及代码质量检查；\n4.保持技术敏感度，解决产品技术难点。\n岗位要求：\n1.本科及以上学历，计算机相关专业，5年以上W eb前端工作经验，具有政务类相关开发工作经验者优先；\n2.熟练掌握基本的Web前端开发技术，包括： CS\nS、HTML、DOM、Ajax、JavaScript、echart 等;\n3.精通html5、css3等前端技术,能快速写出符合W3C标准、兼容主流浏览器的代码；\n4.熟练使用vue框架(react框架) 开发,并掌握其底层实现原理，其他当前主流JS(jQuery、AngularJS、react等)框架也熟悉的更佳；5.熟悉前端自动化工程，掌握webpack等前端构建工具的使用和配置；6.对用户体验和前端交互有自己的理解，协助产品经理，从技术角度上推动产品开发进程；7.有至少1年以上的团队管理经验，责任心强，具备良好的沟通能力。",
+      "requiredSkills": [
+        "Vue",
+        "计算机/软件工程相关专业",
+        "前端开发经验",
+        "技术博客/开源项目有所贡献"
+      ],
+      "address": "杭州拱墅区顺丰创新中心2号楼14层",
+      "longitude": 120.148325,
+      "latitude": 30.343745,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8307734b45912a803b55fb57fdd46b41",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9738420c9c321bf05b23787317ed5487",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "17-25K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "594cbf4f91f7f55a1XR-3tm1",
+      "brandName": "中奥科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191113/6d169ec7edcf9c44e3332bd5d8bfb155cf599c2f49d5cdfd478d2701c6748096_s.jpg",
+      "industryName": "计算机软件",
+      "stageName": "B轮",
+      "scaleName": "100-499人",
+      "brandIntroduce": "中奥科技成立于2008中国奥运年，传承更快更高更强的奥运精神，运用领先的数字化技术、思维和 认知能力，以自主研发的数据中台、智能中台、业务中台、知识图谱平台、可视化建模平台、低代码开发 平台等行业级、城市级数智大脑中枢平台产品立业，助推公安大脑、数字法治、数字政府、重大活动安保 系统建设和运营，已发展成为国内领先的数智大脑引领者。 10+ 年的数智之路，公司已在浙江、北京、四川、广西建立 4 大区域中心，设有杭州和北京 2 大研 究院，参与 6+ 国家大数据和人工智能标准编写和多个行业数智标准制定，承接10+国家、省、市级重大 科技专项，有力支撑全国多个部委、10 +省级、 50 +地市公安，以及 100 +政府行业用户，构建行业 级、城市级数智大脑，为杭州G20峰会、乌镇互联网大会、2022北京冬奥会等提供数智技术核心服务。 公司拥有专业的人工智能与大数据技术团队，以产品与方案组合方式深耕公安领域 10+ 年，通过业 务+数据+智能融合方式引领行业数智发展，构建生态合作体系，扩展服务 8+ 行业。坚持自主创新，拥 有 30 +软件发明专利、 110 +软著、 创建10 +产学研联合实验室，沉淀 100 +算法模型及AI应用。 未来，中奥科技将不断夯实数智大脑核心技术，将行业应用拓展到交通、电力、金融、企业等新领 域，为数字政府、数字中国建设贡献中奥数智力量。",
+      "comName": "杭州中奥科技有限公司",
+      "legalPerson": "陆韵",
+      "startDate": "2008-04-02",
+      "regCapital": "1289.8118万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市拱墅区候圣街99号财智顺丰创新中心2幢1408室",
+      "businessScope": "第二类增值电信业务中的信息服务业务（限互联网信息服务业务和移动网信息服务业务）（覆盖范围详见增值电信业务经营许可证）（上述经营范围凭有效许可证经营）。技术开发、技术服务、成果转让：计算机软、硬件，系统集成，通信产品；批发、零售：计算机软、硬件，通信产品；网络工程与建筑智能化工程；安全监控工程。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "中奥科技成立于2008中国奥运年，传承更快更高更强的奥运精神，运用领先的数字化技术、思维和 认知能力，以自主研发的数据中台、智能中台、业务中台、知识图谱平台、可视化建模平台、低代码开发 平台等行业级、城市级数智大脑中枢平台产品立业，助推公安大脑、数字法治、数字政府、重大活动安保 系统建设和运营，已发展成为国内领先的数智大脑引领者。 10+ 年的数智之路，公司已在浙江、北京、四川、广西建立 4 大区域中心，设有杭州和北京 2 大研 究院，参与 6+ 国家大数据和人工智能标准编写和多个行业数智标准制定，承接10+国家、省、市级重大 科技专项，有力支撑全国多个部委、10 +省级、 50 +地市公安，以及 100 +政府行业用户，构建行业 级、城市级数智大脑，为杭州G20峰会、乌镇互联网大会、2022北京冬奥会等提供数智技术核心服务。 公司拥有专业的人工智能与大数据技术团队，以产品与方案组合方式深耕公安领域 10+ 年，通过业 务+数据+智能融合方式引领行业数智发展，构建生态合作体系，扩展服务 8+ 行业。坚持自主创新，拥 有 30 +软件发明专利、 110 +软著、 创建10 +产学研联合实验室，沉淀 100 +算法模型及AI应用。 未来，中奥科技将不断夯实数智大脑核心技术，将行业应用拓展到交通、电力、金融、企业等新领 域，为数字政府、数字中国建设贡献中奥数智力量。",
+      "encryptComId": "e79633a7134556d603V92NQ~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "算法工程师(自然语言处理方向)",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "拱墅区",
+          "businessName": "石祥路",
+          "distance": "",
+          "lid": "ZY8D8DTRip.search.1",
+          "performance": "",
+          "salaryDesc": "16-27K·13薪",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "深度学习算法",
+            "Python",
+            "人工智能"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "深度学习算法",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "人工智能",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "d4ffcc525e385d9b1HV70t27EFNQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "中奥科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191113/6d169ec7edcf9c44e3332bd5d8bfb155cf599c2f49d5cdfd478d2701c6748096_s.jpg",
+          "brandStage": "B轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "王女士",
+          "bossTitle": "HRD",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200921/b7bb826dc4467e1706e497527020aa45f015c0c94833387d508f70f9969ecd70_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "深度学习算法",
+            "Python",
+            "人工智能",
+            "PyTorch",
+            "文本分类",
+            "知识图谱",
+            "舆情分析",
+            "篇章分析"
+          ],
+          "welfares": [],
+          "securityId": "y19hj2CzOZJ3u-F1PHGvgiCfZ1sYnyIN5gXrzvbkKHmuDkI7ttLZEIMMrvmLn_hbuVf8-I4~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "java开发",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "拱墅区",
+          "businessName": "石祥路",
+          "distance": "",
+          "lid": "ZY8D8DTRip.search.2",
+          "performance": "",
+          "salaryDesc": "15-20K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "SpringBoot",
+            "SpringCloud",
+            "MySQL"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "SpringBoot",
+              "highlight": false
+            },
+            {
+              "content": "SpringCloud",
+              "highlight": false
+            },
+            {
+              "content": "MySQL",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "4561d4514a830d731nB-39u1GFpW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "中奥科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191113/6d169ec7edcf9c44e3332bd5d8bfb155cf599c2f49d5cdfd478d2701c6748096_s.jpg",
+          "brandStage": "B轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "江易",
+          "bossTitle": "产品研发部-副总监",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180222/82aca136b736d8a69ef231169c094e473e1c9478590107438fa3cacad4c02975_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "SpringBoot",
+            "SpringCloud",
+            "MySQL",
+            "后端开发",
+            "Linux",
+            "高级软件工程师",
+            "GIT",
+            "SVN"
+          ],
+          "welfares": [],
+          "securityId": "KuewShTPEO2u5-S1lZ7awrt6vkRjEotfCotIPoPb5jJhBf_raqoBiNgtmHuEUZnLd8ioOA0~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "拱墅区",
+          "businessName": "石祥路",
+          "distance": "",
+          "lid": "ZY8D8DTRip.search.3",
+          "performance": "",
+          "salaryDesc": "15-20K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "JavaScript",
+            "ES6",
+            "Vue"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "ES6",
+              "highlight": false
+            },
+            {
+              "content": "Vue",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "4720c6c17e67de8c1nF739m4F1NX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "中奥科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191113/6d169ec7edcf9c44e3332bd5d8bfb155cf599c2f49d5cdfd478d2701c6748096_s.jpg",
+          "brandStage": "B轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "江易",
+          "bossTitle": "产品研发部-副总监",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180222/82aca136b736d8a69ef231169c094e473e1c9478590107438fa3cacad4c02975_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript",
+            "ES6",
+            "Vue",
+            "AJAX",
+            "Vue.js"
+          ],
+          "welfares": [],
+          "securityId": "ru1S4eauyo6D--F1KU4y04k5s-o55ceg89MK4V6vfpsY372Z00-79lKEme-OudsrF9a4tiY~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级前端/前端主管（自研/双休/五险一金）",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "拱墅区",
+          "businessName": "石祥路",
+          "distance": "",
+          "lid": "ZY8D8DTRip.search.4",
+          "performance": "",
+          "salaryDesc": "15-28K·14薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "JavaScript",
+            "HTML",
+            "CSS"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "HTML",
+              "highlight": false
+            },
+            {
+              "content": "CSS",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "2da8e16b73b44bc51XV-3Nm7GVNY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "中奥科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191113/6d169ec7edcf9c44e3332bd5d8bfb155cf599c2f49d5cdfd478d2701c6748096_s.jpg",
+          "brandStage": "B轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "程女士",
+          "bossTitle": "HRBP",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230220/607f1f3d68754fd0911c1d0c89c6e9a67a8d621c8c544d91f60d2e9ff11f3d5907c0e20fcaa7c278_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "CSS3",
+            "AJAX",
+            "Web端",
+            "React"
+          ],
+          "welfares": [],
+          "securityId": "MVXHmameiTs5K-V1-qXmSi4I7xoMldcobGPCevU1fyC8A0wyUVfggHfu71Q8FwY02Xfln6Y~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "项目交付负责人",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "拱墅区",
+          "businessName": "石祥路",
+          "distance": "",
+          "lid": "ZY8D8DTRip.search.5",
+          "performance": "",
+          "salaryDesc": "25-45K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "企业内部技术项目管理",
+            "管理相关专业",
+            "软件研发经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "企业内部技术项目管理",
+              "highlight": false
+            },
+            {
+              "content": "管理相关专业",
+              "highlight": false
+            },
+            {
+              "content": "软件研发经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "ef86ad7dfbadd3cb1XN52ti8FFRU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "中奥科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191113/6d169ec7edcf9c44e3332bd5d8bfb155cf599c2f49d5cdfd478d2701c6748096_s.jpg",
+          "brandStage": "B轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "王女士",
+          "bossTitle": "HRD",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200921/b7bb826dc4467e1706e497527020aa45f015c0c94833387d508f70f9969ecd70_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "企业内部技术项目管理",
+            "管理相关专业",
+            "软件研发经验",
+            "中大型软件项目管理经验",
+            "PMP"
+          ],
+          "welfares": [],
+          "securityId": "PYAwDNKpX1Leh-81h_S9x4EDBlMWo2iEqTsQxnSMZ-KbPDmXFCoeX9H-SRQ8ghPns-Aiecc~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

@@ -1,0 +1,478 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "4AJU417QJ1QJl-y1qFX4u2Mp4-1VkI4EnRpG4aupX7jp-5ujRHbd8KD0fG4AS2eXzuXeYmRX7J5q1YMs7-EMIi_iKcJ0-vcLdiDRyGf_zfySbkP8k_Rw3Q_FON_P_YIUS0GNM5-2",
+    "bossBaseInfoVO": {
+      "encryptBossId": "f3f448f369df97620XN73NS4Els~",
+      "bossId": 67179529,
+      "securityId": "MbuPRgqP_r5n8-z1BwWpCLB9PP-6-aRq0xC8UFzHJDyz9OFoj6kJtnW2FPd3YiM7gMWvmOjUATCC4MBQIwEd2O2KK6Qw",
+      "name": "许寅星",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231007/607f1f3d68754fd02e862b5e59bee098030965704e1a9a9f825522238098417faa25a71caecd5f6d_s.jpg.webp",
+      "title": "Hrbp",
+      "activeTimeDesc": "刚刚活跃",
+      "activeTime": 1698142403677,
+      "bossOnline": false,
+      "brandName": "申昊科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 301940528,
+      "encryptJobId": "d408a51e8051ea1b1HR70tm9FVBY",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "仓前",
+      "locationDesc": "杭州·余杭区·仓前",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 30,
+      "jobDesc": "岗位职责：\n1、参与需求设计、项目评审、技术架构、平台类项目前端的开发，按照计划保质保量完成\n2、熟悉电力、轨交、石油化工、环保等业务，具备独立驻点开发、调试的能力；\n3、熟悉机器人业务，参与到机器人的业务功能开发，并具备业务优化能力；\n4、和产品经理以及UI对接交互，提升人机友好协作\n\n任职要求：\n1、计算机、软件信息等相关理工科专业，前端基础知识扎实，熟练掌握HTML、CSS、JS等，了解HTTP协议，2年以上的开发工作经验；\n2、熟练使用主流框架，包括但不限Vue，（vue2，vue3）及配套全家桶，vue-router，vuex\n3、熟练掌握 移动端H5 开发、熟悉主流移动浏览器的内核技术特点，且熟练在 Chrome / firefox 上进行开发和调试\n4、熟悉组件化和模块化，能根据基建组件开发业务组件，从而高效支撑业务\n5、对前端工程化有一定了解，熟悉前端自动化工程（Gulp / Webpack 等）\n6、熟练使用调试开发工具，不限于vs code开发工具、抓包工具、Chrome调试工具与插件、移动端调试工具等\n7、具备较强的逻辑分析能力，高度的责任心及团队合作精神",
+      "requiredSkills": [
+        "HTML5",
+        "Vue"
+      ],
+      "address": "杭州余杭区申昊科技股份有限公司新办公楼1",
+      "longitude": 119.966215,
+      "latitude": 30.280609,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230505/48ba41acc9cef1bfe3182914e1bb905e55f4584ffd7435e26bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230607/48ba41acc9cef1bf3587d4e2772d8210462af34b522e1ffa6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-30K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "835dd9301c2816920nF-2dq7",
+      "brandName": "申昊科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190225/46f282fb7fae6efc49678b9a16f80dc8430cfe5cce339d5b56c8cde4598407ef_s.jpg",
+      "industryName": "通信/网络设备",
+      "stageName": "已上市",
+      "scaleName": "500-999人",
+      "brandIntroduce": "杭州申昊科技股份有限公司（股票代码：300853）成立于2002年，是一家致力于设备检测及故障诊断的高新技术企业。通过充分利用传感器、机器人、人工智能及大数据分析技术，服务于工业大健康，为工业设备安全运行及智能化运维提供综合解决方案。目前，公司已开发了一系列具有自主知识产权的智能机器人及智能监测控制设备产品，可用于电力电网、轨道交通、油气化工等行业，解决客户的难点与痛点，为客户无人或少人值守和智能化管理提供有效的检测、监测手段。\n    公司设有全国示范院士工作站，同时拥有省级高新技术企业研发中心、省级智能电网企业研究院、省级工业设计中心等科研平台。公司积极与行业协会合作制定技术标准，为行业的技术规范、技术发展贡献自己的力量，引领行业发展。公司成立了全国巡检机器人工作组，并多次牵头和参与制定了多个行业标准和团体标准。同时，公司被认定为“专精特新小巨人”企业，省级隐形冠军企业，省级创新型示范企业等。\n    公司将继续秉承“见面揖一礼，有利让一分，遇难帮一把、谋事高一筹”的经营理念，紧密跟随国家重大发展战略，立足于工业检测与故障诊断领域，以服务“工业大健康”为宗旨，谋划“人工智能+工业大健康”的战略布局，在机器人、人工智能和大数据等新兴技术领域开拓创新，构筑出一个“海陆空隧”全方位、立体式的检测、监测体系，实现“工业健康有申昊，排除故障不再难”的宏伟愿景。",
+      "comName": "杭州申昊科技股份有限公司",
+      "legalPerson": "陈如申",
+      "startDate": "2002-09-05",
+      "regCapital": "14693.04万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市余杭区仓前街道长松街6号",
+      "businessScope": "一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；信息系统集成服务；物联网应用服务；计算机系统服务；信息系统运行维护服务；货物进出口；技术进出口；通用设备制造（不含特种设备制造）；安防设备制造；安防设备销售；数字视频监控系统制造；智能仪器仪表销售；智能仪器仪表制造；非居住房地产租赁；租赁服务（不含许可类租赁服务）；环境保护专用设备销售；环境保护专用设备制造；智能机器人的研发；智能机器人销售；特殊作业机器人制造；人工智能硬件销售；工业机器人制造；服务消费机器人销售；服务消费机器人制造；软件开发；软件销售；人工智能应用软件开发；人工智能理论与算法软件开发；智能输配电及控制设备销售；输配电及控制设备制造；水下系统和作业装备制造；水下系统和作业装备销售；智能无人飞行器销售；智能无人飞行器制造；铁路专用测量或检验仪器制造；铁路专用测量或检验仪器销售；轨道交通专用设备、关键系统及部件销售；在线能源监测技术研发（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：电气安装服务；输电、供电、受电电力设施的安装、维修和试验；测绘服务（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "杭州申昊科技股份有限公司（股票代码：300853）成立于2002年，是一家致力于设备检测及故障诊断的高新技术企业。通过充分利用传感器、机器人、人工智能及大数据分析技术，服务于工业大健康，为工业设备安全运行及智能化运维提供综合解决方案。目前，公司已开发了一系列具有自主知识产权的智能机器人及智能监测控制设备产品，可用于电力电网、轨道交通、油气化工等行业，解决客户的难点与痛点，为客户无人或少人值守和智能化管理提供有效的检测、监测手段。\n    公司设有全国示范院士工作站，同时拥有省级高新技术企业研发中心、省级智能电网企业研究院、省级工业设计中心等科研平台。公司积极与行业协会合作制定技术标准，为行业的技术规范、技术发展贡献自己的力量，引领行业发展。公司成立了全国巡检机器人工作组，并多次牵头和参与制定了多个行业标准和团体标准。同时，公司被认定为“专精特新小巨人”企业，省级隐形冠军企业，省级创新型示范企业等。\n    公司将继续秉承“见面揖一礼，有利让一分，遇难帮一把、谋事高一筹”的经营理念，紧密跟随国家重大发展战略，立足于工业检测与故障诊断领域，以服务“工业大健康”为宗旨，谋划“人工智能+工业大健康”的战略布局，在机器人、人工智能和大数据等新兴技术领域开拓创新，构筑出一个“海陆空隧”全方位、立体式的检测、监测体系，实现“工业健康有申昊，排除故障不再难”的宏伟愿景。",
+      "encryptComId": "ceee55a604c35b461XB73Nu9"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "项目经理（晟冠）(J10909)",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "101uobSdm5S.search.1",
+          "performance": "",
+          "salaryDesc": "10-15K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "实施交付经验",
+            "售前支持经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "实施交付经验",
+              "highlight": false
+            },
+            {
+              "content": "售前支持经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "e48d77af3f29c0c61HV-39i4FVdX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "申昊科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190225/46f282fb7fae6efc49678b9a16f80dc8430cfe5cce339d5b56c8cde4598407ef_s.jpg",
+          "brandStage": "已上市",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "龚女士",
+          "bossTitle": "人事行政主管",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "实施交付经验",
+            "售前支持经验"
+          ],
+          "welfares": [],
+          "securityId": "Jm55j7Wcgf4E4-s1oGrNoBKLKAzyS2f6rwXDepwOo4FkZJeAr6KuK-6rAi2jqxxh2nai2bw~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "硬件工程师（晟冠）(J10862)",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "101uobSdm5S.search.2",
+          "performance": "",
+          "salaryDesc": "25-30K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "硬件开发经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "硬件开发经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "dd23acc8ac38f1f41HV-39i7E1VQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "申昊科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190225/46f282fb7fae6efc49678b9a16f80dc8430cfe5cce339d5b56c8cde4598407ef_s.jpg",
+          "brandStage": "已上市",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "龚女士",
+          "bossTitle": "人事行政主管",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "硬件开发经验"
+          ],
+          "welfares": [],
+          "securityId": "VNuti4ceI7k5e-81T9wEipQ6NB_n0rAOIQ_FSCtGkzk1aNjWtdOTRs144WqUKSHk7MKA9xE~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "项目管理专员",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "101uobSdm5S.search.3",
+          "performance": "",
+          "salaryDesc": "7-9K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "项目管理",
+            "销售管理",
+            "交付服务"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "项目管理",
+              "highlight": false
+            },
+            {
+              "content": "销售管理",
+              "highlight": false
+            },
+            {
+              "content": "交付服务",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "27e4ad326584c1611HR739y4F1BU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "申昊科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190225/46f282fb7fae6efc49678b9a16f80dc8430cfe5cce339d5b56c8cde4598407ef_s.jpg",
+          "brandStage": "已上市",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "李先生",
+          "bossTitle": "HRBP",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230522/607f1f3d68754fd094062ed260b5dc6bcdcac018c86a81778cc51a68166a14ae1f79f3955105e16b_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "项目管理",
+            "销售管理",
+            "交付服务"
+          ],
+          "welfares": [],
+          "securityId": "YhMBOqSJGbP4c-K1Bm-5pkgGPhBLoYh79WllEoQ49Gvx9qttU4oOmCkwK65Yvm5bRVQFh_UL",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "项目专员/助理",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "101uobSdm5S.search.4",
+          "performance": "",
+          "salaryDesc": "7-8K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "制造业",
+            "交付管理",
+            "售前支持"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "制造业",
+              "highlight": false
+            },
+            {
+              "content": "交付管理",
+              "highlight": false
+            },
+            {
+              "content": "售前支持",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "157185bda91082821HR83dq1E1tT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "申昊科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190225/46f282fb7fae6efc49678b9a16f80dc8430cfe5cce339d5b56c8cde4598407ef_s.jpg",
+          "brandStage": "已上市",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "王女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "制造业",
+            "交付管理",
+            "售前支持"
+          ],
+          "welfares": [],
+          "securityId": "RGvMUcqAhOpsA-E17mW7XCneTI1EV1VCPmVGb5AYLL2E7Sv2cUZaZSK67Hxye4qVYr_POJkR",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "技术服务工程师（晟冠）(J10773)",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "101uobSdm5S.search.5",
+          "performance": "",
+          "salaryDesc": "4-8K",
+          "jobLabels": [
+            "1-3年",
+            "大专",
+            "可适应出差"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "可适应出差",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "36ae1370d42c1a5e1Xx92tq9FFNR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "申昊科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190225/46f282fb7fae6efc49678b9a16f80dc8430cfe5cce339d5b56c8cde4598407ef_s.jpg",
+          "brandStage": "已上市",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "龚女士",
+          "bossTitle": "人事行政主管",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "可适应出差"
+          ],
+          "welfares": [],
+          "securityId": "B9d9dIgs1blxS-Y1YWV5ymIfAkPJRGaWsSDiGEPyaRseYD3WH4ziOY-XqovZXJzI6MAuxrI~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

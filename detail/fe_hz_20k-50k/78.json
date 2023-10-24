@@ -1,0 +1,478 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "8dtPbU9t14SAp-f1_h93pwRMkXMl0sBqdgJCbh9IxjCQNxPgMaErtrU-sTjlqYFZ3ucPqUQl1nPJXE_acjvFAPGg3CxPGi1F3uGeoE0iLyZbHwyJc2Gozkiv8mRQP4u7nme4F1Cc",
+    "bossBaseInfoVO": {
+      "encryptBossId": "8e55bd6c2c67f81b33Z_2d2-EVI~",
+      "bossId": 82520310,
+      "securityId": "t3H3rZm0bTVZu-E1i1aeep0KS0r6Xnp2yhpQD3IdVDSrIguKxwcjZikl2kEA5FdfLhr55P9OCltzXi_hPAeNGMD3mHo~",
+      "name": "王先生",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+      "title": "招聘经理",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1610252673000,
+      "bossOnline": false,
+      "brandName": "月盛斋",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 77170757,
+      "encryptJobId": "511a6f286ad90d100HN73N26FVU~",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端技术专家",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "仓前",
+      "locationDesc": "杭州·余杭区·仓前",
+      "experienceName": "5-10年",
+      "degreeName": "本科",
+      "lowSalary": 35,
+      "highSalary": 50,
+      "jobDesc": "岗位描述\n1、负责公司各项业务类、技术类项目，包括但不限于web、跨端混合应用、中后台系统、小程序；\n2、探索和实践新技术，持续推进架构演化。\n\n岗位要求\n1、统招本科毕业，5年以上前端开发经验。\n2、精通各种Web前端技术(Javascript、HTML、CSS3)，熟悉es6/typescript语法，熟练掌握一个前端框架（ React、Angular，vue等），熟悉主流移动浏览器的技术特点，熟练使用 jQuery/Zepto 等主流工具库；\n3、具备一定的前端架构设计能力和性能调优能力，能提供完善的 WebApp 技术方案并有实践经验。",
+      "requiredSkills": [
+        "前端开发",
+        "前端架构"
+      ],
+      "address": "杭州余杭区欧美金融城(EFC)1号楼",
+      "longitude": 120.002934,
+      "latitude": 30.281079,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1dc30b53425b59d8052762e7c422dd3b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d3b8564628aa14056a60e2f15b18742f",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "35-50K·14薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "d61190a05c97bc730nF53tu0EQ~~",
+      "brandName": "月盛斋",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190820/34b140137d7ca8528f0a0606a77ea17388d0372be2eca4b79b151f04e908bfb6_s.jpg",
+      "industryName": "投资/融资",
+      "stageName": "未融资",
+      "scaleName": "100-499人",
+      "brandIntroduce": "公司始终坚持“合作、分享、共赢”的企业理念和“客户至上，诚信经营，规范管理，协调发展” 的经营宗旨，通过建立规范的投资操作流程和完善的风险控制体系，对客户负责，形成良好的经营风格，赢得客户和社会的信誉。同时，公司还坚持“专业化，职业化，精英化、精细化”的人才管理理念，吸纳了一支具有金融、管理、法律、财务等经济领域丰富管理经验的精英人才团队，内部机制健全，机构设置合理，管理体制灵活，发展思路明确，具有广阔的发展前景。全体员工本着“服务客户，互惠双赢，共同发展”的职业信念，全力发展投资业务，提供优质的投资服务。 \n投资有限公司坚持“立存久远，做大做强”的企业愿景，坚守“诚信、务实、负责”的企业精神，牢记对社会负责、对股东负责、对客户负责、对员工负责、对企业自身负责的企业使命和社会责任，以投资领域的需求为基础，以公司的服务水平和自身实力为保障，让公司快速健康发展。",
+      "comName": "浙江月盛斋投资管理有限公司",
+      "legalPerson": "胡敏华",
+      "startDate": "2017-05-03",
+      "regCapital": "5008万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市下城区长浜路270号311室",
+      "businessScope": "实业投资；服务：投资管理（未经金融等监管部门批准，不得从事向公众融资存款、融资担保、代客理财等金融服务），企业管理咨询，企业形象策划，经济信息咨询（除商品中介），市场营销策划，房地产信息咨询，财务信息咨询（除代理记账），商务信息咨询（除商品中介），计算机软硬件、网络技术的技术开发、技术咨询、技术服务及成果转让；其他无需报经审批的一切合法项目。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "公司始终坚持“合作、分享、共赢”的企业理念和“客户至上，诚信经营，规范管理，协调发展” 的经营宗旨，通过建立规范的投资操作流程和完善的风险控制体系，对客户负责，形成良好的经营风格，赢得客户和社会的信誉。同时，公司还坚持“专业化，职业化，精英化、精细化”的人才管理理念，吸纳了一支具有金融、管理、法律、财务等经济领域丰富管理经验的精英人才团队，内部机制健全，机构设置合理，管理体制灵活，发展思路明确，具有广阔的发展前景。全体员工本着“服务客户，互惠双赢，共同发展”的职业信念，全力发展投资业务，提供优质的投资服务。 \n投资有限公司坚持“立存久远，做大做强”的企业愿景，坚守“诚信、务实、负责”的企业精神，牢记对社会负责、对股东负责、对客户负责、对员工负责、对企业自身负责的企业使命和社会责任，以投资领域的需求为基础，以公司的服务水平和自身实力为保障，让公司快速健康发展。",
+      "encryptComId": "fa8bb8147d70651d1n183N60FVU~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "Android开发专家（p7)",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": null,
+          "businessName": null,
+          "distance": "",
+          "lid": "102vL1dxDQ2.search.2",
+          "performance": "",
+          "salaryDesc": "40-60K",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "Android"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Android",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "937551387a2d897b1nRy0tq5FlZY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "月盛斋",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190820/34b140137d7ca8528f0a0606a77ea17388d0372be2eca4b79b151f04e908bfb6_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "任鑫博",
+          "bossTitle": "hrm",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200925/5ed7d79beb0adceb4eed21431082307f88d0372be2eca4b79b151f04e908bfb6_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Android"
+          ],
+          "welfares": [],
+          "securityId": "8N_yiTJIP2hQ1-V1nVUlAA7Ngsx49tc_NMy9nDcRVo4Nkrji9ucJrlmjjoac9OQFn5xbra4~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "大数据负责人",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "102vL1dxDQ2.search.3",
+          "performance": "",
+          "salaryDesc": "40-60K·14薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "数据仓库",
+            "ETL",
+            "大数据平台"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "数据仓库",
+              "highlight": false
+            },
+            {
+              "content": "ETL",
+              "highlight": false
+            },
+            {
+              "content": "大数据平台",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "a689281ef63fce2c0HB-2t67Elo~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "月盛斋",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190820/34b140137d7ca8528f0a0606a77ea17388d0372be2eca4b79b151f04e908bfb6_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "王先生",
+          "bossTitle": "招聘经理",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "数据仓库",
+            "ETL",
+            "大数据平台"
+          ],
+          "welfares": [],
+          "securityId": "_hj2_uto71A0C--1xq6PVwfKuy7CyqlkcvgENSDpR8-16s5LhE54tuumx8nwYKiWNIxThw~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "大数据架构师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "102vL1dxDQ2.search.4",
+          "performance": "",
+          "salaryDesc": "30-50K·14薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "大数据平台",
+            "数据建模",
+            "数据仓库"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "大数据平台",
+              "highlight": false
+            },
+            {
+              "content": "数据建模",
+              "highlight": false
+            },
+            {
+              "content": "数据仓库",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "0150ba23970b8cf10Hd_2tq8ElA~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "月盛斋",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190820/34b140137d7ca8528f0a0606a77ea17388d0372be2eca4b79b151f04e908bfb6_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "王先生",
+          "bossTitle": "招聘经理",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "大数据平台",
+            "数据建模",
+            "数据仓库"
+          ],
+          "welfares": [],
+          "securityId": "xFKULCCmAsZQa-r1FrNW6nw6-sACjOyJ4_LaUhO45jzA0kOpd4zQ9fe0NzQhzGYU2taDBA~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "iOS开发专家（p7）",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": null,
+          "businessName": null,
+          "distance": "",
+          "lid": "102vL1dxDQ2.search.5",
+          "performance": "",
+          "salaryDesc": "40-60K",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "IOS"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "IOS",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "ab8951cc20d186911nRy0tq5GFNS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "月盛斋",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190820/34b140137d7ca8528f0a0606a77ea17388d0372be2eca4b79b151f04e908bfb6_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "任鑫博",
+          "bossTitle": "hrm",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200925/5ed7d79beb0adceb4eed21431082307f88d0372be2eca4b79b151f04e908bfb6_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "IOS"
+          ],
+          "welfares": [],
+          "securityId": "lWetYLLT9ZlBu-B17GcBJbuV6WzwMTfbv8CKHU-Gu0ZtJpDw3SkohIwGnYN35X-bshP-Jis~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "java架构师（中间件）",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "102vL1dxDQ2.search.6",
+          "performance": "",
+          "salaryDesc": "35-50K·14薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "Java",
+            "中间件"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "中间件",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "7776ee352b9299da0HNy3tW4FVA~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "月盛斋",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190820/34b140137d7ca8528f0a0606a77ea17388d0372be2eca4b79b151f04e908bfb6_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "王先生",
+          "bossTitle": "招聘经理",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "中间件"
+          ],
+          "welfares": [],
+          "securityId": "66mhRBgsRGzPi-515SbSJKU7x2YstpPogk3x4QgD8aANCweVsNm6F4QkChNqViXFD8z9VA~~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

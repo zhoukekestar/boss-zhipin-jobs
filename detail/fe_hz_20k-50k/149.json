@@ -1,0 +1,523 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "gkIys6pDDGqIe-B1q4kAvtm-0JClD19nKJu0g2yBOzQ9EIT6TNpodZ0mDfTDYDLXo61UGsr1UZgOYtPX6AB6dtHKnhbuGSYxFPFKabY-JAYu0ach2JOpdftV83O5_ptg9CtjspgUKooH",
+    "bossBaseInfoVO": {
+      "encryptBossId": "c3840430cc9a133e0nFy09u-F1dV",
+      "bossId": 558863755,
+      "securityId": "C8WUXDnqQLvqw-21el4JYyaQ4QYKuLb0S1SLFmj3IDNo9zlMXI0VjpoAXtAgqwjQwxIMZ-G6kF-YK16IoV5t8R6awEO7qw~~",
+      "name": "熊宽",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230106/607f1f3d68754fd0875eea2e6c79beaf46620c4a93f637380f970a3f1c8e595bb691ee1714e34b3f_s.jpg",
+      "title": "前端研发经理",
+      "activeTimeDesc": "2月内活跃",
+      "activeTime": 1694437366000,
+      "bossOnline": false,
+      "brandName": "晶立方",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 261832965,
+      "encryptJobId": "76417728e085451c1XJ7096_GVRV",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "中级前端工程师",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "文二路",
+      "locationDesc": "杭州·西湖区·文二路",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 11,
+      "highSalary": 22,
+      "jobDesc": "职责描述：\n1.  负责锦江集团内部数字化业务前端研发，主要产品为PC端&移动端web应用；\n2. 完成整体页面结构及样式层结构的落地、完成页面脚本程序编写，实现各类页面动态、交互效果;\n3.  与产品、设计师、开发人员配合，根据需求调整、修改、优化页面;\n4.  参与前端业务研发效率工具开发。\n\n任职要求：\n1.  统招本科及以上学历，工作经验2年及以上;\n2. 熟练掌握JavaScript、CSS、HTML;\n3.  了解主流JS框架 (vue、React）、至少熟练使用其中一项；\n4.  了解前端各种平台(Web、小程序）开发流程、了解常用技术框架和开发模型；\n5.  编码风格良好，遵守规范，对代码的整洁、优美、可读性有所追求；\n6.  较好的逻辑思维能力，学习能力强，有技术热情，良好的沟通能力和团队合作精神。\n\n加分项：\n1. 有跨端web应用研发经验优先\n2. 有微前端架构开发经验优先\n3. 有数据可视化大屏开发经验优先\n4. 有大厂经验且lead过中大型项目优先\n\n团队优势：\n1. 真业务导向，拒绝内卷。\n2. 平台好，背靠杭州锦江集团（中国500强企业，年营收1000亿），专注集团内部数字化，做甲方。\n3. 工作时间自由，项目紧张的话需要加班，正常双休，不搞形式主义。\n4. 五险一金顶格交。\n5. 新公司，但非初创，相较互联网稳定。\n6. 成员关系融洽，在技术上和生活上有困惑团队年长同学都会及时帮助解决。",
+      "requiredSkills": [
+        "JavaScript",
+        "React",
+        "Webpack",
+        "计算机/软件工程相关专业",
+        "前端开发经验"
+      ],
+      "address": "杭州西湖区万塘汇广场万塘路万塘汇",
+      "longitude": 120.124451,
+      "latitude": 30.278466,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/08d18b8470dd2d72a37bfd6bc97bc3ba",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5c1a5b2bd0c462cc93929f73dde356d0",
+      "salaryMonth": 0,
+      "performance": "一个月绩效考核奖金",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "11-22K·13薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "63d00f6f8e97638e1Xd82965ElE~",
+      "brandName": "晶立方",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "industryName": "计算机软件",
+      "stageName": "",
+      "scaleName": "20-99人",
+      "brandIntroduce": "浙江晶立方数字科技集团是杭州锦江集团孵化的产业数字化的集团公司。集团公司注册资金2亿元。母集团公司杭州锦江集团有限公司为中国企业五百强、中国制造企业五百强、中国民营企业百强单位。2021年集团营收超过805亿元。\n        晶立方数科集团业务范围包括：集团优势冶金行业的数字化建设与运营、工厂数字化体系的搭建与实施，数字园区的智慧化运营与能碳管理，大宗物料网络货运平台及基于乡村振兴的冷库、冷链等物流基础设施建设与运营。数字科技集团由阿里系、浙大系携手共同组建，有丰富的数字化解决方案与落地能力。\n        诚邀有识之士共创产业数字化的未来！",
+      "comName": "浙江晶立方数字科技集团有限公司",
+      "legalPerson": "孟凡光",
+      "startDate": "2022-09-28",
+      "regCapital": "20000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市上城区九堡街道老杭海路88号1008室",
+      "businessScope": "一般项目：人工智能应用软件开发；信息系统集成服务；信息系统运行维护服务；物联网技术服务；区块链技术相关软件和服务；工业互联网数据服务；节能管理服务；工程管理服务；园区管理服务；安全系统监控服务；物联网技术研发；新兴能源技术研发；在线能源计量技术研发；在线能源监测技术研发；计算机及办公设备维修；物业管理；国内货物运输代理；信息技术咨询服务；企业管理咨询；咨询策划服务；工业机器人制造；工业机器人销售；工业机器人安装、维修；智能仓储装备销售；物料搬运装备销售；机械电气设备销售；工业自动控制系统装置销售；人工智能硬件销售；网络设备销售；物联网设备销售；数字视频监控系统销售；电子产品销售；技术进出口；货物进出口；进出口代理（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：建筑智能化系统设计；电气安装服务（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "浙江晶立方数字科技集团是杭州锦江集团孵化的产业数字化的集团公司。集团公司注册资金2亿元。母集团公司杭州锦江集团有限公司为中国企业五百强、中国制造企业五百强、中国民营企业百强单位。2021年集团营收超过805亿元。\n        晶立方数科集团业务范围包括：集团优势冶金行业的数字化建设与运营、工厂数字化体系的搭建与实施，数字园区的智慧化运营与能碳管理，大宗物料网络货运平台及基于乡村振兴的冷库、冷链等物流基础设施建设与运营。数字科技集团由阿里系、浙大系携手共同组建，有丰富的数字化解决方案与落地能力。\n        诚邀有识之士共创产业数字化的未来！",
+      "encryptComId": "95629d9dc8a770901HN-3Ny0E1U~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "项目交付经理",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "拱墅区",
+          "businessName": "湖墅",
+          "distance": "",
+          "lid": "ZVu2JKQbfy.search.1",
+          "performance": "",
+          "salaryDesc": "20-30K·14薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "实施交付经验",
+            "PMP",
+            "企业内部技术项目管理"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "实施交付经验",
+              "highlight": false
+            },
+            {
+              "content": "PMP",
+              "highlight": false
+            },
+            {
+              "content": "企业内部技术项目管理",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "94fb2935bd7c50e81XF83tW5F1pY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "晶立方",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "降先生",
+          "bossTitle": "交付总监",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221121/607f1f3d68754fd08d6d513d028f071aab61930fe69cf9114b11d3cae01108b05e267183ce0b95ce_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "实施交付经验",
+            "PMP",
+            "企业内部技术项目管理",
+            "系统集成项目管理工程师",
+            "计算机相关专业",
+            "大数据项目管理经验"
+          ],
+          "welfares": [],
+          "securityId": "HEvHnhiYB0GJy-U1X2pVCdHyrPcAglDagKfw_PgIumskOhBPQ7wWh87_SBRqMssyAitvSZY2",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "拱墅区",
+          "businessName": "湖墅",
+          "distance": "",
+          "lid": "ZVu2JKQbfy.search.3",
+          "performance": "",
+          "salaryDesc": "15-30K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "硕士",
+            "JavaScript",
+            "Node.js",
+            "HTML5"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "Node.js",
+              "highlight": false
+            },
+            {
+              "content": "HTML5",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "1e5511bc48fe18de1XF839i8F1JT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "晶立方",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "孟凡光",
+          "bossTitle": "晶立方数字科技集团CEO",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170314/253c50c7921fce840f52dfdc26ecfb0fec293fbd1a7bd40c333b3dc479712eeb_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript",
+            "Node.js",
+            "HTML5",
+            "计算机/软件工程相关专业",
+            "前端开发经验",
+            "架构师经验"
+          ],
+          "welfares": [],
+          "securityId": "XKPozUIwlQbBL-o1_xoWD8uQLoU0dG0_s-8DgSBIHPwCDLDa3smOpgyMznXD2TP6Tj9WsDU~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "拱墅区",
+          "businessName": "湖墅",
+          "distance": "",
+          "lid": "ZVu2JKQbfy.search.4",
+          "performance": "",
+          "salaryDesc": "20-30K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "硕士",
+            "后端工程师",
+            "全栈工程师",
+            "架构师"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "全栈工程师",
+              "highlight": false
+            },
+            {
+              "content": "架构师",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "b1efbb55b86c51771XF_0tW1F1tX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "晶立方",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "孟凡光",
+          "bossTitle": "晶立方数字科技集团CEO",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170314/253c50c7921fce840f52dfdc26ecfb0fec293fbd1a7bd40c333b3dc479712eeb_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "全栈工程师",
+            "架构师"
+          ],
+          "welfares": [],
+          "securityId": "sDzY2TQLgFmau-Q1y1vGLRUa4WJ9aYy8b421riXxFp6QfUMj_VuOI7viAzPxUhcbl6SQVzU~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "工业信息化项目实施工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "拱墅区",
+          "businessName": "湖墅",
+          "distance": "",
+          "lid": "ZVu2JKQbfy.search.5",
+          "performance": "",
+          "salaryDesc": "15-25K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "软件实施经验",
+            "OA",
+            "ERP"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "软件实施经验",
+              "highlight": false
+            },
+            {
+              "content": "OA",
+              "highlight": false
+            },
+            {
+              "content": "ERP",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "f66c1798d2cef80d1XJ93dW-E1BT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "晶立方",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "降先生",
+          "bossTitle": "交付总监",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221121/607f1f3d68754fd08d6d513d028f071aab61930fe69cf9114b11d3cae01108b05e267183ce0b95ce_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "软件实施经验",
+            "OA",
+            "ERP",
+            "计算机相关专业",
+            "WMS",
+            "可适应出差"
+          ],
+          "welfares": [],
+          "securityId": "7moUxY0k4qaty-B1J66x7uxIVS_Hxv6B_vscCqIqAsJi9IFRMlELwUJIiTaDOpTloiTwPycR",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "售前解决方案",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "文二路",
+          "distance": "",
+          "lid": "ZVu2JKQbfy.search.6",
+          "performance": "",
+          "salaryDesc": "16-26K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "系统集成",
+            "ERP/OA/CRM系统",
+            "能源信息化项目"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "系统集成",
+              "highlight": false
+            },
+            {
+              "content": "ERP/OA/CRM系统",
+              "highlight": false
+            },
+            {
+              "content": "能源信息化项目",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "92d30c3e28b15b161Xxz09i7FlZU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "晶立方",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "柴容旺",
+          "bossTitle": "解决方案主管",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230605/607f1f3d68754fd0023f3180768b175c53894263c5b454a9400316a8df9470f248eded4c337f0e18_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "系统集成",
+            "ERP/OA/CRM系统",
+            "能源信息化项目",
+            "计算机/通信相关专业",
+            "机械/电子工程相关专业",
+            "售前技术支持经验"
+          ],
+          "welfares": [],
+          "securityId": "SZBanRI0RtBaM-Q1x4ZsASMGoxSH1K70EUqMflcC8JRmTQlt_EaL25Hz3plqjQEPza93q69P",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

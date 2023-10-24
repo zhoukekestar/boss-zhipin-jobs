@@ -1,0 +1,220 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "xQtiD3BRCCsJJ-71lxfJDFR8PTlXKMcJnDsYGC9dPxHIHONpNHkU1gk6RoC_eyRf_6DWIAF4p0-ZgLxj2BxBqw5mvLSWknXC9r0WwgD6ZW5-zjBTw51sOaozboHswYRo2cwl02ABMGzD",
+    "bossBaseInfoVO": {
+      "encryptBossId": "936f04c2c2963aee0nV52dq-GFJZ",
+      "bossId": 513273809,
+      "securityId": "DjwXj9l4X9x1j-j1y5j2D6dGJnRdGCNXFK-BPqrOMJYGv72Y21_q07FVBGhAR1CE6TWqra9uiDglQ6GfCg1SyVftypq6yQ~~",
+      "name": "刘放",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210112/8726511f9ee453956fb71edeaf7111d74097070b4a6b05c75907a40bc19d36c2_s.png",
+      "title": "资深前端开发工程师",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1675998337000,
+      "bossOnline": false,
+      "brandName": "网易有道成人项目组",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 119315163,
+      "encryptJobId": "100c75b6cda04cd71nVz2Ny4EVRT",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "长河",
+      "locationDesc": "杭州·滨江区·长河",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 18,
+      "highSalary": 35,
+      "jobDesc": "-本科及以上学历，三年以上互联网前端开发经验；\n-精通Javascript等Web开发技术，精通html/xhtml/html5、css/css3等网页制作技术，熟悉页面架构和布局以及跨浏览器、跨终端开发；\n-善于解决各浏览器的兼容性问题，尤其熟悉手机浏览器与微信浏览器；\n-至少熟悉一种主流js开源框架的使用 ：Angular、React、Vue等；\n-有较强的逻辑分析、问题排查能力，熟悉常用的数据结构与算法；\n-工作认真负责，乐观开朗，善于团队合作；\n-具有很强的学习能力和对新技术追求精神。\n-具有视频app开发经验者优先\n-具有微信小程序开发经验优先",
+      "requiredSkills": [
+        "前端开发",
+        "WEB开发",
+        "HTML",
+        "JavaScript",
+        "CSS",
+        "React",
+        "Web端",
+        "小程序"
+      ],
+      "address": "杭州滨江区网易大厦二期网商路399号",
+      "longitude": 120.191193,
+      "latitude": 30.185029,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c2a4563e7ad1a9a41bbd1ade938ac852",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6b77ae8e4a4c6bf68a752cfd408bc81a",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "18-35K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "1e941e5ea4a972321nd839m4FVY~",
+      "brandName": "网易有道成人项目组",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://c-res.zhipin.com/jrs/22_c5c75c53f8d4d4ba41967c9ef3d34dff.jpg",
+      "industryName": "电子商务",
+      "stageName": "",
+      "scaleName": "1000-9999人",
+      "brandIntroduce": "",
+      "comName": "网易有道信息技术（杭州）有限公司",
+      "legalPerson": "周枫",
+      "startDate": "2019-04-22",
+      "regCapital": "3000万美元",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市滨江区长河街道网商路599号4幢309室",
+      "businessScope": "许可项目：出版物批发；出版物零售；演出经纪；互联网直播技术服务；出版物互联网销售（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。一般项目：货物进出口；技术进出口；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；信息系统集成服务；数据处理服务；软件开发；计算机软硬件及辅助设备批发；计算机系统服务；翻译服务；版权代理；计算机软硬件及外围设备制造；软件销售；玩具销售；教学用模型及教具销售；文具用品批发；组织文化艺术交流活动；文化娱乐经纪人服务；组织体育表演活动；广告制作；广告发布；广告设计、代理；玩具、动漫及游艺用品销售；体育竞赛组织；其他文化艺术经纪代理；乐器零售；互联网销售（除销售需要许可的商品）；人工智能硬件销售；人工智能行业应用系统集成服务；人工智能应用软件开发；采购代理服务；专业设计服务；会议及展览服务；礼仪服务；市场营销策划；商务代理代办服务；灯具销售；计算机软硬件及辅助设备零售；企业管理咨询；劳务服务（不含劳务派遣）；体验式拓展活动及策划；信息咨询服务（不含许可类信息咨询服务）；信息技术咨询服务；业务培训（不含教育培训、职业技能培训等需取得许可的培训）；颜料销售；社会经济咨询服务；进出口代理；日用品销售；文艺创作；日用杂品销售；平面设计（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "",
+      "encryptComId": "a64e3ecfdc4ee5a51nxz0t-1F1A~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "Android高级开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZTV1rEPxcv.search.2",
+          "performance": "",
+          "salaryDesc": "20-28K·14薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Kotlin",
+            "Framework",
+            "Flutter"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Kotlin",
+              "highlight": false
+            },
+            {
+              "content": "Framework",
+              "highlight": false
+            },
+            {
+              "content": "Flutter",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "fc75d5d17e0355471nZ639u9ElNS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "网易有道成人项目组",
+          "brandLogo": "https://c-res.zhipin.com/jrs/22_c5c75c53f8d4d4ba41967c9ef3d34dff.jpg",
+          "brandStage": "",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "王宁",
+          "bossTitle": "Android研发",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180808/f79531932d2745e55800f1d81dbc1dfd3b81597cba3194cc7b1a6c8b4465b9a5_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Kotlin",
+            "Framework",
+            "Flutter",
+            "Hybrid开发",
+            "Android"
+          ],
+          "welfares": [],
+          "securityId": "Wa4J9kls5dDoh-f17b0uM97Ck0mZe5zZftZ3oF0nCPMk0Jlran3AkRl_yBUZWLGYlhv-B8E~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

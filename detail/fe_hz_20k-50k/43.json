@@ -1,0 +1,511 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "4LqmS4eryHfX0-a1lcKIaNleRhLWlZVHgd0vE6vnXLU_4HKx3zlBWcuUgMDPO9eUEMVEZkAfBuTz-7kkwsIFIwzx0qXai2gkkWMU5AWx7idNdWS4I3Z-Ecx0m497dojeLPBzLg~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "d6fd96dbc057be421XR53tm4F1Q~",
+      "bossId": 20354576,
+      "securityId": "4gCzmsNmDRwZ0-f1VoRpiaCPxT0i-UVLkMCxlmiyYOCJq5DXaf6b3KD_S-M8wIRtwnhZcgdWo6O4DJvZRERG_Ov_ROI~",
+      "name": "陈征",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20161206/fb7f16443093eecc65a51c7af5e223058c7dd922ad47494fc02c388e12c00eac_s.jpg",
+      "title": "高级前端技术专家",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1628396101000,
+      "bossOnline": false,
+      "brandName": "菜鸟网络",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 65995553,
+      "encryptJobId": "e4c1bb6447f4cd7a0XFz0ti4FVE~",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "西溪",
+      "locationDesc": "杭州·西湖区·西溪",
+      "experienceName": "5-10年",
+      "degreeName": "本科",
+      "lowSalary": 45,
+      "highSalary": 55,
+      "jobDesc": "前端页面开发\n前端团队管理",
+      "requiredSkills": [
+        "前端开发",
+        "Node.js",
+        "全栈开发",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Java",
+        "React"
+      ],
+      "address": "杭州西湖区中节能·西溪首座",
+      "longitude": 120.0748,
+      "latitude": 30.28868,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e1b7882c9d233352a991bb48229c762b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9c827e28540f8dc65815c7062a3d7c68",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "45-55K·16薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "9800b1f5ed89638c1HZz3Nk~",
+      "brandName": "菜鸟网络",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/logo/9a78a57a7671568532763f6913143c85be1bd4a3bd2a63f070bdbdada9aad826.jpg",
+      "industryName": "互联网",
+      "stageName": "B轮",
+      "scaleName": "10000人以上",
+      "brandIntroduce": "菜鸟成立于2013年，是一家客户价值驱动的全球化产业互联网公司。\n菜鸟坚持长期主义，聚焦产业化、全球化和数智化，坚持把物流产业的运营、场景、设施和互联网技术做深度融合，坚持数智创新、开拓增量、普惠服务和开放共赢。菜鸟现已形成面向消费者、商家和物流合作伙伴三类客户的五大核心服务板块：全球物流、消费者物流、供应链服务、全球地网、物流科技。\n菜鸟持续投入全球物流基础设施和底层能力建设，全球运营地网设施面积超过1000万㎡，日均服务跨境包裹量已超过500万件，可助商家用“一杯咖啡钱”实现全球Top20城市5日达。菜鸟数智物流设施和供应链已服务商家品牌数万个，80%从菜鸟产地仓库发出的包裹可隔日达。菜鸟驿站已覆盖全国200多个城市、3000所高校和3万多个乡村，菜鸟裹裹为3亿多消费者带来便捷寄件服务。\n菜鸟已在社区服务、全球物流、智慧供应链等领域建立了新赛道，在为消费者和商家提供普惠优质服务的同时，也在服务实体经济，助力双循环、乡村振兴、碳达峰碳中和方面发挥作用。",
+      "comName": "菜鸟网络科技有限公司",
+      "legalPerson": "万霖",
+      "startDate": "2013-05-16",
+      "regCapital": "1000000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "深圳市前海深港合作区前湾一路1号A栋201室（入驻深圳市前海商务秘书有限公司）经营场所：深圳市南山区粤海街道科苑南路3239号阿里云大厦S1号楼303室",
+      "businessScope": "一般经营项目是：互联网软件、物联网络技术开发、技术咨询和技术服务；企业管理咨询、投资咨询、经纪信息咨询（以上均不含限制项目）。，许可经营项目是：",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "菜鸟成立于2013年，是一家客户价值驱动的全球化产业互联网公司。\n菜鸟坚持长期主义，聚焦产业化、全球化和数智化，坚持把物流产业的运营、场景、设施和互联网技术做深度融合，坚持数智创新、开拓增量、普惠服务和开放共赢。菜鸟现已形成面向消费者、商家和物流合作伙伴三类客户的五大核心服务板块：全球物流、消费者物流、供应链服务、全球地网、物流科技。\n菜鸟持续投入全球物流基础设施和底层能力建设，全球运营地网设施面积超过1000万㎡，日均服务跨境包裹量已超过500万件，可助商家用“一杯咖啡钱”实现全球Top20城市5日达。菜鸟数智物流设施和供应链已服务商家品牌数万个，80%从菜鸟产地仓库发出的包裹可隔日达。菜鸟驿站已覆盖全国200多个城市、3000所高校和3万多个乡村，菜鸟裹裹为3亿多消费者带来便捷寄件服务。\n菜鸟已在社区服务、全球物流、智慧供应链等领域建立了新赛道，在为消费者和商家提供普惠优质服务的同时，也在服务实体经济，助力双循环、乡村振兴、碳达峰碳中和方面发挥作用。",
+      "encryptComId": "79582e165125d0f11Xxz3tW1"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "Android 初级开发者-P4",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "未来科技城",
+          "distance": "",
+          "lid": "105KV23xY5o.search.1",
+          "performance": "",
+          "salaryDesc": "20-30K·15薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "Android客户端产品研发",
+            "Java",
+            "React Native"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Android客户端产品研发",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "React Native",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "967c9eef46268b871X1z2tq8FFpW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "菜鸟网络",
+          "brandLogo": "https://img.bosszhipin.com/beijin/logo/9a78a57a7671568532763f6913143c85be1bd4a3bd2a63f070bdbdada9aad826.jpg",
+          "brandStage": "B轮",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "刘洪峰",
+          "bossTitle": "高级无线技术专家",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230919/607f1f3d68754fd017e088fe7a230bbc4435b63bc6654f4ce4a1f83e3d2ef0e25b55303e4987f0bc_s.jpg.webp",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Android客户端产品研发",
+            "Java",
+            "React Native",
+            "HTML5",
+            "计算机/软件工程相关专业"
+          ],
+          "welfares": [],
+          "securityId": "6KLV7x9kBFCGS-l1ssYeD8BlT_mNR1BChSenRyWKEK0ypL6BohqXdY0D-xj7tpn-Vln907c~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "105KV23xY5o.search.2",
+          "performance": "",
+          "salaryDesc": "30-60K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Java"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "cfa1dc11a70a9ced3nZ-392_EFI~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "菜鸟网络",
+          "brandLogo": "https://img.bosszhipin.com/beijin/logo/9a78a57a7671568532763f6913143c85be1bd4a3bd2a63f070bdbdada9aad826.jpg",
+          "brandStage": "B轮",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "王习超",
+          "bossTitle": "高级开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190129/2279f150112f613ab4a79c726d6600062c3dc48ae61dd31596f4e53209cc4f58_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java"
+          ],
+          "welfares": [],
+          "securityId": "CHak3uDaktqHd-Y1838fZxwkgMoKUIjOR5DaWDfunjzyK7-YxFo74gbODRadjpHwggXPIA~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "嵌入式开发工程师-IOT及芯片方向",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "老余杭",
+          "distance": "",
+          "lid": "105KV23xY5o.search.3",
+          "performance": "",
+          "salaryDesc": "20-40K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "layout",
+            "EMC",
+            "芯片"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "layout",
+              "highlight": false
+            },
+            {
+              "content": "EMC",
+              "highlight": false
+            },
+            {
+              "content": "芯片",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "5952b4f1467036e61HR92928EVtT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "菜鸟网络",
+          "brandLogo": "https://img.bosszhipin.com/beijin/logo/9a78a57a7671568532763f6913143c85be1bd4a3bd2a63f070bdbdada9aad826.jpg",
+          "brandStage": "B轮",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "潘婷",
+          "bossTitle": "招聘",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210401/54a9358da2eecff6c66e234fbe3e1d8fd1288116096b420a11af33a7788e9271_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "layout",
+            "EMC",
+            "芯片"
+          ],
+          "welfares": [],
+          "securityId": "5EAAZhHFf3pgZ-s1h89qKt8RzjMbHEnKM7nui5TTNmBbBtZhtC6HbHugvzvOhI53N7-adY8~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "NLP自然语言处理算法工程师-杭州",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "105KV23xY5o.search.4",
+          "performance": "",
+          "salaryDesc": "20-40K·16薪",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "深度学习算法",
+            "机器学习算法",
+            "算法设计"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "深度学习算法",
+              "highlight": false
+            },
+            {
+              "content": "机器学习算法",
+              "highlight": false
+            },
+            {
+              "content": "算法设计",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "0cf0fd375d11fd801n1-3dy1GVdT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "菜鸟网络",
+          "brandLogo": "https://img.bosszhipin.com/beijin/logo/9a78a57a7671568532763f6913143c85be1bd4a3bd2a63f070bdbdada9aad826.jpg",
+          "brandStage": "B轮",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "陈佳超",
+          "bossTitle": "高级算法工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210208/b171ea8341daa2b9bc34c99ae5f045d5ae04660e51761b607beea37754699415_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "深度学习算法",
+            "机器学习算法",
+            "算法设计",
+            "数据分析",
+            "视觉图像算法",
+            "知识图谱",
+            "文本分类",
+            "信息抽取"
+          ],
+          "welfares": [],
+          "securityId": "NtmSyYt1bn5U6-61nwbXApXzqsIP2liTTAoiLSwz3j70RlAtUH44HKQMReHfaIGK7vKLpns~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "105KV23xY5o.search.5",
+          "performance": "",
+          "salaryDesc": "28-45K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Java",
+            "后端开发",
+            "高级软件工程师"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "后端开发",
+              "highlight": false
+            },
+            {
+              "content": "高级软件工程师",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "36de6a1d613900f81nR-0tu9FlRX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "菜鸟网络",
+          "brandLogo": "https://img.bosszhipin.com/beijin/logo/9a78a57a7671568532763f6913143c85be1bd4a3bd2a63f070bdbdada9aad826.jpg",
+          "brandStage": "B轮",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "黎昌硕",
+          "bossTitle": "招聘",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "后端开发",
+            "高级软件工程师",
+            "架构师",
+            "独角兽，上市即自由"
+          ],
+          "welfares": [],
+          "securityId": "w2EVNUoS94Jzj-j1jgDJyFW8s44OOGcEN1npFy-klOJGxibkmZdkByJVdpFtvTjYmAILKXA~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

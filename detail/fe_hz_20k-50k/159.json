@@ -1,0 +1,496 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "frHb_QPt2fTow-C1Fz2cbwpBcRiyes94Jqhh0EUOIyWpR68yavO7X0apOMf-DTMP9ywFlNhIRm5l3M_2JdYXog3RDbsOQ9F_XT2emyYEY9VtBQgsRHWy9TNxs1jih-P4xM8N9ts~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "a2e2009d35e707f61HF52dW-EVU~",
+      "bossId": 35328317,
+      "securityId": "AGRQqi7jWdnFa-P19T8X8JFagqmb2m49s43Z-rmT-W8__calCMmuhwQyGbgBH46MA4XsYUYOC_ANeU6g-erEySDBDLY~",
+      "name": "潘正锋",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+      "title": "前端架构师",
+      "activeTimeDesc": "近半年活跃",
+      "activeTime": 1684159653000,
+      "bossOnline": false,
+      "brandName": "每刻",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 23004506,
+      "encryptJobId": "6dba2f4f5bcbacce1Xd629m4EFQ~",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "高级前端工程师",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "钱塘区",
+      "businessDistrict": "高沙商业街",
+      "locationDesc": "杭州·钱塘区·高沙商业街",
+      "experienceName": "5-10年",
+      "degreeName": "本科",
+      "lowSalary": 20,
+      "highSalary": 35,
+      "jobDesc": "前端团队介绍：目前前端团队有15人，目标20人，包括PC端和APP端。\r\n工作职责:\r\n1、参与核心业务平台的核心功能的设计与开发；\r\n2、参与系统架构设计、框架研发，并指导团队成员开发应用到实际项目中；\r\n3、负责技术文档的整理，形成设计文档；\r\n4、负责前瞻性技术预研工作\r\n\r\n任职资格:\r\n1、5年以上前端工作经验；\r\n2、参与过大型Web项目开发，对多人合作开发有深刻的理解；\r\n4、精通前端框架，如:react,vue,angular等，并有良好的程序设计和架构能力；\r\n5、能够理解后端架构，为项目提供最优化的技术解决方案；\r\n6、熟练运用react+webpack，拥有丰富的项目经验；\r\n7、对前端工程化和组件化有较深的理解；\r\n8、了解移动跨平台相关技术（例如Hybrid App、WEEX）并实战过的优先；\r\n9、熟练掌握 Node.js，并有实际项目的优先；\r\n10、有个人技术博客，github上有项目者优先；",
+      "requiredSkills": [
+        "HTML/CSS",
+        "Javascript",
+        "HTML5"
+      ],
+      "address": "杭州湖畔中心A座15楼",
+      "longitude": 120.314738,
+      "latitude": 30.308531,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/28d35a93608f7d885c5642a9a82e8c8d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8234a3c7c13ab55f3312b50697e1d23e",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-35K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "f04fba069c0c6eed03N62N61",
+      "brandName": "每刻",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211208/7bf6f160950405e9cbed71f596832ed037fc1a806a289efb3ba99d7412dc7620f8d47a64ea059c6f.jpg",
+      "industryName": "企业服务",
+      "stageName": "B轮",
+      "scaleName": "500-999人",
+      "brandIntroduce": "杭州每刻科技有限公司是一家领先的智能云财务产品和解决方案服务商。每刻基于最新的人工智能、大数据、云计算、移动互联网技术，为企业提供新一代业财数据一体化和财务云共享平台。帮助企业轻松应对变化并驱动变化，全面提升企业的组织效率和竞争力。每刻旨在成为智能云财务领导者，帮助企业财务实现云财务、云共享、云办公。\n\n每刻报销是每刻科技旗下智能费用管理云平台，是国内领先的企业差旅及费用管理SaaS平台，为企业提供差旅预定、费用报销管理、全流程费用管控服务。每刻报销以专业的产品、贴心的服务让企业不再为报销而烦恼。\n\n每刻旗下产品有每刻报销，每刻电子档案，每刻云票三大核心产品。每刻报销产品于2014年底启动； 2016年2月，每刻报销获得由赛伯乐领投的1000万人民币天使轮融资；2017年5月，获得宽带资本领投3000万元的A轮融资；2020年8月完成1亿元B轮融资；2021年2月宣布完成超1亿元B+轮融资，由绿洲资本（Vitalbridge）和金浦投资联合领投。近日，每刻科技宣布完成2亿元B++轮融资，由CMC资本独家投资，光源资本担任独家财务顾问。近一年时间中，每刻科技累计获得超过4亿元融资。\n\n每刻科技已拥有超过3000多家企业客户，包括200多家上市企业，客户覆盖多个行业，包括制造、互联网、医疗健康、金融业、酒旅餐饮、食品日化、文化教育、服饰家装等多个领域，标杆客户如大华股份、老板电器、立白集团、益海嘉里、欧普照明等，当前公司客户金额续约率达到120%。迄今为止，每刻科技先后获得软件著作权 39项，发明专利2项，商标注册证11项。除了技术方面的创新，每刻报销还赢得了市场认可，目前每刻科技的用户覆盖全球150+个国家及地区，拥有超过200+上市公司及中大型企业客户，提升80%的员工报销效率，提升80%的财务审核效率。\n\n*2021年创新新势力.2021最佳财税管理企业服务品牌\n*2021年入选杭州市财务企业服务领域准独角兽企业\n*2019钉钉平台中大促财务类销冠产品，财务类销售额第一名\n*2019年度 “最佳费控综合服务商“\n*作为财务领域代表企业获得国家级高新技术企业荣誉称号\n*2018企业服务行业榜单新锐企业TOP30\n*2018“十大最具价值”科技创新创业项目\n*2018第七届中国财经峰会杰出智能创新奖\n*胡润百富中国最具投资价值新星企业百强榜浙江50强\n\n全国办公地址：杭州-湖畔中心、杭州-西溪银泰、杭州-华创大厦、杭州-海聚中心、北京、上海、广州、成都、深圳、宁波、苏州、厦门、郑州、成都、西安、南昌等各分公司。\n\n公司网站：https://www.maycur.com/",
+      "comName": "杭州每刻科技有限公司",
+      "legalPerson": "魏美钟",
+      "startDate": "2015-06-25",
+      "regCapital": "1045.235833万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市钱塘区万晶湖畔中心西区2幢1501室",
+      "businessScope": "技术开发、技术服务、技术咨询、成果转让：计算机网络技术、计算机软硬件、电子产品、互联网技术、电子商务技术。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "杭州每刻科技有限公司是一家领先的智能云财务产品和解决方案服务商。每刻基于最新的人工智能、大数据、云计算、移动互联网技术，为企业提供新一代业财数据一体化和财务云共享平台。帮助企业轻松应对变化并驱动变化，全面提升企业的组织效率和竞争力。每刻旨在成为智能云财务领导者，帮助企业财务实现云财务、云共享、云办公。\n\n每刻报销是每刻科技旗下智能费用管理云平台，是国内领先的企业差旅及费用管理SaaS平台，为企业提供差旅预定、费用报销管理、全流程费用管控服务。每刻报销以专业的产品、贴心的服务让企业不再为报销而烦恼。\n\n每刻旗下产品有每刻报销，每刻电子档案，每刻云票三大核心产品。每刻报销产品于2014年底启动； 2016年2月，每刻报销获得由赛伯乐领投的1000万人民币天使轮融资；2017年5月，获得宽带资本领投3000万元的A轮融资；2020年8月完成1亿元B轮融资；2021年2月宣布完成超1亿元B+轮融资，由绿洲资本（Vitalbridge）和金浦投资联合领投。近日，每刻科技宣布完成2亿元B++轮融资，由CMC资本独家投资，光源资本担任独家财务顾问。近一年时间中，每刻科技累计获得超过4亿元融资。\n\n每刻科技已拥有超过3000多家企业客户，包括200多家上市企业，客户覆盖多个行业，包括制造、互联网、医疗健康、金融业、酒旅餐饮、食品日化、文化教育、服饰家装等多个领域，标杆客户如大华股份、老板电器、立白集团、益海嘉里、欧普照明等，当前公司客户金额续约率达到120%。迄今为止，每刻科技先后获得软件著作权 39项，发明专利2项，商标注册证11项。除了技术方面的创新，每刻报销还赢得了市场认可，目前每刻科技的用户覆盖全球150+个国家及地区，拥有超过200+上市公司及中大型企业客户，提升80%的员工报销效率，提升80%的财务审核效率。\n\n*2021年创新新势力.2021最佳财税管理企业服务品牌\n*2021年入选杭州市财务企业服务领域准独角兽企业\n*2019钉钉平台中大促财务类销冠产品，财务类销售额第一名\n*2019年度 “最佳费控综合服务商“\n*作为财务领域代表企业获得国家级高新技术企业荣誉称号\n*2018企业服务行业榜单新锐企业TOP30\n*2018“十大最具价值”科技创新创业项目\n*2018第七届中国财经峰会杰出智能创新奖\n*胡润百富中国最具投资价值新星企业百强榜浙江50强\n\n全国办公地址：杭州-湖畔中心、杭州-西溪银泰、杭州-华创大厦、杭州-海聚中心、北京、上海、广州、成都、深圳、宁波、苏州、厦门、郑州、成都、西安、南昌等各分公司。\n\n公司网站：https://www.maycur.com/",
+      "encryptComId": "956d6c375b4850011nd90tW4FA~~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "Java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "钱塘区",
+          "businessName": "高沙商业街",
+          "distance": "",
+          "lid": "ZUyPfwLl14.search.1",
+          "performance": "",
+          "salaryDesc": "10-13K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "Java"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "01f309b448e2038b1nNz3t-4FlZX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "每刻",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211208/7bf6f160950405e9cbed71f596832ed037fc1a806a289efb3ba99d7412dc7620f8d47a64ea059c6f.jpg",
+          "brandStage": "B轮",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "李翔",
+          "bossTitle": "研发总监",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181219/4dd5c3c771b229a887830816314de80546b1091065f0bdcfb9adfa3431c26885_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java"
+          ],
+          "welfares": [],
+          "securityId": "keEunc8vaBNTM-q1V5S4S2AFwNUkU1klnpiTzbkYSwSsQSGQlq0yrL_tpuSHGKhCmmcCiig~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "实施顾问",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZUyPfwLl14.search.2",
+          "performance": "",
+          "salaryDesc": "8-13K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "实施",
+            "项目管理",
+            "PMP"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "实施",
+              "highlight": false
+            },
+            {
+              "content": "项目管理",
+              "highlight": false
+            },
+            {
+              "content": "PMP",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "cbb28561631d640f03Zy3du6EFU~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "每刻",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211208/7bf6f160950405e9cbed71f596832ed037fc1a806a289efb3ba99d7412dc7620f8d47a64ea059c6f.jpg",
+          "brandStage": "B轮",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "冯明志",
+          "bossTitle": "区域交付总监",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "实施",
+            "项目管理",
+            "PMP"
+          ],
+          "welfares": [],
+          "securityId": "vUlrYRN7xeqgM-i1CrlzpeF_8bF7EUzxGTog4Eq2Rgz9yVl5O_7QbKaeRbwFVBb95tI-9g~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "ZUyPfwLl14.search.3",
+          "performance": "",
+          "salaryDesc": "12-18K·14薪",
+          "jobLabels": [
+            "1-3年",
+            "大专",
+            "SQL",
+            "MVC开发",
+            "服务器配置"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "MVC开发",
+              "highlight": false
+            },
+            {
+              "content": "服务器配置",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "a39fd3c8405b77eb1nx-3dy9FFBX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "每刻",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211208/7bf6f160950405e9cbed71f596832ed037fc1a806a289efb3ba99d7412dc7620f8d47a64ea059c6f.jpg",
+          "brandStage": "B轮",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "黄勤慧",
+          "bossTitle": "系统集成产品经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210908/607f1f3d68754fd02fdafb3cc1f1829df946b47af34db045c6a2aca0b86dfdb38169c8ac63741d28_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "SQL",
+            "MVC开发",
+            "服务器配置",
+            "Spring",
+            "Oracle"
+          ],
+          "welfares": [],
+          "securityId": "AXwVIbGAOpTqP-_1neGE0Os42uTO-OLuatqBLy-zhX9l7wEnqRmkjB6PxCfnS1YE6vns-UA~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "钱塘区",
+          "businessName": "高沙商业街",
+          "distance": "",
+          "lid": "ZUyPfwLl14.search.4",
+          "performance": "",
+          "salaryDesc": "12-24K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "后端开发",
+            "SQL",
+            "分布式技术"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端开发",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "4b08fc1c85c84b231nJy2NS0EVNU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "每刻",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211208/7bf6f160950405e9cbed71f596832ed037fc1a806a289efb3ba99d7412dc7620f8d47a64ea059c6f.jpg",
+          "brandStage": "B轮",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "舒超群",
+          "bossTitle": "研发",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190116/39db1021d9bf64fa7ec27b45b9a8a3600ae9a4a902dfa53a44212ba77f017391_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端开发",
+            "SQL",
+            "分布式技术",
+            "多线程",
+            "Spring",
+            "SpringBoot"
+          ],
+          "welfares": [],
+          "securityId": "AoqE1UNJsLUYR-g1h4UwPeizNo2zzTe38wOrxBLNgjxbtXf7f4pHBhIOelTQu3fNK5rXQSA~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "java后端开发",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "ZUyPfwLl14.search.5",
+          "performance": "",
+          "salaryDesc": "15-21K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "后端开发",
+            "微服务架构"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端开发",
+              "highlight": false
+            },
+            {
+              "content": "微服务架构",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "07e9d9f2e83b8f2b1nJ7092-GFtX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "每刻",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211208/7bf6f160950405e9cbed71f596832ed037fc1a806a289efb3ba99d7412dc7620f8d47a64ea059c6f.jpg",
+          "brandStage": "B轮",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "任凯",
+          "bossTitle": "测试工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端开发",
+            "微服务架构"
+          ],
+          "welfares": [],
+          "securityId": "6pPji9M84gyC8-410i6MFBUX9XggE0B6VxeneH-y751eRP2gls9DQetsRScumdBqI_0D-4A~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

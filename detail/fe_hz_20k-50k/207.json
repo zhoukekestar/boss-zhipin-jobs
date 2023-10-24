@@ -1,0 +1,515 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "GgYGmETirHTPB-51DZwMgn02NLtQChd6ICG-1VQhOy8J3waCm78XE9RDjVH-uy0YKSyM81kO8YQ6D6vyKxGKpdP3Qn2e0TOWctZjK12pVDZoUdNNPvrw89V08M_3Mg45gLn4K59T5nE~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "ec0dd1718b6136d30nZ43t-6GVRU",
+      "bossId": 522527964,
+      "securityId": "EUDmtydTBf4o6-A1n7R5t3IZrB9FTklE4Ce0NTmO5XE7Atz61I6Oa0c_NUWjmUT4k0Vs41E5XEFU9lpk_2t_Mxq0uLCTVg~~",
+      "name": "马佳玲",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210320/7c0a31fce8588ca3925dee2737cf03ed44836eced5f8857834ed285f42490708_s.png",
+      "title": "助理工程师",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1681055152000,
+      "bossOnline": false,
+      "brandName": "CloudBU",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 129939147,
+      "encryptJobId": "b2225384bbbfe1401nZz0t60EVZX",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "长河",
+      "locationDesc": "杭州·滨江区·长河",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "lowSalary": 16,
+      "highSalary": 30,
+      "jobDesc": "负责前端界面的构建，各类交互设计与根据具体的业务场景设计并实现前端基础架构\n熟悉Web开发，html/cssjavascript\n能熟练掌握并使用webpack对项目进行打包优化",
+      "requiredSkills": [
+        "JavaScript",
+        "ES6",
+        "Web端",
+        "PC端",
+        "Angular",
+        "Vue"
+      ],
+      "address": "杭州滨江区华为科研基地西区",
+      "longitude": 120.205783,
+      "latitude": 30.183937,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dead0c142d6fe1e74067944acfafa274",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5f7a6f57825f16496e22d08c4975bc86",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "16-30K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "2dc5f75565c848191nZ83t2_Eg~~",
+      "brandName": "CloudBU",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180412/1734aeb2de76d7c29dd112cd16318a59.jpg",
+      "industryName": "互联网",
+      "stageName": "未融资",
+      "scaleName": "10000人以上",
+      "brandIntroduce": "http://www.hua⋐-⋑----/",
+      "comName": "华为技术有限公司",
+      "legalPerson": "赵明路",
+      "startDate": "1987-09-15",
+      "regCapital": "4064113.182万人民币",
+      "statusDesc": "存续",
+      "regAddress": "深圳市龙岗区坂田华为总部办公楼",
+      "businessScope": "一般经营项目是：程控交换机、传输设备、数据通信设备、宽带多媒体设备、电源、无线通信设备、微电子产品、软件、系统集成工程、计算机及配套设备、终端设备及相关通信信息产品、数据中心机房基础设施及配套产品（含供配电、空调制冷设备、智能管理监控等）的开发、生产、销售、技术服务、工程安装、维修、咨询、代理、租赁；信息系统设计、集成、运行维护；集成电路设计、研发；统一通信及协作类产品，服务器及配套软硬件产品，存储设备及相关软件的研发、生产、销售；无线数据产品（不含限制项目）的研发、生产、销售；通信站点机房基础设施及通信配套设备（含通信站点、通信机房、通信电源、机柜、天线、通信线缆、配电、智能管理监控、锂电及储能系统等）的研发、生产、销售；能源科学技术研究及能源相关产品的研发、生产、销售；大数据产品、物联网及通信相关领域产品的研发、生产、销售；汽车零部件及智能系统的研发、生产、销售及服务；建筑工程；设计、制作、发布、代理各类广告；通信设备租赁（不含限制项目）；培训服务；技术认证服务；信息咨询（不含限制项目）；企业管理咨询（不含限制项目）；进出口业务；国内商业、物资供销业业务（不含专营、专控、专卖商品）；对外经济技术合作业务；房屋租赁业务（持许可经营证）；以及其他法律法规不禁止的经营活动（依法须经批准的项目，经相关部门批准后方可开展经营活动）。，许可经营项目是：增值电信业务经营。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "http://www.hua⋐-⋑----/",
+      "encryptComId": "67e73815d25853b91nZ43t27"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "华为2024届软件开发实习生招聘",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZPXfFzsq55.search.1",
+          "performance": "",
+          "salaryDesc": "400-800元/天",
+          "jobLabels": [
+            "4天/周",
+            "6个月",
+            "硕士",
+            "C++",
+            "C++服务端开发经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "4天/周",
+              "highlight": false
+            },
+            {
+              "content": "6个月",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "C++",
+              "highlight": false
+            },
+            {
+              "content": "C++服务端开发经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 4,
+          "encryptJobId": "36f9c830a6770cbb1XN839i4ElJU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "CloudBU",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180412/1734aeb2de76d7c29dd112cd16318a59.jpg",
+          "brandStage": "未融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "高先生",
+          "bossTitle": "高级软件工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200401/c202c737a84c1e81b2368367baff25dcaae842a6941b54320f477b63eec8a67d_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "C++",
+            "C++服务端开发经验",
+            "英语读写能力良好"
+          ],
+          "welfares": [],
+          "securityId": "MSsCQMCE68ZME-71-HSVoWFsL2M1fjQBsgzQb1pZ7FwEPNIzLgbA5gk85cc4Xt8kGEVcnxk~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "时间序列算法（OD）",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZPXfFzsq55.search.2",
+          "performance": "",
+          "salaryDesc": "18-35K·14薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "Python",
+            "CNN/RNN/LSTM",
+            "时间序列"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "CNN/RNN/LSTM",
+              "highlight": false
+            },
+            {
+              "content": "时间序列",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "97ecbf74b4dfa2971Xdy2Nu-ElVW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "CloudBU",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180412/1734aeb2de76d7c29dd112cd16318a59.jpg",
+          "brandStage": "未融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "盛镇醴",
+          "bossTitle": "团队主管",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211206/607f1f3d68754fd05db4fe4b5bd599fa718d80683bfc919d1d125a3821943042e9534da7862dcc5a_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Python",
+            "CNN/RNN/LSTM",
+            "时间序列"
+          ],
+          "welfares": [],
+          "securityId": "vRmzLhq36UITo-51zKkLRZ9sZEUN1DjVlm1Imfm0w4pFfTXlCcqSAgKTG4CWEqdlueT75jBY",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "华为23届校招正式批—软件开发/算法工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZPXfFzsq55.search.3",
+          "performance": "",
+          "salaryDesc": "23-45K·16薪",
+          "jobLabels": [
+            "在校/应届",
+            "硕士",
+            "无明显侧重",
+            "语音/图像识别",
+            "搜索/推荐"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "在校/应届",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "无明显侧重",
+              "highlight": false
+            },
+            {
+              "content": "语音/图像识别",
+              "highlight": false
+            },
+            {
+              "content": "搜索/推荐",
+              "highlight": false
+            }
+          ],
+          "jobType": 5,
+          "encryptJobId": "999b043d11cca2851XB53N-5F1pT",
+          "afterNameIcon": null,
+          "afterNameIcons": [
+            "https://img.bosszhipin.com/beijin/mcs/banner/4d77f815083a7850d8c5188f10b2ff0dcfcd208495d565ef66e7dff9f98764da.png"
+          ],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "CloudBU",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180412/1734aeb2de76d7c29dd112cd16318a59.jpg",
+          "brandStage": "未融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "吴涛",
+          "bossTitle": "研发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "无明显侧重",
+            "语音/图像识别",
+            "搜索/推荐",
+            "云计算",
+            "Java",
+            "Python",
+            "C/C++"
+          ],
+          "welfares": [],
+          "securityId": "eDendhX3gXXLn-r1dukwqbMBnEz_IC0cc0KLgETDCjaIeCv4TFLr8yPjHiU-nozihMunhTY~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "【正式岗】云数据库资深技术专家",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZPXfFzsq55.search.4",
+          "performance": "",
+          "salaryDesc": "30-60K·16薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "C++",
+            "Shell",
+            "Python"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "C++",
+              "highlight": false
+            },
+            {
+              "content": "Shell",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "670cdf388b58360e1XN809W9EldT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "CloudBU",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180412/1734aeb2de76d7c29dd112cd16318a59.jpg",
+          "brandStage": "未融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "罗俊杰",
+          "bossTitle": "软件开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "C++",
+            "Shell",
+            "Python",
+            "计算机相关专业",
+            "数学/统计相关专业",
+            "大数据开发经验"
+          ],
+          "welfares": [],
+          "securityId": "sI2J-b5r9Kz6d-l1AauxG5v-r6E1YMCiebY5Bf550ghwHk8iG3z19Ar7mpnF25-OcqY1BWiA",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "C开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZPXfFzsq55.search.5",
+          "performance": "",
+          "salaryDesc": "16-30K",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "网络交换技术",
+            "网络协议"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "网络交换技术",
+              "highlight": false
+            },
+            {
+              "content": "网络协议",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "6e2751967f839b4a1n1z2tS5ElVQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "CloudBU",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180412/1734aeb2de76d7c29dd112cd16318a59.jpg",
+          "brandStage": "未融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "胡先生",
+          "bossTitle": "技术主管",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "网络交换技术",
+            "网络协议"
+          ],
+          "welfares": [],
+          "securityId": "Tbax5sfi4BBtv-J1W1tRPDRl1WqPbcDIWN6cP-4uNXOa2aDLCWi-T8R_sFVu_FVgIrd8UQ~~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

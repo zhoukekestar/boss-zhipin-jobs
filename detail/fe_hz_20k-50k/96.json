@@ -1,0 +1,509 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "H5NHKFwEkvgE1-c1LSolGFxXwKRhM1-qFMwN6BLkoRYhb3PxcaYBsTkIx-Z_b29SKiUlH9f12HuF-x2wcY_z2qPlti-rJE5o5rBkOwCjT0U5klCm_ihankBDB2sLRuRBvSx6",
+    "bossBaseInfoVO": {
+      "encryptBossId": "d741ff1318f902000nV73tS5GVE~",
+      "bossId": 51159493,
+      "securityId": "S2c1sPpzpudsb-61eBqb_zDyTsS0xMqMzvVLYdET0yxW56I0rP-aQG02cA_Z02PHSVub6DG9r092PNioO2lORYnqj04~",
+      "name": "余方杨",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200708/21ceff2957a08dbdcea1a7450dc510ebaea8a320fd93157f929321395d03fbb6_s.png",
+      "title": "前端招聘",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1601275199000,
+      "bossOnline": false,
+      "brandName": "智云健康",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 94792804,
+      "encryptJobId": "77528eff5e0f22f73nB90t-1EFY~",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "海创园",
+      "locationDesc": "杭州·余杭区·海创园",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 20,
+      "highSalary": 30,
+      "jobDesc": "tob  toc业务都有，vue,react,小程序,flutter,node项目都有\n基建项目有pcUI h5UI库  前端异常监控平台，mock平台，埋点平台，活动页编辑平台，数据管理平台等等前端全栈开发项目\n希望找有node项目经验或者学习意愿强的同学一起来码业务的同时搞 基建\n\n\n3年+\n\n熟练运用 JavaScript 语言与 HTML5 、 CSS3 等技术\n\n熟悉模块化、前端编译和构建工具，熟练运用主流的JS 库和开发框架，并深入理解其设计原理。如vueJS， ReactJS\n\n熟悉 Node.js 应用开发，有大型 Node.js 项目的开发经验优先；\n\n对技术进取心，有强烈的责任感, 具有良好的沟通能力和团队合作精神、优秀的分析问题和解决问题的能力\n\n有优质的技术产出或开源产品者优先\n\n有独立负责一个多人项目或团队管理经验优先",
+      "requiredSkills": [
+        "JavaScript",
+        "Vue",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "前端开发"
+      ],
+      "address": "杭州余杭区浙江海外高层次人才创新园401或707",
+      "longitude": 120.01746,
+      "latitude": 30.281423,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2bed7f85a5b3990a602ecd3b366602f8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a432e01817a28eeb8201a3c437ece947",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-30K·15薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "cfeebd232d893a910XRz3g~~",
+      "brandName": "智云健康",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200730/81306f6ef4f84e1b34ab1920c83141f4958efe6d2da9158a7298224ba6f2979e_s.jpg",
+      "industryName": "医疗健康",
+      "stageName": "D轮及以上",
+      "scaleName": "1000-9999人",
+      "brandIntroduce": "智云健康，成立于2014年12月，是中国领先的数字化慢病管理解决方案提供商，通过打通医疗价值链上主要参与者，包括医院、药店、药厂、患者和医生，共同构建有深度的闭环生态，并向他们提供院内解决方案、药店解决方案和个人慢病管理解决方案，覆盖院内院外数字化慢病管理的全生命周期。通过提供专业严谨的服务，提升行业协同效率，为用户提供更良好的体验，打造慢病管理的“中国样本”，引领中国慢病管理数字化转型进程，让数字健康走进千家万户。 \n   我们热爱生命也敬畏医疗，我们用自己的专业，创造价值。富有挑战的工作，让我们快速成长。不断改善国内医疗行业环境的初心，让我们坚持每个想法的落地。高标准，高要求，让我们携手为健康医疗事业添砖加瓦。\n   在智云，既有来自互联网行业又有来自传统医疗行业的小伙伴，在这样一份多元化，多样化的土壤里我们取长补短，共同进步。公司在现有业务夯实的基础上，积极拓展和鼓励在不同场景的业务创新，打造中国有专业特色和科学思维的互联网医疗企业。 作为垂直赛道领跑企业，高速发展的我们密切关注每一位员工的成长。\n    公司提供多种职业发展机会，公平、公正的考核体系，完整的晋升机制及高绩效高回报的激励方案，确保员工的每一份付出必将有收获！\n    欢迎优秀的你加入一起完成有挑战的工作。",
+      "comName": "杭州康晟健康管理咨询有限公司",
+      "legalPerson": "匡明",
+      "startDate": "2014-12-09",
+      "regCapital": "1396.9948万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市余杭区五常街道文一西路998号12幢1单元501室",
+      "businessScope": "许可项目：演出经纪；第二类增值电信业务；第三类医疗器械经营；药品批发；药品零售；食品销售；药品委托生产（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。一般项目：健康咨询服务（不含诊疗服务）；社会经济咨询服务；图文设计制作；平面设计；组织文化艺术交流活动；咨询策划服务；企业形象策划；专业设计服务；市场营销策划；市场调查（不含涉外调查）；信息咨询服务（不含许可类信息咨询服务）；自费出国留学中介服务；会议及展览服务；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；数据处理服务；广告设计、代理；第一类医疗器械销售；第二类医疗器械销售；计算机软硬件及辅助设备零售；计算机软硬件及辅助设备批发；电子产品销售；办公用品销售；日用百货销售；通讯设备销售；仪器仪表销售；金属材料销售；机械设备销售；建筑材料销售；橡胶制品销售；汽车零配件批发；消毒剂销售（不含危险化学品）；化妆品零售；化妆品批发；竹制品销售；互联网销售（除销售需要许可的商品）；日用品销售；家用电器销售；机械零件、零部件销售；医学研究和试验发展；医学研究和试验发展（除人体干细胞、基因诊断与治疗技术开发和应用）；金属制品销售；日用玻璃制品销售；化工产品销售（不含许可类化工产品）（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "智云健康，成立于2014年12月，是中国领先的数字化慢病管理解决方案提供商，通过打通医疗价值链上主要参与者，包括医院、药店、药厂、患者和医生，共同构建有深度的闭环生态，并向他们提供院内解决方案、药店解决方案和个人慢病管理解决方案，覆盖院内院外数字化慢病管理的全生命周期。通过提供专业严谨的服务，提升行业协同效率，为用户提供更良好的体验，打造慢病管理的“中国样本”，引领中国慢病管理数字化转型进程，让数字健康走进千家万户。 \n   我们热爱生命也敬畏医疗，我们用自己的专业，创造价值。富有挑战的工作，让我们快速成长。不断改善国内医疗行业环境的初心，让我们坚持每个想法的落地。高标准，高要求，让我们携手为健康医疗事业添砖加瓦。\n   在智云，既有来自互联网行业又有来自传统医疗行业的小伙伴，在这样一份多元化，多样化的土壤里我们取长补短，共同进步。公司在现有业务夯实的基础上，积极拓展和鼓励在不同场景的业务创新，打造中国有专业特色和科学思维的互联网医疗企业。 作为垂直赛道领跑企业，高速发展的我们密切关注每一位员工的成长。\n    公司提供多种职业发展机会，公平、公正的考核体系，完整的晋升机制及高绩效高回报的激励方案，确保员工的每一份付出必将有收获！\n    欢迎优秀的你加入一起完成有挑战的工作。",
+      "encryptComId": "ba1a59f5690b4d0b1Hx83tu5"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "Java开发工程师-医汇研发",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "学历不限",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "100ufCHvsuJ.search.1",
+          "performance": "",
+          "salaryDesc": "15-30K·14薪",
+          "jobLabels": [
+            "3-5年",
+            "学历不限",
+            "Java",
+            "SQL"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "学历不限",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "628ba148a24c6f0b1nR609S7EFdQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "智云健康",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200730/81306f6ef4f84e1b34ab1920c83141f4958efe6d2da9158a7298224ba6f2979e_s.jpg",
+          "brandStage": "D轮及以上",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "张鹏",
+          "bossTitle": "Java开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180608/0abdaac8bb45a8beef528e63758bc6cdc46ef8b18531f2f4a6c7e5f0d8acf133_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "SQL"
+          ],
+          "welfares": [],
+          "securityId": "x15NVVHBfVReg-y1Z9EcYISBVbJ0p4XWU-FsLxCd7F7xHy1vYDbDKrAYOhpfNSsVrJT6MMg~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "资深Java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "学历不限",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "100ufCHvsuJ.search.2",
+          "performance": "",
+          "salaryDesc": "30-60K",
+          "jobLabels": [
+            "经验不限",
+            "学历不限",
+            "Java",
+            "SQL"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "学历不限",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "e74105c55d0607df3n1z29W0FlU~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "智云健康",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200730/81306f6ef4f84e1b34ab1920c83141f4958efe6d2da9158a7298224ba6f2979e_s.jpg",
+          "brandStage": "D轮及以上",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "张莉",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200602/995f7ab7aec14b507de65bc8ee8939a46129dc73e65149ea211a2397699dad77_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "SQL"
+          ],
+          "welfares": [],
+          "securityId": "W5fC0lRGS6bN6-s1kcC6-iv2aNDYYZiKpK2x0cSV22T9nv3gfImq3oQKhcsvvDNLzYsT4A~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java开发工程师-药店服务",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "海创园",
+          "distance": "",
+          "lid": "100ufCHvsuJ.search.3",
+          "performance": "",
+          "salaryDesc": "15-25K·14薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "Java",
+            "SQL",
+            "分布式技术"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "3856ff50c214c78d3n1z39m_FVI~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "智云健康",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200730/81306f6ef4f84e1b34ab1920c83141f4958efe6d2da9158a7298224ba6f2979e_s.jpg",
+          "brandStage": "D轮及以上",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "滕董杰",
+          "bossTitle": "资深JAVA开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200306/386b046ff21461d26d29129c4924ee4325a37b2cc7ecb6c929ca8cbc49729518_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "SQL",
+            "分布式技术",
+            "多线程",
+            "数据结构",
+            "Spring",
+            "MySQL",
+            "Oracle"
+          ],
+          "welfares": [],
+          "securityId": "bm-IGCj7cWrk3-T1CjErAkjNYYijMCe8Babe2BfnGqd1Ob_jqUmXS3hZflFZjQfZCCIpXQ~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "100ufCHvsuJ.search.4",
+          "performance": "",
+          "salaryDesc": "15-30K·15薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "SQL",
+            "分布式技术",
+            "多线程"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "多线程",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "6188f1d62dba0eca1nJ43Ny5F1RX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "智云健康",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200730/81306f6ef4f84e1b34ab1920c83141f4958efe6d2da9158a7298224ba6f2979e_s.jpg",
+          "brandStage": "D轮及以上",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "陈龙",
+          "bossTitle": "技术人员",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190606/8b943cf47b73d8cbde932984658a78d7b8d013c0f42ef36756dcd6f86011b733_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "SQL",
+            "分布式技术",
+            "多线程",
+            "数据结构"
+          ],
+          "welfares": [],
+          "securityId": "KZpmepkEd1RAj-i1X7B5T1bOLn8kkltJ-M195lvNnZEQnbHHYZzqS-2_jpSzE2BcaWd3hUo~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "iOS",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "100ufCHvsuJ.search.5",
+          "performance": "",
+          "salaryDesc": "15-30K·14薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "IOS",
+            "Objective-C",
+            "Xcode"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "IOS",
+              "highlight": false
+            },
+            {
+              "content": "Objective-C",
+              "highlight": false
+            },
+            {
+              "content": "Xcode",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "43f9e9b181edaf6933V509S0EFY~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "智云健康",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200730/81306f6ef4f84e1b34ab1920c83141f4958efe6d2da9158a7298224ba6f2979e_s.jpg",
+          "brandStage": "D轮及以上",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "朱文炳",
+          "bossTitle": "资深Java工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210619/33c7ee54de239532f9922bc4e70b540dd53c25bb4a2133bb08beaba6f7292aea_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "IOS",
+            "Objective-C",
+            "Xcode",
+            "Cocoa",
+            "Touch",
+            "Flutter"
+          ],
+          "welfares": [],
+          "securityId": "x6U8ye88RCWs0-11GXasoXPlC3BdO6TbZbEq9gBMoysZDNNzSs7Bt87zeSIjwMJFKxmGwg~~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

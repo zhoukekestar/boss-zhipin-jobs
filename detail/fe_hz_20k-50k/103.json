@@ -1,0 +1,508 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "wP48L6FLhuiA7-P19UTaA1WftAuTI4m-sT3Joax5_gf6m1uCQw53Un_LpgwiWfKGDIyytFnYoSMOG__SkMgpecHsyLK-uUJvHzGMAZ1kRnsP09766RrkEPLi4QnRV8VTE1oCybDPpU0~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "c9b2ecaac4d12ba91XR-39-0FVY~",
+      "bossId": 20442954,
+      "securityId": "AT_F-6EEjuwm5-J1CsCP-8Y6rUH6lSzKyJ36iksKUm2qLU9YyS2N_H_H2PXPnU3V6NhFsV4lunxQ3GHIdO-muELJueTl",
+      "name": "范春蕾",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170123/2f2f799bfb31bda7b1ffb86d72c07784c9ec7b9940b4dbe7ca6cca8496c649a1_s.jpg",
+      "title": "hr",
+      "activeTimeDesc": "本周活跃",
+      "activeTime": 1697809009355,
+      "bossOnline": false,
+      "brandName": "欢聚集团",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 165796838,
+      "encryptJobId": "1b41af54b15293a51nJ_3NS7GFFY",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "西溪",
+      "locationDesc": "杭州·西湖区·西溪",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 17,
+      "highSalary": 22,
+      "jobDesc": "【岗位职责】：\n1、负责电商开放平台、插件相关的前端页面功能开发；\n2、推动业务需求落地，完成功能交付，编写相关的技术文档，单元测试，对产品质量负责。\n\n【岗位要求】：\n1、3年以上前端开发经验；\n2、精通XHTML/CSS/Javascript等Web前端开发技术；\n3、熟练至少一种JS框架，熟悉React、Vue等MV(*)框架；\n4、有git/gulp/webpack/babel等各种工具的开发经验，能够合理运用它们来解决实际工程问题；\n5、熟悉TCP/HTTP等相关网络协议；\n6、有持续学习提高的能力，善于进行技术总结和沉淀；\n7、有较强的责任心和团队精神，善于沟通和合作，有电商经验者优先。",
+      "requiredSkills": [
+        "前端开发",
+        "React",
+        "Web端"
+      ],
+      "address": "杭州西湖区三深国际中心A座",
+      "longitude": 120.075561,
+      "latitude": 30.291015,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c277668249b351569a7a33af6a832f73",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5eea3dbc3e6bd09c4700f303da813f9d",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "17-22K·13薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "3e5a1f7c9c18cf101nd72du_FlI~",
+      "brandName": "欢聚集团",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/ba610383bf7169a42cd189bf548ea3b9cfcd208495d565ef66e7dff9f98764da.png",
+      "industryName": "移动互联网",
+      "stageName": "已上市",
+      "scaleName": "1000-9999人",
+      "brandIntroduce": "欢聚集团JOYY Inc.创始人为李学凌先生，集团成立于2005年4月，并于2012年11月在纳斯达克上市。集团从泛娱乐直播切入，孵化出电子竞技游戏直播，并深度布局电商、金融等行业，提升以人工智能为核心的新技术引擎，是一家综合创新的全球化科技互联网公司。集团深入本地化耕耘产品内容和社交生态，持续为用户构建基于兴趣的社交互动全球化社区，实现全球业务的健康可持续增长，为用户创造更大价值。集团先后孵化出不同领域的领先音视频产品：泛娱乐类YY 直播、游戏电竞类虎牙直播、全球化直播软件Bigo Live、全球化短视频平台Likee、海外多人互动社交明星产品Hago，并深度布局电商产业领域，战略投资全球电商智慧建站平台Shopline。\n\n       集团目前员工人数超过7000人，研发人员占总人数的65%。2020年，集团进入《财富》中国500强，2021年集团营收人民币169.02亿，同比增长36.5%。\n\n       欢聚集团注重科技创新，截至2021年12月份，欢聚集团累计递交专利申请超过4176件，其中发明专利占比超过87%，并获得专利授权1461件。同时集团特别注重全球专利布局，目前已获得多项授权，专利申请量和授权量均处于行业领先地位，其中发明专利授权总量位列中国互联网公司前10强。\n\n\n\n公司官网：www.joyy.com\n招聘官网：hr.joyy.com\n更多招聘信息及公司实时动态请关注【欢聚集团招聘】公众号",
+      "comName": "广州欢聚时代信息科技有限公司",
+      "legalPerson": "李婷",
+      "startDate": "2010-12-02",
+      "regCapital": "200万美元",
+      "statusDesc": "在营",
+      "regAddress": "广州市番禺区南村镇万博二路79号万博商务区万达商业广场北区B-1栋23层（仅限办公用途）",
+      "businessScope": "信息技术咨询服务;信息系统集成服务;软件开发;软件销售;计算机软硬件及辅助设备批发;计算机软硬件及辅助设备零售;非居住房地产租赁;技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广;企业管理咨询;礼品花卉销售;日用百货销售;互联网销售（除销售需要许可的商品）;针纺织品销售;电子产品销售;文具用品零售;服装服饰零售;箱包销售;工艺美术品及收藏品零售（象牙及其制品除外）;技术进出口;货物进出口;进出口代理",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "欢聚集团JOYY Inc.创始人为李学凌先生，集团成立于2005年4月，并于2012年11月在纳斯达克上市。集团从泛娱乐直播切入，孵化出电子竞技游戏直播，并深度布局电商、金融等行业，提升以人工智能为核心的新技术引擎，是一家综合创新的全球化科技互联网公司。集团深入本地化耕耘产品内容和社交生态，持续为用户构建基于兴趣的社交互动全球化社区，实现全球业务的健康可持续增长，为用户创造更大价值。集团先后孵化出不同领域的领先音视频产品：泛娱乐类YY 直播、游戏电竞类虎牙直播、全球化直播软件Bigo Live、全球化短视频平台Likee、海外多人互动社交明星产品Hago，并深度布局电商产业领域，战略投资全球电商智慧建站平台Shopline。\n\n       集团目前员工人数超过7000人，研发人员占总人数的65%。2020年，集团进入《财富》中国500强，2021年集团营收人民币169.02亿，同比增长36.5%。\n\n       欢聚集团注重科技创新，截至2021年12月份，欢聚集团累计递交专利申请超过4176件，其中发明专利占比超过87%，并获得专利授权1461件。同时集团特别注重全球专利布局，目前已获得多项授权，专利申请量和授权量均处于行业领先地位，其中发明专利授权总量位列中国互联网公司前10强。\n\n\n\n公司官网：www.joyy.com\n招聘官网：hr.joyy.com\n更多招聘信息及公司实时动态请关注【欢聚集团招聘】公众号",
+      "encryptComId": "9f5c59ea13df4fc21HV-3tu1"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "高级前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "ZZPp6De4EY.search.1",
+          "performance": "",
+          "salaryDesc": "25-40K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "JavaScript",
+            "负载均衡技术",
+            "前端开发"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "负载均衡技术",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "d1f6a35a16fcb43a1XV73dm8EVNQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "欢聚集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/ba610383bf7169a42cd189bf548ea3b9cfcd208495d565ef66e7dff9f98764da.png",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "李女士",
+          "bossTitle": "测试",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220215/607f1f3d68754fd03a2852bb30b22cb6e1e639634e7f12fd821cfe47132e12febf97571efa9ab263_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript",
+            "负载均衡技术",
+            "前端开发",
+            "Vue"
+          ],
+          "welfares": [],
+          "securityId": "oQ2y6BoF6G5N3-A1Qmg0idB4LfrpZx3Iij0PPp88360ghcx3DKITaQSMiQzftIsYYgvJBc4~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级Java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "ZZPp6De4EY.search.2",
+          "performance": "",
+          "salaryDesc": "25-35K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "分布式技术",
+            "负载均衡技术",
+            "微服务架构"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "负载均衡技术",
+              "highlight": false
+            },
+            {
+              "content": "微服务架构",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "2a6a97f9895b10bb1n1-09i_FVRW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "欢聚集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/ba610383bf7169a42cd189bf548ea3b9cfcd208495d565ef66e7dff9f98764da.png",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "刘兆东",
+          "bossTitle": "研发",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "分布式技术",
+            "负载均衡技术",
+            "微服务架构",
+            "后端开发",
+            "服务器端开发",
+            "高级软件工程师"
+          ],
+          "welfares": [],
+          "securityId": "XR8SPWUwwlKyn-K19Rf-6q3S6tkv4XX5JyQjracbLReZ3XAMnTSybMLkO9tZfyYk1dEAP016",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java高级开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "ZZPp6De4EY.search.3",
+          "performance": "",
+          "salaryDesc": "20-35K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "负载均衡技术",
+            "分布式技术",
+            "Dubbo"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "负载均衡技术",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "Dubbo",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "6467e12a2f221eac1XV73ty7E1FV",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "欢聚集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/ba610383bf7169a42cd189bf548ea3b9cfcd208495d565ef66e7dff9f98764da.png",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "李女士",
+          "bossTitle": "测试",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220215/607f1f3d68754fd03a2852bb30b22cb6e1e639634e7f12fd821cfe47132e12febf97571efa9ab263_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "负载均衡技术",
+            "分布式技术",
+            "Dubbo"
+          ],
+          "welfares": [],
+          "securityId": "Be5fnrSF-ybOz-z1yYfbQOEhO881NMn_BBq0Q-nsXXtMAZL6oKZpaDe4WgGBaHkpKtZgUGw~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "本周热招-前端开发工程师 (MJ006305)",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "ZZPp6De4EY.search.4",
+          "performance": "",
+          "salaryDesc": "16-30K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "JavaScript",
+            "CSS",
+            "HTML5"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "CSS",
+              "highlight": false
+            },
+            {
+              "content": "HTML5",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "06ea22da74f6f9d31HV80967ElBQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "欢聚集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/ba610383bf7169a42cd189bf548ea3b9cfcd208495d565ef66e7dff9f98764da.png",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "覃先生",
+          "bossTitle": "招聘",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_16.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript",
+            "CSS",
+            "HTML5",
+            "前端开发经验"
+          ],
+          "welfares": [],
+          "securityId": "G7ga_9nGr1Udm-r1G6E5H2PYgwRZH9fc5Iz_8xCOnvNCXlpGacYlZxNNYmgWsXRB_NpQStR8",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级技术文档工程师（英语）",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "ZZPp6De4EY.search.5",
+          "performance": "",
+          "salaryDesc": "15-30K·16薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "SaaS产品",
+            "英语"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "SaaS产品",
+              "highlight": false
+            },
+            {
+              "content": "英语",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "adb55774d56e79d01HV739S-FFFV",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "欢聚集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/ba610383bf7169a42cd189bf548ea3b9cfcd208495d565ef66e7dff9f98764da.png",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "赵女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191119/71d02ec4c3326ba7263cd9e73ad29085941d6e9e924b5701f41df7f1045e235f_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "SaaS产品",
+            "英语"
+          ],
+          "welfares": [],
+          "securityId": "64oiS4B0D2scz-C1MKIfIl5XrfMhU7MpQfG9A5NyW4tBv7HZgSm9aR7jDXMWQWdFsUyIjDM~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

@@ -1,0 +1,514 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "o6XKY2tUoIQBL--1_Jl4mrqexbGgY8lbyD2osW9REI7T7RRq4mxa7ndoqTIBHFmLyt53YOOBIeSDH3zBpZgcx4NVJ-g-QmcVTK6s9x3UgatWVqCuf2Ywg_ugaDkm6aBQ7zhcOkHt",
+    "bossBaseInfoVO": {
+      "encryptBossId": "b6412af4d93fa4e20nJ83Ny1GVY~",
+      "bossId": 56671894,
+      "securityId": "lUNVjfhGbH_B2-c1T_9CWh36qqu_gl4Z-UzB6RB33ciArsMhrQLZ_P49DStCwiU7K-j5OZF4WkZj3C7wTg4VlWBQCHo~",
+      "name": "周一鸣",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/mcs/banner/20171031/84ade9701fd02a77fedb6675600a134f33d208e8d6fc287973c46e5cb5346f06.png",
+      "title": "前端开发工程师",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1615529410000,
+      "bossOnline": false,
+      "brandName": "阿里巴巴（中国）...",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 51582560,
+      "encryptJobId": "effe7bb7c3a5a7490nV_09-4FlI~",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "长河",
+      "locationDesc": "杭州·滨江区·长河",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 30,
+      "jobDesc": "JD描述: \r\nCBU-体验技术团队 是一支高效、开放、有战斗力的团队, 团队内技术牛人云集，鼓励技术交流与分享，并有持续稳定的前端分享活动，时常邀请及输出同学与集团各BU的同学间互相交流学习。CBU体验技术团队 等你来造!\r\n职位描述\r\n1、设计核心产品的前端架构，并带领组员实现并持续优化；\r\n2、优化前端开发方式及协作流程，创建技术标准及规范，并孜孜不倦的布道；\r\n3、为前后端技术改进、网站性能优化、技术选型提供解决方案；\r\n4、前端前沿技术研究和新技术调研及应用，提升团队的技术能力\r\n5、为组员的技术成长制定目标、计划并帮助实施，提升整体技术水平。\r\n职位要求\r\n1、 精通各种前端技术，包括HTML/CSS/JavaScript/Node等；\r\n2、具备跨终端的前端开发能力，在Web（PC+Mobile）/Node/Native App三个方向上至少精通一个方向，具备多个的更佳，鼓励在Native和Web技术融合上的探索；\r\n3、对前端工程化与模块化开发有一定了解，熟练运用主流的移动端JS库和开发框架，并深入理解其设计原理，例如：Zepto、React、Vue、Angular 等；\r\n4、至少熟悉一门非前端的语言（如Node/Java/PHP/C/C++/Python/Ruby），并有实践经验；\r\n5、具备良好的团队协作精神，能利用自身技术能力提升团队整体研发效率，",
+      "requiredSkills": [
+        "javascript",
+        "react",
+        "node.js"
+      ],
+      "address": "杭州滨江区阿里巴巴滨江园区",
+      "longitude": 120.190371,
+      "latitude": 30.189602,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9c470de7033b56bf3be12d2cef6896cb",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e081007c704de9f5eec0eda44e14fc62",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-30K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "c100e04249ddfa7d1XBz0ty7Fw~~",
+      "brandName": "阿里巴巴（中国）...",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180817/6270d9b9182c05f35be14f5d3b88680b4a8bed619ea2737ef453210c3c4acfd5.jpg",
+      "industryName": "智能硬件",
+      "stageName": "已上市",
+      "scaleName": "10000人以上",
+      "brandIntroduce": "阿里巴巴人工智能实验室",
+      "comName": "阿里巴巴（中国）有限公司余杭分公司",
+      "legalPerson": "龚正渊",
+      "startDate": "2011-12-30",
+      "regCapital": "-",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市余杭区五常街道文一西路969号3幢5层549室",
+      "businessScope": "服务：企业管理、计算机系统服务、电脑动画设计、经济信息咨询服务（除商品中介）、成年人的非证书劳动职业技能培训；生产：计算机软件；销售：自产产品和总公司生产的产品。（涉及国家规定实施准入特别管理措施的除外）（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "阿里巴巴人工智能实验室",
+      "encryptComId": "452e94f5ce875bc10n1_0tm9"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "【急聘】数据科学家_杭州",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "10amIAIfYHm.search.1",
+          "performance": "",
+          "salaryDesc": "25-50K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "SQL",
+            "Python",
+            "决策树"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "决策树",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "d17b00b57c9389ee1nJ509u9GVFR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "阿里巴巴（中国）...",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180817/6270d9b9182c05f35be14f5d3b88680b4a8bed619ea2737ef453210c3c4acfd5.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "周女士",
+          "bossTitle": "开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221107/607f1f3d68754fd05309cf51a2f4ecdb317217c1d72cc7bccd910f701d0f1b5e2b262e987e040514_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "SQL",
+            "Python",
+            "决策树",
+            "聚类分析",
+            "相关分析",
+            "多元统计分析",
+            "回归分析",
+            "因子分析"
+          ],
+          "welfares": [],
+          "securityId": "4RfShvCwkBJcq-b1qlBLdaJaGCYXQ9v9ytY1HHn-Wu3U74_Ahnk92rDPXNqFDIkq6frqGMw~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Web前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "10amIAIfYHm.search.2",
+          "performance": "",
+          "salaryDesc": "15-30K·13薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "前端开发",
+            "Node.js",
+            "全栈开发"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            },
+            {
+              "content": "Node.js",
+              "highlight": false
+            },
+            {
+              "content": "全栈开发",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "57480a45ba44aabe0XJ-0tS-GFU~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "阿里巴巴（中国）...",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180817/6270d9b9182c05f35be14f5d3b88680b4a8bed619ea2737ef453210c3c4acfd5.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "周一鸣",
+          "bossTitle": "前端开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/banner/20171031/84ade9701fd02a77fedb6675600a134f33d208e8d6fc287973c46e5cb5346f06.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "前端开发",
+            "Node.js",
+            "全栈开发",
+            "HTML",
+            "React",
+            "Web端",
+            "WEB开发"
+          ],
+          "welfares": [],
+          "securityId": "Z975qVY8VZkkL-k1nGZPmNbjjET9f8P8bfdEsa1p1yuRJ-vjW_SbIF8P5rvtVYl8EwqDBA~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "前端技术专家",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "10amIAIfYHm.search.3",
+          "performance": "",
+          "salaryDesc": "30-40K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "JavaScript",
+            "React",
+            "Vue"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "React",
+              "highlight": false
+            },
+            {
+              "content": "Vue",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "8971124c89b8839a1HV43NW6ElBR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "阿里巴巴（中国）...",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180817/6270d9b9182c05f35be14f5d3b88680b4a8bed619ea2737ef453210c3c4acfd5.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "夏先生",
+          "bossTitle": "前端工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript",
+            "React",
+            "Vue"
+          ],
+          "welfares": [],
+          "securityId": "4Nk4DATSRITH4-Q1sT8ynx-QuTXDI17apmZXv-eqaP4F5uu9kStn_XGqmVeE_Sc5iuLxK_c~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级web前端工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "10amIAIfYHm.search.4",
+          "performance": "",
+          "salaryDesc": "26-35K·13薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "JavaScript",
+            "React",
+            "Vue"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "React",
+              "highlight": false
+            },
+            {
+              "content": "Vue",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "ae91935fa3c414f51HV43NW6EFtU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "阿里巴巴（中国）...",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180817/6270d9b9182c05f35be14f5d3b88680b4a8bed619ea2737ef453210c3c4acfd5.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "夏先生",
+          "bossTitle": "前端工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript",
+            "React",
+            "Vue"
+          ],
+          "welfares": [],
+          "securityId": "Fpv5rfyMLSH8T-s1hmap6npRjwdXsNlEwRw35W1zWEoMjt8_ZEjqIHw6iW5dFKtHaSpn2Bs~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "阿里国际数字商业全球化业务平台2024届校招",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "学历不限",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "10amIAIfYHm.search.6",
+          "performance": "",
+          "salaryDesc": "15-25K",
+          "jobLabels": [
+            "在校/应届",
+            "学历不限",
+            "后端工程师",
+            "Java"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "在校/应届",
+              "highlight": false
+            },
+            {
+              "content": "学历不限",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            }
+          ],
+          "jobType": 5,
+          "encryptJobId": "a56f9343239b7d471HR92Ni8FVtV",
+          "afterNameIcon": null,
+          "afterNameIcons": [
+            "https://img.bosszhipin.com/beijin/mcs/banner/4d77f815083a7850d8c5188f10b2ff0dcfcd208495d565ef66e7dff9f98764da.png"
+          ],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "阿里巴巴（中国）...",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180817/6270d9b9182c05f35be14f5d3b88680b4a8bed619ea2737ef453210c3c4acfd5.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "邓旺华",
+          "bossTitle": "开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180914/017133d16b30ade5f66ab47690722940cfcd208495d565ef66e7dff9f98764da_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "Java"
+          ],
+          "welfares": [],
+          "securityId": "_pnRiSaBSvHYb-o1iFNqw2tAVcrjpbII1p5FkYEdxYZyWwO1dcV6PHpuhvS5dXNDjFfk2Q~~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

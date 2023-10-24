@@ -1,0 +1,141 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "kwRTL2NSKxIYr-31xMOA0xdpOWut_GXk-Z6Xmr65h-MptdhhYavEPEEqMHa7zRMURStsA2zSD8KIUgeihcDDVY56Zr5mFdmVp9fJdBkzQHEP9UAEcb_Dsgv0vFCKXfGIqyezw-akuSk~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "44a7c83daabff25b1XN52NS8FlI~",
+      "bossId": 27339160,
+      "securityId": "LFQ5tYbvgQ3ZL-Q1F1RdkoaOnn_47JraMhmh4RW8_aTL0INdX_M5Ng1QQWh2nFjO9iRVWNuD7dyaTWjQytKiJzvp0Re4",
+      "name": "万鹏",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220614/607f1f3d68754fd0da467adb82decd4bc0d3c5a8815438b45992485c56a7c194cf3c1a90e04a2269_s.jpg",
+      "title": "前端开发",
+      "activeTimeDesc": "3月内活跃",
+      "activeTime": 1692104793000,
+      "bossOnline": false,
+      "brandName": "诸云科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 274984226,
+      "encryptJobId": "38914c3180cefce71XN-0tW5ElBW",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端架构",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "仓前",
+      "locationDesc": "杭州·余杭区·仓前",
+      "experienceName": "5-10年",
+      "degreeName": "本科",
+      "lowSalary": 30,
+      "highSalary": 45,
+      "jobDesc": "职位描述\n1、负责公司产品的建设，持续提升稳定高质量的前端技术框架；\n2、负责团队前端架构的建立和实施，业务解决方案的建设，技术难题的攻关等；\n3、把握前端技术发展潮流，牵头前端新技术的研究，并用新技术推动业务发展；\n4、指导团队的技术体系建设，提升团队的技术氛围，承担团队人才培养。\n职位要求\n1、统招本科以上学历，5年以上前端相关工作经验，有前端架构部署和实践经验；\n2、掌握主流前端框架Vue的源码实现，理解框架背后的思想，可以持续改进完善业务框架；\n3、熟悉各种编程范式、应用架构和接口设计模式，具备较强抽象能力、技术规划能力；\n4、对前后端的协作模式、产品和项目流程有深入理解，具备一定的方案沟通和推动能力、指导和带领工程师做事的能力；\n5、了解和持续关注全球技术社区中的主流技术、前沿领域和最佳实践。\n有安卓快应用和微信小程序产品前端开发经验优先。\n福利待遇：五险一金、住房补贴、免费体检、节日福利、带薪年假、年终奖金以及其他奖金",
+      "requiredSkills": [
+        "JavaScript",
+        "Node.js",
+        "Vue",
+        "计算机/软件工程相关专业",
+        "前端开发经验",
+        "架构师经验"
+      ],
+      "address": "杭州余杭区EFC英国中心西楼7",
+      "longitude": 120.001359,
+      "latitude": 30.280032,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9743a7a6b7f39cb4d4ac68025f42cf14",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4262a00fbb8c9a0d69abf678bb524853",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "30-45K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "7f7c70ca9d3492d61nd_3t64EVY~",
+      "brandName": "诸云科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220721/7bf6f160950405e965724666d3121d6d573e7d582bb80b77f61db96755870f1a33efd86808f286f1.jpg",
+      "industryName": "互联网",
+      "stageName": "不需要融资",
+      "scaleName": "100-499人",
+      "brandIntroduce": "诸云科技有限公司于2019年成立，在北京、杭州、厦门的核心CBD分别设有办公中心。\n\n我们的使命是：激发创作，让好故事温暖平凡生活。\n\n公司已推出面向C端的产品有：云剧屋（微信小程序）、书小白（快应用），收入模式为广告和付费；面向B端的业务有：小说/短剧的内容及产品分销收入、漫画/影视/有声/等衍生版权收入；连续3年高速增长，年营收10亿。\n\n目前核心团队百人，呈现出年轻化、精英化、国际化等特点，平均年龄27岁，核心管理层来自阿里、腾讯、华为、字节、Facebook、Microsoft等。公司硅谷风格的管理模式，团队氛围简单高效、工作上有同事手把手悉心指导、生活上大家互帮互助。\n\n时光不负赶路人，我们为你提供有竞争力的薪资待遇，每年两次调薪和晋升的机会，收入好的项目组年终奖上不封顶。公司推行全员期权配置，并且已经有上市的详细规划，让每个员工都能拥有一个更大的梦想，共攀人生高峰。\n\n我们还为你准备了MacBook、各种丰盛的下午茶、交通补贴、租房补贴、生日礼金、每天不定时红包等多项福利，零食福利管够。\n\n我们一直在快速奔跑，但前行的路上总是缺了一个优秀的你。如果你的心底还留有最初的梦想，欢迎加入我们，和一群优秀的小伙伴一起做有挑战的事。这里有广阔的发展空间和追梦的舞台。我们期待你用智慧和能力为诸云科技的腾飞注入力量，而你与诸云科技的共同成长，将是职业生涯中宝贵的财富。",
+      "comName": "诸云科技有限公司",
+      "legalPerson": "朱云鹏",
+      "startDate": "2020-12-24",
+      "regCapital": "5000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "厦门市思明区环岛东路1811号701单元",
+      "businessScope": "一般项目：科技推广和应用服务；软件开发；动漫游戏开发；信息系统集成服务；数据处理和存储支持服务。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：第一类增值电信业务；第二类增值电信业务；互联网信息服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "诸云科技有限公司于2019年成立，在北京、杭州、厦门的核心CBD分别设有办公中心。\n\n我们的使命是：激发创作，让好故事温暖平凡生活。\n\n公司已推出面向C端的产品有：云剧屋（微信小程序）、书小白（快应用），收入模式为广告和付费；面向B端的业务有：小说/短剧的内容及产品分销收入、漫画/影视/有声/等衍生版权收入；连续3年高速增长，年营收10亿。\n\n目前核心团队百人，呈现出年轻化、精英化、国际化等特点，平均年龄27岁，核心管理层来自阿里、腾讯、华为、字节、Facebook、Microsoft等。公司硅谷风格的管理模式，团队氛围简单高效、工作上有同事手把手悉心指导、生活上大家互帮互助。\n\n时光不负赶路人，我们为你提供有竞争力的薪资待遇，每年两次调薪和晋升的机会，收入好的项目组年终奖上不封顶。公司推行全员期权配置，并且已经有上市的详细规划，让每个员工都能拥有一个更大的梦想，共攀人生高峰。\n\n我们还为你准备了MacBook、各种丰盛的下午茶、交通补贴、租房补贴、生日礼金、每天不定时红包等多项福利，零食福利管够。\n\n我们一直在快速奔跑，但前行的路上总是缺了一个优秀的你。如果你的心底还留有最初的梦想，欢迎加入我们，和一群优秀的小伙伴一起做有挑战的事。这里有广阔的发展空间和追梦的舞台。我们期待你用智慧和能力为诸云科技的腾飞注入力量，而你与诸云科技的共同成长，将是职业生涯中宝贵的财富。",
+      "encryptComId": "26f74e5a1d67027d1HV60tW-E1Y~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": null
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

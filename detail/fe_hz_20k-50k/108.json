@@ -1,0 +1,504 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "B0VbpqtoQhJVO-j13kudOgKeApyVcnW8vDBs-fAhX1l9dBy-3Wa5fBbhcm92WDSWJ60_hNgGAcfCmzH6kkdtjmNTA3GSDvn_qIbAeD3XXpDO6jxWTi4DZb3cexnotTvoNqO7Ku0~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "59bd9af8c76928361nV83Nm_EFM~",
+      "bossId": 11674201,
+      "securityId": "ZrYm-cdRGCTUk-Q11P4QXrt5xumy3TOfi1EE6XS65YzEv3nsbwxongUApTWB97LgH3t21r00ahdQnMi9siWlr3a_rSs~",
+      "name": "邓先生",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171023/801b470a2cc9cf537f77e6e9e1126537cfcd208495d565ef66e7dff9f98764da_s.jpg",
+      "title": "高级前端专家",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1600952228000,
+      "bossOnline": false,
+      "brandName": "阿里云",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 26574468,
+      "encryptJobId": "224ad1deddcc198d1XJ_3Nm5Flo~",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "转塘",
+      "locationDesc": "杭州·西湖区·转塘",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "lowSalary": 30,
+      "highSalary": 50,
+      "jobDesc": "职位描述\n•方向一：全栈售卖中台，参与抽象售卖的核心层、场景层、开放api层的建设\n•方向二：自动化营销中台，参与可视化配置营销体系、底层营销自动化配置体系建设\n•方向三：生态体系，参与社区、云市场、云栖大会等建设\n•方向四：平台架构组，参与工程化工具、框架、数据平台等建设\n\n\n岗位要求\n•两年以上互联网行业前端工作经验；\n•基础编程知识牢靠，熟悉面向对象编程、熟悉函数式编程；\n•前端技术扎实，关注对新事物和技术，熟悉主流前端开发思想；\n•擅长 JavaScript，熟悉 ES2015，擅长 CSS，了解相关的前端生态；\n•擅长 React，了解 React 的核心思想，熟悉 Redux/MobX 理解它们解决的问题；\n•了解前端模块化，能够编写出易于维护的前端代码；\n•熟悉 Node.js，能够用 Node.js 编写工程工具或 Restful API\n•会使用 Webpack 或 Gulp 等前端构建工具实现开发流程自动化；\n•了解测试的重要性，熟悉测试驱动开发，熟练编写单元测试、E2E 测试；\n•熟练使用常用的 Git 操作，熟悉基于 Git 的常见协作规范及流程;\n•执行力强，有良好的分析、总结能力，能够有效识别痛点、并找到的解决方案；\n•良好的团队协作精神、利用自身技术能力提升团队整体研发效率；",
+      "requiredSkills": [
+        "react",
+        "Webpack"
+      ],
+      "address": "杭州西湖区阿里云飞天园区",
+      "longitude": 120.0807,
+      "latitude": 30.13242,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/54dccb7c21766d6896b97c8d2ea7f0cd",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/22fae95f192d35700fbf8196415f3d49",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "30-50K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "25c288dec22fec7c1nV8296_",
+      "brandName": "阿里云",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190804/20a1b1485bdbc391c5cd8a152e99da2fc596bb72f30ef2f74800368b4239f599.jpg",
+      "industryName": "互联网",
+      "stageName": "已上市",
+      "scaleName": "10000人以上",
+      "brandIntroduce": "阿里云——为了无法计算的价值\n\n阿里云计算有限公司成立于2009年9月10日，在杭州、北京和硅谷等地设有研发中心和运营机构。阿里云的目标是打造全球领先的云计算服务平台。在未来的互联网中，云计算将会成为一种随时、随地，并根据需要而提供的公共服务。高效的绿色数据中心以及能支持不同互联网应用的大规模分布式存储和计算是营造下一代互联网服务平台最基本的核心技术。\n\n阿里云致力于打造公共、开放的云计算服务平台。阿里云将借助技术的创新，不断提升计算能力与规模效益，将云计算变成真正意义上的公共服务。与此同时，将通过 alibabacloud.com，用互联网的方式使得大家可以便捷的按需获取阿里云的云计算产品与服务。 阿里云希望更多的合作伙伴、中小企业、开发者能够受益于云计算带来的便利和价值，从而促进云生态系统的健康发展。\n\n至2017年，阿里云付费用户数651,000+，用户总数2,300,000+。\n\n关于云栖大会：由阿里巴巴集团主办，已经成为全球云计算TOP级峰会，汇聚DT时代最强大脑，描绘云计算发展趋势和蓝图，展现云计算、大数据、人工智能蓬勃发展的技术生态全景。2017云栖大会城市峰会将继续在深圳、南京、成都、上海、广州、苏州、北京举办。杭州云栖大会将于10月继续在中国杭州云栖小镇举办，打造年度最精彩的云计算盛会。",
+      "comName": "浙江阿里巴巴云计算有限公司",
+      "legalPerson": "ZHOU，JINGREN",
+      "startDate": "2011-12-13",
+      "regCapital": "7000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市余杭区五常街道文一西路969号3幢5层533室",
+      "businessScope": "研究、开发计算机软件；网络技术研发；系统集成的设计、调试、维护、研发；提供相关产品的技术咨询、技术服务、技术培训；电子商务平台技术支持。（涉及国家规定实施准入特别管理措施的除外）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "阿里云——为了无法计算的价值\n\n阿里云计算有限公司成立于2009年9月10日，在杭州、北京和硅谷等地设有研发中心和运营机构。阿里云的目标是打造全球领先的云计算服务平台。在未来的互联网中，云计算将会成为一种随时、随地，并根据需要而提供的公共服务。高效的绿色数据中心以及能支持不同互联网应用的大规模分布式存储和计算是营造下一代互联网服务平台最基本的核心技术。\n\n阿里云致力于打造公共、开放的云计算服务平台。阿里云将借助技术的创新，不断提升计算能力与规模效益，将云计算变成真正意义上的公共服务。与此同时，将通过 alibabacloud.com，用互联网的方式使得大家可以便捷的按需获取阿里云的云计算产品与服务。 阿里云希望更多的合作伙伴、中小企业、开发者能够受益于云计算带来的便利和价值，从而促进云生态系统的健康发展。\n\n至2017年，阿里云付费用户数651,000+，用户总数2,300,000+。\n\n关于云栖大会：由阿里巴巴集团主办，已经成为全球云计算TOP级峰会，汇聚DT时代最强大脑，描绘云计算发展趋势和蓝图，展现云计算、大数据、人工智能蓬勃发展的技术生态全景。2017云栖大会城市峰会将继续在深圳、南京、成都、上海、广州、苏州、北京举办。杭州云栖大会将于10月继续在中国杭州云栖小镇举办，打造年度最精彩的云计算盛会。",
+      "encryptComId": "99e53a177d6ef55d0nN52tm-"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "项目管理",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "ZZlOxl3py5.search.1",
+          "performance": "",
+          "salaryDesc": "25-50K·16薪",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "售前支持经验",
+            "系统集成项目管理工程师"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "售前支持经验",
+              "highlight": false
+            },
+            {
+              "content": "系统集成项目管理工程师",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "5cc7c954950adf611XF92dW-ElVW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "阿里云",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190804/20a1b1485bdbc391c5cd8a152e99da2fc596bb72f30ef2f74800368b4239f599.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "孟繁奇",
+          "bossTitle": "系统架构师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180111/175656cb0aa5f9d77d9a5c729f2cd6e7369b5248cafa750abaee1382aa1455c5_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "售前支持经验",
+            "系统集成项目管理工程师"
+          ],
+          "welfares": [],
+          "securityId": "OSi4weJLQhnyQ-o1eQt5Rq8Bytt3Z5IIgyVObqzjqVBemH78GAKbs4ylVSaw1unhnVbX-Aw~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "阿里微服务实习生招聘",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZZlOxl3py5.search.2",
+          "performance": "",
+          "salaryDesc": "300-400元/天",
+          "jobLabels": [
+            "5天/周",
+            "3个月",
+            "本科",
+            "Python",
+            "微服务架构"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5天/周",
+              "highlight": false
+            },
+            {
+              "content": "3个月",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "微服务架构",
+              "highlight": false
+            }
+          ],
+          "jobType": 4,
+          "encryptJobId": "abb2718b926104a81XRz39W5F1JX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "阿里云",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190804/20a1b1485bdbc391c5cd8a152e99da2fc596bb72f30ef2f74800368b4239f599.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "李艳林",
+          "bossTitle": "高级技术专家",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20201105/52d2eafc3e0321962158431214a8530314d772962379ef6119613cf67c1e0a10_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Python",
+            "微服务架构",
+            "分布式技术",
+            "架构师",
+            "Spring",
+            "软件工程师",
+            "后端开发"
+          ],
+          "welfares": [],
+          "securityId": "tbVFJG1LyHoXs-o178KE-0TPoSfXiZEKt3zxBY12OTCveqS6u86Wdv_z2mzXcQ9IR7nt1w0S",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "大数据开发实习生",
+          "jobValidStatus": 1,
+          "jobExperience": "1年以内",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "未来科技城",
+          "distance": "",
+          "lid": "ZZlOxl3py5.search.3",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "1年以内",
+            "硕士",
+            "数据仓库",
+            "大数据",
+            "云计算"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1年以内",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "数据仓库",
+              "highlight": false
+            },
+            {
+              "content": "大数据",
+              "highlight": false
+            },
+            {
+              "content": "云计算",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "5c6568bfbfa3ec1533x729-7GFI~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "阿里云",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190804/20a1b1485bdbc391c5cd8a152e99da2fc596bb72f30ef2f74800368b4239f599.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "崔先生",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "数据仓库",
+            "大数据",
+            "云计算",
+            "人工智能",
+            "架构师",
+            "SQL",
+            "Java"
+          ],
+          "welfares": [],
+          "securityId": "SUDlG0_mhpaXh-A1kKSFAtltAtNg47f2Dk9cBnqP25Sd51oowgUchyS6B8pFu9CLCYEzFQ~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "java工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "ZZlOxl3py5.search.4",
+          "performance": "",
+          "salaryDesc": "200-250元/天",
+          "jobLabels": [
+            "4天/周",
+            "3个月",
+            "硕士",
+            "Java开发经验",
+            "Java"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "4天/周",
+              "highlight": false
+            },
+            {
+              "content": "3个月",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "Java开发经验",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            }
+          ],
+          "jobType": 4,
+          "encryptJobId": "18452c12387fe7b21XJy29i4ElVQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "阿里云",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190804/20a1b1485bdbc391c5cd8a152e99da2fc596bb72f30ef2f74800368b4239f599.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "崔海洋",
+          "bossTitle": "Java工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java开发经验",
+            "Java",
+            "后端工程师",
+            "Spring"
+          ],
+          "welfares": [],
+          "securityId": "WEqad2dW1Kth_-417vi5lvDD29amsDVxbPNdr2VymMCSo5LHpNitibiw5xD7RmkVDkIDAQo~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "实习生",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZZlOxl3py5.search.5",
+          "performance": "",
+          "salaryDesc": "250-300元/天",
+          "jobLabels": [
+            "4天/周",
+            "3个月",
+            "本科",
+            "软件工程师"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "4天/周",
+              "highlight": false
+            },
+            {
+              "content": "3个月",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "软件工程师",
+              "highlight": false
+            }
+          ],
+          "jobType": 4,
+          "encryptJobId": "0ed22a7c9ffafcd51XV-09q5FlpQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "阿里云",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190804/20a1b1485bdbc391c5cd8a152e99da2fc596bb72f30ef2f74800368b4239f599.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "杨帆",
+          "bossTitle": "技术专家",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170704/b2957cb71210b9ef66092e9426ebf5e88c7dd922ad47494fc02c388e12c00eac_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "软件工程师"
+          ],
+          "welfares": [],
+          "securityId": "PUapESXfTKReA-K12sUt5jvsQw5nSSjfmyqCyXODG4EGpx3ciAV2PCuohdTq-IUHe9TXGFU~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

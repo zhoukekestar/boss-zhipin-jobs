@@ -1,0 +1,481 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "Vegey9aCeTCUA-Q1vuF_By7aiSqphe2gfenY--qYQtaR-xYbNGFvdmtH127r3U2JLSCnlv6atm0ttmT_junEUX76uuZi2A2TRGDNJrc2CrKXcnwE9TSzVLhbseYQA6hr2aWQ2brHkmBz",
+    "bossBaseInfoVO": {
+      "encryptBossId": "b050e442b929652e0nZ82tW7FVVW",
+      "bossId": 526186576,
+      "securityId": "LTFe41WyycyHW-p1QFCkQnwwv6wCmLth8uNapN2AONdPGrzMUIuLW-odWi3YhHEDPdQI67w97qCCRYqAuxL-JqhwbwJQUg~~",
+      "name": "周笑庭",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+      "title": "总经理",
+      "activeTimeDesc": "2周内活跃",
+      "activeTime": 1697001415000,
+      "bossOnline": false,
+      "brandName": "惠众评级",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 145444530,
+      "encryptJobId": "fdc3b41bf433de021nB_39m5FVFQ",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "上城区",
+      "businessDistrict": "近江",
+      "locationDesc": "杭州·上城区·近江",
+      "experienceName": "5-10年",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 30,
+      "jobDesc": "计算机前端开发，JAVA 开发",
+      "requiredSkills": [
+        "前端开发",
+        "HTML5",
+        "Web端",
+        "移动端",
+        "小程序"
+      ],
+      "address": "杭州上城区近江时代大厦A座12楼",
+      "longitude": 120.196008,
+      "latitude": 30.23055,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/93cf9d4cc9041d74d15fe9ae79cb3d8f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/93c7bffa8e6c4617222181c87abc3c44",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-30K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "a44026275ec3e8bc1ndz3di-EVE~",
+      "brandName": "惠众评级",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230505/7bf6f160950405e94d662ca722d7f94206df00322bd19ee26ccdcb117c7c0467a1e5c7b9f5a02197.jpg",
+      "industryName": "其他专业服务",
+      "stageName": "A轮",
+      "scaleName": "20-99人",
+      "brandIntroduce": "惠众评级是一家持牌经营的大数据金融科技公司，于2020年6月与蚂蚁评级同期完成中国人民银行信用评级机构备案。\n    公司诞生初期就与小微信贷领域的标杆泰隆银行形成了紧密的战略合作关系，依托泰隆银行30年小微信贷领域专家经验，在政府部委数字化转型、银行业数字化转型及产业数字化转型的大背景下，充分融合公共事业部门、工业互联网平台、SAAS服务云平台等线上“硬数据”与线下尽调获得的“软数据”，桥接小微企业与金融机构来解决信息不对称的问题，从而为破解麦克米伦缺口这个世界性难题，真正解决小微企业融资难、融资贵的问题，提供可快速复制的解决方案。\n    公司员工既有来自于银行、评级机构等传统金融领域的专业人士，也有来自于阿里、网易等一线互联网公司的IT精英，欢迎志同道合的人才加入！",
+      "comName": "惠众信用评级（浙江）有限公司",
+      "legalPerson": "周笑庭",
+      "startDate": "2019-11-01",
+      "regCapital": "2000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市上城区望江东路59号9层",
+      "businessScope": "服务：企业信用评级，企业管理及咨询，社会经济咨询，计算机软件的技术开发、技术服务；销售：计算机软件。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "惠众评级是一家持牌经营的大数据金融科技公司，于2020年6月与蚂蚁评级同期完成中国人民银行信用评级机构备案。\n    公司诞生初期就与小微信贷领域的标杆泰隆银行形成了紧密的战略合作关系，依托泰隆银行30年小微信贷领域专家经验，在政府部委数字化转型、银行业数字化转型及产业数字化转型的大背景下，充分融合公共事业部门、工业互联网平台、SAAS服务云平台等线上“硬数据”与线下尽调获得的“软数据”，桥接小微企业与金融机构来解决信息不对称的问题，从而为破解麦克米伦缺口这个世界性难题，真正解决小微企业融资难、融资贵的问题，提供可快速复制的解决方案。\n    公司员工既有来自于银行、评级机构等传统金融领域的专业人士，也有来自于阿里、网易等一线互联网公司的IT精英，欢迎志同道合的人才加入！",
+      "encryptComId": "89bddffc4ba267e41HV53tW5FVU~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "测试开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "上城区",
+          "businessName": "近江",
+          "distance": "",
+          "lid": "101hZTgx9H1.search.1",
+          "performance": "",
+          "salaryDesc": "150-200元/天",
+          "jobLabels": [
+            "5天/周",
+            "3个月",
+            "本科",
+            "软件测试",
+            "接口测试"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5天/周",
+              "highlight": false
+            },
+            {
+              "content": "3个月",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "软件测试",
+              "highlight": false
+            },
+            {
+              "content": "接口测试",
+              "highlight": false
+            }
+          ],
+          "jobType": 4,
+          "encryptJobId": "a7c52171eadfffa01nJ_2Ni6EltY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "惠众评级",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230505/7bf6f160950405e94d662ca722d7f94206df00322bd19ee26ccdcb117c7c0467a1e5c7b9f5a02197.jpg",
+          "brandStage": "A轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "陶伟松",
+          "bossTitle": "技术负责人",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "软件测试",
+            "接口测试",
+            "Jmeter",
+            "TestNG"
+          ],
+          "welfares": [],
+          "securityId": "coqKuN9Mm5DuG-l1JEhMdPOcp2NENtMamHAuEre6CzTjhGLOg_bdypE5WZO96F8f93aXZ-uS",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "测试开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "上城区",
+          "businessName": "近江",
+          "distance": "",
+          "lid": "101hZTgx9H1.search.2",
+          "performance": "",
+          "salaryDesc": "12-20K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "测试开发"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "测试开发",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "53bcb2a4921ca9b31nBy2tS8E1pW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "惠众评级",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230505/7bf6f160950405e94d662ca722d7f94206df00322bd19ee26ccdcb117c7c0467a1e5c7b9f5a02197.jpg",
+          "brandStage": "A轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "周笑庭",
+          "bossTitle": "总经理",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "测试开发"
+          ],
+          "welfares": [],
+          "securityId": "WAtKCWAb2pyi2-c1uY_97PR1vTKEmxyBTmV5I2PHJPBLpcLEvdV8zsIO6QlKegNqXabhYy2K",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "测试开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "上城区",
+          "businessName": "近江",
+          "distance": "",
+          "lid": "101hZTgx9H1.search.3",
+          "performance": "",
+          "salaryDesc": "12-20K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "自动化测试",
+            "软件测试",
+            "Python"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "自动化测试",
+              "highlight": false
+            },
+            {
+              "content": "软件测试",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "b2a7872c20a5c9311nB92tS-FFBQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "惠众评级",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230505/7bf6f160950405e94d662ca722d7f94206df00322bd19ee26ccdcb117c7c0467a1e5c7b9f5a02197.jpg",
+          "brandStage": "A轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "陶伟松",
+          "bossTitle": "技术负责人",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "自动化测试",
+            "软件测试",
+            "Python",
+            "Jmeter",
+            "小程序测试",
+            "Selenium",
+            "MySQL",
+            "Android"
+          ],
+          "welfares": [],
+          "securityId": "NSp8xEE5JemfW-51R7NHkRDBeWozkBInqxmshL7eHwVNrp7lrnkR3DHKgK3dVDVmFcPYHX10",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "数据模型岗",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "上城区",
+          "businessName": "近江",
+          "distance": "",
+          "lid": "101hZTgx9H1.search.4",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "数据"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "数据",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "f0637ff5b853a88f1Xd62t29ElNW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "惠众评级",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230505/7bf6f160950405e94d662ca722d7f94206df00322bd19ee26ccdcb117c7c0467a1e5c7b9f5a02197.jpg",
+          "brandStage": "A轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "芮琴",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190906/5130ca23848610794b861890ef3094266ccdcb117c7c0467a1e5c7b9f5a02197_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "数据"
+          ],
+          "welfares": [],
+          "securityId": "wUjnC0fsBTwEG-R1emwMFsjGEvwDVGm6lYzKMoIFeyRWWAQpbO9jAoMhSskDg4frRIw2SSM~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "评级建模岗",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "上城区",
+          "businessName": "近江",
+          "distance": "",
+          "lid": "101hZTgx9H1.search.6",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "数据建模"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "数据建模",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "ec22d034eeea0b591XRz3d61F1ZX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "惠众评级",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230505/7bf6f160950405e94d662ca722d7f94206df00322bd19ee26ccdcb117c7c0467a1e5c7b9f5a02197.jpg",
+          "brandStage": "A轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "芮琴",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190906/5130ca23848610794b861890ef3094266ccdcb117c7c0467a1e5c7b9f5a02197_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "数据建模"
+          ],
+          "welfares": [],
+          "securityId": "kkEb9ArsSc91I-P1AqcYOnQFfh532owoxcp9A3p3FvZsnsHaq0kAbstQIS_0VnlZ0aRykRE~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

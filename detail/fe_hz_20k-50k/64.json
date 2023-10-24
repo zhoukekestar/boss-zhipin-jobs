@@ -1,0 +1,136 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "_RlxNb8Zo9dKx-K1QIDu065hMa9L0VH4rRtnavYUddE6LSAfFMUdeNX46blWjDZb_kaWhMDW_Xz86OfOFNDrT2FPYzWzDEOchaV69wimt8cT72qVnYDdcSLBdif1BsqCtcHVC1FBAQ~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "7691265332cea7ac0nJ63dW_FVtY",
+      "bossId": 560682598,
+      "securityId": "foHdUeXMbyoAs-b1mxheH7mfx5ECHarIQj4P0THVqHdHtngMKuo7SbuoWNg-qcZE6kUPfxTmVVaz--Zrc5lydtfmKm_haQ~~",
+      "name": "邵先生",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+      "title": "招聘者",
+      "activeTimeDesc": "近半年活跃",
+      "activeTime": 1683875857000,
+      "bossOnline": false,
+      "brandName": "弈儒软件",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 281508235,
+      "encryptJobId": "aea82bfd2397ee081Xx73t21ElFV",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端技术台伙人",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "长河",
+      "locationDesc": "杭州·滨江区·长河",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 20,
+      "highSalary": 25,
+      "jobDesc": "在这个充满无限可能的时代，我们正在寻找那些心怀梦想、充满创造力和适应力的人才，与我们共同书写科技与人类的美好篇章。我们期待你和我们一起，拥抱技术的力量，将科技渗透到生活和工作的每一个角落，共同开启更美好的未来。\n       如果你热爱挑战，勇于承担压力，且对我们的愿景充满热情，那么请加入我们这个充满活力的团队，让我们携手共创辉煌。\n       我们希望你拥有出色的思考能力，乐于自主学习和阅读书籍，不局限于工具书。\n        我们期望你对AI有清晰的认识，能够深入思考未来人类与机器之间的共生关系。\n\n工作职责:\n-负责实现前端交互:\n-参与新技术探案和推进系统演化。 \n\n职位要求:-\n5年以上相关经验，本科及以上学历;-\n具备经验丰富的前端开发能力;-\n学习能力强，逻辑思维能力优秀:\n-热爱前端开发工作，乐干探索并深入研究前沿技术:\n-具有创或类似创业经验，并有创业激情:\n-在杭州本地。\n\n我们需要能力强的前端，\n两种类型，一种是大前端，以React为主，\n一种为小前端，主要是面向手机侧互动。\n 大前端逻辑结构会比较复杂，小前端对互动效果有要求。\n且2端除传统的交互外，需要把人工智能的语音，视觉互动都要融合到一起多模态的互动\n备注:\n前3-6个月只有生活费哦；\n正在融资期间；\n资本到位或是产品上线产生收入后恢复正常，补齐前面的；\n欢迎大牛兼职，资本到位后可转专职；\n\n种子轮为红杉旗下创业公司所投\n前阿里高管参与融资，并负责渠道销售",
+      "requiredSkills": [
+        "前端开发经验"
+      ],
+      "address": "杭州滨江区兴祺大厦1幢1号楼901A",
+      "longitude": 120.216377,
+      "latitude": 30.212116,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4b3d7b5a5f92b908fd5a330f10987a1f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/608e63e707775bef9bc6020c01b6c4fe",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-25K·14薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "81a8a1318ed9a9ec1n182d-9",
+      "brandName": "弈儒软件",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190425/44a0185286684b50095588517055b77865944337a9cb9132f3ac7b586027a730_s.jpg",
+      "industryName": "移动互联网",
+      "stageName": "未融资",
+      "scaleName": "20-99人",
+      "brandIntroduce": "杭州弈儒软件技术有限公司成立于2012年，公司总部在杭州滨江，公司是一家以运营为目标、以实现用户最佳体验为目的技术运营公司，为商家提供傻瓜式、一站式的运营解决方案，让商家能够享受互联网的便利，实现商家的互联网+。\n        公司在这十几年时间，一直围绕这一目标为商家服务，我们的现有的产品有，音视频流媒体运营支撑系统、OTT多屏互动系统、小微商家融合平台营销服务支撑系统，正在最新开发研究的智能创作系统对接现有的第三方能力平台，为企业提供简单而优质的运营场景服务。\n\n                         从用户的体验出发，开发有商业价值的用户产品",
+      "comName": "杭州弈儒软件技术有限公司",
+      "legalPerson": "周晓凯",
+      "startDate": "2012-04-12",
+      "regCapital": "200万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市滨江区长河街道江南天街商业中心3幢2013室",
+      "businessScope": "技术开发、技术服务、技术咨询、成果转让：计算机软硬件、计算机系统集成；销售：计算机配件、数码产品；服务：承接计算机网络工程、网页设计。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "杭州弈儒软件技术有限公司成立于2012年，公司总部在杭州滨江，公司是一家以运营为目标、以实现用户最佳体验为目的技术运营公司，为商家提供傻瓜式、一站式的运营解决方案，让商家能够享受互联网的便利，实现商家的互联网+。\n        公司在这十几年时间，一直围绕这一目标为商家服务，我们的现有的产品有，音视频流媒体运营支撑系统、OTT多屏互动系统、小微商家融合平台营销服务支撑系统，正在最新开发研究的智能创作系统对接现有的第三方能力平台，为企业提供简单而优质的运营场景服务。\n\n                         从用户的体验出发，开发有商业价值的用户产品",
+      "encryptComId": "e9f75af0256d34ce0nF53t29"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": null
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

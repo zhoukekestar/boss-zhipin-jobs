@@ -1,0 +1,513 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "0K6eibeIqzNr5-a1qrWrYcfMSnxvFbn4XGJlyiz5EPyFm9qFautu5sgzizjoA9iotD9pP5YPrnonfSIWUgl9oHi_8h7C9eX_AvoAc4V92BamiAeAlsSI-bnf0jE5VmSqf44HGXiLcQ~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "5bced8caedd520b91HV-3N2_GFI~",
+      "bossId": 31470280,
+      "securityId": "frPCd3jcO7_71-T19dQJlpHlPoG-Gfz4yFfthtQ0Oj87fV2jUUfmLkC7eBQKwoq-dSOuiqcoozIcnVMCYTxvjPsiA_k~",
+      "name": "曹磊",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230403/607f1f3d68754fd03ea0be06a582fa164cc50a945a04e611962056f4f906c4fa10ec9f5ffce3aada_s.jpg",
+      "title": "招聘者",
+      "activeTimeDesc": "3日内活跃",
+      "activeTime": 1698041550967,
+      "bossOnline": false,
+      "brandName": "数字马力",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 23411756,
+      "encryptJobId": "d952733aa18579f51Xd-2ty6FVQ~",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "转塘",
+      "locationDesc": "杭州·西湖区·转塘",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "lowSalary": 18,
+      "highSalary": 30,
+      "jobDesc": "单页spa富应用，react+redux技术栈，充满挑战",
+      "requiredSkills": [
+        "javascript",
+        "react",
+        "CSS3"
+      ],
+      "address": "杭州西湖区飞天园区3号楼",
+      "longitude": 120.080074,
+      "latitude": 30.132317,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6c3a7dd99aae50b91055639aa65ccf52",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3327f444c25c80bc9fc715c761d3e8e6",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "18-30K·16薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "9aad97ce1cf643f71XR53tS5GFM~",
+      "brandName": "数字马力",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220223/7bf6f160950405e92fd452486b1839466771fdc1f7f43347a22e9d41cadcb59a2df7b125b1c42054.jpg",
+      "industryName": "电子商务",
+      "stageName": "不需要融资",
+      "scaleName": "1000-9999人",
+      "brandIntroduce": "数字马力，是蚂蚁集团旗下全资子公司，专注于提供数字科技、智能技术的产品、解决方案和服务，助力企业持续升级数字化能力。",
+      "comName": "数字马力（杭州）信息技术有限公司",
+      "legalPerson": "余滨",
+      "startDate": "2021-12-20",
+      "regCapital": "1000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市西湖区转塘街道转塘科技经济区块12号3幢6层",
+      "businessScope": "一般项目：信息咨询服务（不含许可类信息咨询服务）；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；信息系统集成服务；企业管理咨询；社会经济咨询服务；软件销售（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "数字马力，是蚂蚁集团旗下全资子公司，专注于提供数字科技、智能技术的产品、解决方案和服务，助力企业持续升级数字化能力。",
+      "encryptComId": "d00e796f05b528a51HF62dW8F1U~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "蚂蚁集团-前端高级研发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西湖",
+          "distance": "",
+          "lid": "ZYQsLv7LIe.search.1",
+          "performance": "",
+          "salaryDesc": "25-45K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "JavaScript",
+            "React",
+            "Webpack"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "React",
+              "highlight": false
+            },
+            {
+              "content": "Webpack",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "04a7e8ea7a2a74381X1y0ti_EVFX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "数字马力",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220223/7bf6f160950405e92fd452486b1839466771fdc1f7f43347a22e9d41cadcb59a2df7b125b1c42054.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "曹磊",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230403/607f1f3d68754fd03ea0be06a582fa164cc50a945a04e611962056f4f906c4fa10ec9f5ffce3aada_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript",
+            "React",
+            "Webpack",
+            "前端开发经验",
+            "架构师经验"
+          ],
+          "welfares": [],
+          "securityId": "NviKM2T0aUT3b-W1LyOXgOM0zokwC3N8MjwFpIucBf18CzERe8DnMVbDRgwdKTcdxaYvqaQ~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "资深dba工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "黄龙",
+          "distance": "",
+          "lid": "ZYQsLv7LIe.search.2",
+          "performance": "",
+          "salaryDesc": "20-40K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "MySQL",
+            "Oracle",
+            "TiDB"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "MySQL",
+              "highlight": false
+            },
+            {
+              "content": "Oracle",
+              "highlight": false
+            },
+            {
+              "content": "TiDB",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "4fc035386821c8711XB929m0F1JY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "数字马力",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220223/7bf6f160950405e92fd452486b1839466771fdc1f7f43347a22e9d41cadcb59a2df7b125b1c42054.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "潘海龙",
+          "bossTitle": "Sa",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180115/6c5375d5263c050c1cf51943f3a6744fa2225182a897208c3999d9d1faf9c5cd_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "MySQL",
+            "Oracle",
+            "TiDB",
+            "DBA工作经验",
+            "MySQL数据库管理经验",
+            "数据库工程交付经验"
+          ],
+          "welfares": [],
+          "securityId": "y9JQI44gYNU0g-81yTshI0HUCkWUi4iEt8MzFNtg7ydczptjS8tpKrJgzw0JTVlF6_8LqKc~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级运维工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "转塘",
+          "distance": "",
+          "lid": "ZYQsLv7LIe.search.3",
+          "performance": "",
+          "salaryDesc": "16-24K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "系统运维",
+            "运维开发/DevOps",
+            "实施交付运维"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "系统运维",
+              "highlight": false
+            },
+            {
+              "content": "运维开发/DevOps",
+              "highlight": false
+            },
+            {
+              "content": "实施交付运维",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "5d552a00a22a3f2c1XN43Nq-FFRU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "数字马力",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220223/7bf6f160950405e92fd452486b1839466771fdc1f7f43347a22e9d41cadcb59a2df7b125b1c42054.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "薛先生",
+          "bossTitle": "高级技术专家",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "系统运维",
+            "运维开发/DevOps",
+            "实施交付运维",
+            "Python/Shell",
+            "计算机相关专业",
+            "运维经验",
+            "运维开发经验"
+          ],
+          "welfares": [],
+          "securityId": "ptEelzksr0dX1-Y1oSEov6U0Kik41o3pKhqnFeEKEeklLQ-4TFrz4FZdJ9hNwN-SqJm89kg~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "技术支持",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "转塘",
+          "distance": "",
+          "lid": "ZYQsLv7LIe.search.4",
+          "performance": "",
+          "salaryDesc": "12-23K·13薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "售前/售后技术支持"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "售前/售后技术支持",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "548bfc66926abd5d1XF53tu1FFpS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "数字马力",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220223/7bf6f160950405e92fd452486b1839466771fdc1f7f43347a22e9d41cadcb59a2df7b125b1c42054.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "王睿",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180714/cdc686298881e4ed225f3903b3295126c573dc926cda4e866917c1adcea14ec6_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "售前/售后技术支持"
+          ],
+          "welfares": [],
+          "securityId": "tMl8g4gBbUy4l-E1jXqfaEk8QxEdKl8VL-KjpRs7t13y6YiQA4Tien91_X2fOwt0LDQMAc0~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级java开发专家",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "ZYQsLv7LIe.search.5",
+          "performance": "",
+          "salaryDesc": "30-40K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "JVM",
+            "Java",
+            "不接受居家办公"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "JVM",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "不接受居家办公",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "fa3a361279cd8ffc1HV92t66FFJW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "数字马力",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220223/7bf6f160950405e92fd452486b1839466771fdc1f7f43347a22e9d41cadcb59a2df7b125b1c42054.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "张方浩",
+          "bossTitle": "高级开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JVM",
+            "Java",
+            "不接受居家办公",
+            "分布式经验",
+            "微服务经验",
+            "SpringCloud",
+            "MySQL",
+            "Redis",
+            "架构设计经验",
+            "Spring"
+          ],
+          "welfares": [],
+          "securityId": "lH-J83R5zGsiK-v1S-B0qZXkp9J6DnrXuD7VyJBy3uunyRq6aMxox5lTN2fqPahJIFImuCs~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

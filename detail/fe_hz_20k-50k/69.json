@@ -1,0 +1,353 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "vU5MYwUJRnzPL-I1gxvdTJCWvhDNVxlyhT8SbTWQGY_IyuJj82aQNS8ykffR98C4fcKa7y8dBKvvNEox7dyncam9m7tJtYN1GMerDo1sOlyjltIZ6vP5i5DT-hE_N67zOH4B0aW-hAU~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "fa96b79f127e7ef803d-29W-EVY~",
+      "bossId": 43408314,
+      "securityId": "KioSe0al7xuDW-M15H5MBGeCRjWpgWVOVninV0gNlys1D4x-_Ppy8AJlVFVeqnXkuH8BRwMBxGh1V-nV96T1W_d317yf",
+      "name": "陈仕斌",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+      "title": "技术经理",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1682560918000,
+      "bossOnline": false,
+      "brandName": "砥石网络",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 144733382,
+      "encryptJobId": "5eb991c2e18bc7621nB-3N6-E1pS",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端工程师",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "长河",
+      "locationDesc": "杭州·滨江区·长河",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 30,
+      "jobDesc": "工作内容\n1. 负责Desty前端项目开发工作；\n2. 参与前端团队公共组件及工具类项目开发，提升团队开发体验及效率；\n\n任职要求\n1. 计算机或相关专业本科以上学历，三年以上的工作经验\n2. 前端基础知识扎实，具备良好编码规范\n3. 熟练使用React或Vue框架及相关生态\n4. 熟悉Web服务端相关技术，能够良好使用至少一门服务端开发语言\n5. 喜欢钻研技术，对工程化、组件化、模块化开发有一定的思考与实践经验\n6. 认真负责，有创造力，有良好的沟通、协作、学习能力",
+      "requiredSkills": [
+        "Vue"
+      ],
+      "address": "杭州滨江区华盛达广场208室",
+      "longitude": 120.182515,
+      "latitude": 30.188942,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/abe63aa974249d2fec70f2d8a5e673a2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/55df28c227a5a3a7480e918baa339ee2",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-30K·13薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "706c833f654f2dfc1ndy3N68EFQ~",
+      "brandName": "砥石网络",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210217/3114fd9e6bb331d8508bb9adb0d402a39eb547ff43fff0c64e93d55ff795eed5_s.jpg",
+      "industryName": "电子商务",
+      "stageName": "A轮",
+      "scaleName": "100-499人",
+      "brandIntroduce": "杭州砥石网络科技有限公司（英文名：Desty， 网站：www.desty.app）致力于打造中国制造出海和海外本地电商解决方案的全链路平台。前期从东南亚市场切入，推出社交媒体运营工具，和电商生态服务平台。公司成立于2020年8月，目前已获得国内和东南亚一线风投的Pre-A轮投资（https://e27.co/xiaomi-backer-leads-us3-2m-pre-series-a-of-indonesia-startup-desty-20210719/），并被techinasia列为50 rising startups in Indonesia (https://www.techinasia.com/50-rising-startups-indonesia)。核心团队成员毕业于哥伦比亚大学，卡内基梅隆大学，帕森斯设计学院，南洋理工大学，浙江大学等国内外名校，曾于阿里，Google，Facebook，Gojek等中、美、东南亚知名互联网公司负责产品、开发和运营，经验丰富。团队年轻，有活力，管理扁平，成长机会无限。",
+      "comName": "杭州砥石网络科技有限公司",
+      "legalPerson": "王维",
+      "startDate": "2020-11-17",
+      "regCapital": "1000万美元",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市萧山区经济技术开发区金一路79号A座202室",
+      "businessScope": "一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；信息技术咨询服务；市场营销策划；信息咨询服务（不含许可类信息咨询服务）（涉及国家规定实施准入特别管理措施的除外）**（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "杭州砥石网络科技有限公司（英文名：Desty， 网站：www.desty.app）致力于打造中国制造出海和海外本地电商解决方案的全链路平台。前期从东南亚市场切入，推出社交媒体运营工具，和电商生态服务平台。公司成立于2020年8月，目前已获得国内和东南亚一线风投的Pre-A轮投资（https://e27.co/xiaomi-backer-leads-us3-2m-pre-series-a-of-indonesia-startup-desty-20210719/），并被techinasia列为50 rising startups in Indonesia (https://www.techinasia.com/50-rising-startups-indonesia)。核心团队成员毕业于哥伦比亚大学，卡内基梅隆大学，帕森斯设计学院，南洋理工大学，浙江大学等国内外名校，曾于阿里，Google，Facebook，Gojek等中、美、东南亚知名互联网公司负责产品、开发和运营，经验丰富。团队年轻，有活力，管理扁平，成长机会无限。",
+      "encryptComId": "72dbbfe7336cef711HV73NS8Els~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "北干",
+          "distance": "",
+          "lid": "103kPe6mN1D.search.2",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "前端开发",
+            "Vue"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            },
+            {
+              "content": "Vue",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "a2971f054e4e09081nJ92d21EVFR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "砥石网络",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210217/3114fd9e6bb331d8508bb9adb0d402a39eb547ff43fff0c64e93d55ff795eed5_s.jpg",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "郭振雨",
+          "bossTitle": "技术经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191117/f713255147716e2b84095c228342f99a9a6b983565c821ee25ab16296594827b_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "前端开发",
+            "Vue"
+          ],
+          "welfares": [],
+          "securityId": "CCkxlf7M5KDQi-s14IBDlrzcSuvMAixdxhTw4Zu6EiBOTHvMKW76rw2ZW9lClc0-c-BLdYc~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "北干",
+          "distance": "",
+          "lid": "103kPe6mN1D.search.3",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "WEB开发",
+            "MySQL",
+            "后端开发"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "WEB开发",
+              "highlight": false
+            },
+            {
+              "content": "MySQL",
+              "highlight": false
+            },
+            {
+              "content": "后端开发",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "8043d6eea4eae4321nJ92tS0EFVR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "砥石网络",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210217/3114fd9e6bb331d8508bb9adb0d402a39eb547ff43fff0c64e93d55ff795eed5_s.jpg",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "郭振雨",
+          "bossTitle": "技术经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191117/f713255147716e2b84095c228342f99a9a6b983565c821ee25ab16296594827b_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "WEB开发",
+            "MySQL",
+            "后端开发"
+          ],
+          "welfares": [],
+          "securityId": "XaJTNs3aQ8zX7-R1s9dGp-Ce4ptBHISBSGi-r35g-_zs1t227Xa3Q3Y41YdEPDA75Xvbsn0~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "java",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "北干",
+          "distance": "",
+          "lid": "103kPe6mN1D.search.4",
+          "performance": "",
+          "salaryDesc": "100-150元/天",
+          "jobLabels": [
+            "4天/周",
+            "3个月",
+            "本科",
+            "Java",
+            "Spring"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "4天/周",
+              "highlight": false
+            },
+            {
+              "content": "3个月",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            }
+          ],
+          "jobType": 4,
+          "encryptJobId": "2d2ec10edf7625861XF_0966FlBW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "砥石网络",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210217/3114fd9e6bb331d8508bb9adb0d402a39eb547ff43fff0c64e93d55ff795eed5_s.jpg",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "张女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210709/4bdbe57c8fc22c22efbbec7e6907a2d163c54e727a7f89173a509a3c6472faa0_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "Spring",
+            "MyBatis"
+          ],
+          "welfares": [],
+          "securityId": "RBXqpS7TeZLoJ-r1J2p0s80Luz4UuR6Jcw2XOv1Uhel-qL65iPNJkRI1wLetnV077UXeV6o~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

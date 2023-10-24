@@ -1,0 +1,504 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "W06Uu75ztU_s4-q1-xxccAqxlrCGcvFl_aMoXbZDxSg5_a9phKbrYKbXjzyuTqIcFMgyahGITK_GHX4NICCdv-jlJHOIqMKqgMl1548ViIOCQS-tdUHNl1Rw42Mh-wsucqc~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "d60291eb555207d41XR809u8ElY~",
+      "bossId": 20686124,
+      "securityId": "mSI0_VtkKLvD4-61GOF0urtpyK8KeJgxPBu6pPYJL73pibmQ7M4KilI28xpQbJ36chl8s48Cc3ES3tlngJaMssVxiSc~",
+      "name": "冯先生",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200819/fc4c2d4afaa7a9034929da940f790a26049e6f2b7f8a838387dc1b2583dbd20f_s.jpg",
+      "title": "高级前端开发工程师",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1664765948000,
+      "bossOnline": false,
+      "brandName": "网易",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 57703788,
+      "encryptJobId": "bf8d8c66f2aec7dd0nN92966GFo~",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "长河",
+      "locationDesc": "杭州·滨江区·长河",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 20,
+      "highSalary": 30,
+      "jobDesc": "职位描述\r\n\r\n1、与产品保持良好沟通，能快速理解、消化各方需求，并落实为具体的开发工作； \r\n2、能很好的将美术设计的效果图实现成HTML页面； \r\n3、熟练使用Javascript准确地进行代码构建，实现产品所需的动画效果以及交互效果；\r\n 4、了解前端的技术实施规则，能很好的和后台工程师实现数据互通；\r\n\r\n\r\n职位要求\r\n\r\n1、熟悉W3C标准，能熟练运用XHTML、CSS进行合理的网页制作，熟悉常用浏览器，利用自己的经验有效地解决浏览器兼容问题； \r\n2、熟悉JavaScript语言，能进行常规WEB应用的开发；\r\n 3、对交互体验、可用性、用户体验有一定程度的理解；\r\n 4、有良好的责任心和团队合作能力，能承受较大的压力；\r\n 5、具备良好的学习能力，能脚踏实地做事；\r\n 6、严格遵守团队的代码格式、结构的规定，编写易读、易维护、高质量、高效率的代码；\r\n 7、javascript开发经验优秀者优先考虑；\r\n８、有移动前端开发经验者优先考虑;\r\n 9、加分项: 熟悉nodeJS;有后端开发经验;有客户端开发经验;熟悉Linux命令;熟悉Apache/nginx环境的配置等;",
+      "requiredSkills": [
+        "前端开发",
+        "Node.js",
+        "JavaScript",
+        "CSS",
+        "Vue",
+        "React",
+        "Webpack",
+        "GIT"
+      ],
+      "address": "杭州滨江区网易大厦",
+      "longitude": 120.190729,
+      "latitude": 30.187795,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fb9bb4077fed0a96d98c843011333f8a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/98518b54edf7b83dd1374bb9c968c761",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-30K·15薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "38bd5c757efa4ab6331z",
+      "brandName": "网易",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/4201efdb842badc0697ac5f6db469402cfcd208495d565ef66e7dff9f98764da.jpg",
+      "industryName": "移动互联网",
+      "stageName": "已上市",
+      "scaleName": "10000人以上",
+      "brandIntroduce": "网易 (NASDAQ: NTES)，1997年由丁磊先生在广州创办、2000年在美国NASDAQ股票交易所挂牌上市，是中国领先的互联网技术公司，在开发互联网应用、服务等方面始终保持中国业界领先地位。本着对中国互联网发展强烈的使命感，缔造美好生活的愿景，网易利用最先进的互联网技术，加强人与人之间信息的交流和共享，为海量用户提供优质的产品和服务，始终秉持着\"以匠心、致创新\"的理念，通过科技创新改变生活。\n\n目前，网易拥有超过21,000名员工，国内主要集中在北京、广州、杭州、上海四地办公，在日本、韩国、澳洲、美国、德国、意大利等地均设有分支机构。自2000年上市以来，网易公司一直保持了财务指标的稳健增长。\n\n网易是中国领先的互联网公司之一，是全球领先的在线游戏开发与发行公司，也是中国最大的电子邮件服务商，并拥有中国领先的自营品质电商品牌、中国领先的在线音乐平台、在线教育平台、资讯传媒平台，覆盖全中国超过 10 亿用户。",
+      "comName": "网易传媒科技（北京）有限公司",
+      "legalPerson": "李黎",
+      "startDate": "2012-11-28",
+      "regCapital": "4000万美元",
+      "statusDesc": "存续",
+      "regAddress": "北京市海淀区西北旺东路10号院中关村软件园西区7号楼A座5层",
+      "businessScope": "一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；网络技术服务；信息技术咨询服务；数字内容制作服务（不含出版发行）；软件开发；信息安全设备制造；计算机软硬件及外围设备制造；移动通信设备制造；数据处理和存储支持服务；数据处理服务；服装服饰零售；电子产品销售；日用百货销售；工艺美术品及礼仪用品销售（象牙及其制品除外）；家用电器销售；体育用品及器材零售；针纺织品及原料销售；珠宝首饰零售；珠宝首饰批发；厨具卫具及日用杂品零售；办公用品销售；箱包销售；皮革销售；礼品花卉销售；园艺产品销售；通讯设备销售；五金产品批发；五金产品零售；灯具销售；建筑材料销售；金银制品销售；采购代理服务；国内贸易代理；互联网销售（除销售需要许可的商品）；组织文化艺术交流活动；会议及展览服务；社会经济咨询服务；贸易经纪；销售代理；票务代理服务；体育赛事策划；信息咨询服务（不含许可类信息咨询服务）；广告发布；广告制作；广告设计、代理；教育咨询服务（不含涉许可审批的教育培训活动）；食品销售（仅销售预包装食品）；食品互联网销售（仅销售预包装食品）；工程管理服务。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）许可项目：出版物零售；出版物批发；出版物互联网销售。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）（不得从事国家和本市产业政策禁止和限制类项目的经营活动。）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "网易 (NASDAQ: NTES)，1997年由丁磊先生在广州创办、2000年在美国NASDAQ股票交易所挂牌上市，是中国领先的互联网技术公司，在开发互联网应用、服务等方面始终保持中国业界领先地位。本着对中国互联网发展强烈的使命感，缔造美好生活的愿景，网易利用最先进的互联网技术，加强人与人之间信息的交流和共享，为海量用户提供优质的产品和服务，始终秉持着\"以匠心、致创新\"的理念，通过科技创新改变生活。\n\n目前，网易拥有超过21,000名员工，国内主要集中在北京、广州、杭州、上海四地办公，在日本、韩国、澳洲、美国、德国、意大利等地均设有分支机构。自2000年上市以来，网易公司一直保持了财务指标的稳健增长。\n\n网易是中国领先的互联网公司之一，是全球领先的在线游戏开发与发行公司，也是中国最大的电子邮件服务商，并拥有中国领先的自营品质电商品牌、中国领先的在线音乐平台、在线教育平台、资讯传媒平台，覆盖全中国超过 10 亿用户。",
+      "encryptComId": "1358b5014fc6b2d733162Q~~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "游戏客户端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "105GIGpxwby.search.1",
+          "performance": "",
+          "salaryDesc": "20-30K·15薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "架构师",
+            "客户端开发",
+            "游戏开发"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "架构师",
+              "highlight": false
+            },
+            {
+              "content": "客户端开发",
+              "highlight": false
+            },
+            {
+              "content": "游戏开发",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "eeebace3c762be001XV839y1GVtW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "网易",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/4201efdb842badc0697ac5f6db469402cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "曹李植",
+          "bossTitle": "游戏策划",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "架构师",
+            "客户端开发",
+            "游戏开发",
+            "图形图像处理",
+            "高级软件工程师"
+          ],
+          "welfares": [],
+          "securityId": "pKeG7z48OCJpB-b1UewXwiAfMEZtRNWSJL5T5h8yRk7CYXWaSx_uDzYoGGxFoSq7CqmOy_0~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "105GIGpxwby.search.2",
+          "performance": "",
+          "salaryDesc": "15-25K·16薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "分布式技术",
+            "Spring",
+            "SpringBoot"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            },
+            {
+              "content": "SpringBoot",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "a3787b119c4e46581nN53tq9EFdX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "网易",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/4201efdb842badc0697ac5f6db469402cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "龙帆",
+          "bossTitle": "Java开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "分布式技术",
+            "Spring",
+            "SpringBoot",
+            "Redis",
+            "MySQL",
+            "后端开发",
+            "软件工程师",
+            "GIT"
+          ],
+          "welfares": [],
+          "securityId": "mdrPnj_ClwYLS-s1B-zrieBOjhwLcgjFDhaEcXQFyq_78A6PmmCxpGsx9av74UWNMDjpcKY~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "网易严选资深数据挖掘工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "105GIGpxwby.search.3",
+          "performance": "",
+          "salaryDesc": "25-45K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "数据分析",
+            "用户画像"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "数据分析",
+              "highlight": false
+            },
+            {
+              "content": "用户画像",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "cb8a6df5fa3e683b1XV93dy9FlJQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "网易",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/4201efdb842badc0697ac5f6db469402cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "严女士",
+          "bossTitle": "高级Java开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220311/607f1f3d68754fd09eb7642bb4aa58aba5bf01750ad88ea781ebdea9ee4c2b57e1803e0f97fbe941_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "数据分析",
+            "用户画像"
+          ],
+          "welfares": [],
+          "securityId": "ZQaiF7t2BS7wC-41GPmLK72nWJGvu5hDwDGl66L3WewLT2xBl2Y3RW3ONcXiYuUlVyKcfsBd",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "unity客户端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "105GIGpxwby.search.4",
+          "performance": "",
+          "salaryDesc": "20-40K·16薪",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "Unity3D",
+            "C#",
+            "Shader开发经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Unity3D",
+              "highlight": false
+            },
+            {
+              "content": "C#",
+              "highlight": false
+            },
+            {
+              "content": "Shader开发经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "04876ac539d153f21Xx70ti4GFRW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "网易",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/4201efdb842badc0697ac5f6db469402cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "杜女士",
+          "bossTitle": "招聘专员",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Unity3D",
+            "C#",
+            "Shader开发经验",
+            "Unity3D开发经验"
+          ],
+          "welfares": [],
+          "securityId": "eqX4sqXZRSPft-Y1L0ppDethwrWMBJ7ZqgXYARK0PvA6gFE8ctC3NkHBSsp5Kj9Rj1KgdFCZ",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "机器人学习算法工程师--决策控制方向",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "105GIGpxwby.search.5",
+          "performance": "",
+          "salaryDesc": "30-35K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "搜索/推荐"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "搜索/推荐",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "f19a938dd4750edf1XN609y5FFdX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "网易",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/4201efdb842badc0697ac5f6db469402cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "梁先生",
+          "bossTitle": "测试负责人",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "搜索/推荐"
+          ],
+          "welfares": [],
+          "securityId": "kfn5HHL9bLDuy-S1qHGLZixzVCnrdzhtGIAzVov6slhGG0mA2Ov4Le4PbOCuA_NN4gIvfbM~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

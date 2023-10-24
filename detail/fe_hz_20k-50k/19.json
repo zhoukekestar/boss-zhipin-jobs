@@ -1,0 +1,517 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "PMBfK4FU8DuvX-m1uGuM-nUoCgL0k3aGJv42W2HFY2jVYvIFnln6nzMejW6jJEApaJ9kRdRIaHnIg-W3VyhAzPLdGT1ACn29e7iypFNZX4VOm4Ax-JChi7kqhLmeQYxvtDt6xrtX",
+    "bossBaseInfoVO": {
+      "encryptBossId": "ca4668704264178c1nZ53tS9F1ZV",
+      "bossId": 123590745,
+      "securityId": "K2yZOOHIg7BGi-v13HT69KUKTlBLWFQx6Lt9_yY9MKccpmW-5qOFA1zru-JX6ie3j9p6YP9gfv1NeJ_yLFdHM9gWal84kQ~~",
+      "name": "严先生",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_16.png",
+      "title": "前端开发工程师",
+      "activeTimeDesc": "2月内活跃",
+      "activeTime": 1693210858000,
+      "bossOnline": false,
+      "brandName": "婚礼纪",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 153466957,
+      "encryptJobId": "12abc34e4b86fce51nF539u7GVdX",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "高新文教区",
+      "locationDesc": "杭州·西湖区·高新文教区",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 25,
+      "jobDesc": "1. 与服务端工程师、设计师、产品经理紧密合作，实现合格的前端产品；\n 2.发挥软件设计能力和编码功底，使前端工程满足模块化、规范化的基本要求；\n 3. 保持稳定的工作效率，和团队一起推进项目进行周期性的功能迭代；\n 4. 关注前端前沿技术，满足基本的前端性能优化，优秀的代码可维护性，良好的浏览器兼容性；\n 技能要求：\n 1. 掌握web前端开发技术: JavaScript(含ES6)、HTML、CSS、协议等；\n 2. 熟悉HTTP协议，连接TCP/IP的基本工作原理，熟悉基本web标准规范；\n 3.熟悉至少一个主流前端框架（React/Vue），有实际项目经验；\n 4. 对前端工程化有一定理解，了解webpack、gulp等工具，熟悉常见的前端优化技巧; \n5. 合格的英文阅读理解能力，能够阅读英文技术文档说明； \n6. 良好的口头和书面沟通能力；\n 7. 具备一定的产品意识，注重前端产品用户体验； \n8. 独立自主，有上进心，正向思考。",
+      "requiredSkills": [
+        "前端开发",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "ES6",
+        "React",
+        "Web端",
+        "Vue"
+      ],
+      "address": "杭州西湖区杭州数娱大厦四楼",
+      "longitude": 120.112192,
+      "latitude": 30.287784,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4ec4f8daad07a4806b5a12ef3bdf4f91",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/650238b0e6e709af5b703ad7d835b17d",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-25K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "578fe35ed9e1356c1nB43dQ~",
+      "brandName": "婚礼纪",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220506/7bf6f160950405e96354195205a16e0621115bf4632b11ddc3fda1f40d4b0af573987c2868dfb10e.jpg",
+      "industryName": "互联网",
+      "stageName": "D轮及以上",
+      "scaleName": "1000-9999人",
+      "brandIntroduce": "婚礼纪创立于 2013 年，是互联网+结婚平台科技类公司，深耕行业数十年。\n2020入选杭州独角兽企业，稳居行业TOP1。\n平台类目覆盖婚礼策划、婚纱摄影、婚纱礼服、婚宴酒店、婚车租赁、婚房布置、婚戒首饰、喜糖请帖、摄影摄像、司仪、化妆、旅拍等与结婚有关的各个环节的服务。",
+      "comName": "杭州火烧云科技有限公司",
+      "legalPerson": "俞哲",
+      "startDate": "2012-05-04",
+      "regCapital": "100万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市西湖区文一西路98号数娱大厦四层408室",
+      "businessScope": "服务：计算机软硬件、互联网信息技术、网络产品的技术开发、技术服务、技术咨询、成果转让，第二类增值电信业务中的信息服务业务（不含固定网电话信息服务），制作、复制、发行：专题、专栏、综艺、动画片、广播剧、电视剧，设计、代理国内广告，承办会展、展览展示。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "婚礼纪创立于 2013 年，是互联网+结婚平台科技类公司，深耕行业数十年。\n2020入选杭州独角兽企业，稳居行业TOP1。\n平台类目覆盖婚礼策划、婚纱摄影、婚纱礼服、婚宴酒店、婚车租赁、婚房布置、婚戒首饰、喜糖请帖、摄影摄像、司仪、化妆、旅拍等与结婚有关的各个环节的服务。",
+      "encryptComId": "ffe6243203f03f2e1HFy2dm4"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "Java",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "高新文教区",
+          "distance": "",
+          "lid": "109Tfo2MDy0.search.1",
+          "performance": "",
+          "salaryDesc": "20-30K·14薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "SpringCloud",
+            "Spring",
+            "MySQL"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "SpringCloud",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            },
+            {
+              "content": "MySQL",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "997bb02047bfb9f71XR-2dm6FlBT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "婚礼纪",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220506/7bf6f160950405e96354195205a16e0621115bf4632b11ddc3fda1f40d4b0af573987c2868dfb10e.jpg",
+          "brandStage": "D轮及以上",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "吴剑",
+          "bossTitle": "JAVA开发",
+          "bossAvatar": "https://img2.bosszhipin.com/mcs/useravatar/20150815/9c293aefae303300c39b4e7188e374361883d72a790c7a49c65bd13b5244f86f_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "SpringCloud",
+            "Spring",
+            "MySQL",
+            "Redis"
+          ],
+          "welfares": [],
+          "securityId": "keARaJhQ-1Zsa-q18qCnT75LKF-HCwy7aRgGRCSsCwgbUqLI9HNIHuz5nLZ5NntWhbJn",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "硬件测试",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "学历不限",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "高新文教区",
+          "distance": "",
+          "lid": "109Tfo2MDy0.search.2",
+          "performance": "",
+          "salaryDesc": "15-30K·16薪",
+          "jobLabels": [
+            "经验不限",
+            "学历不限",
+            "信号测试",
+            "示波器"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "学历不限",
+              "highlight": false
+            },
+            {
+              "content": "信号测试",
+              "highlight": false
+            },
+            {
+              "content": "示波器",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "937018925dc65fad1XR639m_F1tX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "婚礼纪",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220506/7bf6f160950405e96354195205a16e0621115bf4632b11ddc3fda1f40d4b0af573987c2868dfb10e.jpg",
+          "brandStage": "D轮及以上",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "刘先生",
+          "bossTitle": "资深爬虫工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181125/a58da1e37e483ab09203e60defb745dab4ba1d735f20113b8f449bc2c9c6547b_sg.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "信号测试",
+            "示波器"
+          ],
+          "welfares": [],
+          "securityId": "xzN2Q3aJmoi6S-p1KyQWixMNVMznyYPL4SXAS1Xz4DyWpReTVPA_kE-0TzhUvQyq0f9M2Rs~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "架构师（大数据）",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "高新文教区",
+          "distance": "",
+          "lid": "109Tfo2MDy0.search.3",
+          "performance": "",
+          "salaryDesc": "30-55K·16薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "Spark",
+            "Hadoop",
+            "Flink"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Spark",
+              "highlight": false
+            },
+            {
+              "content": "Hadoop",
+              "highlight": false
+            },
+            {
+              "content": "Flink",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "da8cfed38ea3ad0b1n1z3NW6EFJS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "婚礼纪",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220506/7bf6f160950405e96354195205a16e0621115bf4632b11ddc3fda1f40d4b0af573987c2868dfb10e.jpg",
+          "brandStage": "D轮及以上",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "刘先生",
+          "bossTitle": "资深爬虫工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181125/a58da1e37e483ab09203e60defb745dab4ba1d735f20113b8f449bc2c9c6547b_sg.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Spark",
+            "Hadoop",
+            "Flink"
+          ],
+          "welfares": [],
+          "securityId": "OQlf7RUQ4tkA_-B1IBRwXwthaSVV8F9WZb8m1--T2emYQ3Dw1zc2jRFRVUuUXE9B_Qb3jZU~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "高新文教区",
+          "distance": "",
+          "lid": "109Tfo2MDy0.search.4",
+          "performance": "",
+          "salaryDesc": "20-30K·14薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "SQL",
+            "微服务架构",
+            "Spring"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "微服务架构",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "cad3ce7b6a067f5f1n1_0tS-F1RR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "婚礼纪",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220506/7bf6f160950405e96354195205a16e0621115bf4632b11ddc3fda1f40d4b0af573987c2868dfb10e.jpg",
+          "brandStage": "D轮及以上",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "戴强",
+          "bossTitle": "HRBP",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180810/a01696d5c2d78dd94364ab413fa0114826402f4b93947de0df0e37c043710f1a_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "SQL",
+            "微服务架构",
+            "Spring",
+            "SpringBoot",
+            "MySQL",
+            "Redis",
+            "后端开发",
+            "高级软件工程师"
+          ],
+          "welfares": [],
+          "securityId": "yR2s2SjSyPSHy-C1Z7rA3cIkf7SNSWyRBXOj_RItYkH1hOaqu_j7ftK90Ws-qaJeisKlUqQ~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "资深前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "高新文教区",
+          "distance": "",
+          "lid": "109Tfo2MDy0.search.5",
+          "performance": "",
+          "salaryDesc": "20-30K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "JavaScript",
+            "React",
+            "Node.js"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "React",
+              "highlight": false
+            },
+            {
+              "content": "Node.js",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "23974c582a157bb31HR909-6EFNT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "婚礼纪",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220506/7bf6f160950405e96354195205a16e0621115bf4632b11ddc3fda1f40d4b0af573987c2868dfb10e.jpg",
+          "brandStage": "D轮及以上",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "冉晨光",
+          "bossTitle": "前端开发负责人",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181016/9eaf392325a88ee21a67bab13ab57a2cc12cfb8a7ebfc8bd764c3c91b00f6bd0_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript",
+            "React",
+            "Node.js",
+            "前端开发经验",
+            "架构师经验",
+            "不接受居家办公"
+          ],
+          "welfares": [],
+          "securityId": "2XCAeJAa42cB7-v18SrmQZg5C042aZYC_F14YLgPezoVyUxUgzFFUYb7QY3AGM_Us3M2zSc~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

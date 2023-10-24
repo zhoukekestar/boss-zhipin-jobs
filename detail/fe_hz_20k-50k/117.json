@@ -1,0 +1,534 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "kYYhGwS6IVHjZ-b1G7piXUtYxb8uFpnQN7xGSY6fDOOEbrBOlLPo_6IQZXl11qvhWesY0jMqdKNw6EPdwRu50abuq6_vGfWrxno8C5STjuWeZ0LOSXXQlboWejkBQAIBzlufMGWBX_Mf",
+    "bossBaseInfoVO": {
+      "encryptBossId": "7b2d71f279a5d7651nR82tW9FlNS",
+      "bossId": 106180612,
+      "securityId": "kT2mRvTnyMSEn-K1cSwKRyNWlLCc2FXGGVEeH94i3TL-0X8rvMmrEH_BaOGHK2LBJz0kvKSFM92OOHILrPneq6uxijD7oQ~~",
+      "name": "于女士",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+      "title": "全栈工程师",
+      "activeTimeDesc": "5月内活跃",
+      "activeTime": 1685758019000,
+      "bossOnline": false,
+      "brandName": "两氢一氧",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 186661327,
+      "encryptJobId": "050310e977982d5b1nx83du8E1BX",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "仓前",
+      "locationDesc": "杭州·余杭区·仓前",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 30,
+      "jobDesc": "(1).精通各种前端技术，包括HTML/CSS/JavaScript等，熟悉Canvas/WebGL/各种传感器技术者优先；\n(2).具备跨终端的前端开发能力，具备客户端能力者更佳，能在Native和Web技术融合上的探索；\n(3).对前端工程化与模块化开发有一定了解，并有实践经验（如Vue/React/webpack)；\n(4).熟悉一门非前端的语言（如NodeJS/Java/PHP/C/C++/Python/Ruby）更优，并有实践经验；\n(5).对前端技术有持续的热情，个性乐观开朗，逻辑性强，善于和各种背景的人合作。",
+      "requiredSkills": [
+        "前端开发",
+        "HTML",
+        "CSS",
+        "React",
+        "Web端",
+        "JavaScript",
+        "HTML5",
+        "ES6"
+      ],
+      "address": "杭州余杭区海智中心9号楼",
+      "longitude": 120.012071,
+      "latitude": 30.285875,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/25a17b1402cf7d397ec286caaa70b9b0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8fe5f1a0482bd4433a32196ec0723d5a",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-30K·13薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "a6eef7c7683dabbe1nx73dS9EVM~",
+      "brandName": "两氢一氧",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220509/7bf6f160950405e9087d7d59815c2be9673ded8a696cd079ab681bf59bb16e5ca92b8730bb78b89e.jpg",
+      "industryName": "电子商务",
+      "stageName": "天使轮",
+      "scaleName": "100-499人",
+      "brandIntroduce": "HHO诚邀创业之心的你！ \n我们是谁？我们是一群热爱互联网，执着于推动数字化的人，我们打造了行业第一的亿级活跃用户产品-钉钉。今天，我们再度仰望星空，扬帆起航。\n 这次，我们给新公司取名HHO“两氢一氧（杭州）数字科技有限公司”，希望用数字化的方式连接全球市场和中国优质供应链，打造数字化时代的全球化新品牌。 \n你，梦想驱动，充满好奇心，说干就干，那你就是我们在寻找的创业者，我们希望和你一起去enjoy创业的每一天，一起追逐梦想，一起做一家润物细无声，滋养万物，水一般的好公司。Lets be crazy together！",
+      "comName": "两氢一氧（杭州）数字科技有限公司",
+      "legalPerson": "陈航",
+      "startDate": "2021-06-28",
+      "regCapital": "3000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市余杭区仓前街道海智中心9幢",
+      "businessScope": "一般项目：进出口代理；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；信息咨询服务（不含许可类信息咨询服务）；市场营销策划；计算机软硬件及辅助设备批发；计算机软硬件及辅助设备零售；网络设备销售；云计算设备销售；信息安全设备销售；通信设备销售；家用电器销售；电子产品销售；办公设备销售；文具用品批发；办公用品销售；办公设备耗材销售；家具销售；日用百货销售；户外用品销售；工艺美术品及收藏品批发（象牙及其制品除外）；工艺美术品及礼仪用品销售（象牙及其制品除外）；针纺织品销售；服装服饰批发；服装服饰零售；鞋帽批发；箱包销售；玩具、动漫及游艺用品销售；翻译服务；互联网销售（除销售需要许可的商品）；宠物食品及用品批发；宠物食品及用品零售（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "HHO诚邀创业之心的你！ \n我们是谁？我们是一群热爱互联网，执着于推动数字化的人，我们打造了行业第一的亿级活跃用户产品-钉钉。今天，我们再度仰望星空，扬帆起航。\n 这次，我们给新公司取名HHO“两氢一氧（杭州）数字科技有限公司”，希望用数字化的方式连接全球市场和中国优质供应链，打造数字化时代的全球化新品牌。 \n你，梦想驱动，充满好奇心，说干就干，那你就是我们在寻找的创业者，我们希望和你一起去enjoy创业的每一天，一起追逐梦想，一起做一家润物细无声，滋养万物，水一般的好公司。Let's be crazy together！",
+      "encryptComId": "ab416a20013463261Hd809q9FlM~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "数据分析师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "未来科技城",
+          "distance": "",
+          "lid": "ZYsOL7xGUe.search.1",
+          "performance": "",
+          "salaryDesc": "20-28K",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "SQL",
+            "Python",
+            "R"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "R",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "7615b2fc4c0b99b41XJ82966FVJQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "两氢一氧",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220509/7bf6f160950405e9087d7d59815c2be9673ded8a696cd079ab681bf59bb16e5ca92b8730bb78b89e.jpg",
+          "brandStage": "天使轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "夏梦云",
+          "bossTitle": "资深体验设计师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211012/607f1f3d68754fd09b6ad2233a74d1bbbab57d9e5267f57765ae511657736088a968f2e2248d4bf0_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "SQL",
+            "Python",
+            "R",
+            "电商/零售行业数据相关经验"
+          ],
+          "welfares": [],
+          "securityId": "t9df9SAP3MSLp-H1hdn0amfIfEOe-fq9dl5uUo8LmZZKlrpccO_FM9EVAFRw8vLWNIKFavw~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZYsOL7xGUe.search.2",
+          "performance": "",
+          "salaryDesc": "12-20K·13薪",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "Vue",
+            "Node.js",
+            "接受居家办公"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Vue",
+              "highlight": false
+            },
+            {
+              "content": "Node.js",
+              "highlight": false
+            },
+            {
+              "content": "接受居家办公",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "c919a92537360d3e1XJ43NW-FFJX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "两氢一氧",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220509/7bf6f160950405e9087d7d59815c2be9673ded8a696cd079ab681bf59bb16e5ca92b8730bb78b89e.jpg",
+          "brandStage": "天使轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "刘琦",
+          "bossTitle": "服务端开发",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Vue",
+            "Node.js",
+            "接受居家办公",
+            "React",
+            "前端开发经验"
+          ],
+          "welfares": [],
+          "securityId": "PCHNNU7aXyK0y-c1v59RI_NBNCk4rgxxM0Jng26EOOckqhKV3Fhl61LNTVmhncEYo5vJeSYX",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "java服务端工程师： 杭州",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZYsOL7xGUe.search.3",
+          "performance": "",
+          "salaryDesc": "20-40K·13薪",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "Java开发经验",
+            "Java",
+            "全栈工程师"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java开发经验",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "全栈工程师",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "9090a413a34b72af1XV52NW-FVNQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "两氢一氧",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220509/7bf6f160950405e9087d7d59815c2be9673ded8a696cd079ab681bf59bb16e5ca92b8730bb78b89e.jpg",
+          "brandStage": "天使轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "曾金吉",
+          "bossTitle": "技术专家",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java开发经验",
+            "Java",
+            "全栈工程师",
+            "分布式系统开发经验",
+            "多线程",
+            "架构师",
+            "Spring"
+          ],
+          "welfares": [],
+          "securityId": "V8zFpmxY1cxbi-31Hr8e5k6w0VD9DAKl7lBaYzQqieGlSsT4AmUUkQy73y1JVf4u5wN1zNA~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Android高级开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZYsOL7xGUe.search.4",
+          "performance": "",
+          "salaryDesc": "15-25K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Android开发经验",
+            "音视频编解码",
+            "Socket技术"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Android开发经验",
+              "highlight": false
+            },
+            {
+              "content": "音视频编解码",
+              "highlight": false
+            },
+            {
+              "content": "Socket技术",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "256c0b9dc9acec991n152dy5FVFT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "两氢一氧",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220509/7bf6f160950405e9087d7d59815c2be9673ded8a696cd079ab681bf59bb16e5ca92b8730bb78b89e.jpg",
+          "brandStage": "天使轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "李赵磊",
+          "bossTitle": "Team Leader",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211026/607f1f3d68754fd0d285f585bf47ec43df11b7f6c11ea72db36316fa68938eb6262ddbde0338ff7f_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Android开发经验",
+            "音视频编解码",
+            "Socket技术",
+            "流媒体技术",
+            "Android客户端产品研发",
+            "多线程编程能力",
+            "网络协议",
+            "计算机/软件工程相关专业",
+            "Kotlin",
+            "架构设计/优化",
+            "SQLite",
+            "架构设计能力",
+            "Gradle"
+          ],
+          "welfares": [],
+          "securityId": "wRQkhB5t9YgmB-m1yXtqH6BIIBaNKyLxoe_a3qiKDfe4lyENvjozmZOLDvILQS0K345nT4k~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "数据开发",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZYsOL7xGUe.search.5",
+          "performance": "",
+          "salaryDesc": "15-30K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Python",
+            "Hive",
+            "Hbase"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "Hive",
+              "highlight": false
+            },
+            {
+              "content": "Hbase",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "0e5b1b193a78af0f1XJ_3N-1FFJY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "两氢一氧",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220509/7bf6f160950405e9087d7d59815c2be9673ded8a696cd079ab681bf59bb16e5ca92b8730bb78b89e.jpg",
+          "brandStage": "天使轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "于女士",
+          "bossTitle": "全栈工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Python",
+            "Hive",
+            "Hbase",
+            "计算机相关专业",
+            "数仓建设经验",
+            "ETL开发经验"
+          ],
+          "welfares": [],
+          "securityId": "lj4jNZr1HeFxa-b1obKpS3RaTdLdQhBo0OVieqkZZamh1KpxtsGQvfdgoj6QlH2VsdV42f4M",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

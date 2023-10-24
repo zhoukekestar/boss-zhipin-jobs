@@ -1,0 +1,366 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "43XK8HMOdg4qh-F1O4dsrXM_pX38e9te681mQWJk1wJNPhC0_0V3P4mlghMGZ-G3NSt0XuQ7_1A6ac2MMN4L3TwY4IM3CXepUPafmxXx_astZZQr6Iwn4Fg_CVTLT_-iXxrAD3Qbfw~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "e81f275d4d2f1fbb0nV_3ti8F1VQ",
+      "bossId": 515551770,
+      "securityId": "ztJkIz6HM2w19-Y1f3-O4GUZcNfLtc9Ot-jstFMi7pI-EXZ-B9NEf692QAdJZ2WL6Z22a-tH6RPA6Q8ZlRJnlMw6msnapQ~~",
+      "name": "叶城骏",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+      "title": "前端开发",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1668481824000,
+      "bossOnline": false,
+      "brandName": "LGD",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 241747034,
+      "encryptJobId": "193b9adfa3b1b1f51XB73Nm6EFFU",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "翠苑",
+      "locationDesc": "杭州·西湖区·翠苑",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 30,
+      "jobDesc": "岗位职责：\n1. 参与电竞赛事互动 web 3.0 平台的建设与共创；\n2. 能够根据原型或高保真设计独立完成 pc端和移动端的前端页面开发；\n3. 负责产品及相关支撑系统的开发及维护工作，不断的优化升级，提高用户体验；\n4. 持续优化前端性能，研究前端新技术，推广并应用到团队与产品中；\n\n岗位要求：\n1. 本科及以上学历，3年以上web开发经验，且有2个以上的成功项目案例；\n2. 能够对高保真设计做到精准还原,并能够从用户角度提出自己的意见；\n3. 精通html5、css3，熟练使用流式布局、flex布局、响应式布局；\n4. 具有扎实的javascript基础，熟练使用es5、es6编程，了解使用typescript；\n5. 对前端mv*框架有深刻理解，react、vue、angular 至少有1个以上的项目经验（react经验者优先）；\n6. 对前端工程化有较好的认识，熟悉webpack等构建工具。\n\n加分项:\n1. 熟悉IM通讯 web3社区,如Discord\n2. 有Nextjs开发经验",
+      "requiredSkills": [
+        "React",
+        "Webpack",
+        "Node.js",
+        "计算机/软件工程相关专业",
+        "前端开发经验",
+        "架构师经验"
+      ],
+      "address": "杭州西湖区中天MCC2号楼15楼",
+      "longitude": 120.116937,
+      "latitude": 30.291819,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1467a77849f2a9e22048f19309514f0e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/825110160e2cefb1d40f2328409f7b71",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-30K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "aa1118702b6e35b81Hxy3ti7",
+      "brandName": "LGD",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210719/c95c12e04ac90b6ccfafcca0681de3d417e765e41b42bb1b3353751763ff76ca.jpg",
+      "industryName": "音乐/视频/阅读",
+      "stageName": "A轮",
+      "scaleName": "100-499人",
+      "brandIntroduce": "LGD电子竞技俱乐部成立于2009年。 \n\n是国内首家设立主场的电竞俱乐部，国内唯一拥有全联盟席位的俱乐部，国 内唯一与世界传统体育豪门品牌合作的电竞俱乐部，致力于成为全球第一的 电竞品牌俱乐部，打造全球最大的电竞赛事综合平台。",
+      "comName": "杭州艾及帝文化创意有限公司",
+      "legalPerson": "潘婕",
+      "startDate": "2015-01-26",
+      "regCapital": "456.1206万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市拱墅区康宁街80号3幢E座406室",
+      "businessScope": "许可项目：演出经纪；食品销售（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。一般项目：鞋帽批发；体育经纪人服务；日用品销售；票务代理服务；互联网销售（除销售需要许可的商品）；体育用品及器材零售；组织体育表演活动；电影摄制服务；体育场地设施经营（不含高危险性体育运动）；服装服饰零售；体育竞赛组织；体育赛事策划；体育中介代理服务；软件开发；组织文化艺术交流活动；体育保障组织；会议及展览服务；体育用品及器材批发；其他文化艺术经纪代理；文化娱乐经纪人服务；电子产品销售；家用电器零配件销售；日用家电零售；家用电器销售；日用百货销售；眼镜销售（不含隐形眼镜）；日用杂品销售；钟表销售；文具用品零售；鞋帽零售；平面设计；文具用品批发；广告发布；广告制作；广告设计、代理；化妆品批发；市场营销策划；玩具、动漫及游艺用品销售；游艺及娱乐用品销售；玩具销售；工艺美术品及收藏品零售（象牙及其制品除外）；工艺美术品及收藏品批发（象牙及其制品除外）；文艺创作；品牌管理；珠宝首饰零售；工艺美术品及礼仪用品销售（象牙及其制品除外）；化妆品零售；国内贸易代理；信息咨询服务（不含许可类信息咨询服务）；专业设计服务；办公用品销售；家具销售；箱包销售；计算机软硬件及辅助设备零售；计算机软硬件及辅助设备批发；珠宝首饰批发；摄像及视频制作服务；电影制片；数字内容制作服务（不含出版发行）；电热食品加工设备销售；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；非居住房地产租赁（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "LGD电子竞技俱乐部成立于2009年。 \n\n是国内首家设立主场的电竞俱乐部，国内唯一拥有全联盟席位的俱乐部，国 内唯一与世界传统体育豪门品牌合作的电竞俱乐部，致力于成为全球第一的 电竞品牌俱乐部，打造全球最大的电竞赛事综合平台。",
+      "encryptComId": "7ec95b3ecc8a27bf3nx-2tm0"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "资深C++ 开发负责人（游戏对战平台）",
+          "jobValidStatus": 1,
+          "jobExperience": "10年以上",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "拱墅区",
+          "businessName": "北景园",
+          "distance": "",
+          "lid": "100amI58Rcg.search.2",
+          "performance": "",
+          "salaryDesc": "30-45K",
+          "jobLabels": [
+            "10年以上",
+            "本科",
+            "C++",
+            "C#",
+            "Redis"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "10年以上",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "C++",
+              "highlight": false
+            },
+            {
+              "content": "C#",
+              "highlight": false
+            },
+            {
+              "content": "Redis",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "45b8396608e43e521HV82tS6E1RR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "LGD",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210719/c95c12e04ac90b6ccfafcca0681de3d417e765e41b42bb1b3353751763ff76ca.jpg",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "黄女士",
+          "bossTitle": "HRBP",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20210728/a9b734813efc521d8fc9f3c67c95a92c12621814b352b8f0d4b8cdd7b6a97435_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "C++",
+            "C#",
+            "Redis",
+            "架构设计经验"
+          ],
+          "welfares": [],
+          "securityId": "e6ai7ZrV15fyQ-x1C6mWlZAtgxlkwo0vy3jCD2HpotxRw8Cya5A7L_Fw9CwZNhKAgc0cX6w~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级web前端工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "拱墅区",
+          "businessName": "上塘",
+          "distance": "",
+          "lid": "100amI58Rcg.search.3",
+          "performance": "",
+          "salaryDesc": "15-25K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "JavaScript",
+            "HTML5",
+            "React"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "HTML5",
+              "highlight": false
+            },
+            {
+              "content": "React",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "f19eb3d3d4813a0d1HV609S1FVZV",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "LGD",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210719/c95c12e04ac90b6ccfafcca0681de3d417e765e41b42bb1b3353751763ff76ca.jpg",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "周俊",
+          "bossTitle": "业务中心",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript",
+            "HTML5",
+            "React"
+          ],
+          "welfares": [],
+          "securityId": "QlxpZtIx76wcV-S1k4-pguv5lTP-6LAWycatpLU2L7lRvI2sCZ0VzjIm6raZHD8HeJY8QIE~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "对战平台开发（C++）",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "拱墅区",
+          "businessName": "北景园",
+          "distance": "",
+          "lid": "100amI58Rcg.search.4",
+          "performance": "",
+          "salaryDesc": "18-25K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "C++",
+            "C",
+            "C#"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "C++",
+              "highlight": false
+            },
+            {
+              "content": "C",
+              "highlight": false
+            },
+            {
+              "content": "C#",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "22dcf1075c474bb91HV82tS1E1VS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "LGD",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210719/c95c12e04ac90b6ccfafcca0681de3d417e765e41b42bb1b3353751763ff76ca.jpg",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "黄女士",
+          "bossTitle": "HRBP",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20210728/a9b734813efc521d8fc9f3c67c95a92c12621814b352b8f0d4b8cdd7b6a97435_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "C++",
+            "C",
+            "C#",
+            "Redis"
+          ],
+          "welfares": [],
+          "securityId": "JDu1I6L95LPKz-d1-P6NjU90J6EIEyaC_jaP2hrYi8d5QUQ1P5J6nHJ43o2tG4aIlk3Ld50~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

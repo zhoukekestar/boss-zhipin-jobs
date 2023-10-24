@@ -1,0 +1,539 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "cckFIgeBPoTPt-T1rExcjUgK6C1LTVCzkk5VGdN7xmYCLvEctq8Y2t9FkNjJfjxJucCivZBw2GqFjlKimDQd0F2XEMKSztlKTLXZTULojkorFFV3V7ffa5SR0uISofvGFxHshP_xFw~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "c5e9326ae13190ba03Z_09q9EFE~",
+      "bossId": 42587003,
+      "securityId": "OVtMF2h3UnypZ-r1ju8ya7-1uduXTnH9Lcs-0FJAyNMwspRcoH7kHHOd1jWjKF7QkA5Yp55gsAWaOfaV9Hz-V2gyxH5r",
+      "name": "梁杰",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190602/26d644cd563ad6f9e8687f4a482b719cd4351da7fb438015a02206a473a86636_s.jpg",
+      "title": "项目经理",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1653903601000,
+      "bossOnline": false,
+      "brandName": "杭州产链数字科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 210244052,
+      "encryptJobId": "f9aebdc9040b7c251XV62dm5EFdS",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "黄龙",
+      "locationDesc": "杭州·西湖区·黄龙",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "lowSalary": 12,
+      "highSalary": 24,
+      "jobDesc": "岗位描述：\n1. 参与项目web相关系统的开发，确保质量的同时按时完成所分配的任务；\n2. 能充分理产品需求、项目需求，能解决各种未知技术问题；\n3. Web前沿技术研究和新技术调研并用于实践。\n\n岗位要求\n1. 计算机相关专业本科及以上学历，2年以上前端工作经验；\n2. 熟悉HTML5+CSS3+JS编程；\n3. 精通一种或多种主流开发框架（如React、Vue），理解工程化思想，有良好的系统模块设计能力；\n4. 有较强的学习能力，严谨的逻辑思维，有良好的分析和解决问题能力及协调能力，有良好的编程习惯，简洁清晰的代码风格；\n5. 有较强的沟通能力，及团队合作能力，发现问题可以及时沟通。",
+      "requiredSkills": [
+        "JavaScript",
+        "MVC开发",
+        "前端开发",
+        "Web端",
+        "PC端",
+        "TypeScript",
+        "React",
+        "Vue"
+      ],
+      "address": "杭州西湖区嘉华国际商务中心9楼916",
+      "longitude": 120.140624,
+      "latitude": 30.26947,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/02afab0ed529242a17b0ed59d3adcf7b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/917819d77eddf4ef53eaccbc869daf5b",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "12-24K·16薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "20709a22627163e00HVy3N-7Fw~~",
+      "brandName": "杭州产链数字科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201204/8b1736feed1d59b35a3aaa234aa860e872602559b4fa1e521f693a6f4e4900a3_s.jpg",
+      "industryName": "互联网",
+      "stageName": "未融资",
+      "scaleName": "100-499人",
+      "brandIntroduce": "产链公司是浙江大学陈纯院士创建的区块链领军企业杭州趣链科技有限公司的控股子公司。聚焦产业数字化运营，利用区块链技术改造产业数字生态，为大型企业和监管部门提供贯穿全产业链的可信任数字化管控工具，为中小企业提供连接供应链上下游的低成本数字化协同平台，为从业者和消费者提供灵活便捷的增效工具和触达服务。公司业务板块涵盖数字供应链、双碳能源、教育行业数字化等，在工程建设、仓储物流、能源电力、生产制造和教育培训等诸多行业打造了标杆项目，获得多项区块链技术国家发明专利和核心知识产权。",
+      "comName": "杭州产链数字科技有限公司",
+      "legalPerson": "李启雷",
+      "startDate": "2019-09-30",
+      "regCapital": "11111.1111万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市滨江区西兴街道丹枫路399号2号楼A楼1601室",
+      "businessScope": "技术开发、技术咨询、技术服务、成果转让：数字技术、计算机软硬件、计算机系统集成；承接：计算机网络工程；服务：第二类增值电信业务中的信息服务业务（仅限互联网信息服务）；货物或技术进出口（国家禁止或涉及行政审批的货物和技术进出口除外）（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "产链公司是浙江大学陈纯院士创建的区块链领军企业杭州趣链科技有限公司的控股子公司。聚焦产业数字化运营，利用区块链技术改造产业数字生态，为大型企业和监管部门提供贯穿全产业链的可信任数字化管控工具，为中小企业提供连接供应链上下游的低成本数字化协同平台，为从业者和消费者提供灵活便捷的增效工具和触达服务。公司业务板块涵盖数字供应链、双碳能源、教育行业数字化等，在工程建设、仓储物流、能源电力、生产制造和教育培训等诸多行业打造了标杆项目，获得多项区块链技术国家发明专利和核心知识产权。",
+      "encryptComId": "9e5a17af6f0942391XRz2Ni7GVA~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "Java",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "1071icPPhWE.search.1",
+          "performance": "",
+          "salaryDesc": "15-16K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "Shell",
+            "多线程",
+            "SpringBoot"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Shell",
+              "highlight": false
+            },
+            {
+              "content": "多线程",
+              "highlight": false
+            },
+            {
+              "content": "SpringBoot",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "248f13d364c713eb1XR62tu8ElpW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州产链数字科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201204/8b1736feed1d59b35a3aaa234aa860e872602559b4fa1e521f693a6f4e4900a3_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "宣章炯",
+          "bossTitle": "教育链事业部总监",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Shell",
+            "多线程",
+            "SpringBoot",
+            "Hibernate",
+            "SpringCloud",
+            "Redis",
+            "MongoDB",
+            "微服务架构"
+          ],
+          "welfares": [],
+          "securityId": "xyWyhRdALpjOx-31OdKWvGGKWRa4z96621Wi-fhxD9ozaI4dIiKtRwm7YLJnMS0Hj0Fbpss~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "1071icPPhWE.search.2",
+          "performance": "",
+          "salaryDesc": "15-22K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Java开发经验",
+            "Java",
+            "大数据处理经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java开发经验",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "大数据处理经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "407bba61cfccfb5c1XJ_09W8GVNR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州产链数字科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201204/8b1736feed1d59b35a3aaa234aa860e872602559b4fa1e521f693a6f4e4900a3_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "赵臣臣",
+          "bossTitle": "项目经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180927/0647cd4cf4acbb0ef3f99692101cc21b6631efc0f4aa19d8d0b691702e6c1c6a_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java开发经验",
+            "Java",
+            "大数据处理经验",
+            "MyBatis",
+            "后端工程师",
+            "Spring",
+            "计算机/软件工程相关经验",
+            "无留学背景偏好"
+          ],
+          "welfares": [],
+          "securityId": "KD-TMllIF9ODM-m1V7hRSPiR-g-BKUxXjsyGMnQUKCLPG-oAaECbRf54jJZtx_GlOwktHV4~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "黄龙",
+          "distance": "",
+          "lid": "1071icPPhWE.search.3",
+          "performance": "",
+          "salaryDesc": "15-30K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "微服务架构",
+            "架构师",
+            "后端开发"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "微服务架构",
+              "highlight": false
+            },
+            {
+              "content": "架构师",
+              "highlight": false
+            },
+            {
+              "content": "后端开发",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "40fc8b008fc8e3321XV62dm9EFZU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州产链数字科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201204/8b1736feed1d59b35a3aaa234aa860e872602559b4fa1e521f693a6f4e4900a3_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "梁杰",
+          "bossTitle": "项目经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190602/26d644cd563ad6f9e8687f4a482b719cd4351da7fb438015a02206a473a86636_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "微服务架构",
+            "架构师",
+            "后端开发",
+            "全栈开发",
+            "SpringBoot",
+            "SpringCloud",
+            "Spring",
+            "MySQL"
+          ],
+          "welfares": [],
+          "securityId": "NnzCJjtp8hV5A-x1N-wk0CrgrkWkmYKQv_3qBB3yPesFfP9wHtP7UGH7ogA3tfyXj2yM4WI~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "黄龙",
+          "distance": "",
+          "lid": "1071icPPhWE.search.4",
+          "performance": "",
+          "salaryDesc": "12-20K·16薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "微服务架构",
+            "中级软件工程师",
+            "后端开发"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "微服务架构",
+              "highlight": false
+            },
+            {
+              "content": "中级软件工程师",
+              "highlight": false
+            },
+            {
+              "content": "后端开发",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "a428714f251d6f5e1XV62d60EVVY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州产链数字科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201204/8b1736feed1d59b35a3aaa234aa860e872602559b4fa1e521f693a6f4e4900a3_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "梁杰",
+          "bossTitle": "项目经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190602/26d644cd563ad6f9e8687f4a482b719cd4351da7fb438015a02206a473a86636_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "微服务架构",
+            "中级软件工程师",
+            "后端开发",
+            "SpringBoot",
+            "SpringCloud",
+            "Spring",
+            "MySQL",
+            "Redis"
+          ],
+          "welfares": [],
+          "securityId": "ajKZEZ4v-yRGw-G14XltJ3u6p2dKNnbkKrPh3Zi8sW3uhIlnyqKwyV5u7TQesC7X1VWQrW0~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级测试开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "黄龙",
+          "distance": "",
+          "lid": "1071icPPhWE.search.5",
+          "performance": "",
+          "salaryDesc": "12-24K·16薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "Python",
+            "自动化测试",
+            "接口测试"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "自动化测试",
+              "highlight": false
+            },
+            {
+              "content": "接口测试",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "f81fa11ce127a4251XZ52t--GFRQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州产链数字科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201204/8b1736feed1d59b35a3aaa234aa860e872602559b4fa1e521f693a6f4e4900a3_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "梁杰",
+          "bossTitle": "项目经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190602/26d644cd563ad6f9e8687f4a482b719cd4351da7fb438015a02206a473a86636_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Python",
+            "自动化测试",
+            "接口测试",
+            "Java",
+            "MySQL",
+            "接口自动化测试",
+            "Jmeter",
+            "系统测试"
+          ],
+          "welfares": [],
+          "securityId": "aKOqYUdfBC_au-L1bPUzz9Z65nyw3EQ42iUlmRTtHKBAthX-pNxz9NkAtdcK-bAp6EwLzw0~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

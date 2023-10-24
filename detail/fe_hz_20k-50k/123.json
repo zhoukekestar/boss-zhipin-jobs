@@ -1,0 +1,532 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "J84fjy2qkCbsf-s1MdA2oztST9r6GMaJrTqC-t9vlaG5CQEI_u0zDt-f4pg4n8a72ElD47XUwtJZs_zODncYVIpfKrEZnrzLP5SviaSuG-n1QHtWHZ11HTedv3a21dhGBYgS",
+    "bossBaseInfoVO": {
+      "encryptBossId": "7df1a4693829f49d1nZ439q4ElZR",
+      "bossId": 122475241,
+      "securityId": "JvyxUz2SUM9hG-l1MEobZ7DZxqptu0XZArKM9IaIDZljXAetTLEFHgSzxMIkJQbPFNssQRTrb5mub_8TzbLzeivdxOKtTQ~~",
+      "name": "缪策",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220902/607f1f3d68754fd066467cf60f3a20145ce0d7d1ebdd97715743bab9f903766982b98b202566f48f_s.jpg",
+      "title": "高级前端工程师",
+      "activeTimeDesc": "近半年活跃",
+      "activeTime": 1682763948000,
+      "bossOnline": false,
+      "brandName": "BOSS直聘",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 245287620,
+      "encryptJobId": "e552e9962e1b03471XB_2dW6FlBQ",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "长河",
+      "locationDesc": "杭州·滨江区·长河",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 30,
+      "highSalary": 50,
+      "jobDesc": "职位要求:\n1. 统招本科及以上学历, 三年以上前端开发经验;\n2. 前端基础知识扎实,熟练掌握JS, CSS3;\n3. 熟练使用ES6/7语法,\n4. 精通Vue/React中至少一种, 熟悉其生态体系,并对其工作机制和设计模式有深入了解;\n5. 熟悉electron/nwjs\n6. 熟悉nodejs，基本数据库操作\n7. 熟练使用Webpack/rollup至少一种打包工具，并了结其原理\n8. 熟练掌握前端优化的方案，并在提升前端性能方面有自己的理解。\n9. 逻辑思维清晰, 沟通理解能力强, 能独挡一面, 工作态度积极主动.\n岗位职责：\n1. 负责前端界面的构建,及交互的设计与实现;\n2. 前端组件库以及基建工程的开发和维护",
+      "requiredSkills": [
+        "技术博客/开源项目有所贡献",
+        "Vue",
+        "Node.js",
+        "前端开发经验",
+        "Webpack"
+      ],
+      "address": "杭州滨江区自贸大厦15",
+      "longitude": 120.222946,
+      "latitude": 30.213625,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7919827c3bb6bc07e97430852403d878",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c59bdf7b789b2662ca4c15c89659bb98",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "30-50K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "fa2f92669c66eee31Hc~",
+      "brandName": "BOSS直聘",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/3e9d37e9effaa2b6daf43f3f03f7cb15cfcd208495d565ef66e7dff9f98764da.jpg",
+      "industryName": "人力资源服务",
+      "stageName": "已上市",
+      "scaleName": "1000-9999人",
+      "brandIntroduce": "BOSS直聘是一款在全球范围内率先发展移动互联网“直聘”模式的在线招聘APP，于2014年7月上线，2021年6月在纳斯达克上市。\n\nBOSS直聘致力于用技术的手段和用户第一的服务理念，为招聘者和求职者搭建高效、便捷、易用的求职招聘的平台。\n\nBOSS直聘产品的核心是“移动+智能匹配+直聊”，通过将在线聊天功能引入招聘场景，让应聘者和用人方直接沟通，让招聘最终决策者直接参与线上招聘，跳过传统的冗长环节，提升效率。\n\nBOSS直聘应用前沿人工智能技术，不断追求岗位与人才的多维度的智能匹配，提升招聘效果。",
+      "comName": "北京华品博睿网络技术有限公司",
+      "legalPerson": "赵鹏",
+      "startDate": "2013-12-25",
+      "regCapital": "1000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "北京市朝阳区太阳宫中路16号院1号楼18层1801内09",
+      "businessScope": "技术推广服务；计算机系统服务；软件开发；电脑图文设计；承办展览展示活动；企业策划；会议服务；企业管理咨询；经济贸易咨询；销售电子产品、机械设备、通讯设备、计算机、软件及辅助设备、服装、鞋帽、针纺织品、日用品、箱包、文具用品、乐器、玩具；设计、制作、代理、发布广告；销售食品；出版物零售；出版物批发；广播电视节目制作；从事互联网文化活动；人力资源服务；经营电信业务。（市场主体依法自主选择经营项目，开展经营活动；从事互联网文化活动、出版物批发、出版物零售、销售食品、经营电信业务、广播电视节目制作、人力资源服务以及依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事国家和本市产业政策禁止和限制类项目的经营活动。）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "BOSS直聘是一款在全球范围内率先发展移动互联网“直聘”模式的在线招聘APP，于2014年7月上线，2021年6月在纳斯达克上市。\n\nBOSS直聘致力于用技术的手段和用户第一的服务理念，为招聘者和求职者搭建高效、便捷、易用的求职招聘的平台。\n\nBOSS直聘产品的核心是“移动+智能匹配+直聊”，通过将在线聊天功能引入招聘场景，让应聘者和用人方直接沟通，让招聘最终决策者直接参与线上招聘，跳过传统的冗长环节，提升效率。\n\nBOSS直聘应用前沿人工智能技术，不断追求岗位与人才的多维度的智能匹配，提升招聘效果。",
+      "encryptComId": "048a6517ea6ebbab0nB63NS8"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "C++",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZXXWvFEeQV.search.1",
+          "performance": "",
+          "salaryDesc": "25-30K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "C++",
+            "计算机相关专业",
+            "音视频相关开发经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "C++",
+              "highlight": false
+            },
+            {
+              "content": "计算机相关专业",
+              "highlight": false
+            },
+            {
+              "content": "音视频相关开发经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "e07796e5a8e23aef1XN_09W8ElRX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "BOSS直聘",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/3e9d37e9effaa2b6daf43f3f03f7cb15cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "杨鹏伟",
+          "bossTitle": "开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190222/89e0c0c1a52b3f6c6125fe1df68b377baccb6dfeaedd3a8882891b3beeaba00c_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "C++",
+            "计算机相关专业",
+            "音视频相关开发经验",
+            "软件工程师"
+          ],
+          "welfares": [],
+          "securityId": "3wLDpXiGLol0S-B1cNoBEKj74tf1GGeI1mAhX5q9k893E54-68XtzSMmlJkA3Bb-fjT4O_o~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "JAVA架构师(高薪+股票)",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "滨江区政府",
+          "distance": "",
+          "lid": "ZXXWvFEeQV.search.2",
+          "performance": "",
+          "salaryDesc": "50-70K·16薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "后端开发",
+            "多线程",
+            "高并发"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端开发",
+              "highlight": false
+            },
+            {
+              "content": "多线程",
+              "highlight": false
+            },
+            {
+              "content": "高并发",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "9a010f4a65ea708c1n1_3di5EltU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "BOSS直聘",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/3e9d37e9effaa2b6daf43f3f03f7cb15cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "于女士",
+          "bossTitle": "HRBP",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220307/607f1f3d68754fd0c363ba61d7fd7c8ab27e8b691a696395dd619f19cc1305dfb864f57fa7ea18dd_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端开发",
+            "多线程",
+            "高并发",
+            "Java",
+            "低延迟",
+            "Java架构"
+          ],
+          "welfares": [],
+          "securityId": "3spFFCeWUg5uS-Q1k9O9Zrgk8W3ucoPqa2MF--SKQE0mNpYEb5z4eD3nVugKmPozcQMWgmI~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "游戏技术美术TA",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZXXWvFEeQV.search.3",
+          "performance": "",
+          "salaryDesc": "12-16K",
+          "jobLabels": [
+            "3-5年",
+            "大专",
+            "游戏引擎",
+            "Android",
+            "Shader"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "游戏引擎",
+              "highlight": false
+            },
+            {
+              "content": "Android",
+              "highlight": false
+            },
+            {
+              "content": "Shader",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "d166b224a5bd2a4d1XV_3Nq6EVZY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "BOSS直聘",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/3e9d37e9effaa2b6daf43f3f03f7cb15cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "梁雪",
+          "bossTitle": "人事经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210222/2fd7747ad853103b8cd5b659c47b1ffb502d50c2e15bc04d41f856bd915a2479_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "游戏引擎",
+            "Android",
+            "Shader"
+          ],
+          "welfares": [],
+          "securityId": "ykzeHgwe3hwUx-U1K8deXAKUTFt9hypioH9mNTeekLBqkLS1HEghBUZmAbCi00WY6oN5z1U~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": null,
+          "businessName": null,
+          "distance": "",
+          "lid": "ZXXWvFEeQV.search.4",
+          "performance": "",
+          "salaryDesc": "18-28K·14薪",
+          "jobLabels": [
+            "在校/应届",
+            "本科",
+            "React",
+            "Vue",
+            "Electron"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "在校/应届",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "React",
+              "highlight": false
+            },
+            {
+              "content": "Vue",
+              "highlight": false
+            },
+            {
+              "content": "Electron",
+              "highlight": false
+            }
+          ],
+          "jobType": 5,
+          "encryptJobId": "61658d3bb3b3b7e61HRy2dW7EFVZ",
+          "afterNameIcon": null,
+          "afterNameIcons": [
+            "https://img.bosszhipin.com/beijin/mcs/banner/4d77f815083a7850d8c5188f10b2ff0dcfcd208495d565ef66e7dff9f98764da.png"
+          ],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 11,
+          "iconUrl": "",
+          "brandName": "BOSS直聘",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/3e9d37e9effaa2b6daf43f3f03f7cb15cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "崔小玲",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230402/607f1f3d68754fd0f46d17e02598279939b91963d4bedcd7d29b50098b8d6bd05d4424de33e64d4a_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "React",
+            "Vue",
+            "Electron",
+            "Webpack"
+          ],
+          "welfares": [],
+          "securityId": "Bs8pyp6XYpZEA-l1PJ-3-uIie1xEb9sUjJcXeSGWgxwhvn9oqIfPiLYR_7OT4mYDCLYNN6S8",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZXXWvFEeQV.search.6",
+          "performance": "",
+          "salaryDesc": "30-40K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "后端工程师",
+            "Java",
+            "Spring"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "32d320fbfecec0511XNz3dS6FlBU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "BOSS直聘",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/3e9d37e9effaa2b6daf43f3f03f7cb15cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "范先生",
+          "bossTitle": "技术专家",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": {
+            "listingOnline": {
+              "onlineImgUrl": "https://img.bosszhipin.com/beijin/mcs/banner/a403e91441cbb05c6894e9f5593291fdcfcd208495d565ef66e7dff9f98764da.png",
+              "widthPx": 132,
+              "heightPx": 51
+            },
+            "detailOnline": {
+              "onlineImgUrl": "https://img.bosszhipin.com/beijin/mcs/banner/a403e91441cbb05c6894e9f5593291fdcfcd208495d565ef66e7dff9f98764da.png",
+              "widthPx": 132,
+              "heightPx": 51
+            }
+          },
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "Java",
+            "Spring",
+            "计算机/软件工程相关经验",
+            "Java开发经验",
+            "分布式系统开发经验"
+          ],
+          "welfares": [],
+          "securityId": "BhffeqP8Tr0YF-s1_qQb1PIua18JfkxsG3EAKmYr5wsJY7gYm5jYh0TCp8vgcIJxRKIH8NO68n_UeonHOj0dlkTT6ws1ut9dDdMwQt8709Y~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

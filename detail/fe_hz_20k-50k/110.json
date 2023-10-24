@@ -1,0 +1,522 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "7AsLfEzVrjZp6-I1DY93eeixwVAebYNq0-WsWl2kyMekesuTYUUkc8fGtmuY6WvSj155rUzHF8WnCKW2l9tAQjOOtjcRBFldSC_NrI_GGl5hHNzLBas-kBG8W5BnZC1kDcXV-6HC",
+    "bossBaseInfoVO": {
+      "encryptBossId": "f206c2b3dce703bd0XR509S-Fw~~",
+      "bossId": 6038937,
+      "securityId": "1OCCMSrQ4g4Gl-Z1iPTxneQT0S7SouoWmVj3F10oc8Nj_fb4F0jldjdk7Q10DVwisYBuiUnaiYSyT2U90uH30DPfWlc~",
+      "name": "陈新",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230207/607f1f3d68754fd014d2e69de57535fad0440ce1918a59bf656247dd4cd4ab62829530e1fe2fc9ed_s.jpg",
+      "title": "前端技术专家",
+      "activeTimeDesc": "2月内活跃",
+      "activeTime": 1694665953000,
+      "bossOnline": false,
+      "brandName": "LAZADA",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 264885932,
+      "encryptJobId": "3af80d72a4e4dc4c1XJ-09W4GVFS",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "五常",
+      "locationDesc": "杭州·余杭区·五常",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 20,
+      "highSalary": 40,
+      "jobDesc": "1.精通各种前端技术（包括HTML/CSS/JavaScript等），熟悉ES6语法，具备跨终端（Mobile+PC）的前端开发能力，熟悉网络协议（HTTP/SSL），熟悉常见安全问题和对策； \n2.熟悉前端工程化与模块化开发，并有实践经验（如gulp/webpack、VueJS/React等）； \n3.至少熟悉一门非前端的语言（如NodeJS/Java/PHP/C/C++/Python/Ruby等），并有实践经验； \n4.对前端技术有持续的热情，良好的团队协作能力，提升团队研发效率，实现极致性能，通过创新交互优化产品体验； \n5.加分项（满足其一即可）：具备客户端能力或者Native&Web技术融合经验；熟悉Canvas动效&WebGL3D以及各种传感器技术；复杂企业后台应用开发经验；数据可视化产品设计开发经验；大规模/高负载场景下NodeJS应用开发、运维经验；良好的算法背景，对机器学习有研究和项目实施经验；有独立的开源项目或者参与知名开源项目经验；团队管理能力；英语沟通能力； \n6、层级要求：P6、P7",
+      "requiredSkills": [
+        "Javascript",
+        "前端开发",
+        "Node.js"
+      ],
+      "address": "杭州余杭区阿里巴巴西溪A区a区",
+      "longitude": 120.025512,
+      "latitude": 30.278915,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0088fa3e243f6cdff5cac54523ecb65c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c3d6216fce06abe1ef808fba2324e4cd",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-40K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "4e0608a0705b2c3c1nR729y5GQ~~",
+      "brandName": "LAZADA",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230427/7bf6f160950405e9639c7a35e9f6c4ce0843120d67730920341f64abc9f32e8f772abdda960ee624.jpg",
+      "industryName": "电子商务",
+      "stageName": "不需要融资",
+      "scaleName": "10000人以上",
+      "brandIntroduce": "Lazada集团是东南亚旗舰电商平台。\n成立10年以来，Lazada始终致力于通过商业和技术创新促进印度尼西亚、马来西亚、菲律宾、新加坡、泰国和越南等六市场发展。\n今天，Lazada日渐繁荣的数字生态系统已成功帮助东南亚消费者和每月超过100万的活跃卖家链接起来，他们可以透过Lazada钱包等可信赖的支付渠道安全地进行交易，并享受到在东南亚覆盖最广的极致物流体验。Lazada集团的目标是到2030年服务三亿消费者，并成为品牌和卖家实现数字化转型的最佳选择。\n2022年，Lazada基金会宣布成立，以赋能数字时代的青年和女性发展，缩小性别数字鸿沟，促进东南亚数字经济的整体发展。",
+      "comName": "深圳市来赞达软件科技有限公司",
+      "legalPerson": "王皓",
+      "startDate": "2017-03-09",
+      "regCapital": "1650万香港元",
+      "statusDesc": "存续",
+      "regAddress": "深圳市前海深港合作区前湾一路1号A栋201室（入驻深圳市前海商务秘书有限公司）",
+      "businessScope": "一般经营项目是：服装、家用电器、数码产品、家具、个人护理产品的批发、零售（不涉及外商投资准入特别管理措施）、佣金代理（拍卖除外）、进出口相关配套业务（涉及国营贸易、配额、许可证及专项管理规定的商品，按国家有关规定办理申请后经营）；依托第三方平台开展服装、家用电器、数码产品、家具、个人护理产品的销售（不涉及外商投资准入特别管理措施）；行业应用软件、计算机软件的技术开发；计算机系统集成服务；网页设计；计算机网络的技术开发；计算机及相关配套设施的技术服务。（以上各项涉及法律、行政法规、国务院决定禁止的项目除外，限制的项目须取得许可后方可经营）。市场营销策划；电子商务平台的技术咨询；商务信息咨询（均不含限制项目）。，许可经营项目是：电子商务培训（不含学历教育）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "Lazada集团是东南亚旗舰电商平台。\n成立10年以来，Lazada始终致力于通过商业和技术创新促进印度尼西亚、马来西亚、菲律宾、新加坡、泰国和越南等六市场发展。\n今天，Lazada日渐繁荣的数字生态系统已成功帮助东南亚消费者和每月超过100万的活跃卖家链接起来，他们可以透过Lazada钱包等可信赖的支付渠道安全地进行交易，并享受到在东南亚覆盖最广的极致物流体验。Lazada集团的目标是到2030年服务三亿消费者，并成为品牌和卖家实现数字化转型的最佳选择。\n2022年，Lazada基金会宣布成立，以赋能数字时代的青年和女性发展，缩小性别数字鸿沟，促进东南亚数字经济的整体发展。",
+      "encryptComId": "70208fcf15051ff41Hx93N-9GVQ~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "Java架构工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "ZZ9Mr1wBjh.search.1",
+          "performance": "",
+          "salaryDesc": "35-55K·13薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "架构师",
+            "Java",
+            "MySQL"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "架构师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "MySQL",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "16a0bd09830042471XFz0tS8ElNQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "LAZADA",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230427/7bf6f160950405e9639c7a35e9f6c4ce0843120d67730920341f64abc9f32e8f772abdda960ee624.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "周春雷",
+          "bossTitle": "技术经理",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "架构师",
+            "Java",
+            "MySQL",
+            "Java开发经验",
+            "中大型项目架构设计经验",
+            "团队管理经验"
+          ],
+          "welfares": [],
+          "securityId": "IqHRF3KFczq6b-d19p0ln2BQBD4wHGg2Uahz-1y4cK9H8uKVA-F83SAyJ9CLxPZRtkqpww~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java 后端开发",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "ZZ9Mr1wBjh.search.2",
+          "performance": "",
+          "salaryDesc": "30-50K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "后端工程师",
+            "Java",
+            "Spring"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "85e42f164a3f63711X1839-1ElBU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "LAZADA",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230427/7bf6f160950405e9639c7a35e9f6c4ce0843120d67730920341f64abc9f32e8f772abdda960ee624.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "郭泽鑫",
+          "bossTitle": "Java研发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210617/1aa544d2cbaba01554af56491da355270952d005337e3612955ef0c019e4e7ec_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "Java",
+            "Spring",
+            "MyBatis",
+            "Java开发经验",
+            "分布式系统开发经验",
+            "中大型项目架构设计经验"
+          ],
+          "welfares": [],
+          "securityId": "58yfrMOCd04SO-a1ULo4rbBZ8Uz-5tfZIcfeaK9LyICxhaD07rSGNQeFqzvSsPBQ0X0dOK0~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "数据分析师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "ZZ9Mr1wBjh.search.3",
+          "performance": "",
+          "salaryDesc": "25-50K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "SQL",
+            "Python",
+            "Power BI"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "Power BI",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "99ef849091b7bf581HRz0tW0FVFY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "LAZADA",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230427/7bf6f160950405e9639c7a35e9f6c4ce0843120d67730920341f64abc9f32e8f772abdda960ee624.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "戴先生",
+          "bossTitle": "工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210601/440452a202a4cc01a901d3ba944a413de769f960ece372c475e486ccf0b38195_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "SQL",
+            "Python",
+            "Power BI",
+            "数学/统计相关专业",
+            "计算机相关专业",
+            "数据分析/挖掘经验"
+          ],
+          "welfares": [],
+          "securityId": "0pB99V9tsIVhu-j11b7mRbSGFi_xpBqrYNHx3BlMQJ66gvstuFnMlfF4WbgWQ6NFDdM0HqY~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "爬虫工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZZ9Mr1wBjh.search.4",
+          "performance": "",
+          "salaryDesc": "20-40K·14薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "爬虫工程师",
+            "Python",
+            "Java"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "爬虫工程师",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "9023a4a1e0e62f7c1HR42t-8GFBU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "LAZADA",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230427/7bf6f160950405e9639c7a35e9f6c4ce0843120d67730920341f64abc9f32e8f772abdda960ee624.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "赵阳",
+          "bossTitle": "Senior  engineer",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "爬虫工程师",
+            "Python",
+            "Java",
+            "爬虫开发经验",
+            "反爬策略和实践经验"
+          ],
+          "welfares": [],
+          "securityId": "oARj6bDSC57XD-h1Bj7u2LfNQQWmJLaM4q5-aTxDxXA1ZO3JYz6fGUtVAdfYYk-hDHd4hPnB",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级开发工程师/资深研发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "ZZ9Mr1wBjh.search.5",
+          "performance": "",
+          "salaryDesc": "30-40K·16薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "后端工程师",
+            "MyBatis",
+            "Redis"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "MyBatis",
+              "highlight": false
+            },
+            {
+              "content": "Redis",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "5a997fe47a3144361XJ73N28F1ZT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "LAZADA",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230427/7bf6f160950405e9639c7a35e9f6c4ce0843120d67730920341f64abc9f32e8f772abdda960ee624.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "王勉",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "MyBatis",
+            "Redis",
+            "SpringBoot"
+          ],
+          "welfares": [],
+          "securityId": "T4UC20L3hlgV4-51PhdWCo1k1CeHXPeNRtBkdd8ssd6EAeru5vBNT3ak3AqIbx9EcQWeGnY~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

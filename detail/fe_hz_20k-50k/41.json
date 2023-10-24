@@ -1,0 +1,503 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "g5I6cxRKsT1HD-M15elrwCMC3MfPkgteaywTRLwXrhaSJXlk8lSydqoq77H-buTqMx8BF_QU_TtIJX5dB8lrpkXSYHeX5nkWipzksf0c6wIvAorIlCYMKPdmLuZn2S0jo64hB3ij",
+    "bossBaseInfoVO": {
+      "encryptBossId": "a4a91975a6585ffa1XR82dy8Els~",
+      "bossId": 20621129,
+      "securityId": "MYxpDB6kA4VDC-A18YWfS94GAOtiqCIdn_Cmm2md8acS5OnJ6rgGu7h2Qmc7RWwVslG4QQFbIEqTFhOI9y7hKGsQBmN9",
+      "name": "徐先生",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170105/e8582f09dd2981db5e850b1720ee2ac78c7dd922ad47494fc02c388e12c00eac_s.jpg",
+      "title": "资深软件开发",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1655540556000,
+      "bossOnline": false,
+      "brandName": "微策略",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 188948683,
+      "encryptJobId": "4019a7fb6f9b1b281nxy0tm1FlpT",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "文二路",
+      "locationDesc": "杭州·西湖区·文二路",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "lowSalary": 20,
+      "highSalary": 35,
+      "jobDesc": "负责系统前端开发工作，协调界面设计师和开发人员的工作，\n熟悉HTML/CSSJavaScript， \n熟悉vue/react/angular",
+      "requiredSkills": [
+        "前端开发",
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "ES6",
+        "Sass"
+      ],
+      "address": "杭州西湖区微策略软件公司7",
+      "longitude": 120.127913,
+      "latitude": 30.275593,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/315ed509597d1bc5230efc592b3a100c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e23e85535778b329232228024a9dea74",
+      "salaryMonth": 0,
+      "performance": "额外项目奖不在上述范围内",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-35K·14薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "defedbf8d18fd2631ndy39i9",
+      "brandName": "微策略",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160612/4440dec7abf0912ff3c3256868b09e0aa913d92db28697eac97819731866a743.jpg",
+      "industryName": "数据服务",
+      "stageName": "已上市",
+      "scaleName": "1000-9999人",
+      "brandIntroduce": "微策略MicroStrategy是全球最大的商务智能软件公司(NASDAQ:MSTR)。自1989年创建之日起，MicroStrategy一直是全球商务智能软件领域的领导者，并不断引领业内技术发展潮流。公司拥有商务智能分析平台、移动网络平台、信息安全平台、云计算平台的等顶尖的产品，并广泛服务于全球各国的政府、机构和财富500强各行业的企业，成为客户商业活动、经营运作、计划决策中不可缺少的一部分。\n\n多年以来，凭借强大的技术资源和卓越的经营理念，MicroStrategy及其产品一直处于行业的领导地位：\n•第一个在互联网及移动网上提供商务智能软件的公司\n•移动智能产品在业界多项主流分析报告中排在首位\n•拥有领先的数据分析，智能计算及信息发掘能力\n•可以高效处理高于业内其它软件100倍的数据量\n•获得了大量高质量的发明专利（美国）\n\nMicroStrategy的客户涵盖各行各业，典型客户包括：\n•全球10大银行中前8席及美国4大商业银行的所有席位\n•全球医疗保健行业前8强的5席\n•全球保险行业前6强的5席 \n•全球制造行业前10强的8席\n•全球制药行业前10强的9席\n•全球通讯公司前10强的所有席位\n•全球娱乐媒体公司前5强的4席\n•全球零售业前500强的2/3席位\n\n更多信息可访问微策略官网：https://www.microstrategy.com/zh",
+      "comName": "微策略软件（杭州）有限公司",
+      "legalPerson": "PHUA CHENG PIEW",
+      "startDate": "2007-08-13",
+      "regCapital": "42.5万美元",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市西湖区学院路77号A楼7层701-706室、8层",
+      "businessScope": "研究、开发、设计：计算机软、硬件，信息系统产品，网络产品；生产：计算机软件，信息系统产品，网络产品；销售自产产品并提供相关技术服务和技术支持；计算机软件（游戏软件除外）的批发、佣金代理（拍卖除外）、计算机软件的进出口业务并提供相关维修和售后服务、技术咨询和技术支持服务及其他相关配套业务。（涉及国家规定实施准入特别管理措施的除外）（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "微策略MicroStrategy是全球最大的商务智能软件公司(NASDAQ:MSTR)。自1989年创建之日起，MicroStrategy一直是全球商务智能软件领域的领导者，并不断引领业内技术发展潮流。公司拥有商务智能分析平台、移动网络平台、信息安全平台、云计算平台的等顶尖的产品，并广泛服务于全球各国的政府、机构和财富500强各行业的企业，成为客户商业活动、经营运作、计划决策中不可缺少的一部分。\n\n多年以来，凭借强大的技术资源和卓越的经营理念，MicroStrategy及其产品一直处于行业的领导地位：\n•\t第一个在互联网及移动网上提供商务智能软件的公司\n•\t移动智能产品在业界多项主流分析报告中排在首位\n•\t拥有领先的数据分析，智能计算及信息发掘能力\n•\t可以高效处理高于业内其它软件100倍的数据量\n•\t获得了大量高质量的发明专利（美国）\n\nMicroStrategy的客户涵盖各行各业，典型客户包括：\n•\t全球10大银行中前8席及美国4大商业银行的所有席位\n•\t全球医疗保健行业前8强的5席\n•\t全球保险行业前6强的5席 \n•\t全球制造行业前10强的8席\n•\t全球制药行业前10强的9席\n•\t全球通讯公司前10强的所有席位\n•\t全球娱乐媒体公司前5强的4席\n•\t全球零售业前500强的2/3席位\n\n更多信息可访问微策略官网：https://www.microstrategy.com/zh",
+      "encryptComId": "4a580d68b1e5bdbf0nB92tS1"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "(Senior) Software Engineer",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "文二路",
+          "distance": "",
+          "lid": "105TDm8gqgh.search.1",
+          "performance": "",
+          "salaryDesc": "14-28K·13薪",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "SQL",
+            "VC++"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "VC++",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "492dc3bcf42eec381nF_3NS4GVpQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "微策略",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160612/4440dec7abf0912ff3c3256868b09e0aa913d92db28697eac97819731866a743.jpg",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "荆玲",
+          "bossTitle": "Senior Product Owner",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "SQL",
+            "VC++"
+          ],
+          "welfares": [],
+          "securityId": "i2Yzavywbt5SP-U1v_WtpPf5ut23mCuEV2VlDbozOe8xzrXaMEjZWvZEwmJ50j_lpEG8zcNQ",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "软件工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "文二路",
+          "distance": "",
+          "lid": "105TDm8gqgh.search.2",
+          "performance": "",
+          "salaryDesc": "20-40K·13薪",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "Python",
+            "Go",
+            "SQL"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "Go",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "4844ed98d2a513bf1XR-09q6E1JQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "微策略",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160612/4440dec7abf0912ff3c3256868b09e0aa913d92db28697eac97819731866a743.jpg",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "李杨",
+          "bossTitle": "SE Principal",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210319/c86e68b764cd00bc98c5b1cc684ff9835a9bf048a3f640048b1268d6cffea38d_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Python",
+            "Go",
+            "SQL",
+            "软件工程师",
+            "后端开发",
+            "客户端开发"
+          ],
+          "welfares": [],
+          "securityId": "PozXrcaobwQLZ-C1tYIYWm4rfgite-GiKT2e5knTcuqeJiWfQaNxTBQ4cQpa-sTSsaVTfag~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "后端测试工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "文二路",
+          "distance": "",
+          "lid": "105TDm8gqgh.search.3",
+          "performance": "",
+          "salaryDesc": "20-40K·13薪",
+          "jobLabels": [
+            "经验不限",
+            "硕士",
+            "软件测试",
+            "自动化测试",
+            "性能测试"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "软件测试",
+              "highlight": false
+            },
+            {
+              "content": "自动化测试",
+              "highlight": false
+            },
+            {
+              "content": "性能测试",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "fa9f9ffd3e2b92011nJ539q6F1tW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "微策略",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160612/4440dec7abf0912ff3c3256868b09e0aa913d92db28697eac97819731866a743.jpg",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "彭朋",
+          "bossTitle": "产品经理",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "软件测试",
+            "自动化测试",
+            "性能测试",
+            "功能测试",
+            "接口测试",
+            "系统测试",
+            "压力测试",
+            "安全测试"
+          ],
+          "welfares": [],
+          "securityId": "KNMkJ8KowThpf-U1QyAGJfLHab9Wjen2z1xYBQ_1hmLFvP7PqNSi5LPpfVmObL9DPqP8RYQ~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "iOS开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "文二路",
+          "distance": "",
+          "lid": "105TDm8gqgh.search.4",
+          "performance": "",
+          "salaryDesc": "20-40K·13薪",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "Swift",
+            "Objective-C",
+            "MVVM"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Swift",
+              "highlight": false
+            },
+            {
+              "content": "Objective-C",
+              "highlight": false
+            },
+            {
+              "content": "MVVM",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "bc18f5ebf4ea0df41XV40tu7FlBR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "微策略",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160612/4440dec7abf0912ff3c3256868b09e0aa913d92db28697eac97819731866a743.jpg",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "周先生",
+          "bossTitle": "Product Owner",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Swift",
+            "Objective-C",
+            "MVVM",
+            "CoreData"
+          ],
+          "welfares": [],
+          "securityId": "i3egBCtmf4ibW-O1oX791A2l86Udvju9UcQOTMPk4c_a9XkFjZvuznxECK0uhEYoCaIR6VE~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "软件测试工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "文二路",
+          "distance": "",
+          "lid": "105TDm8gqgh.search.5",
+          "performance": "",
+          "salaryDesc": "20-40K·13薪",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "软件测试"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "软件测试",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "ebee80e6f96da1501nN_3NW6FVJU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "微策略",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160612/4440dec7abf0912ff3c3256868b09e0aa913d92db28697eac97819731866a743.jpg",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "高扬",
+          "bossTitle": "Senior Software Engineer",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210817/f9be76759b80d030b4e50ab7d1508dd1f590f80b7bb646f95538509ca5907ba4_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "软件测试"
+          ],
+          "welfares": [],
+          "securityId": "kEoUe2DljBnAL-C1e0HZmH_qIlqS4RzPWr_FXD0bU_nwIJfFvcMfBlRXj5mrgHXcrxGzOjM~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

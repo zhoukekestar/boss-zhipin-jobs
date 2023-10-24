@@ -1,0 +1,295 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "huxeUyBxQ9DRR-F1TPsrAFA03jaF7GJOEZjCi3vpvUXlUNGCs5N5a2mqDuJM9Wzq64CSK25_2BF5K4ja3c6hKcxHbZ1i1oLWiZEqAgIz4WTP1Ju0pZ179rE4n_JMTTW8ldYbco_fFQ~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "a14cd6ae0eaa7df81nJz39u1FA~~",
+      "bossId": 1694684,
+      "securityId": "fz_Ji0LEKFlX3-y1xI2_syaVCiQ7cA-tt_nIq8T1b4dLkk4YWzaCIOVRzMKYf6UpPe9fgVRdENaVxW4DQk6txgtALyg~",
+      "name": "哈岚丹",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230419/607f1f3d68754fd0e224c2e1a8466e1240ce4c9c203f3ae45074184b6fffb485eda4a69371db4b6f_s.jpg",
+      "title": "招聘经理",
+      "activeTimeDesc": "3月内活跃",
+      "activeTime": 1691470346000,
+      "bossOnline": false,
+      "brandName": "海达英才",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 270052722,
+      "encryptJobId": "116fe7a8c388ef681XN629i_F1BS",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端研发leader",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "仓前",
+      "locationDesc": "杭州·余杭区·仓前",
+      "experienceName": "5-10年",
+      "degreeName": "本科",
+      "lowSalary": 25,
+      "highSalary": 50,
+      "jobDesc": "岗位职责：\n1、负责多终端产品的前端设计、开发、优化、维护；\n2、有2年以上团队管理经验；\n3、与app端、后端工程师配合，完成功能的研发和调试；\n4、探索和实践移动端混合开发、移动端动态化方案等任职要求。\n\n任职要求：\n1、全日制统招本科及以上学历，计算机相关专业；\n2、5年及以上的前端领域开发经验，能独立完成交付；\n3、2年以上团队管理经验；\n4、对前端的基础知识，CSS、JavaScript、Typescript、性能优化、网络原理等有深入的理解；\n5、良好的前端架构能力，熟练目前各类主流前端框架（ React / Vue / Angular 之一 ）并理解相关实现原理；\n6、了解移动端混合架构（Hybrid / React Native / Flutter 等）；\n7、了解 Node Server 框架（ Express / Koa 等 ）；\n8、具备新技术洞察能力，有良好的团队合作精神和沟通能力，敢于挑战。",
+      "requiredSkills": [
+        "JavaScript",
+        "CSS",
+        "React",
+        "前端开发经验",
+        "架构师经验",
+        "计算机/软件工程相关专业"
+      ],
+      "address": "杭州余杭区欧美金融城(EFC)英国中心",
+      "longitude": 120.002985,
+      "latitude": 30.28106,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fd2735c3d742bdb8a282c4077dc2deeb",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/287c0aceff2d9048d4335f416360077f",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "25-50K·15薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "88af70bd84c301301XB90920FVc~",
+      "brandName": "海达英才",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "industryName": "人力资源服务",
+      "stageName": "不需要融资",
+      "scaleName": "0-20人",
+      "brandIntroduce": "承接各企业管理咨询业务",
+      "comName": "北京海达英才管理咨询有限公司",
+      "legalPerson": "哈岚丹",
+      "startDate": "2023-01-03",
+      "regCapital": "100万人民币",
+      "statusDesc": "存续",
+      "regAddress": "北京市海淀区连桥二街9号院2号楼7层736",
+      "businessScope": "一般项目：企业管理咨询；企业形象策划；信息咨询服务（不含许可类信息咨询服务）；社会经济咨询服务；信息技术咨询服务；教育咨询服务（不含涉许可审批的教育培训活动）；健康咨询服务（不含诊疗服务）；咨询策划服务；人力资源服务（不含职业中介活动、劳务派遣服务）；市场调查（不含涉外调查）；劳务服务（不含劳务派遣）。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）（不得从事国家和本市产业政策禁止和限制类项目的经营活动。）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "承接各企业管理咨询业务",
+      "encryptComId": "9f176f4c0a5b5ab71Hx439-6GVc~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "Android研发Leader",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZS4KE5Lpbm.search.1",
+          "performance": "",
+          "salaryDesc": "25-50K·15薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "Android客户端产品研发",
+            "架构设计/优化",
+            "Java"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Android客户端产品研发",
+              "highlight": false
+            },
+            {
+              "content": "架构设计/优化",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "f002d507ab012c401XN629i-FVFX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "海达英才",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "不需要融资",
+          "brandScale": "0-20人",
+          "comName": null,
+          "bossName": "哈岚丹",
+          "bossTitle": "招聘经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230419/607f1f3d68754fd0e224c2e1a8466e1240ce4c9c203f3ae45074184b6fffb485eda4a69371db4b6f_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Android客户端产品研发",
+            "架构设计/优化",
+            "Java",
+            "多线程编程能力",
+            "计算机/软件工程相关专业",
+            "Android开发经验",
+            "团队管理经验"
+          ],
+          "welfares": [],
+          "securityId": "yt61QWfmee2Tz-h1jkPmqV0kF-7A0HYAzczS4T47hWuK1Cu5ARIYJDckDN68YSBBTHZabA~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级后端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZS4KE5Lpbm.search.2",
+          "performance": "",
+          "salaryDesc": "40-60K·15薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "后端工程师",
+            "架构师",
+            "Java"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "架构师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "115fd363038cf00c1XNz2N-_ElFS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "海达英才",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "不需要融资",
+          "brandScale": "0-20人",
+          "comName": null,
+          "bossName": "哈岚丹",
+          "bossTitle": "招聘经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230419/607f1f3d68754fd0e224c2e1a8466e1240ce4c9c203f3ae45074184b6fffb485eda4a69371db4b6f_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "架构师",
+            "Java",
+            "Spring"
+          ],
+          "welfares": [],
+          "securityId": "LufXjMe0F1yw2-J1gce15uElIlSxfE5wlctUwW0h8mcG48ctAwRNmxpAM473sVtrin2YOQ~~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

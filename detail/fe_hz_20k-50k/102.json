@@ -1,0 +1,499 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "djQedseBIELbg-Z1qlY6iB74sKsMLVi_Ou_EqNL61obiQzyh5RgIyS93KiDBuydJUmrIspsvKR4GoypNfGmYbgNfHAFxy0B7dysmNVv_CmAwUDn-7ULuMnBcNgsuwhFUGL09inSAjR4~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "b8a7b43e7c522e9e03Zy3Nu0FlE~",
+      "bossId": 42876963,
+      "securityId": "BrTxn7jK12SqR-t1DzK7pfksWEgLMBj_mZEz7cCAVD0U2M6OzfdkZN1A_JzdrTbbgM0B9SIeahMFUYEmo-uxo8x1DXjE",
+      "name": "陈先生",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+      "title": "招聘主管",
+      "activeTimeDesc": "刚刚活跃",
+      "activeTime": 1698144403144,
+      "bossOnline": false,
+      "brandName": "治享科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 285182537,
+      "encryptJobId": "5f26066e15386e481Xx_2tW_FVFX",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "长河",
+      "locationDesc": "杭州·滨江区·长河",
+      "experienceName": "5-10年",
+      "degreeName": "大专",
+      "lowSalary": 16,
+      "highSalary": 23,
+      "jobDesc": "职位描述：\n1. 负责PC端页面和部分H5页面开发，使用内部低码平台和组件，进行后台页面开发和移动端页面开发与维护。\n2. 与后端开发工程师、产品紧密协作，产出高质量的产品前端。\n3. 以敏捷迭代的方式对软件进行编码实现，保证质量，性能和安全性。\n任职资格\n职位要求：\n1. 大专及以上学历，5年及以上Web开发经验，有PC端和移动端项目开发经验优先。\n2. 熟练运用typescript、less，熟悉ECMAScript 6标准。\n3. 熟练运用VUE框架。\n4. 对webpack和vite有使用经验。",
+      "requiredSkills": [
+        "JavaScript",
+        "HTML5",
+        "Vue"
+      ],
+      "address": "杭州滨江区GEELY111",
+      "longitude": 120.219371,
+      "latitude": 30.208737,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/534bcb06e72608bda8c37d205f044abb",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ccf32f0d9c3d994a0a53de5f427b2f1e",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "16-23K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "c4815a7da395b28a1n162d-9FFs~",
+      "brandName": "治享科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210914/7bf6f160950405e9aa9cc50f798a65c6d17d250a7ecb5e1a48e3b39154d86dd23f0c31248b30d1b8.jpg",
+      "industryName": "互联网",
+      "stageName": "未融资",
+      "scaleName": "100-499人",
+      "brandIntroduce": "治享科技（浙江）有限公司（简称“治享科技”）成立于2019年7月，注册资本金2000万元人民币，总部位于浙江省杭州市。\n公司定位为数字化转型解决方案提供商，助力政府、电网、金融、交通、医药等行业的数字化转型，提供的服务方案包括：数据服务、中枢服务、数字驾驶舱、应用软件、技术外包服务等。",
+      "comName": "治享科技（浙江）有限公司",
+      "legalPerson": "张新军",
+      "startDate": "2019-07-30",
+      "regCapital": "1000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "中国（浙江）自由贸易试验区杭州市滨江区长河街道滨安路1197号7幢2505室（自主申报）",
+      "businessScope": "许可项目：第二类增值电信业务；广播电视节目制作经营（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。一般项目：技术进出口；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；人工智能公共服务平台技术咨询服务；人工智能基础资源与技术平台；人工智能应用软件开发；物联网技术研发；区块链技术相关软件和服务；大数据服务；软件开发；互联网数据服务；电子、机械设备维护（不含特种设备）；信息系统集成服务；信息咨询服务（不含许可类信息咨询服务）；工程管理服务；社会经济咨询服务；市场营销策划；市场调查（不含涉外调查）；品牌管理；广告制作；广告设计、代理；游览景区管理；物业管理；动漫游戏开发；摄像及视频制作服务；电影摄制服务；专业设计服务；文艺创作；电子产品销售；通讯设备销售；安防设备销售；家用视听设备销售；仪器仪表销售；办公用品销售；玩具、动漫及游艺用品销售；家居用品销售（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "治享科技（浙江）有限公司（简称“治享科技”）成立于2019年7月，注册资本金2000万元人民币，总部位于浙江省杭州市。\n公司定位为数字化转型解决方案提供商，助力政府、电网、金融、交通、医药等行业的数字化转型，提供的服务方案包括：数据服务、中枢服务、数字驾驶舱、应用软件、技术外包服务等。",
+      "encryptComId": "054f5809b7ec56b31HB73N24Flo~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "中级java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZZWFJ4kuSu.search.1",
+          "performance": "",
+          "salaryDesc": "9-12K",
+          "jobLabels": [
+            "3-5年",
+            "大专",
+            "后端工程师",
+            "Java",
+            "Spring"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "b6d0ea5443117b981HV_3tS1ElVX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "治享科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210914/7bf6f160950405e9aa9cc50f798a65c6d17d250a7ecb5e1a48e3b39154d86dd23f0c31248b30d1b8.jpg",
+          "brandStage": "未融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "俞女士",
+          "bossTitle": "招聘专员",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "Java",
+            "Spring",
+            "MyBatis"
+          ],
+          "welfares": [],
+          "securityId": "iks9ZYoXL5qDP-d1Uklg8yUJP2Yfn2_zyL_nDp9XhoLM-8TmrOFyGIr0WhDBN27X56R0_EM~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "杭州测试工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZZWFJ4kuSu.search.2",
+          "performance": "",
+          "salaryDesc": "15-21K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "自动化测试"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "自动化测试",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "126d069b235c2a141X192tS-EVZX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "治享科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210914/7bf6f160950405e9aa9cc50f798a65c6d17d250a7ecb5e1a48e3b39154d86dd23f0c31248b30d1b8.jpg",
+          "brandStage": "未融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "施露瑶",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200904/418135c4884ceca7a4e830ff44fe6906dc43010e8c9cec6f0e9ed034cf140e86_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "自动化测试"
+          ],
+          "welfares": [],
+          "securityId": "Jk6me0duOQGwt-t1K-AhCXPffIxQp6qcUvsS7Dr9YJpTm_TzLrCrB4SyIXzZJMiFTPru8ixK",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "java开发-B端",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZZWFJ4kuSu.search.3",
+          "performance": "",
+          "salaryDesc": "16-23K",
+          "jobLabels": [
+            "5-10年",
+            "大专",
+            "后端工程师",
+            "Java",
+            "MySQL"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "MySQL",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "bac19392a051ab7b1Xx809u0E1dR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "治享科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210914/7bf6f160950405e9aa9cc50f798a65c6d17d250a7ecb5e1a48e3b39154d86dd23f0c31248b30d1b8.jpg",
+          "brandStage": "未融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "陈先生",
+          "bossTitle": "招聘主管",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "Java",
+            "MySQL"
+          ],
+          "welfares": [],
+          "securityId": "AnDCDHw3A00NX--1LvGrcaElif0zhQzEu-0VoA4aJpmeg1e5IFc_ajBAO3TUUerJvBgL3ls~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZZWFJ4kuSu.search.4",
+          "performance": "",
+          "salaryDesc": "16-18K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "后端工程师",
+            "Java",
+            "Spring"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "568e035ca1b78a8e1HV709-4EFBS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "治享科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210914/7bf6f160950405e9aa9cc50f798a65c6d17d250a7ecb5e1a48e3b39154d86dd23f0c31248b30d1b8.jpg",
+          "brandStage": "未融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "孟女士",
+          "bossTitle": "人事专员",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230811/607f1f3d68754fd0fd8dfde5207f41ca154a69b40c7f293c6f52c3c6fdd6c20cf70fd530c8abf958_s.png.webp",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "Java",
+            "Spring",
+            "Java开发经验"
+          ],
+          "welfares": [],
+          "securityId": "rm9tCVtHzVqBS-A1R87KYnRu4RvUwN69xSjP5XEOHhnLFMbBbsCnE-mB-UUpLxLZeKDJakWd",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级java",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "西兴",
+          "distance": "",
+          "lid": "ZZWFJ4kuSu.search.5",
+          "performance": "",
+          "salaryDesc": "16-22K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "后端工程师",
+            "Java",
+            "MySQL"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "MySQL",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "da606588661c1cb01Xx809u6EVBW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "治享科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210914/7bf6f160950405e9aa9cc50f798a65c6d17d250a7ecb5e1a48e3b39154d86dd23f0c31248b30d1b8.jpg",
+          "brandStage": "未融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "陈先生",
+          "bossTitle": "招聘主管",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "Java",
+            "MySQL"
+          ],
+          "welfares": [],
+          "securityId": "FX8XAKU5-R5MM-R1jkf6ZBExWcTor6pk_yyWJtecTqSoIQMK2Rhi6_Qtsz5AKN2K_QWFexw~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

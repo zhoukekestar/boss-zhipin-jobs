@@ -1,0 +1,510 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "y1cKqvfhXu0Nx-j1t2OGbt5E2Y9n7ftnTCqy_9pwpizl8DwLYne3PHju-cZxf3WE1HuoJt00HH7C14gtkhmuJzE8VKhG_6qqWg2F32RgEGFPcdSwMSyV29dzfNU1GLKzTcratgqO_dn6rHevU7L_o16JvPFK9EuaGcORWa6ieF8gF5Mn",
+    "bossBaseInfoVO": {
+      "encryptBossId": "7162e70311a0cd8c1nR83du5E1JS",
+      "bossId": 106664302,
+      "securityId": "WHB8riq4LpmZy-U1-bQwkihSHdChQvi43xUe9Hu9wkkF27qcummTs51JyZpndAi-BwUZVWHNXUyph-yT9A-4jYc20UxAgQ~~",
+      "name": "汪女士",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+      "title": "HR",
+      "activeTimeDesc": "刚刚活跃",
+      "activeTime": 1698152016998,
+      "bossOnline": false,
+      "brandName": "上海圭正科技有限公司",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 298042684,
+      "encryptJobId": "4b941feb0468cea01X1y29m_FlpU",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "杭州前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "长河",
+      "locationDesc": "杭州·滨江区·长河",
+      "experienceName": "5-10年",
+      "degreeName": "本科",
+      "lowSalary": 17,
+      "highSalary": 21,
+      "jobDesc": "职位描述\nIT互联网类/前端开发\n1、负责APP、H5、微信小程序相关项目的前端开发工作；\n2、设计合理的前端技术方案，兼顾当前需求和未来发展的需要；\n3、主动参与项目流程梳理及用广体验改进。\n任职资格\n1、本科及以上学历；3年以上前端开发经验，具有独立项目开发能力；\n2、深度掌握vue，能理解其原理及设计思想；熟练使用 JavaScript &#40;ES6&#41; ；\n3、熟练掌握移动端布局及适配方案，高质量还原设计稿；\n4、深入理解前端工程化，参与或负责过大型前端项目者优先；\n5、有移动端开发经验，包括：原生、RN、Flutter 等优先；\n6、具有良好的服务意识、责任心，优秀的团队沟通和协作能力。",
+      "requiredSkills": [
+        "Vue",
+        "前端开发经验"
+      ],
+      "address": "杭州滨江区GEELY滨江区吉利大厦",
+      "longitude": 120.219371,
+      "latitude": 30.208737,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/130964aafdeb8756183c956880dd7c50",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d4caa3773098033c6e41b3f3216cc449",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "17-21K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "55dfb456b78392191XR_2tu6FVY~",
+      "brandName": "上海圭正科技有限公司",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "industryName": "计算机软件",
+      "stageName": "",
+      "scaleName": "20-99人",
+      "brandIntroduce": "",
+      "comName": "上海圭正科技有限公司",
+      "legalPerson": "夏韦晴",
+      "startDate": "2017-03-06",
+      "regCapital": "200万人民币",
+      "statusDesc": "存续",
+      "regAddress": "上海市嘉定区菊园新区环城路2222号6幢101室J2089",
+      "businessScope": "从事计算机软硬件科技专业领域内的技术咨询、技术开发、技术服务、技术转让，企业管理咨询，计算机软件及辅助设备的销售。  【依法须经批准的项目，经相关部门批准后方可开展经营活动】",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "",
+      "encryptComId": "ebf4905d5f6e31dd1HF709W8E1E~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "杭州测试",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "星光大道",
+          "distance": "",
+          "lid": "ZXjMJeGFAp.search.1",
+          "performance": "",
+          "salaryDesc": "10-14K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "自动化测试",
+            "测试工作经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "自动化测试",
+              "highlight": false
+            },
+            {
+              "content": "测试工作经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "2926e78a4215b38b1X1_3dS0E1tY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "上海圭正科技有限公司",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "汪女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "自动化测试",
+            "测试工作经验"
+          ],
+          "welfares": [],
+          "securityId": "SrfL81GhqpROJ-W1tcBHAX_5RtmEgc7QdRhIOn1yn91LZd8aW9IIMLhZ1v7CP3v5o2UhzDK1",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "测试",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZXjMJeGFAp.search.2",
+          "performance": "",
+          "salaryDesc": "14-17K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "性能测试",
+            "自动化测试",
+            "Java"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "性能测试",
+              "highlight": false
+            },
+            {
+              "content": "自动化测试",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "f7e34c79f22eab091HV929i7FFFT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "上海圭正科技有限公司",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "鲁女士",
+          "bossTitle": "招聘专员",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230504/607f1f3d68754fd0b7722581be2a9cdb56691093162a6d780bbab501604cc3a65969c0061d6a1fd8_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "性能测试",
+            "自动化测试",
+            "Java",
+            "Python",
+            "JMeter",
+            "测试工作经验"
+          ],
+          "welfares": [],
+          "securityId": "oyIGvzAiVaur1-x1wtToalS0gJMBGKx3M53ULkbj0eqfqqXM4mCg7AhtqoaazGtBCCffr88r",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "测试中级-杭州",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "西兴",
+          "distance": "",
+          "lid": "ZXjMJeGFAp.search.3",
+          "performance": "",
+          "salaryDesc": "9-12K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "性能测试",
+            "Java",
+            "Python"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "性能测试",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "4b2adbb773b88c741HV_0tu6GVFU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "上海圭正科技有限公司",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "贾女士",
+          "bossTitle": "招聘专员",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230316/607f1f3d68754fd066de10103657e25840232f249a3b61a2edaf67c88f57adb71d88b2bc9fa179a7_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "性能测试",
+            "Java",
+            "Python",
+            "计算机相关专业",
+            "测试工作经验",
+            "自动化测试经验"
+          ],
+          "welfares": [],
+          "securityId": "p9aHpMzmv1TuO-21FKPWcTfqXc8fCQGre4FF9kJDbzJzoUCxb6VMaEq85w86YOK53W-KuFM~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "杭州Java",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZXjMJeGFAp.search.4",
+          "performance": "",
+          "salaryDesc": "16-19K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "后端工程师",
+            "Java",
+            "Spring"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "10b18caf99493b331HR50tu8GFZS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "上海圭正科技有限公司",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "汪女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "Java",
+            "Spring",
+            "Java开发经验"
+          ],
+          "welfares": [],
+          "securityId": "6Dkz-fGntQuws-j1LvcqlTGEijeZyp-YwqT0jXZH_4Llm5xnAriGp1XauwantFETbUxuuI4u",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "自动化测试-",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "西兴",
+          "distance": "",
+          "lid": "ZXjMJeGFAp.search.5",
+          "performance": "",
+          "salaryDesc": "17-19K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "Java",
+            "Python",
+            "计算机相关专业"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "计算机相关专业",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "801e0c4f046c05051HV82d-5F1ZZ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "上海圭正科技有限公司",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "曾燕红",
+          "bossTitle": "招聘主管",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230326/607f1f3d68754fd0aea4b4cbcc536e1ce76929a502cf93b15cf03248bb8d98d6addd029d68d54564_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "Python",
+            "计算机相关专业",
+            "自动化"
+          ],
+          "welfares": [],
+          "securityId": "Q5yUA3kRTZoGW-m1rqhn_F7ZUDd8dDhzjvLaWSSIaSRyhbdzpXG-5XsP7w-XtzByNlSoZj0~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

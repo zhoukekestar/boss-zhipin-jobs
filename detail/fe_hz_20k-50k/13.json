@@ -1,0 +1,491 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "nmpA3dfUPP-KT-P12yZKuHWPRMztyUoET4JBt15AVKpwvzm9PT1GZ70dvJ57hL-Wg3SXiVFnlKejpM0ReTaIhoxYThSXRM6ViUK5ylbOrSLwzneHT5ZmmtCmHTOo6ETya-NORNkgGcx1",
+    "bossBaseInfoVO": {
+      "encryptBossId": "986d9333395a21530nF43Nu7EFZY",
+      "bossId": 552766048,
+      "securityId": "z9gLc9hsmTcBf-n1g58L2J4FY0q9E0sqSf69ib7ao8RMMavWNlry8J-Pvx9JZUv1kUPGjfxdGvi4eHVz7DpODLfi9PWtUg~~",
+      "name": "冯泽颖",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+      "title": "HR",
+      "activeTimeDesc": "2周内活跃",
+      "activeTime": 1697282136000,
+      "bossOnline": false,
+      "brandName": "零码软件",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 302925563,
+      "encryptJobId": "ee2e1de6a51836581HR40t-4FVRT",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端leader",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "长河",
+      "locationDesc": "杭州·滨江区·长河",
+      "experienceName": "5-10年",
+      "degreeName": "本科",
+      "lowSalary": 20,
+      "highSalary": 30,
+      "jobDesc": "岗位职责：\n1、负责前端整体的架构设计、技术方案的讨论等；\n2、负责前端核心代码的开发，配合日常业务需求迭代及产品优化；\n3、能够指导团队技术人员相关技术工作，提升团队技术能力；\n4、能够深入了解业务，优化实现方案，通过技术驱动产品发展，提升产品易用性。\n岗位要求：\n1、本科及以上学历，计算机、软件工程等相关专业；\n2、拥有5年及以上的前端开发工作经验，并有至少2年的团队管理经验；\n3、精通vue全家桶，并且使用过vue3，参与并上线过至少1个商业项目；\n4、具备良好的沟通能力和团队合作精神，有较强的自我驱动性和主动学习的意识，富有责任心。\n5、加分项：\na）了解微前端架构，曾领导过或者参与过微前端架构项目的经验者优先；\nb）了解低代码，有过低代码相关的项目经验者优先；\nc）了解数据可视化，有过开发各类图表应用的经验者优先。",
+      "requiredSkills": [
+        "前端开发经验"
+      ],
+      "address": "杭州滨江区盾安发展大厦811",
+      "longitude": 120.208683,
+      "latitude": 30.209891,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e58dc11ddadc3257114d626b2c877f1d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9c8918b01878ed79df2919aaf43b89c6",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-30K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "b97f9d42c106d9851XR92N27EVs~",
+      "brandName": "零码软件",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "industryName": "企业服务",
+      "stageName": "",
+      "scaleName": "0-20人",
+      "brandIntroduce": "通用型低代码平台，解决交付问题",
+      "comName": "杭州零码软件有限公司",
+      "legalPerson": "冯泽颖",
+      "startDate": "2022-01-20",
+      "regCapital": "100万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市滨江区西兴街道联慧街300号3楼307、308室-16（自主申报）",
+      "businessScope": "一般项目：软件开发；信息系统集成服务；信息技术咨询服务；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；货物进出口；技术进出口；进出口代理（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：互联网信息服务；第二类增值电信业务（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "通用型低代码平台，解决交付问题",
+      "encryptComId": "3e47de655008dd621HF-2N61FVE~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "前端leader",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "10arjj5aAis.search.1",
+          "performance": "",
+          "salaryDesc": "20-30K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "Vue",
+            "计算机/软件工程相关专业",
+            "前端开发经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Vue",
+              "highlight": false
+            },
+            {
+              "content": "计算机/软件工程相关专业",
+              "highlight": false
+            },
+            {
+              "content": "前端开发经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "ada889222c71ec261X1z3Nm5FlFX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "零码软件",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "",
+          "brandScale": "0-20人",
+          "comName": null,
+          "bossName": "马女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230731/607f1f3d68754fd01240f0274fe40c7b2c518b67759d9a1d0679b0595c95214b6bad42b08167a5e9_s.jpg.webp",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Vue",
+            "计算机/软件工程相关专业",
+            "前端开发经验"
+          ],
+          "welfares": [],
+          "securityId": "9lyRtpFKvXOqH-p1K9j4MCAHDf1Nz8GfZan1RRXdb90QS-Bi6BkUGFVpV4dBxDfbkJm-krU~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "实施顾问",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "10arjj5aAis.search.2",
+          "performance": "",
+          "salaryDesc": "6-10K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "ERP",
+            "计算机相关专业",
+            "WMS"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "ERP",
+              "highlight": false
+            },
+            {
+              "content": "计算机相关专业",
+              "highlight": false
+            },
+            {
+              "content": "WMS",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "3477cb3459d3f0f11HR73NS0EFdY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "零码软件",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "",
+          "brandScale": "0-20人",
+          "comName": null,
+          "bossName": "马女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230731/607f1f3d68754fd01240f0274fe40c7b2c518b67759d9a1d0679b0595c95214b6bad42b08167a5e9_s.jpg.webp",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "ERP",
+            "计算机相关专业",
+            "WMS",
+            "CRM"
+          ],
+          "welfares": [],
+          "securityId": "oGOhixxzcifsa-n1fa3lI4Al23xg2byy6-RYCnlavTQMwsyDTQ6S6N-MwEDB33BXeF2aE9k~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "软件开发实习生",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "10arjj5aAis.search.4",
+          "performance": "",
+          "salaryDesc": "150-250元/天",
+          "jobLabels": [
+            "3天/周",
+            "3个月",
+            "本科",
+            "Python",
+            "计算机相关专业"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3天/周",
+              "highlight": false
+            },
+            {
+              "content": "3个月",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "计算机相关专业",
+              "highlight": false
+            }
+          ],
+          "jobType": 4,
+          "encryptJobId": "2916441df352d1671HR63N61GVtZ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "零码软件",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "",
+          "brandScale": "0-20人",
+          "comName": null,
+          "bossName": "马女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230731/607f1f3d68754fd01240f0274fe40c7b2c518b67759d9a1d0679b0595c95214b6bad42b08167a5e9_s.jpg.webp",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Python",
+            "计算机相关专业",
+            "数学/统计相关专业",
+            "英语读写能力良好"
+          ],
+          "welfares": [],
+          "securityId": "yNcjPa9EV1ai1-l1ZrCKyD8ViU5I3VE1wkNQr0U480YjloWn1iQHUREZoWB4HQPrDJ18wZg~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "项目经理",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "10arjj5aAis.search.5",
+          "performance": "",
+          "salaryDesc": "11-18K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "非技术项目管理",
+            "低代码"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "非技术项目管理",
+              "highlight": false
+            },
+            {
+              "content": "低代码",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "69d8dda16256f7c21HR83t21EVZS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "零码软件",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "",
+          "brandScale": "0-20人",
+          "comName": null,
+          "bossName": "马女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230731/607f1f3d68754fd01240f0274fe40c7b2c518b67759d9a1d0679b0595c95214b6bad42b08167a5e9_s.jpg.webp",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "非技术项目管理",
+            "低代码"
+          ],
+          "welfares": [],
+          "securityId": "hESoK6iR96PgK-N1-J8awQ1YPXLPhYoPYnmlFV4W25Y9BbVvYFWoByyfrDVLuXx2JCmltSc~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "低代码实施顾问",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "10arjj5aAis.search.6",
+          "performance": "",
+          "salaryDesc": "6-10K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "低代码"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "低代码",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "0e0792679d74a4ea1HR_2Nm-EVZZ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "零码软件",
+          "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+          "brandStage": "",
+          "brandScale": "0-20人",
+          "comName": null,
+          "bossName": "马女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230731/607f1f3d68754fd01240f0274fe40c7b2c518b67759d9a1d0679b0595c95214b6bad42b08167a5e9_s.jpg.webp",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "低代码"
+          ],
+          "welfares": [],
+          "securityId": "XJgd4AG4RdlsD-L1CWUx_UvgWF05Z2KCEPR1fpbeTcAphgvnYcWAcX_EGLh0VqEnDpc-_Ec~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

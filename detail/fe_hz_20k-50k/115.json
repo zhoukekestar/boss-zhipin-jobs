@@ -1,0 +1,505 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "bENlaaeyBBD49-41dAzlZKwk-lGa_cv0tVxBCKtTrQ9yZCD4MoxlgSy7SiU_OlOyR3zfbbuJsX4wsbYnt7FiWBPJO6pUsYavbjBLm6Ltn9BWIFcG-4AUfUkMhpD3ja96Et4HZD0~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "77569cf76fb75a221n192dq5FFA~",
+      "bossId": 19727442,
+      "securityId": "WUkzvPyYiBmad-e1eysUbGulaI5SkRpnbvlnhCpPzuZCs0KE0Futqt9A-3vdz-7g7tU-Ys9vQvSAw4h527T28S58L4Qi",
+      "name": "毕先生",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+      "title": "前端开发",
+      "activeTimeDesc": "2周内活跃",
+      "activeTime": 1697375089000,
+      "bossOnline": false,
+      "brandName": "快手",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 155776446,
+      "encryptJobId": "2eefe96945492ffd1nF_3Nq7FFZW",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "黄龙",
+      "locationDesc": "杭州·西湖区·黄龙",
+      "experienceName": "5-10年",
+      "degreeName": "本科",
+      "lowSalary": 20,
+      "highSalary": 40,
+      "jobDesc": "岗位职责:\n\n1、利用HTML/CSS/JavaScript等各种Web技术进行产品的界面开发;\n\n\n\n2、制作标准优化的代码，并增加交互动态功能;\n\n\n\n3、进行丰富互联网的Web开发，致力于通过技术改善用户体验;\n\n\n\n4、参与讨论制订Web前端框架。\n\n\n\n任职资格:\n\n1、三年以上前端工作经验；\n\n\n\n2、熟悉各种Web前端技术，了解各浏览器的差异、原理；\n\n\n\n3、深刻理解Web标准，对可用性、可访问性等相关知识有实际的了解和实践经验；\n\n\n\n4、具有2年研发工作经验，对面向对象程序设计思想有深刻的理解；\n\n\n\n5、至少熟悉一门非Web前端脚本的语言（如Java/PHP/C++/NodeJS），并有项目经验；\n\n\n\n6、个性乐观开朗，逻辑性强，善于和各种背景的人合作；\n\n\n\n7、有过无线前端/HTML5开发经验者优先。",
+      "requiredSkills": [
+        "前端开发",
+        "Node.js",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Java",
+        "PHP",
+        "C++"
+      ],
+      "address": "杭州西湖区EAC企业国际3f",
+      "longitude": 120.137192,
+      "latitude": 30.273078,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/23a68337db5c448f939145e57684311e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3b33a0f4d8713fe581afc2f1f15b80b2",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-40K·16薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "480261c022ea03d81nV53tQ~",
+      "brandName": "快手",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/fff9b16bcbb78e2453884865d2c4c7e7cfcd208495d565ef66e7dff9f98764da.jpg",
+      "industryName": "社交网络",
+      "stageName": "已上市",
+      "scaleName": "10000人以上",
+      "brandIntroduce": "快手是领先的内容社区和社交平台，是短视频行业开创者与引领者。快手致力于创造一个温暖和信任的社区，让更多普通人拥有表达和被看见的机会，并由此培育了繁荣与高互动的社区生态，每天有上千万优质内容上传。",
+      "comName": "北京达佳互联信息技术有限公司",
+      "legalPerson": "杨远熙",
+      "startDate": "2014-07-02",
+      "regCapital": "600000万美元",
+      "statusDesc": "存续",
+      "regAddress": "北京市海淀区西二旗西路16号院12号楼8层101",
+      "businessScope": "一般项目：计算机软硬件及辅助设备零售；网络技术服务；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；数据处理服务；动漫游戏开发；专业设计服务；社会经济咨询服务；信息咨询服务（不含许可类信息咨询服务）；教育咨询服务（不含涉许可审批的教育培训活动）；企业管理咨询；软件开发；广告设计、代理；广告发布；广告制作；物业管理；人力资源服务（不含职业中介活动、劳务派遣服务）。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）（不得从事国家和本市产业政策禁止和限制类项目的经营活动。）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "快手是领先的内容社区和社交平台，是短视频行业开创者与引领者。快手致力于创造一个温暖和信任的社区，让更多普通人拥有表达和被看见的机会，并由此培育了繁荣与高互动的社区生态，每天有上千万优质内容上传。",
+      "encryptComId": "72933d93bfa88c7b1nV_2dm9EA~~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "高级web前端开发工程师- 【游戏事业部】",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZYFoH8Zhz3.search.1",
+          "performance": "",
+          "salaryDesc": "20-40K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Vue",
+            "React",
+            "官网"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Vue",
+              "highlight": false
+            },
+            {
+              "content": "React",
+              "highlight": false
+            },
+            {
+              "content": "官网",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "c9eae395c6b07bcd1X143ty0F1dX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "快手",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/fff9b16bcbb78e2453884865d2c4c7e7cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "李女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210118/cf1f9dacbf6050405fbf93ce158fad18242d90d50d18c8d0525a96c73a656904_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Vue",
+            "React",
+            "官网"
+          ],
+          "welfares": [],
+          "securityId": "nNJBbV1Mxop8S-01QsogyBrTKZe7BLSWjGDAMwo86VDaEPRB5i5I7uMivbtgvbSN0bPwbc_c",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级Java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "黄龙",
+          "distance": "",
+          "lid": "ZYFoH8Zhz3.search.2",
+          "performance": "",
+          "salaryDesc": "30-60K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "分布式技术",
+            "后端开发"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "后端开发",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "1a20ce9772119f241nN52dS7FlJU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "快手",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/fff9b16bcbb78e2453884865d2c4c7e7cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "张波",
+          "bossTitle": "高级开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190413/2de33563f42decd6f5a81787d725a8da109bc764387f792e500493a5b64a6c76_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "分布式技术",
+            "后端开发"
+          ],
+          "welfares": [],
+          "securityId": "OVKESMQCg9T1k-51jqXosv0w7TRJ3YNIVGLeY5Tn7jbDUGMDrkiumyb8-All7v02RQa9Zm0~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java开发工程师/专家【商业化】",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "未来科技城",
+          "distance": "",
+          "lid": "ZYFoH8Zhz3.search.3",
+          "performance": "",
+          "salaryDesc": "30-50K·16薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "后端工程师",
+            "Java",
+            "Spring"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "ca67f8ff072aff921X143d29ElRX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "快手",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/fff9b16bcbb78e2453884865d2c4c7e7cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "赵先生",
+          "bossTitle": "JAVA研发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210630/fc7cb745a3dc4f9241d0780dd3a08c13595b63b2777243ba655fc2d4e2443dfc_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "Java",
+            "Spring",
+            "MyBatis"
+          ],
+          "welfares": [],
+          "securityId": "drtxEE3R-ncOR-w1BOWjOAWpQi3mw9bK3v27DVRk_xCzdcURe4213kj_Glo0Flnti6xZDwk~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "计算机视觉算法工程师/高工/专家",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "黄龙",
+          "distance": "",
+          "lid": "ZYFoH8Zhz3.search.4",
+          "performance": "",
+          "salaryDesc": "35-65K·15薪",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "深度学习算法",
+            "视觉图像算法",
+            "自然语言处理"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "深度学习算法",
+              "highlight": false
+            },
+            {
+              "content": "视觉图像算法",
+              "highlight": false
+            },
+            {
+              "content": "自然语言处理",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "60d8a4bdc153613b1n1z09-4EVVT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "快手",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/fff9b16bcbb78e2453884865d2c4c7e7cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "黄先生",
+          "bossTitle": "高级工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "深度学习算法",
+            "视觉图像算法",
+            "自然语言处理",
+            "TensorFlow",
+            "PyTorch"
+          ],
+          "welfares": [],
+          "securityId": "-h40DahaaRJYr-b1teu3QK8lapjIOL4EB8qNXCJlb7iTiVHCVqsxhbCvQMHVpGXPT1YiwSM~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java技术专家（交易方向-杭州）-【电商】",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZYFoH8Zhz3.search.5",
+          "performance": "",
+          "salaryDesc": "30-60K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "后端工程师",
+            "Java"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "f3c59e4ffcf16a661HR42dS9GFpW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "快手",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/fff9b16bcbb78e2453884865d2c4c7e7cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "张女士",
+          "bossTitle": "HR实习生",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220531/607f1f3d68754fd0edb8412567f80f11752e2100dbe65ad6102f26f9c14676e5689f6fe408f71bae_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "Java"
+          ],
+          "welfares": [],
+          "securityId": "AF0NOPvprbNvI-f1HCAnMvmVjFYioVgVNS4SmI4K-CbR39xhQU_eBgB2b4Ny6sJ4EQwtCuQD",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

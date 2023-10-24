@@ -1,0 +1,521 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "fdGRKu-blVM6c-B1DNZL3DBFqYm_EQ3TGspw8HaZLIElY43a2_ZarZ_PvQuEuFtWDoW704eyFrc5qyoGTxiL4yTanQV_C5KjiS3oeKIMpPMVOvsJ9iVSq8GftNs4VDch_cvyeyeWj5g~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "faf072c5bfdb15f80Xd-3t2-F1c~",
+      "bossId": 63450375,
+      "securityId": "aDHKfnFK1G7i3-P1DxES54XspJs0cGkLjPcMNzu8oEeCx6XDhnUu1_uWbUokNop34O-EnyJsMNQqOQxMwQIHlX-3J7Gv",
+      "name": "杨女士",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190617/7893dc52095ef405ea0e3d17092eae23fb7d9d77b78472a6c90a92a396a65220_s.png",
+      "title": "hr",
+      "activeTimeDesc": "3月内活跃",
+      "activeTime": 1692968516000,
+      "bossOnline": false,
+      "brandName": "石原子",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 211541420,
+      "encryptJobId": "a2a8e215350f87ac1XV73tm8FFBQ",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端工程师",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "西溪",
+      "locationDesc": "杭州·余杭区·西溪",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 20,
+      "highSalary": 40,
+      "jobDesc": "岗位职责：\n1.负责前端基础组件、业务组件的设计和开发工作2.负责云平台的前端开发工作\n任职要求：\n1、全日制大学本科及以上学历，电子信息、计算机及相关专业。2、三年以上前端开发工作经验，熟练掌握前端相关技术(HTML/CSS/JavaScript/HTML5/CSS3)。3、熟悉javascript语言，对npm包管理，es6特性有了解，有vue、react经验者优先；4、熟练掌握至少一个前端框架（Vue,React,Angular）及常用工具（npm、Webpack、babel、eslint）。5、熟悉HTTP协议，对网站性能优化有所研究，在实际项目中有经验者优先；6、具有一定的英语基础，有决心有信心能够通过长期学习将英语作为工作语言。7、具有梦想与追求，同时拥有强烈的责任心与使命感；为人诚信，脚踏实地；具有团队精神，沟通与表达能力良好。8、了解vue或者react底层代码实现，有webpack插件和loader开发经验。9、有开源项目或者nodejs企业级项目开发部署经验优先",
+      "requiredSkills": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "CSS3",
+        "HTML5",
+        "ES6",
+        "前端开发",
+        "React"
+      ],
+      "address": "杭州余杭区浙江省数智引擎创新园B座203-204",
+      "longitude": 120.034932,
+      "latitude": 30.24974,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5286cd0681cd5c9aabc7a33a4c9392e1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9e80efd87861cdb2c26701d50112068a",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-40K·16薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "e572bc3a90f2da381n183N6-GFY~",
+      "brandName": "石原子",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230830/7bf6f160950405e9b7a098789a64332ce1d84983533160e2850746639a58ce6c005ff69589c292a6.png.webp",
+      "industryName": "数据服务",
+      "stageName": "A轮",
+      "scaleName": "100-499人",
+      "brandIntroduce": "石原子科技成立于 2021 年 10 月，拥有国内顶级的数据库人才与专家，创始团队源于阿里云 PolarDB、AnalyticDB（简称 ADB)，腾讯云 TDSQL，华为云 GaussDB， 专注于企业级实时数据仓库和一体化 MySQL 实时 HTAP 数据库的研发与应用，依托云中立的数据技术进行产品设计，致力于为客户提供大规模、高性能、低成本的一站式实时数据分析服务。\n石原子科技坚持精细布局、自主创新的产品研发路线，打造了三款标杆产品：\n公司成立至今，已积累了上千位用户，种子客户达 300 多家，取得 30+ 项软件著作权，成功申请并获准通过了 16+ 项技术专利，分别获评杭州市创新型中小企业、浙江省科技型中小企业、国家级科技型中小企业，产品通过公安部三所认证，全面满足信创和等保要求。\n\n石原子科技积极参与中国数据库产业建设，目前已经成为中国信通院分布式系统稳定性实验室成员单位、中国通信标准化协会（CCSA）大数据技术标准推进委员会（TC601）全权成员单位、中国信通院科技制造开源社区成员单位、中国信通院数据库应用创新实验室成员单位（汽车行业工作组首批共建单位和电信行业工作组第二批共建单位）、国家信创工作委员会技术活动单位、浙江省信创联盟会员单位、上海软协信创工委会成员单位、北京信创工委会会员单位、中关村软件和信息服务产业创新联盟成员单位，先后参与起草多项国家级和行业级标准的编写工作。公司层面通过了质量管理体系认证（ISO9001）、信息安全管理体系认证（ISO27001）和 CMMI-3 认证，公司产品通过了中国信通院分布式分析型数据库基础能力专项评测和分布式分析型数据库稳定性测试，并与主流服务器、操作系统、中间件、BI工具等国产化软硬件生态体系进行全面兼容。",
+      "comName": "杭州石原子科技有限公司",
+      "legalPerson": "叶建林",
+      "startDate": "2021-10-11",
+      "regCapital": "1000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市余杭区五常街道西坝路51号B座203、204室",
+      "businessScope": "一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；计算机系统服务；数据处理和存储支持服务；数据处理服务；软件开发；人工智能应用软件开发；计算机软硬件及辅助设备批发；计算机软硬件及辅助设备零售；网络与信息安全软件开发；专业设计服务；建筑信息模型技术开发、技术咨询、技术服务；工艺美术品及礼仪用品销售（象牙及其制品除外）；企业管理；企业形象策划；市场营销策划；企业管理咨询；货物进出口；进出口代理；技术进出口（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：基础电信业务；第一类增值电信业务；第二类增值电信业务；互联网信息服务（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "石原子科技成立于 2021 年 10 月，拥有国内顶级的数据库人才与专家，创始团队源于阿里云 PolarDB、AnalyticDB（简称 ADB)，腾讯云 TDSQL，华为云 GaussDB， 专注于企业级实时数据仓库和一体化 MySQL 实时 HTAP 数据库的研发与应用，依托云中立的数据技术进行产品设计，致力于为客户提供大规模、高性能、低成本的一站式实时数据分析服务。\n石原子科技坚持精细布局、自主创新的产品研发路线，打造了三款标杆产品：\n公司成立至今，已积累了上千位用户，种子客户达 300 多家，取得 30+ 项软件著作权，成功申请并获准通过了 16+ 项技术专利，分别获评杭州市创新型中小企业、浙江省科技型中小企业、国家级科技型中小企业，产品通过公安部三所认证，全面满足信创和等保要求。\n\n石原子科技积极参与中国数据库产业建设，目前已经成为中国信通院分布式系统稳定性实验室成员单位、中国通信标准化协会（CCSA）大数据技术标准推进委员会（TC601）全权成员单位、中国信通院科技制造开源社区成员单位、中国信通院数据库应用创新实验室成员单位（汽车行业工作组首批共建单位和电信行业工作组第二批共建单位）、国家信创工作委员会技术活动单位、浙江省信创联盟会员单位、上海软协信创工委会成员单位、北京信创工委会会员单位、中关村软件和信息服务产业创新联盟成员单位，先后参与起草多项国家级和行业级标准的编写工作。公司层面通过了质量管理体系认证（ISO9001）、信息安全管理体系认证（ISO27001）和 CMMI-3 认证，公司产品通过了中国信通院分布式分析型数据库基础能力专项评测和分布式分析型数据库稳定性测试，并与主流服务器、操作系统、中间件、BI工具等国产化软硬件生态体系进行全面兼容。",
+      "encryptComId": "4fec9a82928ecbc21HB82t26FFI~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "中间件研发专家",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "1044AF8HchB.search.1",
+          "performance": "",
+          "salaryDesc": "30-55K·16薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "Java开发经验",
+            "Java",
+            "分布式系统开发经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java开发经验",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "分布式系统开发经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "f4168b296716fd001XR53920E1NQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "石原子",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230830/7bf6f160950405e9b7a098789a64332ce1d84983533160e2850746639a58ce6c005ff69589c292a6.png.webp",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "王先生",
+          "bossTitle": "数仓研发部总监",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java开发经验",
+            "Java",
+            "分布式系统开发经验",
+            "MySQL",
+            "架构师",
+            "Redis",
+            "后端工程师",
+            "Spring",
+            "计算机/软件工程相关经验"
+          ],
+          "welfares": [],
+          "securityId": "xWAxz8epZAW5C-j1TcJpJGDfNs9EBDMshz3EYkCI4JB5fyIvEY92p5YiFhOj2eVhrzPHVII~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "大数据开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "1044AF8HchB.search.2",
+          "performance": "",
+          "salaryDesc": "20-40K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "分布式技术",
+            "数据结构",
+            "spark"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "数据结构",
+              "highlight": false
+            },
+            {
+              "content": "spark",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "39e446ba3146480d1n1z3tu4FVFX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "石原子",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230830/7bf6f160950405e9b7a098789a64332ce1d84983533160e2850746639a58ce6c005ff69589c292a6.png.webp",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "王先生",
+          "bossTitle": "数仓研发部总监",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "分布式技术",
+            "数据结构",
+            "spark",
+            "数据库",
+            "内核",
+            "索引"
+          ],
+          "welfares": [],
+          "securityId": "mlbho5io3kG0Q-81FBpyBQbQWTN4RFnmn9zJFLyUqcaEfGwoO4lz05HZI1mbFcBz-BkgzrM~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "数仓内核开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "1044AF8HchB.search.3",
+          "performance": "",
+          "salaryDesc": "25-45K·14薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "Java",
+            "中间件"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "中间件",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "b740122e7d1aca5a1XR7092_GFRT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "石原子",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230830/7bf6f160950405e9b7a098789a64332ce1d84983533160e2850746639a58ce6c005ff69589c292a6.png.webp",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "张桃",
+          "bossTitle": "数仓研发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231011/607f1f3d68754fd0f42933ed4db18302d0af7b6c39e054ad403756bd1090d60545f95825fecb009f_s.jpg.webp",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "中间件"
+          ],
+          "welfares": [],
+          "securityId": "RUPshgNPPkpQi-81ci0v1zUpUopV07xLIBxXm423uETBH2JkgNZcW-d5zwguEg6Z6BuhE_Q~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级Java开发工程师/技术专家",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "1044AF8HchB.search.4",
+          "performance": "",
+          "salaryDesc": "28-45K·15薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "分布式技术",
+            "高并发",
+            "高可用"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "高并发",
+              "highlight": false
+            },
+            {
+              "content": "高可用",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "a4a11b63d96588ef1XV62du9F1pW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "石原子",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230830/7bf6f160950405e9b7a098789a64332ce1d84983533160e2850746639a58ce6c005ff69589c292a6.png.webp",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "袁先生",
+          "bossTitle": "技术专家",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "分布式技术",
+            "高并发",
+            "高可用",
+            "架构"
+          ],
+          "welfares": [],
+          "securityId": "wnaNCadLCi8Gr-V1iDVB7Cu8K3P4kPiXTE5YzLi_OKbC3XYF0458_oeoplh9IQ18SMY506s~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "运维开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "1044AF8HchB.search.5",
+          "performance": "",
+          "salaryDesc": "10-15K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "Golang",
+            "Ansible/Salt/Puppet",
+            "Hadoop"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Golang",
+              "highlight": false
+            },
+            {
+              "content": "Ansible/Salt/Puppet",
+              "highlight": false
+            },
+            {
+              "content": "Hadoop",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "01415d0e9a8973ac1X142di8GFNX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "石原子",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230830/7bf6f160950405e9b7a098789a64332ce1d84983533160e2850746639a58ce6c005ff69589c292a6.png.webp",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "李旭东",
+          "bossTitle": "DevOps技术总监",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231018/607f1f3d68754fd03af3adab37c461ec21c8dd720a796eddbd5d29f42354cb37935cfc981d7944d8_s.jpg.webp",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Golang",
+            "Ansible/Salt/Puppet",
+            "Hadoop",
+            "运维开发经验",
+            "计算机相关专业",
+            "大数据运维经验"
+          ],
+          "welfares": [],
+          "securityId": "9PmjduPZYyc8Y-112OcUuNyz7oCTjFDcQ_vBRFiB_hUhwFftl12vkVfe7_oBF4UQnbvhPEY~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

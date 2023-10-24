@@ -1,0 +1,529 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "ZQbNaCgHG0m9K-p1S8wJFSVbiO3NOgzvYQ4CQ4d-j2IXdvd26j02Zzi9TTLhQQkbIf3Fpbb-TkQ73vQzNznTcV4uuTwgipvP8CmLH0Pl8d6D4t0GY1WoMJfDI6CGy0_5yElqfErGJg~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "4238496c87412b7d0nR639-6F1NY",
+      "bossId": 500427718,
+      "securityId": "AC0NkzJ8diKei-Z1lCLHzyN0nlWEcVJeRC-DftDLw2wpJGa4FqZPGe62ovnvd5rKhGUCP4D6ZV8kEYuGFRqFc_fW4mdhhg~~",
+      "name": "尧显淳",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200907/570121672ca235eddb0053b7dcfb84e3e15ec2e567c0662858e699dacd7bd485_s.png",
+      "title": "sre工程师",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1669541512000,
+      "bossOnline": false,
+      "brandName": "北京字节跳动",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 253318951,
+      "encryptJobId": "875d07ce73b74c331XF52Ny1GVdR",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "西溪",
+      "locationDesc": "杭州·西湖区·西溪",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 30,
+      "highSalary": 40,
+      "jobDesc": "云教育科技 - 技术部 - 前端&客户端团队招前端开发\n\n我们负责教育教学领域的核心产品的研发，助力教育局、学校的数字化转型。负责的产品业务域广，ToG、ToB、ToC 全涵盖，终端类型丰富，桌面端、移动端甚至还有自研搭载在学校机房、学习机等硬件上的应用。产品流量大，体验要求高，跨端技术挑战大。欢迎有志向投身于教育科技的同学加入。\n\nbase：杭州云谷园区\n层级：P5、P6\n\n职位描述：\n1负责教育领域业务前端架构设计与核心代码实现，产品体验、性能优化。\n2行业技术领域的前端技术体系方案设计，包括研发规范、开发流程、工程设计等。\n3生产力工具的开发、优化交付项目的前端研发工作流程。\n4探索前端领域新技术（Web 3D 等）在教育领域的落地。\n\n职位要求：\n1 良好的教育背景与学术训练背景，熟练运用TypeScript、JavaScript语言与HTML5、CSS3等技术。 \n2 在交互体验、复杂前端方面有相关理解，了解 MVC/MVVM 模式，熟悉 React/Vue 等热门前端框架，并有深入了解相关原理，有实际项目实践经验。 \n3 熟悉前端工程化，并有前端工程化优化经验，熟练掌握 Webpack/Vite 等构建工具的使用和配置。 \n4 对 Web 前端技术有强烈兴趣，有良好的学习能力和团队合作精神。 \n5对技术有强烈的进取心，具有良好的沟通能力和团队合作精神、优秀的分析问题和解决问题的能力。\n6有 PC、H5 双端开发和适配工作经验者优先。\n7熟悉 Web 3D 技术并有相关经验者优先。\n\n欢迎大家来撩！",
+      "requiredSkills": [
+        "JavaScript",
+        "React"
+      ],
+      "address": "杭州西湖区阿里巴巴云谷园区1",
+      "longitude": 120.037079,
+      "latitude": 30.318601,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a401c004803f34d30d312b7a4ec7d921",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/efb7314fc3b997cb9449fdd746112a10",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "30-40K·16薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "7d01ce6cfe2022030HJ409y-",
+      "brandName": "北京字节跳动",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230811/7bf6f160950405e993d5441fb36ed39b6e0ceee2dc5889061408317c856c491f5c0c40aafab8d582.png.webp",
+      "industryName": "移动互联网",
+      "stageName": "不需要融资",
+      "scaleName": "10000人以上",
+      "brandIntroduce": "字节跳动成立于2012年3月，公司使命为“Inspire Creativity, Enrich Life（激发创造，丰富生活）”。公司业务覆盖150个国家和地区，拥有15万名员工。\n字节跳动在全球推出了多款有影响力的产品，包括今日头条、抖音、西瓜视频、飞书、Lark、PICO、剪映、TikTok等。截至2021年6月，字节跳动旗下产品全球月活跃用户数超过19亿。",
+      "comName": "北京抖音信息服务有限公司",
+      "legalPerson": "张利东",
+      "startDate": "2012-03-09",
+      "regCapital": "20000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "北京市海淀区北三环西路甲23号院1号楼2层222",
+      "businessScope": "许可项目：呼叫中心；广播电视节目制作经营；网络文化经营；出版物零售；第二类增值电信业务；演出经纪。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）一般项目：社会经济咨询服务；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；计算机系统服务；数据处理服务；软件开发；软件销售；广告设计、代理；广告制作；广告发布；人力资源服务（不含职业中介活动、劳务派遣服务）。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）（不得从事国家和本市产业政策禁止和限制类项目的经营活动。）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "字节跳动成立于2012年3月，公司使命为“Inspire Creativity, Enrich Life（激发创造，丰富生活）”。公司业务覆盖150个国家和地区，拥有15万名员工。\n字节跳动在全球推出了多款有影响力的产品，包括今日头条、抖音、西瓜视频、飞书、Lark、PICO、剪映、TikTok等。截至2021年6月，字节跳动旗下产品全球月活跃用户数超过19亿。",
+      "encryptComId": "6ce4727db5c3f7e01HF93dS7EFA~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "资深Java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "三墩",
+          "distance": "",
+          "lid": "ZQ50IRJioC.search.1",
+          "performance": "",
+          "salaryDesc": "30-60K·15薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "架构师",
+            "后端开发",
+            "微服务架构"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "架构师",
+              "highlight": false
+            },
+            {
+              "content": "后端开发",
+              "highlight": false
+            },
+            {
+              "content": "微服务架构",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "13ee93b7d3edb8f61XVz39u-GFNU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "北京字节跳动",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230811/7bf6f160950405e993d5441fb36ed39b6e0ceee2dc5889061408317c856c491f5c0c40aafab8d582.png.webp",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "袁先生",
+          "bossTitle": "架构师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171227/f59e7b0fea08c2da71e114706069f5bb47d7140c03a31770e67c5f5bed6c1685_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "架构师",
+            "后端开发",
+            "微服务架构",
+            "分布式技术",
+            "企业级应用开发",
+            "高级软件工程师",
+            "SpringBoot"
+          ],
+          "welfares": [],
+          "securityId": "8hYcMHidbyeXj-z11E1_YvgyUfivKpXb9QUFKRJDmoSaA1gnjCKB1Wa_wx0tbYtJNm4ONI0~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "前端开发资深工程师 -零代码/低代码平台",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "三墩",
+          "distance": "",
+          "lid": "ZQ50IRJioC.search.2",
+          "performance": "",
+          "salaryDesc": "25-40K·15薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Web端",
+            "小程序",
+            "React"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Web端",
+              "highlight": false
+            },
+            {
+              "content": "小程序",
+              "highlight": false
+            },
+            {
+              "content": "React",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "b92571349cb824111XV539W6EVNX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "北京字节跳动",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230811/7bf6f160950405e993d5441fb36ed39b6e0ceee2dc5889061408317c856c491f5c0c40aafab8d582.png.webp",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "孙坚武",
+          "bossTitle": "后端开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Web端",
+            "小程序",
+            "React",
+            "Vue",
+            "SaaS",
+            "PaaS",
+            "字节跳动"
+          ],
+          "welfares": [],
+          "securityId": "Ee5KdbXZPrl6w-A1xSpsmabRZIzMrHY31BUnnWjfhwYUkUSb_7LdlTbVZPeELEUWN74C_3v7",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级测试开发工程师（杭州）",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "ZQ50IRJioC.search.3",
+          "performance": "",
+          "salaryDesc": "30-60K·15薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "性能测试",
+            "自动化测试",
+            "压力测试"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "性能测试",
+              "highlight": false
+            },
+            {
+              "content": "自动化测试",
+              "highlight": false
+            },
+            {
+              "content": "压力测试",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "7dde36383b8dd73a1XBy09y5FlRX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "北京字节跳动",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230811/7bf6f160950405e993d5441fb36ed39b6e0ceee2dc5889061408317c856c491f5c0c40aafab8d582.png.webp",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "邵先生",
+          "bossTitle": "测试QA",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "性能测试",
+            "自动化测试",
+            "压力测试",
+            "Python",
+            "Golang",
+            "JMeter",
+            "iOS/Android测试经验",
+            "自动化测试经验",
+            "软件开发经验"
+          ],
+          "welfares": [],
+          "securityId": "tPHOdBR2IIyun-h18eBvoCD7e7f_lVm3Em7BEGLih9l5U8tjWNnJf_GZwjMf61RlbXsWjwQ~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "音频测试开发工程师-抖音",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZQ50IRJioC.search.4",
+          "performance": "",
+          "salaryDesc": "20-40K·15薪",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "语音算法",
+            "Python",
+            "C++"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "语音算法",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "C++",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "ba813c99d58e8c541XZ42N2_GFRT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "北京字节跳动",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230811/7bf6f160950405e993d5441fb36ed39b6e0ceee2dc5889061408317c856c491f5c0c40aafab8d582.png.webp",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "李涛",
+          "bossTitle": "资深测试开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220415/607f1f3d68754fd056d219d05180745af233f9abc66b138169ce05f5b18205a16ce9cbbcdfe22d35_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "语音算法",
+            "Python",
+            "C++",
+            "音视频开发",
+            "流媒体技术"
+          ],
+          "welfares": [],
+          "securityId": "sF93pGYimTVfs-F1svujWk3d-CMC_JdMZbTQPhqA1eyim-VsFAdTjxAAbCMxTavn_P3vaeM~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "前端开发",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "三墩",
+          "distance": "",
+          "lid": "ZQ50IRJioC.search.5",
+          "performance": "",
+          "salaryDesc": "30-40K·15薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "JavaScript/TypeScript",
+            "JavaScript",
+            "前端"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript/TypeScript",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "前端",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "9a176ab32ea1e27b1nF43Ni9FVdX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "北京字节跳动",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230811/7bf6f160950405e993d5441fb36ed39b6e0ceee2dc5889061408317c856c491f5c0c40aafab8d582.png.webp",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "徐侃锋",
+          "bossTitle": "前端开发",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript/TypeScript",
+            "JavaScript",
+            "前端",
+            "Vue/Angular/React",
+            "Node.js",
+            "计算机/软件工程相关专业",
+            "前端开发经验",
+            "英语读写能力良好"
+          ],
+          "welfares": [],
+          "securityId": "3iPzhvJ1MS3B0-l1CT2w6OfV6VpQ3DOMf0riTzT_5Wh4iiq49ldiIF_vdzTW29PS2PydXXw~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

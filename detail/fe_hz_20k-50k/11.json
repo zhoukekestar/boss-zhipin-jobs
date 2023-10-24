@@ -1,0 +1,515 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "L43sfRmt5r4Il-g1lqvaLZ96B9x23T8G9y212azrapUcUOwRIV_6cgE3_ESithKvSGKqSv1-wdbcOd0WDCIPDU1CEaqqdZaqFsM0lFbmh47L3NiWSzv-vZP5wSb1EAS3ivKdK9U1Ag~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "2b8a6db1be85ef7c1XR72NS8FFE~",
+      "bossId": 20139143,
+      "securityId": "Z21If6neWQla_-i1cRztbM_sGQy4vaaU3JeTBrMhAyv68rx3G1fxCniAf80HvZzNWJepN-d8LA4rbgpKsKa_TK3xvph0",
+      "name": "张先生",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210120/3715813109c255c9f70c1e8938699950dd592b3aaf4c5d38415aa5a41c15bbd3_s.jpg",
+      "title": "高级前端工程师",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1675954175000,
+      "bossOnline": false,
+      "brandName": "宇链科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 104515127,
+      "encryptJobId": "9cd5bc34bdf1a3471nR-3ty4EVBX",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "萧山区",
+      "businessDistrict": "钱江世纪城",
+      "locationDesc": "杭州·萧山区·钱江世纪城",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 30,
+      "jobDesc": "【岗位职责】\n1.参与项目、产品需求分析与设计，负责前端框架设计；\n2. 负责前端核心功能的架构设计，对系统核心模块进行开发和维护；\n\n【任职要求】\n- 本科以上学历，计算机相关等工科专业，2年以上前端工作\n经验；\n- 精通各种前端技术，包括HTML/CSS/JavaScript/Node等\n- 对 MVC/MVVM 等模式有一定的理解，熟练掌握React/Vue 等热门框架；\n- 对前端工程化有一定理解，熟练掌握 Webpack/Grunt/Gulp 等构建工具的使用和配置\n- 熟悉小程序开发，对Taro/uni-app等框架有一定了解\n- 对新技术有强烈的探索欲望，责任心强，善于团队合作，善于沟通分享，能够承受工作压力\n- 熟练掌握Node.js\n\n【我司现用技术栈】\n- React、Umi、Antd、Vue、Flutter、Electron、Taro等\n欢迎志同道合者一起参与。\n\n【加分项】\n- 有electron相关开发经验\n- 有Flutter相关开发经验\n- 熟悉Three.js的使用\n\n【福利待遇】\n- 核心岗位，可转管理；\n- 加班补贴、餐补、交通补贴；\n- 弹性工作制；\n- 不定期活动，如生日会；\n- 钱塘江江边夜跑，欣赏江边美景的同时还能健身健体；",
+      "requiredSkills": [
+        "前端开发",
+        "JavaScript",
+        "小程序",
+        "TypeScript"
+      ],
+      "address": "杭州萧山区天人大厦22楼",
+      "longitude": 120.239876,
+      "latitude": 30.239141,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a62601b7d1fee219c1f6a4428f997180",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/067b085eb0085d511773446c4a56ef0d",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-30K·16薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "65220ff1b7557c4103F72NS5FA~~",
+      "brandName": "宇链科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191116/38c69dc0aeb451ad7a0313b23528c22384222e74745f8f4ce5cc868065648002.jpg",
+      "industryName": "互联网",
+      "stageName": "B轮",
+      "scaleName": "100-499人",
+      "brandIntroduce": "杭州宇链科技有限公司成立于2018年，总部位于杭州，在上海、深圳、江苏等地均设有分、子公司。宇链科技是浙江清华长三角研究院杭州分院重点投资孵化的区块链技术公司，2021年荣获准独角兽100强，拥有软硬件、云、链全自主可控技术，打造了全球首个“芯片+云+链”的落地架构。公司技术矩阵涵盖了从可信硬件、区块链安全芯片、区块链底层平台（宇链联盟链）到上层应用的全部层次，在公共安全、安全生产、司法、物联网、智慧城市等各个行业落地相关应用。公司致力打造成为一家具有先进区块链技术开发能力及应用的可信基础设施的提供商与服务商，成为行业的领导者，创造良好的经济效益和社会效益。\n     目前，宇链已申请100余项区块链发明专利技术及软著，主要围绕区块链安全芯片、共识算法、区块链支付、联盟链机制等核心领域，核心成员出版《区块链：链接智能未来》等读物。联合创始人团队具备商业和技术研发实力，且拥有丰富创业经验。",
+      "comName": "杭州宇链科技有限公司",
+      "legalPerson": "罗骁",
+      "startDate": "2018-08-07",
+      "regCapital": "604.779938万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市萧山区宁围街道利一路188号天人大厦3001室-84（自行分割）",
+      "businessScope": "一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；电子产品销售；计算机软硬件及辅助设备批发；信息技术咨询服务；广告设计、代理；工程管理服务；区块链技术相关软件和服务；软件开发；软件外包服务；人工智能理论与算法软件开发；数字文化创意软件开发；互联网数据服务；广告制作；广告发布；图文设计制作；市场营销策划；平面设计；会议及展览服务；艺术品代理；艺（美）术品、收藏品鉴定评估服务；票务代理服务；其他文化艺术经纪代理；数字内容制作服务（不含出版发行）；数字文化创意内容应用服务；软件销售；工艺美术品及收藏品批发（象牙及其制品除外）；可穿戴智能设备销售；互联网销售（除销售需要许可的商品）；云计算设备销售；物联网设备销售；工艺美术品及礼仪用品销售（象牙及其制品除外）；数字文化创意技术装备销售；初级农产品收购；食用农产品批发；食用农产品零售；文艺创作；文化娱乐经纪人服务（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：第二类增值电信业务；互联网信息服务；食品互联网销售；网络文化经营（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "杭州宇链科技有限公司成立于2018年，总部位于杭州，在上海、深圳、江苏等地均设有分、子公司。宇链科技是浙江清华长三角研究院杭州分院重点投资孵化的区块链技术公司，2021年荣获准独角兽100强，拥有软硬件、云、链全自主可控技术，打造了全球首个“芯片+云+链”的落地架构。公司技术矩阵涵盖了从可信硬件、区块链安全芯片、区块链底层平台（宇链联盟链）到上层应用的全部层次，在公共安全、安全生产、司法、物联网、智慧城市等各个行业落地相关应用。公司致力打造成为一家具有先进区块链技术开发能力及应用的可信基础设施的提供商与服务商，成为行业的领导者，创造良好的经济效益和社会效益。\n     目前，宇链已申请100余项区块链发明专利技术及软著，主要围绕区块链安全芯片、共识算法、区块链支付、联盟链机制等核心领域，核心成员出版《区块链：链接智能未来》等读物。联合创始人团队具备商业和技术研发实力，且拥有丰富创业经验。",
+      "encryptComId": "50a9297b592e40e11nd83d66GVY~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "深度学习算法工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "奥体中心",
+          "distance": "",
+          "lid": "10cGlHOJQBG.search.1",
+          "performance": "",
+          "salaryDesc": "25-35K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "TensorFlow/PyTorch",
+            "Jetson Nano",
+            "嵌入式"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "TensorFlow/PyTorch",
+              "highlight": false
+            },
+            {
+              "content": "Jetson Nano",
+              "highlight": false
+            },
+            {
+              "content": "嵌入式",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "8130efefc7bc54d11XB72d24ElBR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "宇链科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191116/38c69dc0aeb451ad7a0313b23528c22384222e74745f8f4ce5cc868065648002.jpg",
+          "brandStage": "B轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "罗骁",
+          "bossTitle": "创始人CEO",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210216/20e6dadb590538c9d785cb9b853dbf8173967bb039104eb4b50413bc86ef39ba_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "TensorFlow/PyTorch",
+            "Jetson Nano",
+            "嵌入式"
+          ],
+          "welfares": [],
+          "securityId": "TPQzMyfJZ25t3-c1h1oEk_S57XEpPgubyTCNxK2kX75kh1qImTfR_UUlB6A-PpvjdNFDljj2",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "运维工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "钱江世纪城",
+          "distance": "",
+          "lid": "10cGlHOJQBG.search.2",
+          "performance": "",
+          "salaryDesc": "12-20K·14薪",
+          "jobLabels": [
+            "3-5年",
+            "大专",
+            "运维开发/DevOps",
+            "实施交付运维"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "运维开发/DevOps",
+              "highlight": false
+            },
+            {
+              "content": "实施交付运维",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "8126e43cffe8344c1HV43tq9GVVW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "宇链科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191116/38c69dc0aeb451ad7a0313b23528c22384222e74745f8f4ce5cc868065648002.jpg",
+          "brandStage": "B轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "赵健",
+          "bossTitle": "技术总监",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170613/1bd8f319cde929246d6954b57e0b7f369929600711e3ae9049723a6b6b7e505d_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "运维开发/DevOps",
+            "实施交付运维"
+          ],
+          "welfares": [],
+          "securityId": "zDXRl0Zhdo3ti-n1qHtqDCnAVfItErzR5yDc5G4pQWlrKM79xSj10Wj-zdqLqaMFYifhDJE~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "全栈开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "钱江世纪城",
+          "distance": "",
+          "lid": "10cGlHOJQBG.search.3",
+          "performance": "",
+          "salaryDesc": "20-35K·14薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "JavaScript",
+            "HTML",
+            "CSS"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "HTML",
+              "highlight": false
+            },
+            {
+              "content": "CSS",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "9dbbcf0c1157fe321nR909i0EFtT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "宇链科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191116/38c69dc0aeb451ad7a0313b23528c22384222e74745f8f4ce5cc868065648002.jpg",
+          "brandStage": "B轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "程希冀",
+          "bossTitle": "联合创始人",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "TypeScript",
+            "Java",
+            "Node.js",
+            "数据结构",
+            "多线程"
+          ],
+          "welfares": [],
+          "securityId": "SegQwOZukHFSw-Z1tCCsZW-g1W4L8-u9d8-1VpIMdelkIaDuK1zjV4SyoBs1-LdCkX-0Dzk~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "视觉AI算法总监",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "奥体中心",
+          "distance": "",
+          "lid": "10cGlHOJQBG.search.4",
+          "performance": "",
+          "salaryDesc": "30-45K",
+          "jobLabels": [
+            "5-10年",
+            "硕士",
+            "TensorFlow/PyTorch",
+            "OpenCV",
+            "人脸识别经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "TensorFlow/PyTorch",
+              "highlight": false
+            },
+            {
+              "content": "OpenCV",
+              "highlight": false
+            },
+            {
+              "content": "人脸识别经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "3b0e3ed9b5fb81151XB53dy8EltT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "宇链科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191116/38c69dc0aeb451ad7a0313b23528c22384222e74745f8f4ce5cc868065648002.jpg",
+          "brandStage": "B轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "罗骁",
+          "bossTitle": "创始人CEO",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210216/20e6dadb590538c9d785cb9b853dbf8173967bb039104eb4b50413bc86ef39ba_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "TensorFlow/PyTorch",
+            "OpenCV",
+            "人脸识别经验",
+            "边缘设备"
+          ],
+          "welfares": [],
+          "securityId": "UJrBBvx1zYZ1B-i1rsFQk0ND7tvyF2h7MZSSBngEIT0V9hsciwrP2SnGhCS2pHf8dABzPtO0",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "后端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "钱江世纪城",
+          "distance": "",
+          "lid": "10cGlHOJQBG.search.5",
+          "performance": "",
+          "salaryDesc": "15-30K·14薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "Go",
+            "SQL",
+            "分布式技术"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Go",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "b1950e33a0a348a61nR909i7FFtY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "宇链科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191116/38c69dc0aeb451ad7a0313b23528c22384222e74745f8f4ce5cc868065648002.jpg",
+          "brandStage": "B轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "程希冀",
+          "bossTitle": "联合创始人",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Go",
+            "SQL",
+            "分布式技术",
+            "网络协议",
+            "容器技术",
+            "微服务架构",
+            "多线程",
+            "后端开发"
+          ],
+          "welfares": [],
+          "securityId": "4c9e86lZUC2Ok-81k-fSYXbG2An7Lg4pdQacZgUazQYfDj0-ByZ5FvfaJwhIvyfqe0HjUiE~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

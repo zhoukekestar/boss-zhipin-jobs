@@ -1,0 +1,515 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "0aIDSpj66YcA1-a16i7_2nL7SfGLxGHGsMSWx6eLt4ZcLZmPgrL_XaAwpMxPOvR78874oBVgyjTpIf0ZOdlFfOsIMiQ12gaj-58qXTvgFyO2swgZd7mFlYu1b9YeI-0ThiPzStXikrI~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "c63a02c682d9ad301nZ50ty8EFpU",
+      "bossId": 123911084,
+      "securityId": "PYIN5xT3New8c-Z17rUtb-p9n21sj7NUIRYdh9cxH4u7N7ihvVFBWeMOPqdUy8zzrxnS9IpDdSlXflsArAE-5J23IOct8g~~",
+      "name": "张可可",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200830/64f3a80fbbc0f8445be069cf12f9b8fa259e5d2bee7813cdafa79d22e7ee93e1_s.jpg",
+      "title": "综合办公室",
+      "activeTimeDesc": "2月内活跃",
+      "activeTime": 1694254066000,
+      "bossOnline": false,
+      "brandName": "杭州定川信息技术...",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 120908745,
+      "encryptJobId": "ce040afb9442d17e1nZ60t21F1ZV",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端开发",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "上城区",
+      "businessDistrict": "四季青",
+      "locationDesc": "杭州·上城区·四季青",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 25,
+      "jobDesc": "1、全日制本科及以上学历，三年及以上的前端开发工作经验，有担任过前端核心开发成员或者有项目管理经验，精通VUE。\n\n2、精通HTML5、CSS3和JavaScript,前端知识扎实。\n\n3、前端主流框架至少有一种MVC/MVVM框架的熟练使用经验，包括Angular、Vue、React（、必须熟悉使用Vue、React）。\n\n4、熟练使用 vue ，会 canvas，熟悉动画，熟悉各种工程化工具，包括Webpack、gulp、css预编辑工具等。\n\n5、以核心开发人员身份参与过中大型网站的开发，有H5项目开发经验，对微信小程序和钉钉应用等有实践经验。\n\n6、积极乐观，勇于担当，有团队意识，有创新意识，有为产品死磕到底的决心。\n\n7、熟悉水利水文业务知识可作为加分项。\n\n8、有项目管理经验亦可作为加分项。",
+      "requiredSkills": [
+        "前端开发"
+      ],
+      "address": "杭州三新银座资募大厦21楼22楼",
+      "longitude": 120.202754,
+      "latitude": 30.259151,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/95a55ac223e8fdc801ac15777a520bc2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4c4326f16486033a5b5cfb18d8201ef5",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-25K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "04d07452de67dad803V72tS0EA~~",
+      "brandName": "杭州定川信息技术...",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190819/9c418e183adfd713cbd9ea1db0f6e627d95f97e57724a8dcbe004826dc3730e4_s.jpg",
+      "industryName": "计算机软件",
+      "stageName": "不需要融资",
+      "scaleName": "100-499人",
+      "brandIntroduce": "杭州定川信息技术有限公司成立于2005年7月，是浙江省水利河口研究院（浙江省海洋规划设计院）在原自动化信息技术研究所基础上创办的国有企业。\n       主要从事水利信息化的规划、设计、咨询、开发与应用创新，业务范围涵盖软件开发、系统集成、遥感应用、大数据和人工智能等领域。\n       经过多年的技术积累和专业沉淀，公司成为浙江省首批高新技术软件企业，建立了浙江省水利防灾减灾重点实验室（3S技术实验室）。\n       深耕水利与信息化融合，借助物联网、大数据、云计算、AI、5G等新技术，利用“互联网+”模式打造发展新生态，本着“定立水利、川行天下”愿景，致力打造中国水利智慧化服务提供商",
+      "comName": "杭州定川信息技术有限公司",
+      "legalPerson": "邱志章",
+      "startDate": "2005-07-28",
+      "regCapital": "500万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市上城区凤起东路50,52号第6、7层",
+      "businessScope": "服务：电气工程、电子工程、电子自动化工程、计算机软件、计算机信息系统集成、监控系统工程、建筑智能化系统集成、水利水电工程的技术开发、技术服务、技术咨询，水利水电工程规划、设计，水利水电工程物业管理、测绘服务、水利水电工程上门安装调试服务（涉及资质的凭资质经营），装饰装修工程，机械设备及配件、电子产品及配件的上门维修；批发、零售：计算机软硬件、计算机设备与网络产品、工控设备、机电设备（除专控）、水利科技产品；其他无需报经审批的一切合法项目。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "杭州定川信息技术有限公司成立于2005年7月，是浙江省水利河口研究院（浙江省海洋规划设计院）在原自动化信息技术研究所基础上创办的国有企业。\n       主要从事水利信息化的规划、设计、咨询、开发与应用创新，业务范围涵盖软件开发、系统集成、遥感应用、大数据和人工智能等领域。\n       经过多年的技术积累和专业沉淀，公司成为浙江省首批高新技术软件企业，建立了浙江省水利防灾减灾重点实验室（3S技术实验室）。\n       深耕水利与信息化融合，借助物联网、大数据、云计算、AI、5G等新技术，利用“互联网+”模式打造发展新生态，本着“定立水利、川行天下”愿景，致力打造中国水利智慧化服务提供商",
+      "encryptComId": "a8e4370d40a16b171ndz3ty1FFY~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "GIS开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "上城区",
+          "businessName": "庆春东路",
+          "distance": "",
+          "lid": "ZRveAFHQz4.search.1",
+          "performance": "",
+          "salaryDesc": "10-15K·13薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "SuperMap",
+            "ArcGIS",
+            "Vue"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "SuperMap",
+              "highlight": false
+            },
+            {
+              "content": "ArcGIS",
+              "highlight": false
+            },
+            {
+              "content": "Vue",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "3ec72c9051368ad21XV52dS7E1dT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州定川信息技术...",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190819/9c418e183adfd713cbd9ea1db0f6e627d95f97e57724a8dcbe004826dc3730e4_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "江玲健",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "SuperMap",
+            "ArcGIS",
+            "Vue",
+            "Openlayers",
+            "Geoserver",
+            "Cesium",
+            "PostGIS"
+          ],
+          "welfares": [],
+          "securityId": "37QwanUWOXh8y-c1XHnEDO_sHDNjiqPHC3-dm0ZD1Jn_tPA0FQ37AVY4h-NCTmrRRZTV0hA~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "ETL工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "上城区",
+          "businessName": "四季青",
+          "distance": "",
+          "lid": "ZRveAFHQz4.search.2",
+          "performance": "",
+          "salaryDesc": "15-25K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "SQL",
+            "Oracle",
+            "SQL Server"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "Oracle",
+              "highlight": false
+            },
+            {
+              "content": "SQL Server",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "ac158e4c82f82d731nZ609u4ElFX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州定川信息技术...",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190819/9c418e183adfd713cbd9ea1db0f6e627d95f97e57724a8dcbe004826dc3730e4_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "张可可",
+          "bossTitle": "综合办公室",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200830/64f3a80fbbc0f8445be069cf12f9b8fa259e5d2bee7813cdafa79d22e7ee93e1_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "SQL",
+            "Oracle",
+            "SQL Server"
+          ],
+          "welfares": [],
+          "securityId": "E2JzpxrSZjUDi-P1SN9W5WMrwOhb5CfKhyP0VkW5LWiyzi3DRdE90Gb20TSlTSCiuFFEbHX9",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "数据库开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "上城区",
+          "businessName": "南肖埠",
+          "distance": "",
+          "lid": "ZRveAFHQz4.search.3",
+          "performance": "",
+          "salaryDesc": "10-15K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "ETL",
+            "SQL",
+            "数据仓库"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "ETL",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "数据仓库",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "f56382f71f825a213nJ_39W4E1E~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州定川信息技术...",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190819/9c418e183adfd713cbd9ea1db0f6e627d95f97e57724a8dcbe004826dc3730e4_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "周迟",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200830/a965dd333c00103ec63e9cd6749b69bb518c4a9c8d37eb3b8865f0cbfc921c67_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "ETL",
+            "SQL",
+            "数据仓库",
+            "数据分析",
+            "数据治理",
+            "Python",
+            "数据开发",
+            "MySQL"
+          ],
+          "welfares": [],
+          "securityId": "tgY8ivZrkg_LB-b1EyYgY307mviE0obgu1vjP5lOz5Gor7ZnM2ogoyrrRtHyYqbLB6hQ2BY~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "项目经理",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "上城区",
+          "businessName": "四季青",
+          "distance": "",
+          "lid": "ZRveAFHQz4.search.4",
+          "performance": "",
+          "salaryDesc": "11-20K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "信息化",
+            "系统集成"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "信息化",
+              "highlight": false
+            },
+            {
+              "content": "系统集成",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "5be15f8a25e2adf61nV92ty6EFRY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州定川信息技术...",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190819/9c418e183adfd713cbd9ea1db0f6e627d95f97e57724a8dcbe004826dc3730e4_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "张可可",
+          "bossTitle": "综合办公室",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200830/64f3a80fbbc0f8445be069cf12f9b8fa259e5d2bee7813cdafa79d22e7ee93e1_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "信息化",
+            "系统集成"
+          ],
+          "welfares": [],
+          "securityId": "crHCnlHzZC_79-u1TTkDLs51PNWSkucFM5t1uZk6AYqtiQQzA-iePgW1ZZC5nHLqcjC6_Ikm",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "数据开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "上城区",
+          "businessName": "四季青",
+          "distance": "",
+          "lid": "ZRveAFHQz4.search.5",
+          "performance": "",
+          "salaryDesc": "10-15K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "SQL",
+            "数据开发",
+            "MySQL"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "数据开发",
+              "highlight": false
+            },
+            {
+              "content": "MySQL",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "0aa566fff4f7b6d61nR739u8FVpR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州定川信息技术...",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190819/9c418e183adfd713cbd9ea1db0f6e627d95f97e57724a8dcbe004826dc3730e4_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "张可可",
+          "bossTitle": "综合办公室",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200830/64f3a80fbbc0f8445be069cf12f9b8fa259e5d2bee7813cdafa79d22e7ee93e1_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "SQL",
+            "数据开发",
+            "MySQL",
+            "ETL",
+            "SQL Server",
+            "Kettle",
+            "数据治理",
+            "数据库开发"
+          ],
+          "welfares": [],
+          "securityId": "fLt4rnIDLVQ5s-D1ERqThZG4uan3owY3xesOaHVQ_1DAdTANizxyBbJpig3UGpTHqWk89sYz",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

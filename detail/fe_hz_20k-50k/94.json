@@ -1,0 +1,223 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "xZTrvqvCs2sWc-d19d9g6QbW5ub9A0aSvnT5osOxF91a9YCWs5HWoJvSRonj7h-mF437pCIRd-xlvpoRueRa9lYw5LXSh3ao36utH-SFlCFaEkDayeonqXG217KioIyzoQ8X_ZchrJo~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "dad2bc3eb67e0f091Hd42tS8FVo~",
+      "bossId": 33219158,
+      "securityId": "vF28DZT0WtRr5-Q1j6wHqF7LbQzTR2_bqxWNMDuuumm0qG08JsVCLD4FlRzTpB88ORTDyiO9gRJagB-A07xrT2OlGQAA",
+      "name": "施德胜",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+      "title": "资深前端工程师",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1618384197000,
+      "bossOnline": false,
+      "brandName": "圣都整装",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 125379076,
+      "encryptJobId": "4c01114ef74829681nZ_2Nq0EFVW",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "仓前",
+      "locationDesc": "杭州·余杭区·仓前",
+      "experienceName": "3-5年",
+      "degreeName": "大专",
+      "lowSalary": 16,
+      "highSalary": 26,
+      "jobDesc": "岗位职责：1、根据产品部门需求，完成需求分析并进行对应的功能设计；2、与UI设计、产品及后端人员及时沟通，保证产品的质量和开发进度；3、熟悉用Vue/React/ES5/6/HTML/CSS并结合现代框架来丰富web产品的用户体验；4、熟悉敏捷开发，编写高质量的、可维护性的代码；构建可复用的代码以及公共库；5、不断优化现有的产品，努力提高系统速度，稳定性和可扩展性；不断提升用户体验。职位要求：1、两年及以上 Web 前端开发经验，精通主流的 Web 开发技术；2、理解MVVM原理，至少熟悉Vue和 React前端框架、了解nodeJS；3、熟悉各种常见跨浏览器、跨设备问题，理解Web标准，对可用性、可访问性等相关知识有实际的了解和实践经验；；4、掌握主流的设计模式，并且能够应用在项目场景中\r5、掌握前端工程化架构，并能够在项目中使用。\r\r加分项：1、有大型项目经验，或者大团队合作开发经验，并能在其中起主导作用；2、有前端基础设施建设经验，包括但不限于前端基础开发框架搭建、前端基础支持功能开发，前端性能分析等等；3、有前端工程化实践经验，包括但不限于开发过前端脚手架工具、基础组件库、前端发布流程梳理、前端技术应用落地等等；4、深入理解小程序、Vue 或 React等框架原理，并能形成比较完善的分析文档，或者能传授他人；5、有深厚的计算机科学功底，对编译原理、计算机原理、网络、浏览器等有深刻的理解，并能在实际工作中运用；6、参与过大型开源项目的维护，并有贡献高质量的PR。",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Web端",
+        "小程序",
+        "MVC开发",
+        "MVVM",
+        "移动端"
+      ],
+      "address": "杭州余杭区海创科技中心4幢11楼",
+      "longitude": 119.996503,
+      "latitude": 30.276096,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b1dbe3207a5082074f8037c9a24a5560",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c7628ae0d711939dd0b9d2a69b052d87",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "16-26K·14薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "db3bf6218306887f1XN50t6-GVY~",
+      "brandName": "圣都整装",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230515/7bf6f160950405e948177b95d3a9d172d0bc364461ebbef34f439c15eb6cc7d21831a9e974f9267c.jpg",
+      "industryName": "装修装饰",
+      "stageName": "不需要融资",
+      "scaleName": "10000人以上",
+      "brandIntroduce": "圣都整装是贝壳直营家装品牌，创始于2002年，总部位于杭州，为客户提供集设计、施工、主辅材、定制、软装、家电为一体的整体家装服务。\n        历经20余年发展，已完成江、浙、皖、沪三省一市的核心地级市场全覆盖，及武汉、成都等全国多个一二线省会城市直营体系市场布局，并深耕华东布局全国，累计服务超18万家庭。",
+      "comName": "圣都家居装饰有限公司",
+      "legalPerson": "颜伟阳",
+      "startDate": "2016-08-24",
+      "regCapital": "5000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市拱墅区石祥路589号（海外海杭州商城大厅三楼801室）",
+      "businessScope": "许可项目：住宅室内装饰装修；建设工程设计；各类工程建设活动（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；软件开发；社会经济咨询服务；会议及展览服务；家用电器销售；建筑装饰材料销售；家具销售；家居用品销售；工艺美术品及礼仪用品制造（象牙及其制品除外）；地板销售；金属制品销售；建筑陶瓷制品销售；纸制品销售；音响设备销售；门窗销售；灯具销售；针纺织品销售；卫生陶瓷制品销售；照明器具制造；日用木制品销售；日用玻璃制品销售；日用杂品销售；针纺织品及原料销售；卫生洁具销售；人工智能行业应用系统集成服务（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "圣都整装是贝壳直营家装品牌，创始于2002年，总部位于杭州，为客户提供集设计、施工、主辅材、定制、软装、家电为一体的整体家装服务。\n        历经20余年发展，已完成江、浙、皖、沪三省一市的核心地级市场全覆盖，及武汉、成都等全国多个一二线省会城市直营体系市场布局，并深耕华东布局全国，累计服务超18万家庭。",
+      "encryptComId": "6e52d751387bd4da0XJ839S7FQ~~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "web前端",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "100GEb32oLg.search.2",
+          "performance": "",
+          "salaryDesc": "12-24K·14薪",
+          "jobLabels": [
+            "1-3年",
+            "大专",
+            "前端开发",
+            "HTML",
+            "CSS"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            },
+            {
+              "content": "HTML",
+              "highlight": false
+            },
+            {
+              "content": "CSS",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "5fe40f0d2dec2b841nZ_2Nq4FlZV",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "圣都整装",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230515/7bf6f160950405e948177b95d3a9d172d0bc364461ebbef34f439c15eb6cc7d21831a9e974f9267c.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "施德胜",
+          "bossTitle": "资深前端工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "前端开发",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "ES5",
+            "React",
+            "Web端",
+            "小程序"
+          ],
+          "welfares": [],
+          "securityId": "xOT322CtUEMQC-e1fNnjI9gep8PvR3_IH3GXSBSe45FHSEtDk4vHWNQUZkLZ9umAFSezQVY~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

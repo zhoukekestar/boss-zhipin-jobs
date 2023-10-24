@@ -1,0 +1,510 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "9pTB_iuyKIwil-X1cDFXKNsWP8GtSalbwPPZTHNZBdnwqwNdNe8pezqLalaAiT1uCaWJ2VForAOKdwKzybBNG6HKOssyb6YqTxC2B9YJMPkDuAVlpf__UaxRVpujKqavquyCk6-ybDJn",
+    "bossBaseInfoVO": {
+      "encryptBossId": "dc36e9fc6d591eea0nF73Ni4FVRW",
+      "bossId": 551755566,
+      "securityId": "T4hFKgZvrY8KS-Q19kzf4msl5c36WJUhJNL3pfZdgwlmQySTRIXjjQMl_IGr2Q6SPf4IvzSA5gip4wKVLAXRjCLPJv6UMg~~",
+      "name": "李鹏飞",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+      "title": "架构师",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1659610752000,
+      "bossOnline": false,
+      "brandName": "华为云计算",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 237116193,
+      "encryptJobId": "3111b08d163e517b1Xd92ty7EVtT",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "Web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "长河",
+      "locationDesc": "杭州·滨江区·长河",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "lowSalary": 20,
+      "highSalary": 40,
+      "jobDesc": "【工作职责】\n1. 负责华为云AI平台产品需求分析、技术选型、前端框架设计、核心代码开发及维护相关工作；\n2、web前沿技术研究和业界洞察，识别产品核心竞争力；发觉用户体验机会点，评估可用性现状，提升用户体验，并落地应用于AI平台产品中；\n3. 协助组建并管理前端技术团队，构建前端开发规范和流程\n【任职要求】\n1、有web开发业务相关工作经验，精通JavaScript、HTML、CSS等WEB前端语言，对AngularJS、jQuery、NodeJS、VueJS等主流框架有深入研究和项目实践，有基于AngularJS框架开发经验者优先；\n2. 具备较强的沟通能力、管理能力和分析解决问题的能力，有极强的学习能力和求知欲；\n3. 有带前端团队经验者优先\n【技能转换训战要求】\n1.专业知识学习要求：\n1） 精通原生JS，CSS等，深刻理解React或者VUE，理解其设计原理；\n2） 熟悉页面布局与架构，理解并能在实际中应用数据与表现分离，Web语义化；\n3）至少熟悉一种后端框架，如nodejs,C++,java 等；\n2.专业技能演练要求：\n1）对数据前端技术，数据可视化技术有浓厚兴趣，熟悉数据可视化类库，如d3, echarts,threejs 等，懂webgl以及图形学背景的加分；\n2）具备较强的沟通能力、管理能力和分析解决问题的能力，有极强的学习能力和求知欲；\n3）有带前端团队经验者优先",
+      "requiredSkills": [
+        "JavaScript",
+        "CSS",
+        "前端开发经验",
+        "HTML"
+      ],
+      "address": "杭州滨江区华为技术有限公司杭州研究所Z5",
+      "longitude": 120.203909,
+      "latitude": 30.184684,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/14ffc2797d009ee65c87458c8e97c44e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b65225fdc1e33a26085c37c8026a7924",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-40K·15薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "08fbb99a8f9314e21nF73Nq9E1E~",
+      "brandName": "华为云计算",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220224/7bf6f160950405e97af46decfa5798f66a0c64ffabeaeccfd2d9554b92240ad2767d53b26783ec6e.jpg",
+      "industryName": "计算机服务",
+      "stageName": "不需要融资",
+      "scaleName": "10000人以上",
+      "brandIntroduce": "华为云数据库团队，致力于为企业提供功能全面、稳定可靠、扩展性强、性能优越的GaussDB企业级数据库服务。\n我们的愿景是成就中国根技术，打造世界级数据库!\n在这里，你可与具备10年+数据库经验专家协同开发；\n在这里，你可与国内TOP级金融、政企客户现场交流；\n在这里，你可潜心打磨数据库技能，承担挑战性项目研发；\n华为云数据库团队期待着你的加入！",
+      "comName": "华为云计算技术有限公司",
+      "legalPerson": "张平安",
+      "startDate": "2019-12-06",
+      "regCapital": "500000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "贵州省贵安新区黔中大道交兴功路华为云数据中心",
+      "businessScope": "法律、法规、国务院决定规定禁止的不得经营；法律、法规、国务院决定规定应当许可（审批）的，经审批机关批准后凭许可（审批）文件经营;法律、法规、国务院决定规定无需许可（审批）的，市场主体自主选择经营。（一般项目：云计算装备技术服务；云计算设备制造；云计算设备销售；软件开发；软件销售；软件外包服务；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；信息技术咨询服务；企业管理咨询；人工智能基础软件开发；人工智能基础资源与技术平台；人工智能应用软件开发；区块链技术相关软件和服务；物联网技术服务；物联网应用服务；量子计算技术服务；大数据服务；互联网数据服务；信息系统集成服务；信息系统运行维护服务；商用密码产品生产；计算机软硬件及外围设备制造；计算机软硬件及辅助设备批发；计算机软硬件及辅助设备零售；计算机及通讯设备租赁；非居住房地产租赁；业务培训（不含教育培训、职业技能培训等需取得许可的培训）；广告制作；广告发布；互联网销售（除销售需要许可的商品）；销售代理；技术进出口；货物进出口；集成电路设计；数字内容制作服务（不含出版发行）；网络技术服务；会议及展览服务（除许可业务外，可自主依法经营法律法规非禁止或限制的项目）许可项目：第一类增值电信业务；第二类增值电信业务；互联网信息服务；网络文化经营；互联网直播技术服务；信息网络传播视听节目；互联网域名注册服务（依法须经批准的项目，经相关部门批准后方可开展经营活动））",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "华为云数据库团队，致力于为企业提供功能全面、稳定可靠、扩展性强、性能优越的GaussDB企业级数据库服务。\n我们的愿景是成就中国根技术，打造世界级数据库!\n在这里，你可与具备10年+数据库经验专家协同开发；\n在这里，你可与国内TOP级金融、政企客户现场交流；\n在这里，你可潜心打磨数据库技能，承担挑战性项目研发；\n华为云数据库团队期待着你的加入！",
+      "encryptComId": "54a167afc64130921X170tm9GFo~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "（华为校招）24届实习生欢迎投递",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "10pKIlYY8RP.search.1",
+          "performance": "",
+          "salaryDesc": "200-250元/天",
+          "jobLabels": [
+            "5天/周",
+            "1个月",
+            "本科",
+            "后端工程师",
+            "Java"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5天/周",
+              "highlight": false
+            },
+            {
+              "content": "1个月",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            }
+          ],
+          "jobType": 4,
+          "encryptJobId": "54e19a282ac1391b1XN40tm7FVtW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "华为云计算",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220224/7bf6f160950405e97af46decfa5798f66a0c64ffabeaeccfd2d9554b92240ad2767d53b26783ec6e.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "莫先生",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "Java"
+          ],
+          "welfares": [],
+          "securityId": "uI9feztnqr7xp-J19AUxPPF4_SRdhc5YXhgLQpC_r5N7p10kejbtoKIvK_hTLREb2t1jjYtN",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Web前端",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "10pKIlYY8RP.search.2",
+          "performance": "",
+          "salaryDesc": "20-40K·16薪",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "JavaScript",
+            "React",
+            "Vue"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "React",
+              "highlight": false
+            },
+            {
+              "content": "Vue",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "b96a86a7d98f99161Xd92Ni0ElBX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "华为云计算",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220224/7bf6f160950405e97af46decfa5798f66a0c64ffabeaeccfd2d9554b92240ad2767d53b26783ec6e.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "谢凯源",
+          "bossTitle": "深度学习平台研发人员",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript",
+            "React",
+            "Vue"
+          ],
+          "welfares": [],
+          "securityId": "1tVSUUHxhuqyk-91ESC7EBdwAVeVeOxuQ2M3cLnNmpdMYhrZua1V2bSjcoazNstOolzIAlOA",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "AI开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "10pKIlYY8RP.search.3",
+          "performance": "",
+          "salaryDesc": "20-40K·15薪",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "搜索/推荐",
+            "语音/图像识别",
+            "CNN/RNN/LSTM"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "搜索/推荐",
+              "highlight": false
+            },
+            {
+              "content": "语音/图像识别",
+              "highlight": false
+            },
+            {
+              "content": "CNN/RNN/LSTM",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "3a0cea3b187dc8291Xd92t6_FlZX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "华为云计算",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220224/7bf6f160950405e97af46decfa5798f66a0c64ffabeaeccfd2d9554b92240ad2767d53b26783ec6e.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "南哲",
+          "bossTitle": "技术总监",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "搜索/推荐",
+            "语音/图像识别",
+            "CNN/RNN/LSTM"
+          ],
+          "welfares": [],
+          "securityId": "nGpi_G14fDHwO-41icSYE-e_4fZa-fN8T9An7sCTLvcqVj09qQSie09GtJf1o0jrnBfK35oR",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "大数据开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "10pKIlYY8RP.search.4",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "Java",
+            "Python",
+            "SQL"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "0068bb3561b4de581XF80tm5F1JX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "华为云计算",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220224/7bf6f160950405e97af46decfa5798f66a0c64ffabeaeccfd2d9554b92240ad2767d53b26783ec6e.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "石先生",
+          "bossTitle": "招聘人员",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220326/607f1f3d68754fd03a5e94041ec2ced6fa8e7e53e5ed4884f34cb2d3efcdf0f39ddd7fd8384b50d2_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "Python",
+            "SQL"
+          ],
+          "welfares": [],
+          "securityId": "eB8exnRjHQXLz-F1r4pFOEA87AR7m2IdaSxYMItYn3yA9Pj449aiD0BDjn6RPcxrJ_Atstw~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "web前端工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "10pKIlYY8RP.search.5",
+          "performance": "",
+          "salaryDesc": "13-15K·14薪",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "JavaScript",
+            "Vue",
+            "Angular"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "Vue",
+              "highlight": false
+            },
+            {
+              "content": "Angular",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "922a2e699e9dff431HRy096_FFVQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "华为云计算",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220224/7bf6f160950405e97af46decfa5798f66a0c64ffabeaeccfd2d9554b92240ad2767d53b26783ec6e.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "李鑫",
+          "bossTitle": "前端开发",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230830/607f1f3d68754fd06fda7d6da885a78a267f9f0eef807372045a484cb5ccf404b3daa32b188bc412_s.png.webp",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript",
+            "Vue",
+            "Angular",
+            "前端开发经验"
+          ],
+          "welfares": [],
+          "securityId": "Ag8e5TLmuWXgs-p1CTHPqGHL4dzmrfW0bV4u2zUIcKk8mSqa5mCrN-0VlrOdgGhsEzR53r5m",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

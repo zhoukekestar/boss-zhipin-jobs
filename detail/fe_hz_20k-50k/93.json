@@ -1,0 +1,143 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "ngBECrvi0c656-11I3G5sAPBxSWCLaLrwvunpnkvRpkJjgIcqGAFYJ1Yx3ihy6kyIIKfRDo2cnoUvrVQs4YT-VI42Awe_5fEpMVIyB7uYIDLNqo8hTda-kKq6hxFMASCbtYmLSrF5dsg",
+    "bossBaseInfoVO": {
+      "encryptBossId": "db1a5b00c71606300nV-2ti5EFNZ",
+      "bossId": 514154019,
+      "securityId": "91VmeCQsMLNsU-k1fmOlf7FcISFzCjIKDRoj70rCs34jODjicPoEb40yRvFoza4iUF9ealaaTDtnAbccQjW62kQr4FB84w~~",
+      "name": "孙翰林",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210226/68b0fb0c804c0865637e113441d7cbc01070f59d410cb69ca7f147402204923b_s.jpg",
+      "title": "招聘助理",
+      "activeTimeDesc": "5月内活跃",
+      "activeTime": 1686041149000,
+      "bossOnline": false,
+      "brandName": "茶乙几",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 217819544,
+      "encryptJobId": "0010ed1127bd59391XV909y0FVZU",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端开发",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "西兴",
+      "locationDesc": "杭州·滨江区·西兴",
+      "experienceName": "经验不限",
+      "degreeName": "硕士",
+      "lowSalary": 12,
+      "highSalary": 24,
+      "jobDesc": "编写脚本程序 有做程序经验者优先",
+      "requiredSkills": [
+        "JavaScript",
+        "TypeScript",
+        "ActionScript",
+        "SQL",
+        "CSS",
+        "HTML",
+        "算法基础",
+        "网络编程"
+      ],
+      "address": "杭州滨江区中赢控股集团15楼",
+      "longitude": 120.208407,
+      "latitude": 30.170671,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d8ff9e200618b7feb95241b9abd0fa73",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1c6defb779d2fa2faa6f5ff75da04088",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "12-24K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "a40354f9c26db39c1nB40ti1FFc~",
+      "brandName": "茶乙几",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "industryName": "餐饮",
+      "stageName": "",
+      "scaleName": "0-20人",
+      "brandIntroduce": "",
+      "comName": "杭州市滨江区茶乙几餐饮店",
+      "legalPerson": "沈畅",
+      "startDate": "2021-01-25",
+      "regCapital": "10万",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市滨江区长河街道星光国际广场1-120号",
+      "businessScope": "一般项目：小餐饮店（三小行业）（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "",
+      "encryptComId": "4fa148c69fff88cc1HV_3tS4FFI~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": null
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

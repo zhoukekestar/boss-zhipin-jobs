@@ -1,0 +1,508 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "8Hn1NAhxlKXBE-213tpREFLJuvP0mSY9akOAqcExo-vaU2OB7q4zJ7NjrrdUqes-VsRAkl_PuGGYWkiqNYZK2tbEWA2gavpYl2bypqVeIQIf1wfD_HazU_x2x9C3bijjYJMCBR9xnQ~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "52d473b421434b471XJ_39m8GFY~",
+      "bossId": 26544184,
+      "securityId": "JLpcttDJcSUS9-d1ISCZFpYEbR6nD5vqPkDqBtP-IBSVAb8Wzu_BlM7ChoS-Wpm05PaCAc-T0aa9QEhL6gXJzh9qqDtE",
+      "name": "朱先生",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230727/607f1f3d68754fd09a3c3a56b1d039a016a0106741ae4a389672889c3136116f6b71056ff0b3e681_s.jpg.webp",
+      "title": "前端工程师",
+      "activeTimeDesc": "3月内活跃",
+      "activeTime": 1690449501000,
+      "bossOnline": false,
+      "brandName": "曼孚科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 299672735,
+      "encryptJobId": "98f58e6be22ad4eb1X1z3dq_F1FV",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "高级前端工程师",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "长河",
+      "locationDesc": "杭州·滨江区·长河",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 30,
+      "jobDesc": "工作内容：\n主要参与自动驾驶3D场景功能的开发，能独立负责2D/3D相关模块的技术实现\n\n岗位要求：\n1. 有多年前端开发经验，计算机（软件工程）相关专业\n2. 上线过2D/3D可视化相关的应用（或者独立开发过类似的项目）\n3. 使用过vue，对vue的架构有一定理解\n4. 对操作系统底层有一定的了解\n5. 对fabric.js，three.js 有一定了解\n6. 有一定数学基础能力\n7. 有一定的复杂模块设计经验",
+      "requiredSkills": [
+        "计算机/软件工程相关专业",
+        "技术博客/开源项目有所贡献",
+        "国内院校优先",
+        "fabric",
+        "three",
+        "canvas"
+      ],
+      "address": "杭州滨江区滨江区物联网产业孵化器2幢A座3楼",
+      "longitude": 120.220394,
+      "latitude": 30.212875,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4f19bb1b1a6a54e1f4026f974941fcff",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/929618dc25fd43a56f45cadae87b760a",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-30K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "3dc2d9787c8ca5e51HVz3N27Fg~~",
+      "brandName": "曼孚科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191126/8106ad3f2502eb201de56769dbacce12c57e27046ad168290e74ff4822083802_s.jpg",
+      "industryName": "数据服务",
+      "stageName": "B轮",
+      "scaleName": "100-499人",
+      "brandIntroduce": "曼孚科技是行业领先的人工智能数据解决方案供应商，通过聚焦全栈式数字化智能平台的研发，打通感知与认知智能的边界，推动人工智能在更多垂直场景实现落地应用。\n\n曼孚科技旗下主要产品服务包括SaaS级的数据服务平台，AI数据中台服务，基础数据服务(数据采集、数据清洗、数据标注)等。凭借成熟的商业模式、独到的产业洞察以及夯实的技术根基，帮助自动驾驶、智慧安防、新零售等垂直场景用户从数据中获得更深入的行业洞察力。\n\n曼孚智能是先进的AI数据服务解决方案提供商，公司拥有在图像识别，视频识别，语音识别，别义理解等领域的专业数据服务，具有专业领先的核心技术体系。\n\n曼孚科技（Mindflow）是由北大校友创办的，行业领先的AI基础架构与数据智能平台服务商，以搭建智能化数据中台及多源异构数据存储流通服务作为核心发展方向。通过聚焦人工智能通用基础设施的构建，打通感知与认知智能的边界，推动人工智能在更多垂直场景实现落地应用。公司最近完成了B轮数千万人民币的融资，准备大力拓展团队，非常期待优秀的伙伴加入我们！\n\n现在开始，加入曼孚和我们一起为AI的发展贡献力量，为了十年后更棒的世界！",
+      "comName": "杭州曼孚科技有限公司",
+      "legalPerson": "章越",
+      "startDate": "2018-11-16",
+      "regCapital": "182.800526万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市滨江区西兴街道丹枫路399号2幢301室",
+      "businessScope": "技术开发、技术咨询、技术服务、技术转让：基础软件、应用软件、互联网信技术、计算机系统集成、数据处理技术（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "曼孚科技是行业领先的人工智能数据解决方案供应商，通过聚焦全栈式数字化智能平台的研发，打通感知与认知智能的边界，推动人工智能在更多垂直场景实现落地应用。\n\n曼孚科技旗下主要产品服务包括SaaS级的数据服务平台，AI数据中台服务，基础数据服务(数据采集、数据清洗、数据标注)等。凭借成熟的商业模式、独到的产业洞察以及夯实的技术根基，帮助自动驾驶、智慧安防、新零售等垂直场景用户从数据中获得更深入的行业洞察力。\n\n曼孚智能是先进的AI数据服务解决方案提供商，公司拥有在图像识别，视频识别，语音识别，别义理解等领域的专业数据服务，具有专业领先的核心技术体系。\n\n曼孚科技（Mindflow）是由北大校友创办的，行业领先的AI基础架构与数据智能平台服务商，以搭建智能化数据中台及多源异构数据存储流通服务作为核心发展方向。通过聚焦人工智能通用基础设施的构建，打通感知与认知智能的边界，推动人工智能在更多垂直场景实现落地应用。公司最近完成了B轮数千万人民币的融资，准备大力拓展团队，非常期待优秀的伙伴加入我们！\n\n现在开始，加入曼孚和我们一起为AI的发展贡献力量，为了十年后更棒的世界！",
+      "encryptComId": "6a13912de90510e21ndz3t60EFc~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "数据测试工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZUJDX9ni27.search.1",
+          "performance": "",
+          "salaryDesc": "11-22K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Python",
+            "Shell",
+            "Postman"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "Shell",
+              "highlight": false
+            },
+            {
+              "content": "Postman",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "64d071a73c557e081HV-0tm8FFtW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "曼孚科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191126/8106ad3f2502eb201de56769dbacce12c57e27046ad168290e74ff4822083802_s.jpg",
+          "brandStage": "B轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "王女士",
+          "bossTitle": "招聘者-人事",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230530/607f1f3d68754fd04134ecfb42e89b517112773d7fa6add91fce04e94eb5087ac582b64c03506a9e_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Python",
+            "Shell",
+            "Postman",
+            "测试工作经验"
+          ],
+          "welfares": [],
+          "securityId": "Nb6RsMfAuuEJh-31S3R34Vf3lfeVmuu9yeFd-So-T7QsEYbLeSnCqv4T18ZztT6wj2rBB3Y~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "项目经理",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZUJDX9ni27.search.2",
+          "performance": "",
+          "salaryDesc": "11-20K·18薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "项目经理",
+            "SaaS",
+            "人工智能"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "项目经理",
+              "highlight": false
+            },
+            {
+              "content": "SaaS",
+              "highlight": false
+            },
+            {
+              "content": "人工智能",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "2a37e3811937ab1c1nV82N24F1FU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "曼孚科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191126/8106ad3f2502eb201de56769dbacce12c57e27046ad168290e74ff4822083802_s.jpg",
+          "brandStage": "B轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "张女士",
+          "bossTitle": "高级人事经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200330/c7ae002d736dc8ee16b99370988201a697da7865a0d5d1a8f5f3447ca64acb48_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "项目经理",
+            "SaaS",
+            "人工智能",
+            "数据标注",
+            "数据采集",
+            "供应商管理",
+            "OCR",
+            "3d"
+          ],
+          "welfares": [],
+          "securityId": "b75VroOqfVpce-a1-ZMIiiBwTzt-QUFoPzw-NkO4eIZ-gushAqcikCdXWhzWSOF2Rt-BeRg~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级/资深java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZUJDX9ni27.search.3",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Java",
+            "MongoDB",
+            "DDD"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "MongoDB",
+              "highlight": false
+            },
+            {
+              "content": "DDD",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "691ca10ca552d31c1X1z3du6F1NQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "曼孚科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191126/8106ad3f2502eb201de56769dbacce12c57e27046ad168290e74ff4822083802_s.jpg",
+          "brandStage": "B轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "那焱",
+          "bossTitle": "技术专家",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211211/607f1f3d68754fd08ff654a81cbc10e078ccca01019170c5adca0a0670b387181b2774b520019100_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "MongoDB",
+            "DDD",
+            "Quarkus",
+            "Postgresql"
+          ],
+          "welfares": [],
+          "securityId": "RnDcT4qY1LkZu-y1dTvmounxvQ9x3Bs6_nSYBA17z_YtE6202B-Yr3u0ttYHrseKboRHErs~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级前端工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZUJDX9ni27.search.4",
+          "performance": "",
+          "salaryDesc": "11-20K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "前端开发经验",
+            "计算机/软件工程相关专业"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "前端开发经验",
+              "highlight": false
+            },
+            {
+              "content": "计算机/软件工程相关专业",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "ddc1f2ee7923802f1X193Ni6E1tX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "曼孚科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191126/8106ad3f2502eb201de56769dbacce12c57e27046ad168290e74ff4822083802_s.jpg",
+          "brandStage": "B轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "王女士",
+          "bossTitle": "招聘者-人事",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230530/607f1f3d68754fd04134ecfb42e89b517112773d7fa6add91fce04e94eb5087ac582b64c03506a9e_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "前端开发经验",
+            "计算机/软件工程相关专业"
+          ],
+          "welfares": [],
+          "securityId": "Nnhn_3sK9Hwg_-l1oVSYdGlI48HJAFeAjjMMma0UXal7QYtxO988JgFB2UCnRdfN-N1QvgA~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "web前端开发工程师-杭州",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": null,
+          "businessName": null,
+          "distance": "",
+          "lid": "ZUJDX9ni27.search.6",
+          "performance": "",
+          "salaryDesc": "8-13K·13薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "前端开发",
+            "HTML"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            },
+            {
+              "content": "HTML",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "c94c55e9b70d3bbd1n193Ni6E1FU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "曼孚科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191126/8106ad3f2502eb201de56769dbacce12c57e27046ad168290e74ff4822083802_s.jpg",
+          "brandStage": "B轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "吴先生",
+          "bossTitle": "技术总监",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180808/bf4cab6654a8a7a0ee352efa33c5eec7cfcd208495d565ef66e7dff9f98764da_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "前端开发",
+            "HTML"
+          ],
+          "welfares": [],
+          "securityId": "_Yh0wrmCznsV0-k1bvyYZYYcBMVh9dJixtwJpm_Yf0wUurUh-_uz53nuGAyJqeRJQ8epBVA~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

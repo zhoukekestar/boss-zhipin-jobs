@@ -1,0 +1,533 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "QsFTQYBb18qdN-P1QTfy2ZUEZK41w3bTjijmFKlJESGnI_wTIogO0KdT_i20nURCl4zztMIXTVUD6kkDmZ-KGFpsR3Z7Z6a_0lfr_MjkmSCidbxc9UfDfdyADSHhdGZ1joVeBmrmZA~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "182552731f11030333Vy29m9FVQ~",
+      "bossId": 81804056,
+      "securityId": "F3bZ8alE7s-QW-91FeBM4CIf7qOJ7HXhIjMEW3QZSH3k7oUhyH5Pkvjrv_Yjya9sZCPyc420Bd4q1-_AYzqhpcoTbyUB",
+      "name": "洪先生",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+      "title": "招聘者",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1628082149000,
+      "bossOnline": false,
+      "brandName": "客迈软件",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 146315391,
+      "encryptJobId": "c39c6bb8a51d43c11nB82Ny4E1tR",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": null,
+      "businessDistrict": null,
+      "locationDesc": "杭州",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 20,
+      "highSalary": 35,
+      "jobDesc": "1. 计算机及相关专业统招本科以上学历，3年以上WEB前端开发经验；\n2. 熟悉W3C标准，熟悉HTTP协议和浏览器原理；\n3. 精通HTML和CSS，熟悉HTML5特性，了解HTML5最新规范，能够熟练运用HTML5特性实现功能；\n4. 精通JavaScript；理解并掌握JavaScript语言核心技术DOM、BOM、Ajax、JSON等；\n5. 熟练使用Web开发框架（JQuery、Bootstrap等常用框架）；熟悉并掌握 Angular.js，React和Vue其中一个；\n6. 熟悉前端编译、构建、测试等常用工具(Babel、Webpack、Jasmine等)；\n7. 良好的英文读写能力；\n8. 热爱学习，关心新技术，具有深入研究的兴趣和能力；\n9. 积极向上，有良好的人际沟通能力，良好的工作协调能力，踏实肯干的工作精神；\n10.有手机App开发经验者优先；\n11.有后端.Net或Java开发经验者优先。",
+      "requiredSkills": [
+        "前端开发",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "CSS3",
+        "HTML5",
+        "ES6",
+        "React"
+      ],
+      "address": "杭州西湖区华星时代广场A座2101",
+      "longitude": 120.124791,
+      "latitude": 30.276996,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3ffb80986fd5a7afaa3a6bab07f105c5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/166615dd3fb61c39d700454ba2d30375",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-35K·13薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "cb9d7ad6689c8da91nF_3dW1FA~~",
+      "brandName": "客迈软件",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230928/7bf6f160950405e9343a6319392a86ffd20060280eb03fddbad88d1225e59b742d11c4a86f7a6eae.png.webp",
+      "industryName": "计算机软件",
+      "stageName": "不需要融资",
+      "scaleName": "100-499人",
+      "brandIntroduce": "Comm100致力于为电子商务企业提供多渠道客户沟通、客服管理、智能客服等大型行业解决方案。公司成立于2009年，总部位于加拿大温哥华，是一家全球领先的客户沟通软件的行业解决方案提供商。 \n        Comm100在全球设立了多个研发及服务中心，包括加拿大、美国、印度、中国杭州及长沙等地区，主要客户遍及北美、欧洲、亚太等地，积累了大量来自政府、教育、银行、医疗、保险、金融等标杆级用户。Comm100是微软认证的黄金合作伙伴。\n       Comm100倡导“工程师文化”，“工匠精神”，制定了以“产品驱动发展”的公司战略。在产品研发上持续增加投入，从而实现安全、稳定的“基于人工智能技术的全渠道客服管理解决方案”的产品愿景，以帮助我们的客户实现高效、稳定、低成本的客服智能化，实现业务增长。\n公司使命：\n承担企业社会责任感，培养对社会有用的人才\n帮助企业创造和留住客户\n成为最具幸福感的企业\n\n\n客迈软件是微软认证黄金合作伙伴\n公司网址：http://www.comm100.com/",
+      "comName": "客迈软件（杭州）有限公司",
+      "legalPerson": "高智文",
+      "startDate": "2017-10-23",
+      "regCapital": "10万美元",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市西湖区文三路478号华星时代广场B座4层411室",
+      "businessScope": "技术开发、技术咨询、技术服务：计算机软硬件、系统集成；销售：计算机软硬件；承接：计算机网络工程；货物或技术进出口（国家禁止或涉及行政审批的货物和技术进出口除外）（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "Comm100致力于为电子商务企业提供多渠道客户沟通、客服管理、智能客服等大型行业解决方案。公司成立于2009年，总部位于加拿大温哥华，是一家全球领先的客户沟通软件的行业解决方案提供商。 \n        Comm100在全球设立了多个研发及服务中心，包括加拿大、美国、印度、中国杭州及长沙等地区，主要客户遍及北美、欧洲、亚太等地，积累了大量来自政府、教育、银行、医疗、保险、金融等标杆级用户。Comm100是微软认证的黄金合作伙伴。\n       Comm100倡导“工程师文化”，“工匠精神”，制定了以“产品驱动发展”的公司战略。在产品研发上持续增加投入，从而实现安全、稳定的“基于人工智能技术的全渠道客服管理解决方案”的产品愿景，以帮助我们的客户实现高效、稳定、低成本的客服智能化，实现业务增长。\n公司使命：\n\t承担企业社会责任感，培养对社会有用的人才\n\t帮助企业创造和留住客户\n\t成为最具幸福感的企业\n\n\n客迈软件是微软认证黄金合作伙伴\n公司网址：http://www.comm100.com/",
+      "encryptComId": "127f1c9449abf6a10HN8296_EQ~~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "DevOps",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "文二路",
+          "distance": "",
+          "lid": "ZWZXZhIe83.search.1",
+          "performance": "",
+          "salaryDesc": "25-35K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "自动化运维",
+            "容器技术",
+            "Docker"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "自动化运维",
+              "highlight": false
+            },
+            {
+              "content": "容器技术",
+              "highlight": false
+            },
+            {
+              "content": "Docker",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "3d7bf3fcb5a925871nB92du_ElRV",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "客迈软件",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230928/7bf6f160950405e9343a6319392a86ffd20060280eb03fddbad88d1225e59b742d11c4a86f7a6eae.png.webp",
+          "brandStage": "不需要融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "黄操",
+          "bossTitle": "devops经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190903/4dfaa341bcfe00d63e526aa53cd90d4e7dd12fbe03ead8c6556815f863801c54_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "自动化运维",
+            "容器技术",
+            "Docker",
+            "Jenkins",
+            "Zabbix",
+            "K8S",
+            "DevOps"
+          ],
+          "welfares": [],
+          "securityId": "MygeaPZ98bjeI-A1NXYqM_UL1sTVSIXY8VG73ey8POcr6LnlQsqu50p8LJoyGI9rBTiKvw~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": ".NET",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "文三路",
+          "distance": "",
+          "lid": "ZWZXZhIe83.search.2",
+          "performance": "",
+          "salaryDesc": "15-25K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "C#",
+            ".NET Core",
+            "消息队列"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "C#",
+              "highlight": false
+            },
+            {
+              "content": ".NET Core",
+              "highlight": false
+            },
+            {
+              "content": "消息队列",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "7df890859ad87ef21nB82d--EFpV",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "客迈软件",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230928/7bf6f160950405e9343a6319392a86ffd20060280eb03fddbad88d1225e59b742d11c4a86f7a6eae.png.webp",
+          "brandStage": "不需要融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "马健",
+          "bossTitle": "研发经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210413/2ede1ed58684988ecdd1563a067deb081bde71b9b680a62566cea09b5b7af24b_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "C#",
+            ".NET Core",
+            "消息队列",
+            "容器技术",
+            "SQL Server",
+            "高级软件工程师",
+            "中级软件工程师",
+            "英语"
+          ],
+          "welfares": [],
+          "securityId": "rSfZb9vRrcCds-z1HpSFNd7lVKi38hAPaWNe8TXa9DapmHil5370n8FFh42aN5Up8K1ot4RZ",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "研发经理",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "文三路",
+          "distance": "",
+          "lid": "ZWZXZhIe83.search.3",
+          "performance": "",
+          "salaryDesc": "30-50K·13薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "SQL",
+            "微服务架构",
+            "消息队列"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "微服务架构",
+              "highlight": false
+            },
+            {
+              "content": "消息队列",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "cfc5c5d1ddd02dfe1nFz3dW_FFNR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "客迈软件",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230928/7bf6f160950405e9343a6319392a86ffd20060280eb03fddbad88d1225e59b742d11c4a86f7a6eae.png.webp",
+          "brandStage": "不需要融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "马健",
+          "bossTitle": "研发经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210413/2ede1ed58684988ecdd1563a067deb081bde71b9b680a62566cea09b5b7af24b_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "SQL",
+            "微服务架构",
+            "消息队列",
+            "全栈开发",
+            "后端开发",
+            "企业级应用开发",
+            "React",
+            ".NET"
+          ],
+          "welfares": [],
+          "securityId": "EVn6T8V570ls2-D1lFK_vI-EqcVQ2hxhBruDx47LiXRU7yRRuyL3gTBiWPMZ8Pf8-AisMsxV",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "后端架构师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "文三路",
+          "distance": "",
+          "lid": "ZWZXZhIe83.search.4",
+          "performance": "",
+          "salaryDesc": "30-45K·13薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "架构师",
+            ".NET",
+            "后端开发"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "架构师",
+              "highlight": false
+            },
+            {
+              "content": ".NET",
+              "highlight": false
+            },
+            {
+              "content": "后端开发",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "0157735b7799b8ff1nB92N--GFtY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "客迈软件",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230928/7bf6f160950405e9343a6319392a86ffd20060280eb03fddbad88d1225e59b742d11c4a86f7a6eae.png.webp",
+          "brandStage": "不需要融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "陆宏蒙",
+          "bossTitle": "架构师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "架构师",
+            ".NET",
+            "后端开发",
+            "ASP.NET"
+          ],
+          "welfares": [],
+          "securityId": "bHvehFCr4MHFu-r1d4G7xQ8xhsel0EAAJnkGood389AJNgJ8jaShwerTjwQkOcI2aWYz7Q~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Software Support Analyst",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "文三路",
+          "distance": "",
+          "lid": "ZWZXZhIe83.search.5",
+          "performance": "",
+          "salaryDesc": "12-16K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "企业内部IT技术支持",
+            "IT技术支持经验",
+            "售前/售后技术支持"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "企业内部IT技术支持",
+              "highlight": false
+            },
+            {
+              "content": "IT技术支持经验",
+              "highlight": false
+            },
+            {
+              "content": "售前/售后技术支持",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "4442c901e4278bd81HV43tq_FVpV",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "客迈软件",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230928/7bf6f160950405e9343a6319392a86ffd20060280eb03fddbad88d1225e59b742d11c4a86f7a6eae.png.webp",
+          "brandStage": "不需要融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "廖女士",
+          "bossTitle": "HR Manager",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "企业内部IT技术支持",
+            "IT技术支持经验",
+            "售前/售后技术支持",
+            "留学生优先",
+            "售前支持/技术咨询经验",
+            "全英文办公",
+            "售后支持/客户响应经验"
+          ],
+          "welfares": [],
+          "securityId": "T5lP-QkrbKy0n-D1OsPT-8eeMFUUvvPr8ebVv5mZ7n1EyNngCS_a91KXG7TkRt_kdHJFCkI~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

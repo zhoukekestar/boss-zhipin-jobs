@@ -1,0 +1,529 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "1lHhKJJKZX5BD-v1_CYXpjCshNwkpeV1OuBPI8zEJ_4j1VUnQAdFgGpPWzzvVObNoO1_2ANxnWOlzNwLgpWkQ-9pymziIapaQWYADhRYqmzatR1cEpmS1q5kN6pndDCjqlNZEw2v",
+    "bossBaseInfoVO": {
+      "encryptBossId": "a54c3e95bceb29200HJ43tW-ElI~",
+      "bossId": 76258320,
+      "securityId": "gqDxstTyrxGpy-G16kmuyhOlgo4SPMgLtAu734isbwYI7Gqbed2two8BC3q3yzNxB9_rQYEgAf6N7sCAlI2S0KwiNR0~",
+      "name": "赵胜栋",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191020/409d9456cfb2a549fe6340ee0bb11ad2d4f46db01d9367d5b38aeced69fa8969_s.png",
+      "title": "前端技术专家",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1648821376000,
+      "bossOnline": false,
+      "brandName": "小电科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 82547333,
+      "encryptJobId": "da01e16c0a287a8633Z_39q-E1E~",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "未来科技城",
+      "locationDesc": "杭州·余杭区·未来科技城",
+      "experienceName": "5-10年",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 30,
+      "jobDesc": "岗位职责：\n1、参与小电国内以及海外消费者端h5、小程序等的功能迭代以及重构\n1、参与小电国内以及海外商家端h5、小程序等的功能迭代以及重构\n2、参与消费者端广告营销等活动设计开发\n3、参与改进前端工程化体系、性能优化、体验优化、新技术探索\n职位要求：\n1、5年左右前端开发工作经验，并热爱前端领域，能力强者可以降低工作年限要求\n2、精通至少一个领域的前端知识体系；精通常用框架的设计原理，能合理运用\n3、前端某个技术领域内（跨端开发、小程序、React、Flutter等）足够深入探索研究并有成功的沉淀及产出\n3、具备良好的团队协作精神、良好的沟通能力，能快速融入团队\n4、有基于微信、支付宝App开发H5移动应用或小程序经验加分\n5、有大型前端工程化、大型Node项目实施经验加分",
+      "requiredSkills": [
+        "前端开发",
+        "Node.js",
+        "HTML",
+        "React",
+        "移动端",
+        "小程序",
+        "支付"
+      ],
+      "address": "杭州余杭区浙江海外高层次人才创新园5幢705",
+      "longitude": 120.018258,
+      "latitude": 30.283127,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/55e436e7145828c91f06bd1a7190c21c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c40f271b50f290dbd9c3d77d7141cf85",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-30K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "f3d53935837c7edd1HN_09m7EA~~",
+      "brandName": "小电科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/34e55b0c25626c32535507e7fecd7358cfcd208495d565ef66e7dff9f98764da.jpg",
+      "industryName": "互联网",
+      "stageName": "C轮",
+      "scaleName": "1000-9999人",
+      "brandIntroduce": "小电科技成立于2016年12月，根据弗若斯特沙利文数据，于2020年，就服务网络而言，我们是中国领先的共享充电宝服务提供商。我们通过充电宝为我们的用户提供快速、方便和易获取的移动设备充电服务。我们策略性地将充电宝柜机放置在人流密集的地方，或者人们长时间逗留的地方，比如商业综合体、餐厅、酒店、交通枢纽、娱乐场所。截至2020年12月31日，我们的共享充电宝服务拥有超过71万个点位，已投放近600万个充电宝，超过2.37亿注册用户，我们在用户触达方面拥有行业强势地位。\n\n我们是一家科技驱动型公司，在数字化基础设施中投入了大量资源。我们利用自主开发的数字化基础设施和数据分析来监测设备性能、处理营运数据、获取有价值的用户洞见，并密切跟踪供应链管理。我们相信我们的技术能力已经巩固了我们的领导地位，并将继续促进我们的可持续增长。",
+      "comName": "杭州友电科技有限公司",
+      "legalPerson": "唐永波",
+      "startDate": "2018-02-05",
+      "regCapital": "1000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市余杭区五常街道文一西路998号5幢703室",
+      "businessScope": "一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；计算机软硬件及辅助设备批发；电子专用设备销售；电子产品销售；照相机及器材销售；通讯设备销售；电池销售；计算机软硬件及辅助设备零售；销售代理；集成电路芯片及产品销售；集成电路销售；移动终端设备销售；广告设计、代理；广告制作；广告发布（非广播电台、电视台、报刊出版单位）；网络技术服务；企业形象策划；咨询策划服务；其他文化艺术经纪代理；企业管理；信息技术咨询服务；市场营销策划；信息咨询服务（不含许可类信息咨询服务）；居民日常生活服务；计算机及通讯设备租赁；集中式快速充电站；充电桩销售（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：货物进出口（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "小电科技成立于2016年12月，根据弗若斯特沙利文数据，于2020年，就服务网络而言，我们是中国领先的共享充电宝服务提供商。我们通过充电宝为我们的用户提供快速、方便和易获取的移动设备充电服务。我们策略性地将充电宝柜机放置在人流密集的地方，或者人们长时间逗留的地方，比如商业综合体、餐厅、酒店、交通枢纽、娱乐场所。截至2020年12月31日，我们的共享充电宝服务拥有超过71万个点位，已投放近600万个充电宝，超过2.37亿注册用户，我们在用户触达方面拥有行业强势地位。\n\n我们是一家科技驱动型公司，在数字化基础设施中投入了大量资源。我们利用自主开发的数字化基础设施和数据分析来监测设备性能、处理营运数据、获取有价值的用户洞见，并密切跟踪供应链管理。我们相信我们的技术能力已经巩固了我们的领导地位，并将继续促进我们的可持续增长。",
+      "encryptComId": "56e29ffdb35a34ab1nF929i1F1U~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "资深测试工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "100pzZ4c9Z1.search.1",
+          "performance": "",
+          "salaryDesc": "12-20K",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "接口自动化测试",
+            "Java",
+            "Linux"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "接口自动化测试",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Linux",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "921e0f68b4608a7a1nF93t-5F1VX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "小电科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/34e55b0c25626c32535507e7fecd7358cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "C轮",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "戴张兴",
+          "bossTitle": "资深测试开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170224/bf908257caae51c2a62868154a74c5538c7dd922ad47494fc02c388e12c00eac_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "接口自动化测试",
+            "Java",
+            "Linux",
+            "TestNG",
+            "Jmeter",
+            "MySQL"
+          ],
+          "welfares": [],
+          "securityId": "ut_w_fntCsASo-z1O6KrrO-Yk5dfX6-zPVn6swRrZclBJ5qr219Is_WbaObWGDdTuxMDmw4~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "资深Java工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "海创园",
+          "distance": "",
+          "lid": "100pzZ4c9Z1.search.2",
+          "performance": "",
+          "salaryDesc": "18-25K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "分布式技术",
+            "NoSQL",
+            "SpringCloud"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "NoSQL",
+              "highlight": false
+            },
+            {
+              "content": "SpringCloud",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "9bff8c421dbb1e6f1nBz2N27FFRU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "小电科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/34e55b0c25626c32535507e7fecd7358cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "C轮",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "王先生",
+          "bossTitle": "研发",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200403/c0693772f9e34e02045a3ae490f501586fa79099c9b67f318411373c57f0264b_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "分布式技术",
+            "NoSQL",
+            "SpringCloud",
+            "SpringBoot"
+          ],
+          "welfares": [],
+          "securityId": "_nCPPo9ctUteu-11K-9nwsywvtC2I6RH55zE5JLK5FaIlvw537IpGO24qD2dJIAKSNMojsSH",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java技术专家",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "海创园",
+          "distance": "",
+          "lid": "100pzZ4c9Z1.search.3",
+          "performance": "",
+          "salaryDesc": "25-35K·14薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "微服务架构",
+            "分布式技术",
+            "多线程"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "微服务架构",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "多线程",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "330a89d952b180b31nB-2dq-EVNT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "小电科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/34e55b0c25626c32535507e7fecd7358cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "C轮",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "王先生",
+          "bossTitle": "研发",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200403/c0693772f9e34e02045a3ae490f501586fa79099c9b67f318411373c57f0264b_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "微服务架构",
+            "分布式技术",
+            "多线程",
+            "消息队列",
+            "容器技术",
+            "SpringBoot",
+            "SpringCloud",
+            "后端开发"
+          ],
+          "welfares": [],
+          "securityId": "21RyjQLzg6_VU-i19ELBUG-WjyJelOfBj1spjB1nQugEA3el6tHZvoEpw2o4gc3dyNffDnBr",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "测试开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "未来科技城",
+          "distance": "",
+          "lid": "100pzZ4c9Z1.search.4",
+          "performance": "",
+          "salaryDesc": "15-25K·14薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "测试工程师",
+            "自动化测试",
+            "性能测试"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "测试工程师",
+              "highlight": false
+            },
+            {
+              "content": "自动化测试",
+              "highlight": false
+            },
+            {
+              "content": "性能测试",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "ecfd43e4a733552333V-3dq5ElU~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "小电科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/34e55b0c25626c32535507e7fecd7358cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "C轮",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "戴张兴",
+          "bossTitle": "资深测试开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170224/bf908257caae51c2a62868154a74c5538c7dd922ad47494fc02c388e12c00eac_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "测试工程师",
+            "自动化测试",
+            "性能测试",
+            "Java",
+            "MVC开发"
+          ],
+          "welfares": [],
+          "securityId": "B0t1CZo4tmIWw-U1euGwJa7FjMaAEmP0VhkJxAtMdeG3RdNgyXIvHiSMIHtWJbWVSX7HFg~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "java技术专家/资深java工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "100pzZ4c9Z1.search.5",
+          "performance": "",
+          "salaryDesc": "18-35K·14薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "分布式技术",
+            "多线程",
+            "MySQL"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "多线程",
+              "highlight": false
+            },
+            {
+              "content": "MySQL",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "d3da86984946de351nVz3ty-F1dX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "小电科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/34e55b0c25626c32535507e7fecd7358cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "C轮",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "刘先生",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "分布式技术",
+            "多线程",
+            "MySQL",
+            "Redis",
+            "Linux",
+            "架构师",
+            "计算机软件",
+            "云计算"
+          ],
+          "welfares": [],
+          "securityId": "MYuQZoM9BFhta-e1XPTNMaCEubo9FzdYGsrMbWUyhzpPNO91eY2ehUnANeELEAkCz6ry7Cg~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

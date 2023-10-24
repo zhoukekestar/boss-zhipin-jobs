@@ -1,0 +1,499 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "7CzdqwY6Wwk2x-i1gm8g73u0AQhuoB1l8VWaAwIbDGvwBPXeJpJ5-Q-sVaqaXRmqOfuUQ5XQ0MgKRYxpaGwGlqTVy6MNRC-YVKW4mC2LV1iqRun9ZT0bJOWvwYlWFY6xBUkzQ8Y~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "234af8f1a85ee2121XN73tq1E1M~",
+      "bossId": 27157831,
+      "securityId": "4HPgvfgm4KTLJ-h1NPlYCy4j2Tp3whawlkRQOKxjsRo8tEFzMh7To4DCPA1ZU9YOyYn8aWAVeZNgXrfSY3eB40oxPGvl",
+      "name": "朱女士",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210702/a6bf3392e39fd2ee92eeedf17452260256d9a0d0d8edf0f1cd5df7e93335c355_s.jpg",
+      "title": "开发工程师",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1675914827000,
+      "bossOnline": false,
+      "brandName": "杭州端点",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 200563564,
+      "encryptJobId": "011de3c1dba0a29c1XR63tu-FVRU",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端（新零售）",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "转塘",
+      "locationDesc": "杭州·西湖区·转塘",
+      "experienceName": "3-5年",
+      "degreeName": "学历不限",
+      "lowSalary": 20,
+      "highSalary": 30,
+      "jobDesc": "岗位职责：\n1、完善公司产品功能设计与实现，文档编写\n2、基于公司产品为客户进行实施，部分定制功能的设计与实现\n3、 参与公司产品的发展与规划\"\"\"\n\n任职资格\n\n岗位要求：\n1、4年以上工作经验（含）\n2、熟悉 html5、css3、es6/7、TypeScript，熟悉前端生态圈，体系化的前端知识\n3、 熟悉前端组件化和模块化机制\n4、熟悉 MVC、MVVM 概念，有 React 或 Vue 实际开发经验\n5、有任意后端技术栈研发经验\n6、执着像素级还原，对创造优越的交互有成就感\n7、强烈的责任心，对代码质量的高要求\n8、使用过 react-native 更佳\n9、参与开源项目更佳\"\"\"",
+      "requiredSkills": [
+        "前端开发",
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "HTML5",
+        "CSS3",
+        "ES6",
+        "TypeScript"
+      ],
+      "address": "杭州西湖区阿里云飞天园区1号楼",
+      "longitude": 120.080074,
+      "latitude": 30.132317,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ae59e2fb60d424783c97009bdb8c5cd4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/120169a6651caeb8951c951ac6b2cc05",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-30K·16薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "5c6d133b83466e741XBz3dQ~",
+      "brandName": "杭州端点",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210607/671e4e9116018f1b44c35de71eb709b6bbeb98c8a188303359aa3ee583be14fc.png",
+      "industryName": "互联网",
+      "stageName": "B轮",
+      "scaleName": "500-999人",
+      "brandIntroduce": "【端点简介】\n端点Terminus成立于2012年，是国内领先的新商业软件提供商，为全球规模型行业客户提供全链路服务，帮助企业实现新商业数字化转型。为企业创造价值、为伙伴提供支撑、为行业带来改变。\n \n公司总部设在杭州，在南京、广州、青岛、上海、北京均设有分部，是国家高新技术企业、国际级软件名城项目、阿里云新零售核心伙伴。\n\n端点自主研发的企业数字化生态Terminus，包含企业数字化平台（Erda）、软件生产系统（Trantor）、企业智能业务平台（Gaia）、软件设计体系（NUSI）、智能集成平台（Mule），高效重构、管理企业核心业务链，实现分布式敏态开发部署。基于生态的数字化能力，端点新商业智慧解决方案覆盖采购、管理到销售、营销大供应链业务体系，具备端到端的业务交付能力，并为客户提供一站式的实施和运维服务。\n\n我们希望：\n- 把企业级软件做透、做全。首先把业务能力做起来，找到正确的做大软件的方法，具备快速扩产品线的能力。 \n- 以SaaS的形式提供服务。SaaS化才能有稳定的产品形态，才能让伙伴真正的参与进来，从而覆盖更大的企业群体。\n- 通过软件实现企业间的互联互通。最终成为一家通过软件驱动全产业链运转的平台型公司。\n\n截至目前，端点已服务过埃克森美孚、中国海油、山东能源、光明乳业、新华书店、首创奥特莱斯、宝胜体育、万科、龙湖、中海地产、中南置地、世茂集团等近百家规模型客户，覆盖零售、地产、能源、制造、金融等国内外500强企业。在海外市场，端点的业务范围覆盖欧洲、东南亚、拉美等国家。\n\n放眼未来，端点科技将持续沉淀自研产品能力、探索新商业场景；迭代企业级PaaS平台、完善定制化软件部署能力；搭建适用于各行业共享、共赢的数字化转型生态。\n\n【工作在端点】\n* 我们努力为大家营造一个好的办公环境：明亮温馨的办公空间+全Mac的办公环境+餐品丰富的食堂+设施齐备的健身房、篮球场……\n* 我们努力为大家提供一个好的成长平台：主管&师兄双向护航，帮助落地+各种大牛大咖的分享+开放透明的技术交流平台……\n* 我们努力给大家带来丰厚的薪酬福利回报：有竞争力的薪资+和绩效结果对等的奖金+六险一金+规范的职级体系和晋升通道+Outing/team building……",
+      "comName": "杭州端点网络科技有限公司",
+      "legalPerson": "赵沣伟",
+      "startDate": "2012-10-15",
+      "regCapital": "1938.4557万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市西湖区转塘科技经济区块12号2幢3、4、5层",
+      "businessScope": "服务：计算机软硬件、网络工程、网络设备、自动化控制系统、通信设备的技术开发、技术服务、技术咨询、成果转让；销售：计算机软硬件；其他无需报经审批的一切合法项目。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "【端点简介】\n端点Terminus成立于2012年，是国内领先的新商业软件提供商，为全球规模型行业客户提供全链路服务，帮助企业实现新商业数字化转型。为企业创造价值、为伙伴提供支撑、为行业带来改变。\n \n公司总部设在杭州，在南京、广州、青岛、上海、北京均设有分部，是国家高新技术企业、国际级软件名城项目、阿里云新零售核心伙伴。\n\n端点自主研发的企业数字化生态Terminus，包含企业数字化平台（Erda）、软件生产系统（Trantor）、企业智能业务平台（Gaia）、软件设计体系（NUSI）、智能集成平台（Mule），高效重构、管理企业核心业务链，实现分布式敏态开发部署。基于生态的数字化能力，端点新商业智慧解决方案覆盖采购、管理到销售、营销大供应链业务体系，具备端到端的业务交付能力，并为客户提供一站式的实施和运维服务。\n\n我们希望：\n- 把企业级软件做透、做全。首先把业务能力做起来，找到正确的做大软件的方法，具备快速扩产品线的能力。 \n- 以SaaS的形式提供服务。SaaS化才能有稳定的产品形态，才能让伙伴真正的参与进来，从而覆盖更大的企业群体。\n- 通过软件实现企业间的互联互通。最终成为一家通过软件驱动全产业链运转的平台型公司。\n\n截至目前，端点已服务过埃克森美孚、中国海油、山东能源、光明乳业、新华书店、首创奥特莱斯、宝胜体育、万科、龙湖、中海地产、中南置地、世茂集团等近百家规模型客户，覆盖零售、地产、能源、制造、金融等国内外500强企业。在海外市场，端点的业务范围覆盖欧洲、东南亚、拉美等国家。\n\n放眼未来，端点科技将持续沉淀自研产品能力、探索新商业场景；迭代企业级PaaS平台、完善定制化软件部署能力；搭建适用于各行业共享、共赢的数字化转型生态。\n\n【工作在端点】\n* 我们努力为大家营造一个好的办公环境：明亮温馨的办公空间+全Mac的办公环境+餐品丰富的食堂+设施齐备的健身房、篮球场……\n* 我们努力为大家提供一个好的成长平台：主管&师兄双向护航，帮助落地+各种大牛大咖的分享+开放透明的技术交流平台……\n* 我们努力给大家带来丰厚的薪酬福利回报：有竞争力的薪资+和绩效结果对等的奖金+六险一金+规范的职级体系和晋升通道+Outing/team building……",
+      "encryptComId": "7e23a79dfec330901H153tU~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "高级开发工程师（流程引擎方向）",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "转塘",
+          "distance": "",
+          "lid": "102MxPBIvgP.search.1",
+          "performance": "",
+          "salaryDesc": "18-25K·15薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Java",
+            "流程引擎",
+            "分布式技术"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "流程引擎",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "cafd6ea6ac67471933Ry0t28ElI~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州端点",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210607/671e4e9116018f1b44c35de71eb709b6bbeb98c8a188303359aa3ee583be14fc.png",
+          "brandStage": "B轮",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "陶佳轩",
+          "bossTitle": "技术专家",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "流程引擎",
+            "分布式技术"
+          ],
+          "welfares": [],
+          "securityId": "JmGyDaJ1hdUnq-V17yQS1uKh44YdZ-DD5wsNJf937mOxbUj39eisQm1OCtuOXiZ2zebVAA~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java高级工程师/技术专家",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "转塘",
+          "distance": "",
+          "lid": "102MxPBIvgP.search.2",
+          "performance": "",
+          "salaryDesc": "20-40K·16薪",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "Java",
+            "SQL",
+            "搜索引擎技术"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "搜索引擎技术",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "1fa64b055fdfa3961nV83tq0GFBT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州端点",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210607/671e4e9116018f1b44c35de71eb709b6bbeb98c8a188303359aa3ee583be14fc.png",
+          "brandStage": "B轮",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "易永健",
+          "bossTitle": "技术专家",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201118/9194b270780bf18fe9502f30224279f00712bc453c98649bbc39b4f2117eef9f_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "SQL",
+            "搜索引擎技术",
+            "分布式技术",
+            "SpringBoot",
+            "MySQL",
+            "Redis",
+            "Oracle"
+          ],
+          "welfares": [],
+          "securityId": "JOMMOfQKNXfKK-c1WTAMwALKqz9oWLUzZnK6ySzR0M6ceheiEOzOaziRyk2KDSirpws~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "JAVA开发技术专家（低代码平台方向）",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "转塘",
+          "distance": "",
+          "lid": "102MxPBIvgP.search.3",
+          "performance": "",
+          "salaryDesc": "28-35K·15薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "后端工程师",
+            "Java"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "7b27cd5527bde4b91Xxy0tS_EVVQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州端点",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210607/671e4e9116018f1b44c35de71eb709b6bbeb98c8a188303359aa3ee583be14fc.png",
+          "brandStage": "B轮",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "刘先生",
+          "bossTitle": "招聘专家",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200723/4ca79128488f8f622be2734c9ab0b00cfb43d016608c9240a0e78abb6816a3ef_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "Java"
+          ],
+          "welfares": [],
+          "securityId": "4C6LEH6bToc5p-31qv8I3sUP8mK1S0MwgWSN9zYad3i6Lm7hlGnjhpWfVmLrRGwbz1KNUAw~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "产品需求分析实习生",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "转塘",
+          "distance": "",
+          "lid": "102MxPBIvgP.search.4",
+          "performance": "",
+          "salaryDesc": "200-250元/天",
+          "jobLabels": [
+            "5天/周",
+            "3个月",
+            "本科",
+            "Axure"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5天/周",
+              "highlight": false
+            },
+            {
+              "content": "3个月",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Axure",
+              "highlight": false
+            }
+          ],
+          "jobType": 4,
+          "encryptJobId": "cdb5a9a97bbf42491HV63t-1FVVR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州端点",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210607/671e4e9116018f1b44c35de71eb709b6bbeb98c8a188303359aa3ee583be14fc.png",
+          "brandStage": "B轮",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "刘先生",
+          "bossTitle": "招聘专家",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200723/4ca79128488f8f622be2734c9ab0b00cfb43d016608c9240a0e78abb6816a3ef_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Axure"
+          ],
+          "welfares": [],
+          "securityId": "8Z0qcLDR0Hrmu-A1M5RLQdScqvCegz8kpxDymeZJbbtKw6_AWVBmm-YvtBXjQbRLvRSiF2c~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "项目实施实习生",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "转塘",
+          "distance": "",
+          "lid": "102MxPBIvgP.search.6",
+          "performance": "",
+          "salaryDesc": "150-160元/天",
+          "jobLabels": [
+            "5天/周",
+            "4个月",
+            "本科",
+            "可转正"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5天/周",
+              "highlight": false
+            },
+            {
+              "content": "4个月",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "可转正",
+              "highlight": false
+            }
+          ],
+          "jobType": 4,
+          "encryptJobId": "fb5787ef6b47d14a1HRz2969ElBV",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州端点",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210607/671e4e9116018f1b44c35de71eb709b6bbeb98c8a188303359aa3ee583be14fc.png",
+          "brandStage": "B轮",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "韩旭",
+          "bossTitle": "HRG",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "可转正"
+          ],
+          "welfares": [],
+          "securityId": "xPP3CCMlivBSl-N1HGODDYw0XlLxTRYHu6CKgACVoVu7VEn6aUUARxzxfsdj1gazeZolO1s~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

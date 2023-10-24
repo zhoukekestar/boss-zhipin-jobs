@@ -1,0 +1,520 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "3OMjh1w7Tmmcq-U11N0xwjVQlj8nbHXbGA1A2a4uqKm1AiTqYFKpC7xr89IYkuDcDYR5eHHKEatS9M3555srE68qFt--yYVlevM6lx2eRJ4RS5oXGKZhWUC8vc0FivaZ9hrO7-o~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "1fe0868affe741271HR62t-5GFE~",
+      "bossId": 30012483,
+      "securityId": "J6OQTAK45Y7d8-g1EK6ZevWRDmYrybqrHEfxQdn0o-6aA3A4vUmzmK846-A1IcrXC3kjiok8zzVtE1Re2qyZ7pxnvPQB",
+      "name": "张铭",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200610/e64912e707451ee8b1394c8c916d8fe3faf3d67c2f63c4ea86b5f12800b54342_s.jpg",
+      "title": "前端专家工程师",
+      "activeTimeDesc": "4月内活跃",
+      "activeTime": 1688367070000,
+      "bossOnline": false,
+      "brandName": "宇泛智能",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 281718453,
+      "encryptJobId": "63dfe8d9db7f7ab01Xx73Ny1FFdT",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "仓前",
+      "locationDesc": "杭州·余杭区·仓前",
+      "experienceName": "5-10年",
+      "degreeName": "本科",
+      "lowSalary": 20,
+      "highSalary": 30,
+      "jobDesc": "职位描述\n1.参与公司低代码相关产品前端开发和迭代，包括底层核心组件、可视化编辑器、各种模型渲染引擎开发\n2.参与基于公司低代码组件的业务系统开发\n3.参与公司前端基础工具、组件的沉淀\n4.快速响应业务需求，能够针对不同业务需求给出前端技术解决方案\n\n岗位要求\n1.5 年以上前端开发经验，参与过可视化、低代码项目的开发优先；\n2.熟练掌握各种前端技能，HTML/CSS/Javascript基础扎实，熟悉 svg、canvas 等图形化技术；\n3.熟练掌握 Vue/React 框架至少一种，并对其原理有一定了解；\n4.具备 TypeScript 项目开发经验；\n5.熟悉常用的前端开发工具，如 Webpack、Babel、ESLint 等；\n6.熟练使用 git 进行项目版本管理，并具备一定的规范；\n7.较强的代码设计能力，能够运用合适的设计模式对项目整体架构进行抽象；\n8.具备良好的沟通能力及团队协作精神；\n\n加分项\n1. 掌握 Node.js，并有一定的项目经验\n2. 对可视化、低代码开源项目有贡献",
+      "requiredSkills": [
+        "React"
+      ],
+      "address": "杭州余杭区万通中心3幢24楼",
+      "longitude": 119.999842,
+      "latitude": 30.284447,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a37e9073f8435ec43726cce422fda6b7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a4a2bffd676e012cc325f31194075731",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-30K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "e21749f274b0484d1Hx5394~",
+      "brandName": "宇泛智能",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/31d7278ee537e084171b0e59fa755ae2cfcd208495d565ef66e7dff9f98764da.png",
+      "industryName": "智能硬件",
+      "stageName": "C轮",
+      "scaleName": "100-499人",
+      "brandIntroduce": "公司介绍：宇泛是领军全球的全场景智慧城市AIoT服务商，业务遍及全球50多个国家，通过构建人工智能物联网底座服务行业工程商、集成商、开发者等。以生态化的方式为包括：社区、办公、酒店、工地在内的全场景智慧城市建设提供解决方案，以“用有思想的技术，创造无处不在的美好”为己任，为客户创造非凡价值。\n\n        目前，宇泛智能已成为人像识别领域落地能力最强公司之一，动态人像识别设备市场占有率第一，推出的“Uface”也是业内广为人知的品牌，出货量超40万台。2020年01月荣获2019中国安防十大影响力品牌，2020年6月入围杭州“准独角兽企业”榜单，2020年7月入围“2019中国人工智能商业落地初创企业100强”榜单 。\n        公司现有同学近400人，平均年龄27岁，其中研发人员占比60%以上，核心团队65%为硕士以上学历。我们张开双臂，拥抱世界，精研科技，邀你一起用有思想的技术，创造无处不在的美好！\n\n    我们的使命是：用有思想的技术，创造无处不在的美好！\n    我们的愿景是：成为AIOT时代的中流砥柱、服务100万企业客户、服务10亿终端用户。\n    我们的价值观是：以客户为中心、守正出奇、务实张弛、相互成就\n    我们的Slogan是：Save Time, Enjoy Life.\n \n      一起来吧，让技术有温度，让技术会跳舞，让技术成为艺术！公司保留了行业内比例最高的期权池，用于奖励做出贡献的同学，并且会不定期地开启期权回购窗口，各种项目outing奖金，让你拿到手软，常备下午茶水果点心每月团建，一起聚吃嗨！\n \n小秀一下基本福利：\n1、节假日按国家法定标准；\n2、业内极具竞争力的薪酬水平线，外加2次年度调薪机会；\n3、入职当月缴纳五险一金;\n4、每周下午茶水果、每月团建活动、每季度员工日、每年公司国内外旅游及年度体检；\n5、传统节假日礼品及礼金（礼品给父母，礼金给你哟~）；\n6、扁平化管理，公司安排专业培训、讨论和集体学习，加强技能深入学习； \n    现这里有蓬勃发展的平台，坚实可靠的伙伴，愉悦友爱的环境，跟宇泛来谈一场永不分手的恋爱吧，我们在万通中心24-26F***！(#^.^#)",
+      "comName": "杭州宇泛智能科技有限公司",
+      "legalPerson": "赵五岳",
+      "startDate": "2014-03-19",
+      "regCapital": "1909.7148万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市余杭区仓前街道时尚万通城3幢24层、25层、26层",
+      "businessScope": "一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；智能控制系统集成；机械设备销售；电子、机械设备维护（不含特种设备）；智能机器人销售；人工智能硬件销售；办公设备销售；计算机软硬件及外围设备制造；计算机软硬件及辅助设备批发；计算机软硬件及辅助设备零售；第二类医疗器械销售；特殊作业机器人制造；智能基础制造装备制造；文化、办公用设备制造；幻灯及投影设备制造；计算器设备制造；生态环境监测及检测仪器仪表制造；生活垃圾处理装备制造；除尘技术装备制造；高铁设备、配件制造；城市轨道交通设备制造；安防设备制造；交通安全、管制专用设备制造；物联网应用服务；信息系统集成服务；人工智能行业应用系统集成服务；物联网设备销售；物联网设备制造；物联网技术服务；网络设备销售；网络设备制造；软件开发；信息技术咨询服务；信息系统运行维护服务；软件销售；人工智能基础软件开发；人工智能应用软件开发；互联网设备销售；软件外包服务；人工智能理论与算法软件开发；人工智能公共数据平台；互联网数据服务；人工智能双创服务平台；人工智能基础资源与技术平台；人工智能通用应用系统；人工智能公共服务平台技术咨询服务；大数据服务；专用设备制造（不含许可类专业设备制造）；工程管理服务（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "公司介绍：宇泛是领军全球的全场景智慧城市AIoT服务商，业务遍及全球50多个国家，通过构建人工智能物联网底座服务行业工程商、集成商、开发者等。以生态化的方式为包括：社区、办公、酒店、工地在内的全场景智慧城市建设提供解决方案，以“用有思想的技术，创造无处不在的美好”为己任，为客户创造非凡价值。\n\n        目前，宇泛智能已成为人像识别领域落地能力最强公司之一，动态人像识别设备市场占有率第一，推出的“Uface”也是业内广为人知的品牌，出货量超40万台。2020年01月荣获2019中国安防十大影响力品牌，2020年6月入围杭州“准独角兽企业”榜单，2020年7月入围“2019中国人工智能商业落地初创企业100强”榜单 。\n        公司现有同学近400人，平均年龄27岁，其中研发人员占比60%以上，核心团队65%为硕士以上学历。我们张开双臂，拥抱世界，精研科技，邀你一起用有思想的技术，创造无处不在的美好！\n\n    我们的使命是：用有思想的技术，创造无处不在的美好！\n    我们的愿景是：成为AIOT时代的中流砥柱、服务100万企业客户、服务10亿终端用户。\n    我们的价值观是：以客户为中心、守正出奇、务实张弛、相互成就\n    我们的Slogan是：Save Time, Enjoy Life.\n \n      一起来吧，让技术有温度，让技术会跳舞，让技术成为艺术！公司保留了行业内比例最高的期权池，用于奖励做出贡献的同学，并且会不定期地开启期权回购窗口，各种项目outing奖金，让你拿到手软，常备下午茶水果点心每月团建，一起聚吃嗨！\n \n小秀一下基本福利：\n1、节假日按国家法定标准；\n2、业内极具竞争力的薪酬水平线，外加2次年度调薪机会；\n3、入职当月缴纳五险一金;\n4、每周下午茶水果、每月团建活动、每季度员工日、每年公司国内外旅游及年度体检；\n5、传统节假日礼品及礼金（礼品给父母，礼金给你哟~）；\n6、扁平化管理，公司安排专业培训、讨论和集体学习，加强技能深入学习； \n    现这里有蓬勃发展的平台，坚实可靠的伙伴，愉悦友爱的环境，跟宇泛来谈一场永不分手的恋爱吧，我们在万通中心24-26F***！(#^.^#)",
+      "encryptComId": "1fc649d45c3f22431Hx73d20"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "自动化工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "108g14SSonm.search.1",
+          "performance": "",
+          "salaryDesc": "15-25K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "机械设计制造相关专业",
+            "电子电气/自动化相关专业",
+            "自动化开发经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "机械设计制造相关专业",
+              "highlight": false
+            },
+            {
+              "content": "电子电气/自动化相关专业",
+              "highlight": false
+            },
+            {
+              "content": "自动化开发经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "0ca871eb4a1687b61HR409y7GVJQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "宇泛智能",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/31d7278ee537e084171b0e59fa755ae2cfcd208495d565ef66e7dff9f98764da.png",
+          "brandStage": "C轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "王亚楠",
+          "bossTitle": "CTO",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "机械设计制造相关专业",
+            "电子电气/自动化相关专业",
+            "自动化开发经验"
+          ],
+          "welfares": [],
+          "securityId": "1qgHG2YF7WGKV-E1qDZv_nBFBj1vX3MWL1dPXzca5QevrxLKsH3asnZidHl89IzAk_fQeo4~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "108g14SSonm.search.2",
+          "performance": "",
+          "salaryDesc": "20-30K·14薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Java",
+            "Dubbo",
+            "Spring"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Dubbo",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "6274e061580bcf061Xx_2t-5FVVQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "宇泛智能",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/31d7278ee537e084171b0e59fa755ae2cfcd208495d565ef66e7dff9f98764da.png",
+          "brandStage": "C轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "赵先生",
+          "bossTitle": "生态业务架构师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "Dubbo",
+            "Spring",
+            "分布式技术",
+            "Redis",
+            "SpringBoot",
+            "MQ"
+          ],
+          "welfares": [],
+          "securityId": "eQvDRkzDLXo8p-_1eVxcmZr8tnmCubEo4QOuVSbMjYw_cYeBKSJVm2aYqdTqwZ1aphFxaA~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "算法实习生",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "108g14SSonm.search.3",
+          "performance": "",
+          "salaryDesc": "150-300元/天",
+          "jobLabels": [
+            "4天/周",
+            "4个月",
+            "本科",
+            "C/C++",
+            "Python"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "4天/周",
+              "highlight": false
+            },
+            {
+              "content": "4个月",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "C/C++",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            }
+          ],
+          "jobType": 4,
+          "encryptJobId": "11d5f2384c3c58991X193N-8FFBU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "宇泛智能",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/31d7278ee537e084171b0e59fa755ae2cfcd208495d565ef66e7dff9f98764da.png",
+          "brandStage": "C轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "刘女士",
+          "bossTitle": "招聘BP",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230619/607f1f3d68754fd001456e22e5bce0e5db09fa67e2e9c4c1e0a3f9092da9aad47fe95c3bc3652364_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "C/C++",
+            "Python",
+            "计算机相关专业",
+            "机器学习算法/工程化经验",
+            "深度学习经验",
+            "语音/图像识别"
+          ],
+          "welfares": [],
+          "securityId": "f8wBIZpwRi03T-A1UdDj0jLHkioJhypJdyLInEQ944y8eEYgstlO1AWsESBJumPevMOOn_Y~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "嵌入式软件工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "108g14SSonm.search.4",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "C",
+            "C++",
+            "RTOS"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "C",
+              "highlight": false
+            },
+            {
+              "content": "C++",
+              "highlight": false
+            },
+            {
+              "content": "RTOS",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "31dd7cbc7ddbfb911X180tq4FVRQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "宇泛智能",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/31d7278ee537e084171b0e59fa755ae2cfcd208495d565ef66e7dff9f98764da.png",
+          "brandStage": "C轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "陶逸南",
+          "bossTitle": "嵌入式软件高级工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230714/607f1f3d68754fd0faf2b48c91572b0f90e84471df2d27076de77864bb4e4495904ea38564e468cb_s.png.webp",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "C",
+            "C++",
+            "RTOS",
+            "计算机相关专业",
+            "嵌入式软件开发",
+            "电子相关专业",
+            "Linux",
+            "面向对象编程"
+          ],
+          "welfares": [],
+          "securityId": "S3Wu0TwewotGl-x1c8q40W3yr1XSwZPwOkdJWAJXmduqzPCxVCHbU23P-vY1-y6IN55ssi6I",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "3D算法工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "108g14SSonm.search.5",
+          "performance": "",
+          "salaryDesc": "20-40K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "3D深度算法",
+            "双目结构光",
+            "3D结构光"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "3D深度算法",
+              "highlight": false
+            },
+            {
+              "content": "双目结构光",
+              "highlight": false
+            },
+            {
+              "content": "3D结构光",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "823a67ea09d1302f1nV92dW5F1RY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "宇泛智能",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/31d7278ee537e084171b0e59fa755ae2cfcd208495d565ef66e7dff9f98764da.png",
+          "brandStage": "C轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "郑先生",
+          "bossTitle": "研发VP",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201221/0c2770b8f72fea277e21d7463e8ba5acfe189adb589069e5b97223ef62961e5d_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "3D深度算法",
+            "双目结构光",
+            "3D结构光",
+            "TOF"
+          ],
+          "welfares": [],
+          "securityId": "1kvALUfmSaEJA-H1Erhf0whTPZzDmFl4wVvliq7GsL2Q3LxDG-qW1Qwx2P1UJlivRWlPp78~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

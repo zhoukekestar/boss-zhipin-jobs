@@ -1,0 +1,525 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "RrlqyjxcGxUXO-n1WGYUgjb-IIxj5q2QSiVLw-mI5BYvV1W4EThnZHyWCGsSvWl-fScspiBLQwB9er_p9STT9fdm-ScpQzJFve_xnTBaOjfjpsSiTwZREdN2W47XAH1y4aaJ-xZhxA~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "67333121b959a57b1nd40t60GVM~",
+      "bossId": 13293991,
+      "securityId": "gscBYl4TfoEpd-j12NqIKS2vIg3955jxDJ8QZd0jQDnMvZVBRmSminA7J12KO8ixmbQZ_EwB1qzGJ8yEXjhXaigQiG57",
+      "name": "蒋文书",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181109/fcca32f31b5cada159e95913fcddffe430dedff08835a300ce9aed38e67cedf6_s.jpg",
+      "title": "web前端",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1628070387000,
+      "bossOnline": false,
+      "brandName": "大箴科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 167588851,
+      "encryptJobId": "c886f9142fdc50201nJ93tW1GFdR",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "拱墅区",
+      "businessDistrict": "万达广场",
+      "locationDesc": "杭州·拱墅区·万达广场",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 20,
+      "highSalary": 30,
+      "jobDesc": "1、大学本科及以上，计算机相关专业，工作3年以上；\n2. 熟悉W3C规范，熟悉HTML5、CSS2/CSS3、 ES5/ES6等前端开发技术；\n3. 能够独立进行前端页面代码开发及调试，能够充分理解设计需求并落地；\n4. 能够独立完成网站脚手架搭建，具备较强自学能力，了解B/S架构工作原理；\n5. 熟悉React/Vue/Angular等类似MV*框架实践经验，具备独立项目开发能力；\n6. 熟悉Node.js技术及生态，熟练使用npm/webpack/gulp等工具链；\n7. 熟悉前端性能的优化，熟悉使用Chrome/Safari等前端调试工具；\n8. 具有良好的言语表达能力，善于与人沟通合作，有良好的团队意识及高度责任心;\n9. 具备团队管理/项目管理经验者更佳 。",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "数据结构",
+        "前端开发",
+        "React",
+        "Vue"
+      ],
+      "address": "杭州拱墅区万达广场写字楼D座(祥泰街)D座16层",
+      "longitude": 120.122816,
+      "latitude": 30.331012,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4e634d35278f55df303872dadda5f7f9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/efcf2d1f3aa09f9d1b8f1b330d9169b7",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-30K·15薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "5bfd0118abd1fcb01XN92N-8Fg~~",
+      "brandName": "大箴科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200511/c0483eac45d1e1bc98e465f6743c54c0df2cc3f6a041fe72c25f05b3b1d941c4_s.jpg",
+      "industryName": "互联网",
+      "stageName": "不需要融资",
+      "scaleName": "100-499人",
+      "brandIntroduce": "大箴公司是一家运用大数据、人工智能技术为机构和大型商业机构输出数字动力及技术解决方案的高科技企业。重点为政法领域客户，建立数据交换和价值共享体系，提供以实时决策为核心逻辑的人工智能实战场景和数字智能中台解决方案。\n在数字警务领域，大箴公司对于数字智能感知，等方面有着非常专注的算法与技术积累，能提供核心关键的技术支撑与系统解决方案。\n在商业应用领域，我们以业务场景为枢纽，提供以数字安全、数字信用、数字营销、数字决策和数字跟踪等服务为核心的数据中台、AI中台、业务中台建设和运营服务。",
+      "comName": "大箴（杭州）科技有限公司",
+      "legalPerson": "刘逸哲",
+      "startDate": "2018-07-03",
+      "regCapital": "5000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市拱墅区古运路85号古运大厦四层491室",
+      "businessScope": "一般项目：云计算装备技术服务；人工智能公共数据平台；区块链技术相关软件和服务；大数据服务；数据处理和存储支持服务；互联网数据服务；信息技术咨询服务；信息系统集成服务；计算机系统服务；网络技术服务；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；云计算设备销售；计算机软硬件及辅助设备零售；软件开发；市场调查（不含涉外调查）；会议及展览服务；企业征信业务（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：第二类增值电信业务；第一类增值电信业务；基础电信业务；互联网信息服务；保险兼业代理业务（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "大箴公司是一家运用大数据、人工智能技术为机构和大型商业机构输出数字动力及技术解决方案的高科技企业。重点为政法领域客户，建立数据交换和价值共享体系，提供以实时决策为核心逻辑的人工智能实战场景和数字智能中台解决方案。\n在数字警务领域，大箴公司对于数字智能感知，等方面有着非常专注的算法与技术积累，能提供核心关键的技术支撑与系统解决方案。\n在商业应用领域，我们以业务场景为枢纽，提供以数字安全、数字信用、数字营销、数字决策和数字跟踪等服务为核心的数据中台、AI中台、业务中台建设和运营服务。",
+      "encryptComId": "b160ee7f26a3a8121nZ939u7GFY~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "业务算法专家",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": null,
+          "businessName": null,
+          "distance": "",
+          "lid": "ZWrQWltd8l.search.1",
+          "performance": "",
+          "salaryDesc": "25-40K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "公安",
+            "算法"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "公安",
+              "highlight": false
+            },
+            {
+              "content": "算法",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "70ee18c0c64a34521X1939S5FlpT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "大箴科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200511/c0483eac45d1e1bc98e465f6743c54c0df2cc3f6a041fe72c25f05b3b1d941c4_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "陈女士",
+          "bossTitle": "招聘专家",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180418/d99b1eb13c2251a187a7ea2c919ab9864917b62449d661329b7ede5d8fee9570_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "公安",
+            "算法"
+          ],
+          "welfares": [],
+          "securityId": "53XPEjIikv2AE-D1Lo7K7E5zMUp2m__hAoCdr70J2SfM6RHBSN4p4ejqGaBr166fiS8kROQ~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "数据挖掘",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "拱墅区",
+          "businessName": "万达广场",
+          "distance": "",
+          "lid": "ZWrQWltd8l.search.2",
+          "performance": "",
+          "salaryDesc": "15-30K·15薪",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "Python",
+            "SQL",
+            "R语言"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "R语言",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "7ebfc09b5c28328a1nJy3tu-EFRU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "大箴科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200511/c0483eac45d1e1bc98e465f6743c54c0df2cc3f6a041fe72c25f05b3b1d941c4_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "赵秋博",
+          "bossTitle": "金融业务算法专家",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210826/607f1f3d68754fd045459e5307d76e5e99a672800aa7f8e3c54bcca918819fb3338cc23777cde51a_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Python",
+            "SQL",
+            "R语言",
+            "机器学习算法",
+            "Spark",
+            "HIVE",
+            "Shell"
+          ],
+          "welfares": [],
+          "securityId": "PyBY0m2PJKL3E-01uKn-kyT8IU2IU6cHhNq292nf6txc2wRdK_7gjguV0zCz0xhEv0eAbTs~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "算法工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "拱墅区",
+          "businessName": "万达广场",
+          "distance": "",
+          "lid": "ZWrQWltd8l.search.3",
+          "performance": "",
+          "salaryDesc": "20-25K",
+          "jobLabels": [
+            "1-3年",
+            "硕士",
+            "Python",
+            "TensorFlow",
+            "PyTorch"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "TensorFlow",
+              "highlight": false
+            },
+            {
+              "content": "PyTorch",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "0469137d603d6f941nBz3965E1FR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "大箴科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200511/c0483eac45d1e1bc98e465f6743c54c0df2cc3f6a041fe72c25f05b3b1d941c4_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "王女士",
+          "bossTitle": "算法工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Python",
+            "TensorFlow",
+            "PyTorch",
+            "自然语言处理",
+            "算法设计",
+            "深度学习算法",
+            "机器学习算法",
+            "算法基础"
+          ],
+          "welfares": [],
+          "securityId": "Vq6T4BYEGmDjv-t1ZwGqVc4nPIadOq7gVlURZgP6TepWawO3NTwn_0UXgTQtzj0SUFffdQg~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "软件测试工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "拱墅区",
+          "businessName": "万达广场",
+          "distance": "",
+          "lid": "ZWrQWltd8l.search.4",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "软件测试",
+            "性能测试",
+            "Python"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "软件测试",
+              "highlight": false
+            },
+            {
+              "content": "性能测试",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "64f16b2186471b4f1nN70tq8GFNR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "大箴科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200511/c0483eac45d1e1bc98e465f6743c54c0df2cc3f6a041fe72c25f05b3b1d941c4_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "李先生",
+          "bossTitle": "内推攻城狮",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "软件测试",
+            "性能测试",
+            "Python",
+            "Jmeter",
+            "Postman",
+            "自动化测试",
+            "接口测试",
+            "Java"
+          ],
+          "welfares": [],
+          "securityId": "WlO89dLoRm9vh-210dqbhhe4iUESIX_yko1vUm-BIIE_bt4Ok5HxO4kCjPDwLkM4QViNftU~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "算法工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "拱墅区",
+          "businessName": "万达广场",
+          "distance": "",
+          "lid": "ZWrQWltd8l.search.5",
+          "performance": "",
+          "salaryDesc": "20-40K·15薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "自然语言处理",
+            "算法设计",
+            "Python"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "自然语言处理",
+              "highlight": false
+            },
+            {
+              "content": "算法设计",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "95a102004f5a865b1nJ82dW4E1VU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "大箴科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200511/c0483eac45d1e1bc98e465f6743c54c0df2cc3f6a041fe72c25f05b3b1d941c4_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "宋云华",
+          "bossTitle": "nlp基础研发部_算法工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191219/33ead3a2cd564dc97d49e1017bf709a70858495868d8635c522898ad49a9404e_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "自然语言处理",
+            "算法设计",
+            "Python",
+            "算法基础",
+            "SQL",
+            "Spark",
+            "PyTorch"
+          ],
+          "welfares": [],
+          "securityId": "vLAa5B-7iJYQM-F1u2dEKSgyYD4K_vLqMLOMohOqJ1Gsjh8IPjtQKZgyVNAZP92m4x5M7hE~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

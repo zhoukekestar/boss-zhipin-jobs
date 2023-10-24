@@ -1,0 +1,525 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "7WW3X8c0GaqyQ-O1XcZiNgRn29hB5tx6DsWPBWAajVXONixtYc5Uw5z8d-Nvttw3d8j9LrzxW7OyDV3HELjRmTN-1yLgeKBgJzAzvsKq9VmJbGajzXU28QjOMBKWpApXNDMpY_Qpow~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "4501bc1c121a377f0nZz2NW9FVdX",
+      "bossId": 529380557,
+      "securityId": "LJNHEIk0gIPT4-l1F1WyEW2Y4WFWEst-zAxrIxCVEERg4s8TkgukTSf5eVKsivLJU5ViQ8QgspqWnlSMeFxAKl6mY6Z8pg~~",
+      "name": "李志浩",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
+      "title": "技术开发",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1648801239000,
+      "bossOnline": false,
+      "brandName": "浙商期货",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 210850272,
+      "encryptJobId": "3dfbd46d9487caf61XV609i9ElVS",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "黄龙",
+      "locationDesc": "杭州·西湖区·黄龙",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 13,
+      "highSalary": 25,
+      "jobDesc": "1.三年及以上前端开发经验。\n2.熟悉掌握vue,elementUI。\n3.能自助开发前端项目。\n4.熟悉掌握原生js。",
+      "requiredSkills": [
+        "JavaScript",
+        "前端开发",
+        "HTML5",
+        "Web端",
+        "Vue.js",
+        "Vue",
+        "移动端"
+      ],
+      "address": "杭州西湖区财通双冠大厦东楼10楼1009",
+      "longitude": 120.131147,
+      "latitude": 30.272023,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b17cf81c2b8f6de435b2dcfdfe522646",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f6f895d3f9bac8357b55a033da7ef42c",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "13-25K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "3d1f057bd3dc8bf003R-39W1",
+      "brandName": "浙商期货",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180105/0542da4a3a7d141447c4bea4359dd78bcfcd208495d565ef66e7dff9f98764da.jpg",
+      "industryName": "互联网金融",
+      "stageName": "不需要融资",
+      "scaleName": "500-999人",
+      "brandIntroduce": "浙商期货有限公司1995年9月在杭州成立，由浙商证券股份有限公司全资控股，目前公司注册资本10亿元人民币，净资产22亿元。公司组织架构完善，风控体系严谨，业务结构合理，是一家集商品期货经纪、金融期货经纪、期货投资咨询、资产管理、境外业务和风险管理业务为一体的综合类期货公司。公司经过二十多年的发展，经营规模持续扩张，目前有分公司4家、营业部24家、全资子公司2家；营销网络覆盖浙江省内13个重点城市以及北京、上海、天津、广州、武汉、大连、济南、江苏等全国经济发达地区。\r\n      公司多年来综合实力不断提升，目前评级为行业最好AA级，综合实力行业第六。连续多年国内金融行业百强。\n      2013年公司出资1亿元设立全资风险管理子公司-浙期实业，2016年增资至3亿元，2019年增资至8亿。作为行业首批风险管理子公司，浙江浙期实业有限公司经过五年多的发展，打造了一支专业的期现业务团队，体现了良好的风险管理能力及渠道建设能力，在期现业务领域内确立了“浙商”品牌，在橡胶、PTA、焦炭、热卷、铁矿石、铁合金和棕榈油等品种方面建立了稳定的销售渠道和盈利模式。\r\n      2015年公司在香港设立境外子公司-浙商国际金融控股有限公司。浙商国际金融控股有限公司自开业至今客户权益达到1.39亿港元，在同期开展业务的公司中表现突出，为打造境外综合性的金融理财平台做好充分的准备。",
+      "comName": "浙商期货有限公司",
+      "legalPerson": "胡军",
+      "startDate": "1995-09-07",
+      "regCapital": "137124.458846万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市西湖区天目山路198号财通双冠大厦东楼9-12层",
+      "businessScope": "许可项目：期货业务；期货公司资产管理业务（须经中国期货业协会登记备案后方可从事经营活动）；公募证券投资基金销售（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "浙商期货有限公司1995年9月在杭州成立，由浙商证券股份有限公司全资控股，目前公司注册资本10亿元人民币，净资产22亿元。公司组织架构完善，风控体系严谨，业务结构合理，是一家集商品期货经纪、金融期货经纪、期货投资咨询、资产管理、境外业务和风险管理业务为一体的综合类期货公司。公司经过二十多年的发展，经营规模持续扩张，目前有分公司4家、营业部24家、全资子公司2家；营销网络覆盖浙江省内13个重点城市以及北京、上海、天津、广州、武汉、大连、济南、江苏等全国经济发达地区。\r\n      公司多年来综合实力不断提升，目前评级为行业最好AA级，综合实力行业第六。连续多年国内金融行业百强。\n      2013年公司出资1亿元设立全资风险管理子公司-浙期实业，2016年增资至3亿元，2019年增资至8亿。作为行业首批风险管理子公司，浙江浙期实业有限公司经过五年多的发展，打造了一支专业的期现业务团队，体现了良好的风险管理能力及渠道建设能力，在期现业务领域内确立了“浙商”品牌，在橡胶、PTA、焦炭、热卷、铁矿石、铁合金和棕榈油等品种方面建立了稳定的销售渠道和盈利模式。\r\n      2015年公司在香港设立境外子公司-浙商国际金融控股有限公司。浙商国际金融控股有限公司自开业至今客户权益达到1.39亿港元，在同期开展业务的公司中表现突出，为打造境外综合性的金融理财平台做好充分的准备。",
+      "encryptComId": "25c1111629a35a591nV429q8EA~~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "Java高级开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "黄龙",
+          "distance": "",
+          "lid": "ZYJbIY8EeJ.search.1",
+          "performance": "",
+          "salaryDesc": "22-25K·14薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Java",
+            "SpringCloud",
+            "架构师"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "SpringCloud",
+              "highlight": false
+            },
+            {
+              "content": "架构师",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "8e7685f4f59d4cf31XZy2tm6FVZX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "浙商期货",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180105/0542da4a3a7d141447c4bea4359dd78bcfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "欧盛彪",
+          "bossTitle": "高级Java开发",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190315/c0fa29440a1da5e9980972346a1fa170770b65318e6db041b0ad058bf2669a7b_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "SpringCloud",
+            "架构师",
+            "Dubbo",
+            "SpringBoot",
+            "后端工程师",
+            "网络协议",
+            "计算机/软件工程相关经验",
+            "Java开发经验",
+            "搜索引擎技术",
+            "分布式系统开发经验",
+            "MySQL",
+            "微服务架构",
+            "消息队列",
+            "MongoDB",
+            "后端开发"
+          ],
+          "welfares": [],
+          "securityId": "xvPFq8ayERIqG-t1WP4lC4WdrskRa9oFqA5PqbNi8lE1exTr-yxL_Cg3UFLjdY-Rzuu653o~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "C++研发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "黄龙",
+          "distance": "",
+          "lid": "ZYJbIY8EeJ.search.2",
+          "performance": "",
+          "salaryDesc": "20-30K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "C++",
+            "C语言"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "C++",
+              "highlight": false
+            },
+            {
+              "content": "C语言",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "0fd97ecebeb774641Xx929-5EVpQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "浙商期货",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180105/0542da4a3a7d141447c4bea4359dd78bcfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "刘新朋",
+          "bossTitle": "办公室经理",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "C++",
+            "C语言"
+          ],
+          "welfares": [],
+          "securityId": "mbgu711dm5Nyc-A1z6AvMjjDF98SdW5Tdx24HhjzVpS2x7BeytTGWxhymGoOfcSAASsnnajG",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "数据库开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "黄龙",
+          "distance": "",
+          "lid": "ZYJbIY8EeJ.search.3",
+          "performance": "",
+          "salaryDesc": "12-20K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "SQL",
+            "Java",
+            "Hadoop"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Hadoop",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "17d06c9046720c701nBz39-5ElpY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "浙商期货",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180105/0542da4a3a7d141447c4bea4359dd78bcfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "周国伟",
+          "bossTitle": "开发副经理",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "SQL",
+            "Java",
+            "Hadoop"
+          ],
+          "welfares": [],
+          "securityId": "6AfofcFCE36fI-W1DssY5bFuDupSVvphA6Wh-dmshwf8O2tGksSEFkzH_2hm63db0i3LQ_o~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Python开发-大数据方向",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "黄龙",
+          "distance": "",
+          "lid": "ZYJbIY8EeJ.search.4",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Python",
+            "SQL",
+            "Spark"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "Spark",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "60536733a4020a0a1Xd_3dq5FVpY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "浙商期货",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180105/0542da4a3a7d141447c4bea4359dd78bcfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "陈朝俊",
+          "bossTitle": "大数据开发管理",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Python",
+            "SQL",
+            "Spark",
+            "HIVE",
+            "Flink"
+          ],
+          "welfares": [],
+          "securityId": "qnyHqaOkAmIfZ-M1oCTbzqs6hWmff_9Mt1OZ1ORKsMO2PywS9ysYQOUy-E0xRpVhEY1w5aE~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "期货行情系统架构师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "黄龙",
+          "distance": "",
+          "lid": "ZYJbIY8EeJ.search.5",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "嵌入式技术",
+            "网络编程",
+            "Linux"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "嵌入式技术",
+              "highlight": false
+            },
+            {
+              "content": "网络编程",
+              "highlight": false
+            },
+            {
+              "content": "Linux",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "f12ce2abe5f712031nF42tm1E1VY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "浙商期货",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180105/0542da4a3a7d141447c4bea4359dd78bcfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "吴先生",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180628/832f92a468708b74266c6d5d2713c79bcfcd208495d565ef66e7dff9f98764da_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "嵌入式技术",
+            "网络编程",
+            "Linux",
+            "服务器端开发",
+            "架构师",
+            "VC++"
+          ],
+          "welfares": [],
+          "securityId": "nMbjivrMa3Zfn-41lb32oUNIRNHedoM9YfMLn5NpHDMEEKcyYrrdh8jRasA2YQpVT4w4Kv8~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

@@ -1,0 +1,519 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "Wku9x2kY1GFCT-61z_l53hf9SKA_ZeujZwR-xbC1wxSin1CRkCcXiROq2bwkZRb2USSDhlqNMmLtrQox_T4Y6VCTpD8RzXn0lZTx5LFcSqDKPTTS01ekKDilzddoMIXK6pkdg_5oPw~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "a0f43facfedc76ad0XNy2dq7FlU~",
+      "bossId": 67827667,
+      "securityId": "IXK08JaKXP7MX-t1ziNHfPV9K7U7LV0y20ZpLqtXk6i0u7W7n3ZlB2NYwjNUwAt7jwIv3J8QSE57b6fDuA0cwS_pRZuk",
+      "name": "李芳芳",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+      "title": "HR",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1661483345000,
+      "bossOnline": false,
+      "brandName": "墨客井链数字科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 100203094,
+      "encryptJobId": "a6f4e8a913ad1b821nR62d2-EFtU",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端开发",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "萧山区",
+      "businessDistrict": "钱江世纪城",
+      "locationDesc": "杭州·萧山区·钱江世纪城",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 11,
+      "highSalary": 22,
+      "jobDesc": "岗位描述：\n1、负责移动端(uniapp/RN)、小程序、H5等开发维护工作；\n2、根据前端代码规范和技术框架，与服务端的进行相关功能接口对接；\n3、根据公司现有前端技术框架和规范，完善并优化相关几乎框架和代码规范；\n技能要求：\n1、计算机相关专业，本科以上学历，3年以上前端相关开发经验；\n2、对主流Js框架React/Vue/uniapp等，至少精通其中一种；\n3、精通前端构建工具webpack/gulp/fis等；\n4、熟悉前端性能优化知识、网络安全性知识、对http协议有深入研究；\n5、要求有前端工程化构建实践经验和组件开发经验；",
+      "requiredSkills": [
+        "前端开发"
+      ],
+      "address": "杭州萧山区杭州湾智慧谷1708",
+      "longitude": 120.264771,
+      "latitude": 30.221386,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/76658ba9e7c8b8a9d1f11daa0e46f69f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e5e2c1faa2dbb9e1e06056d8a5131543",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "11-22K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "7a466b9f3a72ca2a03F_3t60FQ~~",
+      "brandName": "墨客井链数字科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200707/c60cd4f411026da7cd46322ffc39b19d6201c162d36972a96203a5bdf840d5e3_s.jpg",
+      "industryName": "互联网",
+      "stageName": "未融资",
+      "scaleName": "20-99人",
+      "brandIntroduce": "MOAC是世界领先的区块链底层开发公司。\n\n墨客区块链技术公司（Moac Bloackchain Tech，以下简称墨客科技）2017年成立于硅谷，公司专注于研发新一代高性能区块链底层平台，支持10000+DAPP应用上链。墨客科技由硅谷顶级区块链专家团队联合创立，核心团队在创立墨客之前已经积累了四年多区块链技术开发和商业落地经验。\n\n墨客科技是MOAC项目的发起者。MOAC项目旨在提供一种可扩展且有弹性的区块链，通过分层化的结构来支持数字资产交易，数据访问和流程控制。它创建了一个框架以允许用户用高效的方式执行智能合约。它还提供了开发的体系结构，采用底层基础设施来快速简便地产生子区块链。它是一个区块链平台，可以为子区块链的架设提供必要的部件，同时为新想法的测试、私有链的部署、复杂任务的处理和智能合约的应用提供解决方案。\n\n墨子安全实验室（曾用名：白墨子安全实验室）是墨客科技的下属安全实验室，作为一家专业的区块链安全实验室，2017年成立于北京市。\n针对区块链产业日益迫切的安全需求，墨子安全实验室基于“能攻善守，攻防一体”的技术定位，坚持“面向产业前沿、面向一线需求、面向行业痛点”的发展方向，提供专业、可信的区块链安全服务。\n实验室现有信息安全专业博士2名，高级安全工程师5名，拥有区块链风险评估平台、智能合约安全审计平台、DApp安全监测平台、数字资产综合防护平台、量子随机数服务系统、私钥部分缺失找回系统、数字资产流转可视化系统等软硬件安全设施，涵盖比特币、以太坊、EOS、MOAC、井通等多款主流公链平台，可以提供七大类28种面向区块链产业的安全服务（详见附录）。\n目前，实验室业务范围涵盖区块链安全技术研究、区块链安全测评、安全开发培训、智能合约安全审计、钱包和交易所的安全检测与加固、区块链安全咨询、区块链应用安全动态监测与通报、安全事件应急响应等多个领域，致力于发展成为“国际一流、国内领先”的区块链安全专业实验室。",
+      "comName": "墨客井链数字科技（杭州）有限公司",
+      "legalPerson": "李长欣",
+      "startDate": "2019-04-03",
+      "regCapital": "525.984万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市萧山区宁围街道永晖路233号杭州湾智慧谷大厦16楼1604室-2",
+      "businessScope": "数字科技的技术开发、技术服务、技术咨询、技术成果转让；大数据技术服务；信息系统集成和物联网技术服务；区块链技术开发、系统研发、技术转让、技术服务；计算机软件技术开发、技术咨询，企业管理咨询；计算机存储软硬件的技术开发；分布式存储协议开发、文件系统开发、实验、销售；智能管理系统、数据管理软件的技术开发及技术转让；数字商品网络平台的研发、推广及服务；区块链技术及数字加密技术的开发、推广、转让及技术服务**（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "MOAC是世界领先的区块链底层开发公司。\n\n墨客区块链技术公司（Moac Bloackchain Tech，以下简称墨客科技）2017年成立于硅谷，公司专注于研发新一代高性能区块链底层平台，支持10000+DAPP应用上链。墨客科技由硅谷顶级区块链专家团队联合创立，核心团队在创立墨客之前已经积累了四年多区块链技术开发和商业落地经验。\n\n墨客科技是MOAC项目的发起者。MOAC项目旨在提供一种可扩展且有弹性的区块链，通过分层化的结构来支持数字资产交易，数据访问和流程控制。它创建了一个框架以允许用户用高效的方式执行智能合约。它还提供了开发的体系结构，采用底层基础设施来快速简便地产生子区块链。它是一个区块链平台，可以为子区块链的架设提供必要的部件，同时为新想法的测试、私有链的部署、复杂任务的处理和智能合约的应用提供解决方案。\n\n墨子安全实验室（曾用名：白墨子安全实验室）是墨客科技的下属安全实验室，作为一家专业的区块链安全实验室，2017年成立于北京市。\n针对区块链产业日益迫切的安全需求，墨子安全实验室基于“能攻善守，攻防一体”的技术定位，坚持“面向产业前沿、面向一线需求、面向行业痛点”的发展方向，提供专业、可信的区块链安全服务。\n实验室现有信息安全专业博士2名，高级安全工程师5名，拥有区块链风险评估平台、智能合约安全审计平台、DApp安全监测平台、数字资产综合防护平台、量子随机数服务系统、私钥部分缺失找回系统、数字资产流转可视化系统等软硬件安全设施，涵盖比特币、以太坊、EOS、MOAC、井通等多款主流公链平台，可以提供七大类28种面向区块链产业的安全服务（详见附录）。\n目前，实验室业务范围涵盖区块链安全技术研究、区块链安全测评、安全开发培训、智能合约安全审计、钱包和交易所的安全检测与加固、区块链安全咨询、区块链应用安全动态监测与通报、安全事件应急响应等多个领域，致力于发展成为“国际一流、国内领先”的区块链安全专业实验室。",
+      "encryptComId": "a0ad36fbddab75c21nJz3d24EVM~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "后端技术工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "钱江世纪城",
+          "distance": "",
+          "lid": "ZT83AjeJnI.search.1",
+          "performance": "",
+          "salaryDesc": "10-15K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "需求分析",
+            "文档",
+            "后端开发"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "需求分析",
+              "highlight": false
+            },
+            {
+              "content": "文档",
+              "highlight": false
+            },
+            {
+              "content": "后端开发",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "34e060d7b2ad3e0703Jz3dS4F1I~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "墨客井链数字科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200707/c60cd4f411026da7cd46322ffc39b19d6201c162d36972a96203a5bdf840d5e3_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "时彩霞",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "需求分析",
+            "文档",
+            "后端开发"
+          ],
+          "welfares": [],
+          "securityId": "KoEhqG9yyBj7m-y1w8evlC5zMjSJQFOzoUzSBn_EZ7163ywRzQ8wRLHiCAB_Kd7pA3Zo-Q~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "app混合开发",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "钱江世纪城",
+          "distance": "",
+          "lid": "ZT83AjeJnI.search.3",
+          "performance": "",
+          "salaryDesc": "11-22K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "React",
+            "全栈开发",
+            "移动端"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "React",
+              "highlight": false
+            },
+            {
+              "content": "全栈开发",
+              "highlight": false
+            },
+            {
+              "content": "移动端",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "9ae59db3bcb444b83n1y3N25EFE~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "墨客井链数字科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200707/c60cd4f411026da7cd46322ffc39b19d6201c162d36972a96203a5bdf840d5e3_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "李芳芳",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "React",
+            "全栈开发",
+            "移动端",
+            "IOS",
+            "Android",
+            "Vue",
+            "Web端"
+          ],
+          "welfares": [],
+          "securityId": "NuTdpWJ4lGfSs-o1SVnMnzpiDy6U3yDJCKvJci7mdxX-z0cGERi9E716v8mn1Z8sXzzPHw~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "钱江世纪城",
+          "distance": "",
+          "lid": "ZT83AjeJnI.search.4",
+          "performance": "",
+          "salaryDesc": "5-8K",
+          "jobLabels": [
+            "在校/应届",
+            "本科",
+            "MVC开发",
+            "分布式技术",
+            "负载均衡技术"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "在校/应届",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "MVC开发",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "负载均衡技术",
+              "highlight": false
+            }
+          ],
+          "jobType": 5,
+          "encryptJobId": "fcb2f2675ba9c2d133J70tm4FFs~",
+          "afterNameIcon": null,
+          "afterNameIcons": [
+            "https://img.bosszhipin.com/beijin/mcs/banner/4d77f815083a7850d8c5188f10b2ff0dcfcd208495d565ef66e7dff9f98764da.png"
+          ],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "墨客井链数字科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200707/c60cd4f411026da7cd46322ffc39b19d6201c162d36972a96203a5bdf840d5e3_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "李芳芳",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "MVC开发",
+            "分布式技术",
+            "负载均衡技术"
+          ],
+          "welfares": [],
+          "securityId": "AL_AVCVv6wF3d-a1X7CjHHAdvAmlkkkf5fYFF6Zr_c2R_HWPp9XUeMcUEqR8kck7CkW6aA~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "钱江世纪城",
+          "distance": "",
+          "lid": "ZT83AjeJnI.search.5",
+          "performance": "",
+          "salaryDesc": "11-22K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "MVC开发",
+            "分布式技术",
+            "负载均衡技术"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "MVC开发",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "负载均衡技术",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "cc9f1e06ad0d668333J639y1ElU~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "墨客井链数字科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200707/c60cd4f411026da7cd46322ffc39b19d6201c162d36972a96203a5bdf840d5e3_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "李芳芳",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "MVC开发",
+            "分布式技术",
+            "负载均衡技术",
+            "Spring",
+            "计算机软件",
+            "Java",
+            "NoSQL",
+            "MySQL"
+          ],
+          "welfares": [],
+          "securityId": "WFdbG3IeNjnnn-41qJ5PsbF9pdVZs9IywWaa-YP8JbW7OEKMZesyH5tJ-AnsviJ_YembMg~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "钱江世纪城",
+          "distance": "",
+          "lid": "ZT83AjeJnI.search.6",
+          "performance": "",
+          "salaryDesc": "10-15K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "React",
+            "Web端",
+            "Linux"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "React",
+              "highlight": false
+            },
+            {
+              "content": "Web端",
+              "highlight": false
+            },
+            {
+              "content": "Linux",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "efb51703f5084acf0HV63d2-EFA~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "墨客井链数字科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200707/c60cd4f411026da7cd46322ffc39b19d6201c162d36972a96203a5bdf840d5e3_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "时彩霞",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "React",
+            "Web端",
+            "Linux",
+            "MySQL"
+          ],
+          "welfares": [],
+          "securityId": "5CKc8fXRI7Dam-W1bHLY7zoAlZt5W-q5jRl91RSy7lfPSjW6-edFLMWTJ9ZbgGMyi-ArPg~~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

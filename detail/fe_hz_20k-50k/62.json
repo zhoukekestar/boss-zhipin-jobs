@@ -1,0 +1,519 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "Y5mu8NzXgE2tB-n1jJHUk3u-sd2SDqG0VhwHDQjamiblTyo-e0x7CRTMQ-JReAkBo228TAt43GJCbniY4GBFc9OwT8nZKZfNix6v31SzeRq59AeNbtt4Le_VJxlCUvk8pe251ZootqA~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "45dbbc560fb36e5903F40t-_E1M~",
+      "bossId": 45292231,
+      "securityId": "7N-3zP-WPXXPJ-J1mihriTqw6F7hC123KmLljS4roW_c3jkqAOrN7g07nZCm6TCSZnIGVlX6gDaLa3o-LPZRj3kacFNu",
+      "name": "苏思文",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+      "title": "前端工程师",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1643243131000,
+      "bossOnline": false,
+      "brandName": "蚂蚁集团",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 195335800,
+      "encryptJobId": "d032ff4e1aa742da1n1_2N64GFJQ",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端工程师",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "西湖",
+      "locationDesc": "杭州·西湖区·西湖",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "lowSalary": 25,
+      "highSalary": 50,
+      "jobDesc": "大部门信息\n● 部门： 体验技术部\n● 部门主管： 玉伯\n● 大部门介绍：《那些年的体验技术部》\n● 开源作品：Ant Design、AntV、UmiJS、DvaJS、egg、qiankun、Antd Mobile、ahooks、dumi 等等\n● 商业化产品：语雀\n小组介绍\n● 我们是哪个小组？\n我们是 体验技术部-行业与商家-商服作业 小组\n\n● 我们做业务吗？\n做，我们的业务可以简单的理解就是给「地推人员」做平台，技术栈涉及到中后台、H5、小程序。\n\n● 我们做技术吗？\n我们小组的技术项目很多，也非常硬核，你进来可以选一个参与。\n  ○ 🔥 qiankun  业界知名微前端解决方案\n\n  ○ 🔥 L7 大规模地理空间数据可视分析开发框架\n\n  ○ 🔥 ahooks  知名 React Hooks 库，目前正在开发 V3.0\n\n  ○ 🔥 Ant Design Mobile 知名 React 移动端组件库，目前正在开发 V5.0\n\n  ○ 🔥 OneAPI 蚂蚁一站式 API 管理平台，提供 API 全生命周期解决方案\n  ○ 🔥 燕鸥 蚂蚁企业级微前端解决方案\n\n● 我们的招聘要求是啥？\n  ○ 前端基础扎实\n  ○ 技术视野广\n  ○ 有优质博客或深度参与的开源项目最佳\n  ○ P5-P7 级别\n\n● 工作地点\n  ○ 我们小组在杭州，大部门在杭州、上海、北京、成都均可\n\n● 简历投递：************************\n\n❓ 我不知道我是不是能满足要求\n放心大胆的投吧，如果简历有问题，我会反馈给你的。没进入面试流程，是不会留下记录的。",
+      "requiredSkills": [
+        "前端开发",
+        "React"
+      ],
+      "address": "杭州西湖区蚂蚁集团A空间6号楼",
+      "longitude": 120.104735,
+      "latitude": 30.261121,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/12aa9b7f42659a3a7d4f7c77327d82c7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e16f7e49d9c6e1543034993c3b728068",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "25-50K·13薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "152ec46a55d92ea51HR609m-FVc~",
+      "brandName": "蚂蚁集团",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b10345f203d9c0270a26df28e9c00429cfcd208495d565ef66e7dff9f98764da.jpg",
+      "industryName": "互联网",
+      "stageName": "D轮及以上",
+      "scaleName": "10000人以上",
+      "brandIntroduce": "蚂蚁集团创办于2004年，是移动支付平台「支付宝」的母公司，也是领先的金融科技开放平台，致力于携手合作伙伴，为消费者和小微经营者提供普惠、绿色、可持续的服务，为世界带来微小而美好的改变。 旗下产品包括支付宝、蚂蚁森林、余额宝、蚂蚁链、OceanBase等。",
+      "comName": "蚂蚁科技集团股份有限公司",
+      "legalPerson": "井贤栋",
+      "startDate": "2000-10-19",
+      "regCapital": "3500000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市西湖区西溪路543号-569号（单号连续）1幢2号楼5层517室",
+      "businessScope": "一般项目：工程和技术研究和试验发展；企业总部管理；控股公司服务；以自有资金从事投资活动；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；软件开发；广告设计、代理；广告制作；广告发布（非广播电台、电视台、报刊出版单位）；会议及展览服务；翻译服务（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：第二类增值电信业务（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "蚂蚁集团创办于2004年，是移动支付平台「支付宝」的母公司，也是领先的金融科技开放平台，致力于携手合作伙伴，为消费者和小微经营者提供普惠、绿色、可持续的服务，为世界带来微小而美好的改变。 旗下产品包括支付宝、蚂蚁森林、余额宝、蚂蚁链、OceanBase等。",
+      "encryptComId": "5215e53b5f7afc081Xx60tS_E1o~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "Java",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "103YvyM5gw8.search.1",
+          "performance": "",
+          "salaryDesc": "30-60K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Java开发经验",
+            "Java",
+            "不接受居家办公"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java开发经验",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "不接受居家办公",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "6f1a78d7e04e07931HRy3N--GFBX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "蚂蚁集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/b10345f203d9c0270a26df28e9c00429cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "D轮及以上",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "吴先生",
+          "bossTitle": "开发",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java开发经验",
+            "Java",
+            "不接受居家办公",
+            "分布式系统开发经验",
+            "MyBatis",
+            "后端工程师",
+            "Spring"
+          ],
+          "welfares": [],
+          "securityId": "xlit_PDIkOi8W-p1WgEHbBLKz4nm3U9OCar1_rbHGSUP2iHkZBlJfe0cX_q6pCtA58n-1ck~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "蚂蚁集团-JAVA开发专家-消费金融",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西湖",
+          "distance": "",
+          "lid": "103YvyM5gw8.search.3",
+          "performance": "",
+          "salaryDesc": "25-35K·13薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "后端工程师",
+            "Java",
+            "Java开发经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Java开发经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "291c8754077b396c1X1839S_GFZX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "蚂蚁集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/b10345f203d9c0270a26df28e9c00429cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "D轮及以上",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "汤先生",
+          "bossTitle": "Java高级工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230311/607f1f3d68754fd02c75363173d3d76d8befd5f723d46656da6c5c169ca418814ffc36683c367af8_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "Java",
+            "Java开发经验",
+            "分布式系统开发经验",
+            "中大型项目架构设计经验"
+          ],
+          "welfares": [],
+          "securityId": "qpe9ruWehzFpC-41-mezHhsU436VfuhPp1o41y5mzdrZgn9-Q69D5lvr8fIb6mAAQ792aBY~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "测试开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西湖",
+          "distance": "",
+          "lid": "103YvyM5gw8.search.4",
+          "performance": "",
+          "salaryDesc": "200-400元/天",
+          "jobLabels": [
+            "5天/周",
+            "2个月",
+            "本科",
+            "Java",
+            "Python"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5天/周",
+              "highlight": false
+            },
+            {
+              "content": "2个月",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            }
+          ],
+          "jobType": 4,
+          "encryptJobId": "dffe20321f7f37501XV_2N-7EVVX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "蚂蚁集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/b10345f203d9c0270a26df28e9c00429cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "D轮及以上",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "王女士",
+          "bossTitle": "测试开发",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180912/8da1d55a384dae5efb09d4439dce34e6cfcd208495d565ef66e7dff9f98764da_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "Python",
+            "Shell",
+            "Golang",
+            "C/C++",
+            "SQL"
+          ],
+          "welfares": [],
+          "securityId": "enZzVlRVkJ8i4-I1VwaTwXZydLD2X6X9S-zqt4HAEGLIRRQN2wgAxkX821bU9i-_a6V7k04~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "技术专家（区块链应用研发）",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "黄龙",
+          "distance": "",
+          "lid": "103YvyM5gw8.search.5",
+          "performance": "",
+          "salaryDesc": "30-50K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "区块链",
+            "分布式技术",
+            "SpringBoot"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "区块链",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "SpringBoot",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "ddaee9112554813e1nZ92tu5ElJU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "蚂蚁集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/b10345f203d9c0270a26df28e9c00429cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "D轮及以上",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "王春霈",
+          "bossTitle": "区块链研发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "区块链",
+            "分布式技术",
+            "SpringBoot",
+            "后端开发",
+            "消费金融"
+          ],
+          "welfares": [],
+          "securityId": "rpK5tr-9iMuQb-31QISeOTAVHsrZhi0RUwYJLPQhxO640ejDvSUZFFo0nrtxp5qTlhehvfhU",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "web前端",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "103YvyM5gw8.search.6",
+          "performance": "",
+          "salaryDesc": "25-40K",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "react",
+            "node.js",
+            "css3"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "react",
+              "highlight": false
+            },
+            {
+              "content": "node.js",
+              "highlight": false
+            },
+            {
+              "content": "css3",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "34469532af017cbe1HF42t-8FVc~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "蚂蚁集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/b10345f203d9c0270a26df28e9c00429cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "D轮及以上",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "贺涛",
+          "bossTitle": "前端开发",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "react",
+            "node.js",
+            "css3"
+          ],
+          "welfares": [],
+          "securityId": "O4QFOfwSbf7CH-i1ukJBePh4dC0iCf2fyApfRklwq2XwR5aguQB64GHFuZIaVs8-Z9xing~~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

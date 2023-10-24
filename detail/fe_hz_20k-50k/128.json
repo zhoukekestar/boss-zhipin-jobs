@@ -1,0 +1,500 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "Z7c1nPcf9ZQud-X1eNc2mencmT9_lBoCtZTkQAXXwTPJWTCuJJiwwKLDNRKj_v7RdI4-QaB_lfkc-yJxUNUCKI9mI4gnGlpZo2hB_QVGDnxln0BtE4vn9FbKI9blPJH8XCN18uj0Dg~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "31e5fb30a71b71a10XJ729-5FlE~",
+      "bossId": 66102463,
+      "securityId": "k3tAdiiS0GAig-w1zvWXRGaqo_xeIBV-05P5kVnuCcoPkZb6PLn40bkE6sPw63ZMU-PsGBnXIlTwZD284aKF9Yr_hyxQ",
+      "name": "张君兰",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+      "title": "技术专家",
+      "activeTimeDesc": "近半年活跃",
+      "activeTime": 1684654111000,
+      "bossOnline": false,
+      "brandName": "之江实验室",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 246910197,
+      "encryptJobId": "4a42cbd7e981e61f1XB80ty9EVtX",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端开发",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "老余杭",
+      "locationDesc": "杭州·余杭区·老余杭",
+      "experienceName": "经验不限",
+      "degreeName": "硕士",
+      "lowSalary": 14,
+      "highSalary": 28,
+      "jobDesc": "职责描述：\n1.负责项目相关系统的前端开发，根据系统需求，对相关项目进行编码、迭代、维护、重构等工作；\n2.组织前端开发组各项工作，完成代码review等工作，保障高质量交付产品；\n3.参与需求分析、UI设计等相关讨论；\n\n任职要求：\n1. 国内外知名院校全日制硕士毕业及以上学历，计算机、软件相关专业；\n2. 熟练掌握html，css（sass/less），javascript、ES6 规范、通信协议、网络等前端知识；\n3. 掌握前端常用的构建工具webpack/gulp等；\n4. 熟悉并掌握至少一款主流的前端开发框架（Vue.js、Angular.js、React.js）等，能深入理解MVC开发模式；\n5. 熟练掌握Web3.js优先\n6. 熟练使用Git等进行软件版本管理和协同开发，具备良好的团队合作和沟通能力；\n7. 精通绘图、动画、性能优化等前端技术，对解决多浏览器兼容性问题有一定的经验；",
+      "requiredSkills": [
+        "JavaScript",
+        "Vue"
+      ],
+      "address": "杭州余杭区之江实验室新园区7号楼",
+      "longitude": 119.900075,
+      "latitude": 30.263042,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/45d6ce1dfae8456e6bcbb72aedc1b9bb",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c2be8fc701b4c10caf902d5365fe8416",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "14-28K·15薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "2dfecbfff23871ab1Hdy09W_EA~~",
+      "brandName": "之江实验室",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190228/d4a0e4ceb1a3bd869f68d335a8f161c3015b0750a8f0bde53f664c81a3e08011.jpg",
+      "industryName": "学术/科研",
+      "stageName": "不需要融资",
+      "scaleName": "1000-9999人",
+      "brandIntroduce": "之江实验室成立于2017年9月6日，是浙江省委省政府举全省之力打造的重大科技创新平台，主攻智能感知、人工智能、智能网络、智能计算和智能系统五大科研方向。作为全国首个混合所有制事业单位性质的新型研发机构，实验室已纳入国家实验室体系，获批牵头建设智能科学与技术浙江省实验室，产出了类脑计算机、天枢人工智能开源平台、仿生深海软体机器人等全球领先的科研成果。\n2021年5月，之江实验室成立北京研究中心（办公地点位于北京市海淀区中关村），旨在围绕国家重大创新领域，联合在京优势科研机构、高校与大型企业开展关键技术攻关和核心系统研发，承担国家重大战略任务。北京研究中心先期聚焦智能无人系统、专用智能计算系统关键技术研究，打造一支多学科融合、富有创新活力的一流科研团队，争取一批原创性、突破性、引领性的重大科技成果。北京研究中心已与航天五院、中科院、清华大学、中国电子、寒武纪等开展多项科研合作。",
+      "comName": "之江实验室",
+      "legalPerson": "朱世强",
+      "startDate": null,
+      "regCapital": "10000万元",
+      "statusDesc": "正常",
+      "regAddress": "杭州市文一西路1818号",
+      "businessScope": "聚焦网络信息、人工智能领域，建设突破型引领型平台型一体的新型科研机构，争创国家实验室。  重大前沿基础研究与技术攻关；大科学装置和科研平台建设；国内外科研合作与交流；高层次科研人才培养；承担国家战略性网络信息科技创新项目；科研成果转移转化及其产业化；相关领域产品研发、试制和技术服务",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "之江实验室成立于2017年9月6日，是浙江省委省政府举全省之力打造的重大科技创新平台，主攻智能感知、人工智能、智能网络、智能计算和智能系统五大科研方向。作为全国首个混合所有制事业单位性质的新型研发机构，实验室已纳入国家实验室体系，获批牵头建设智能科学与技术浙江省实验室，产出了类脑计算机、天枢人工智能开源平台、仿生深海软体机器人等全球领先的科研成果。\n2021年5月，之江实验室成立北京研究中心（办公地点位于北京市海淀区中关村），旨在围绕国家重大创新领域，联合在京优势科研机构、高校与大型企业开展关键技术攻关和核心系统研发，承担国家重大战略任务。北京研究中心先期聚焦智能无人系统、专用智能计算系统关键技术研究，打造一支多学科融合、富有创新活力的一流科研团队，争取一批原创性、突破性、引领性的重大科技成果。北京研究中心已与航天五院、中科院、清华大学、中国电子、寒武纪等开展多项科研合作。",
+      "encryptComId": "d28df4d430ed7a731nB80tW6E1U~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "c++系统软件工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "老余杭",
+          "distance": "",
+          "lid": "ZXuVxFIYTP.search.1",
+          "performance": "",
+          "salaryDesc": "16-30K·15薪",
+          "jobLabels": [
+            "经验不限",
+            "硕士",
+            "Python",
+            "架构师",
+            "CUDA"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "架构师",
+              "highlight": false
+            },
+            {
+              "content": "CUDA",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "aada998adf903d061nN53dS6GVdT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "之江实验室",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190228/d4a0e4ceb1a3bd869f68d335a8f161c3015b0750a8f0bde53f664c81a3e08011.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "党彬",
+          "bossTitle": "智能计算研究院HRBP",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200529/4ed2f6b6096fb3cd2b85ddd9152ab5c273c845f6fba585ed19d4297b84d5c878_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Python",
+            "架构师",
+            "CUDA",
+            "ARM开发"
+          ],
+          "welfares": [],
+          "securityId": "BeUeNMXBFvf0D-t1tNHMNbOlNVsbAzHpdc3fOiqJzYOaG2HRaFZMH6a42NiSNMXtYGBcdeY~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "sdn网络高级研发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "博士",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "老余杭",
+          "distance": "",
+          "lid": "ZXuVxFIYTP.search.2",
+          "performance": "",
+          "salaryDesc": "20-40K",
+          "jobLabels": [
+            "经验不限",
+            "博士",
+            "ONOS",
+            "SDN",
+            "P4"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "博士",
+              "highlight": false
+            },
+            {
+              "content": "ONOS",
+              "highlight": false
+            },
+            {
+              "content": "SDN",
+              "highlight": false
+            },
+            {
+              "content": "P4",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "90fa12552e2acfa71XJz29u5EVVT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "之江实验室",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190228/d4a0e4ceb1a3bd869f68d335a8f161c3015b0750a8f0bde53f664c81a3e08011.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "邹涛",
+          "bossTitle": "研究专家",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191111/15eced009ef6bd3fc9d0d3360564f6e03ff7641ac083aa276ad876c6bbbfae53_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "ONOS",
+            "SDN",
+            "P4",
+            "SONIC",
+            "K8S",
+            "serverless"
+          ],
+          "welfares": [],
+          "securityId": "pmMz4cbgMEC7o-J18C_MgxNBFHjs_W5JnYDJ34WYlqTvOxSX7Z7YPEM587_KrGrAUftuG4k~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "数据中心信息安全工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "老余杭",
+          "distance": "",
+          "lid": "ZXuVxFIYTP.search.3",
+          "performance": "",
+          "salaryDesc": "18-30K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "硕士",
+            "计算机/信息安全相关专业"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "计算机/信息安全相关专业",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "680e9898ddb0133f1Xx70tu6GFBT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "之江实验室",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190228/d4a0e4ceb1a3bd869f68d335a8f161c3015b0750a8f0bde53f664c81a3e08011.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "陈以星",
+          "bossTitle": "IT运维工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "计算机/信息安全相关专业"
+          ],
+          "welfares": [],
+          "securityId": "OvytBEyp8jKo1-n1GUtHU_rMZGX35yiSXd5QHNTNwvnor5C3c0gy9fbT7E-ynU2F3KuqrT4s",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "编程语言与编译技术工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "未来科技城",
+          "distance": "",
+          "lid": "ZXuVxFIYTP.search.4",
+          "performance": "",
+          "salaryDesc": "20-30K·15薪",
+          "jobLabels": [
+            "1-3年",
+            "硕士",
+            "类脑",
+            "深度学习",
+            "编译器"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "类脑",
+              "highlight": false
+            },
+            {
+              "content": "深度学习",
+              "highlight": false
+            },
+            {
+              "content": "编译器",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "2b54009f1b1768951XB_3dm_FVdQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "之江实验室",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190228/d4a0e4ceb1a3bd869f68d335a8f161c3015b0750a8f0bde53f664c81a3e08011.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "王凤娟",
+          "bossTitle": "高级工程专员",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "类脑",
+            "深度学习",
+            "编译器"
+          ],
+          "welfares": [],
+          "securityId": "BSbpBlphmfNck-w1kIEg2TkHRN4ywLAugBQqgXNHpyrPKxnPbh56wysXWyG_31-Y1sBiS3U~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "射电干涉数据分析博士后",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "博士",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "老余杭",
+          "distance": "",
+          "lid": "ZXuVxFIYTP.search.5",
+          "performance": "",
+          "salaryDesc": "30-50K",
+          "jobLabels": [
+            "1-3年",
+            "博士",
+            "计算机相关专业",
+            "数学/统计相关专业",
+            "机器学习算法/工程化经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "博士",
+              "highlight": false
+            },
+            {
+              "content": "计算机相关专业",
+              "highlight": false
+            },
+            {
+              "content": "数学/统计相关专业",
+              "highlight": false
+            },
+            {
+              "content": "机器学习算法/工程化经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "576dfccad870727a1XF_3dq0F1RT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "之江实验室",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190228/d4a0e4ceb1a3bd869f68d335a8f161c3015b0750a8f0bde53f664c81a3e08011.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "周女士",
+          "bossTitle": "招聘专员",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221117/607f1f3d68754fd02d12c9a0d41ae22e3d9b3d4de33d7d4346c1a85ad385987b92ba0b877f95859d_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "计算机相关专业",
+            "数学/统计相关专业",
+            "机器学习算法/工程化经验"
+          ],
+          "welfares": [],
+          "securityId": "vXCWsedb4Xbnu-41NTHdledhzwnSEQAshN0ONQTbJYKVJuc0lmSjxTyvlzJvlm1wIQFmyh02",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

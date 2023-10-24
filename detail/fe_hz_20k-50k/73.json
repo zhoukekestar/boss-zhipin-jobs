@@ -1,0 +1,526 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "eMI8_yioS5RjE-P1bd-h4fkNWwU11LPo_XcTjKS9pNLQTk5GwXDLXZ02galmYLFej0pS5PXoHG-MhhxrAr9_hfCaCj6xI8xYqQNoIxRWZ2vcrsg05pqioO0o27STrMM4XHuZM4Y~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "a696a1096866c0cf0nV43tm_EVQ~",
+      "bossId": 51254216,
+      "securityId": "hm7151OngZUZM-Y1Cg5COYKGbZBVpLYZD10Ur8V66c07drO119Y-4e02KK45CM8nyASwdAikgQ2oHRZfWhvFUqsKNVQm",
+      "name": "曹欢欢",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230929/607f1f3d68754fd0557944fbcfc13a9dd4b59b1784ab2a0f779f69131f0601cd2a3ff6b06e449ae9_s.png.webp",
+      "title": "高级技术专家",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1619625776000,
+      "bossOnline": false,
+      "brandName": "阿里健康",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 143854792,
+      "encryptJobId": "fdb9c76559fdbe001nB509i5F1tS",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "仓前",
+      "locationDesc": "杭州·余杭区·仓前",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 28,
+      "highSalary": 55,
+      "jobDesc": "阿里健康(00241.HK)是阿里巴巴集团“Double H”战略（Health and Happiness）在医疗健康领域的旗舰平台，是阿里巴巴集团投资控股的公司之一。凭借阿里巴巴集团在电子商务、大数据和云计算领域的优势，阿里健康以用户为核心，为医药健康行业提供全面的互联网解决方案，以及对现有社会医药资源实现跨区域共享配置，大幅提高就医购药的效率。 \r\n目前，阿里健康开展的业务主要集中在医药电商、智慧医疗、产品追溯等领域。\r\n本职位属于阿里健康-熙牛业务组，主要负责医院HIS医疗系统。工作地杭州，舞台够大，等你到来!\r\n\r\n1.精通各种前端技术（包括HTML/CSS/JavaScript等），基础扎实，熟悉ES6语法，熟悉网络协议（HTTP/SSL），熟悉常见安全问题和对策\r\n2.熟悉前端工程化与模块化开发，并有实践经验（如gulp/webpack、VueJS/React等）；\r\n3.至少熟悉一门非前端的语言（如NodeJS/Java/PHP/C/C++/Python/Ruby等），并有实践经验；\r\n4.对前端技术有持续的热情，良好的团队协作能力，提升团队研发效率，实现极致性能，通过创新交互优化产品体验；\r\n5.团队技术应用需求（加分项，满足其一）：体验优化及数据化衡量经验；复杂企业后台应用开发经验；数据可视化产品设计开发经验；大规模/高负载场景下NodeJS应用开发、运维经验；良好的算法背景，对机器学习有研究和项目实施经验；有独立的开源项目或者参与知名开源项目经验",
+      "requiredSkills": [
+        "javascript",
+        "react",
+        "node.js"
+      ],
+      "address": "杭州余杭区西溪堂12楼",
+      "longitude": 119.991698,
+      "latitude": 30.277252,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/34a4d04bac1473b5469c5a49eff3f9bb",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9c6fbf6e3aa6ef03ea51343a71bf4203",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "28-55K·16薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "372188a9f605e8501X143tQ~",
+      "brandName": "阿里健康",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230803/7bf6f160950405e9cdf27c53d6a24e59894d75db591b6760a81588f768feed495b2ce39dbd1dfcae.png",
+      "industryName": "移动互联网",
+      "stageName": "已上市",
+      "scaleName": "500-999人",
+      "brandIntroduce": "阿里健康信息技术有限公司，是阿里巴巴集团投资控股的公司之一。凭借阿里巴巴集团在电子商务、大数据和云计算领域的优势，阿里健康以用户为核心，为医药健康行业提供全面的互联网解决方案。作为在线医药服务和医药O2O的先行者，阿里健康正在打造完整的线上线下一体的医药健康服务网络。",
+      "comName": "阿里健康科技（中国）有限公司",
+      "legalPerson": "朱顺炎",
+      "startDate": "2015-08-03",
+      "regCapital": "80000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "北京市朝阳区光华路10号院1号楼中信大厦065层-006",
+      "businessScope": "计算机技术转让、技术咨询、技术服务；企业管理咨询；市场营销策划；商务咨询；医院管理（不含诊疗服务）；批发医疗器械I类；计算机系统服；软件开发；软件技术咨询；开发网络及通讯产品技术；计算机系统集成；批发日用品百货、服装、玩具、文化用品、电子产品、通讯设备、计算机软件及辅助设备、家用电器、体育用品、化工产品（不含危险化学品及一类易制毒化学品）及以上物品的进出口业务；数据处理（数据处理中的银行卡中心、PUE值在1.5以上的云计算数据中心除外）；设计、制作、代理、发布广告；出租办公用房。（市场主体依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事国家和本市产业政策禁止和限制类项目的经营活动。）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "阿里健康信息技术有限公司，是阿里巴巴集团投资控股的公司之一。凭借阿里巴巴集团在电子商务、大数据和云计算领域的优势，阿里健康以用户为核心，为医药健康行业提供全面的互联网解决方案。作为在线医药服务和医药O2O的先行者，阿里健康正在打造完整的线上线下一体的医药健康服务网络。",
+      "encryptComId": "a6417b3a3e351a721nZ_39y9EA~~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "技术专家",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "102ZIwy5x6X.search.1",
+          "performance": "",
+          "salaryDesc": "20-30K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "分布式技术",
+            "互联网医疗",
+            "Java"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "互联网医疗",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "fde512ec437c06ef33N929u7FFU~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "阿里健康",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230803/7bf6f160950405e9cdf27c53d6a24e59894d75db591b6760a81588f768feed495b2ce39dbd1dfcae.png",
+          "brandStage": "已上市",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "徐志滇",
+          "bossTitle": "后端开发",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "分布式技术",
+            "互联网医疗",
+            "Java",
+            "Spring",
+            "SSM",
+            "Mybatis"
+          ],
+          "welfares": [],
+          "securityId": "Uu8lMvyEbta5T-y1nqTFz4NHwLiuu_MezYR6gL2g87sC6C2rHuMsub9HDV_Z03WDGnGaIw~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "未来科技城",
+          "distance": "",
+          "lid": "102ZIwy5x6X.search.2",
+          "performance": "",
+          "salaryDesc": "20-35K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "分布式技术",
+            "微服务架构",
+            "Spring"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "微服务架构",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "0b373ba2b5a1efe61nZz2Ni-EFJX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "阿里健康",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230803/7bf6f160950405e9cdf27c53d6a24e59894d75db591b6760a81588f768feed495b2ce39dbd1dfcae.png",
+          "brandStage": "已上市",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "李先生",
+          "bossTitle": "高级技术专家",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "分布式技术",
+            "微服务架构",
+            "Spring",
+            "SpringMVC",
+            "Dubbo",
+            "MySQL",
+            "后端开发",
+            "软件工程师"
+          ],
+          "welfares": [],
+          "securityId": "LgDAcncjKRL5q-F1-aZntwpjNfLXs3LMhdzFW8K0MVdUNI9SBjsy2RjLRYACZujuMHbs_jU~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "大模型服务端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "102ZIwy5x6X.search.3",
+          "performance": "",
+          "salaryDesc": "30-50K",
+          "jobLabels": [
+            "3-5年",
+            "硕士",
+            "业务导向",
+            "生物医疗",
+            "智能营销/广告"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "业务导向",
+              "highlight": false
+            },
+            {
+              "content": "生物医疗",
+              "highlight": false
+            },
+            {
+              "content": "智能营销/广告",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "aba93fc1fec315ee1X182Ni0FVNU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "阿里健康",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230803/7bf6f160950405e9cdf27c53d6a24e59894d75db591b6760a81588f768feed495b2ce39dbd1dfcae.png",
+          "brandStage": "已上市",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "王敏",
+          "bossTitle": "招聘专员",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220608/607f1f3d68754fd0d3faeebf74b297a45873724ff02a7cefdea824de68e86eef09dbc9b5adb5471f_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "业务导向",
+            "生物医疗",
+            "智能营销/广告",
+            "搜索/推荐",
+            "Java",
+            "Python",
+            "C/C++",
+            "机器学习算法/工程化经验",
+            "深度学习经验",
+            "在线推理"
+          ],
+          "welfares": [],
+          "securityId": "sH_EjESkWpq2Q-J1k5WVFVQbIafUspVHihUHjMl9a9kbeo_pLBT0cDYPzT5YuU25iDDIThk~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "推荐算法资深工程师/专家",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "102ZIwy5x6X.search.4",
+          "performance": "",
+          "salaryDesc": "25-30K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Java",
+            "C/C++",
+            "推荐系统相关经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "C/C++",
+              "highlight": false
+            },
+            {
+              "content": "推荐系统相关经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "f2f42abe2d85334d1HR939y7FVFX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "阿里健康",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230803/7bf6f160950405e9cdf27c53d6a24e59894d75db591b6760a81588f768feed495b2ce39dbd1dfcae.png",
+          "brandStage": "已上市",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "王敏",
+          "bossTitle": "招聘专员",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220608/607f1f3d68754fd0d3faeebf74b297a45873724ff02a7cefdea824de68e86eef09dbc9b5adb5471f_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "C/C++",
+            "推荐系统相关经验",
+            "搜索相关经验",
+            "电商/广告算法经验"
+          ],
+          "welfares": [],
+          "securityId": "vkLJA7KLDfgLl-E1LdH6Tf2ZTAJDjr2xQefmcDLwihu_nzPbsC-5vQPpfqugNPhLYt2jvuk~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "算法工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "102ZIwy5x6X.search.5",
+          "performance": "",
+          "salaryDesc": "20-40K·16薪",
+          "jobLabels": [
+            "经验不限",
+            "硕士",
+            "深度学习算法",
+            "机器学习算法",
+            "数据挖掘"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "深度学习算法",
+              "highlight": false
+            },
+            {
+              "content": "机器学习算法",
+              "highlight": false
+            },
+            {
+              "content": "数据挖掘",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "3e7ec70c0e9dedf21nF82ti9FlVQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "阿里健康",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230803/7bf6f160950405e9cdf27c53d6a24e59894d75db591b6760a81588f768feed495b2ce39dbd1dfcae.png",
+          "brandStage": "已上市",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "韦祎",
+          "bossTitle": "算法工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210520/dc7e6df2824a8fba9357a54c93fde7679473985ef8afbefe19b1c7ab2fc12997_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "深度学习算法",
+            "机器学习算法",
+            "数据挖掘"
+          ],
+          "welfares": [],
+          "securityId": "kSW1mphuOG3IX-L142q7f4JkxL3oan4Gl9nFAsjeQdVstu1DQ0IXBS_Q_UxnvLtnUScxdjIX",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

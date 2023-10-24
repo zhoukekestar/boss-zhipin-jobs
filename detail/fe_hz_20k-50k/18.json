@@ -1,0 +1,525 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "NL784GZTSrcB2-e1FfZUf1pw7HQQUNo3YacpejMJco3gjmMyPrvEsRbxGwjvW-Jghra2bB-2EAOVilwSfXJe4xWnfogXPA5Mqwl9VOjryl7rCFNGsgXIWB72YXtcY4paFwBZ5Ib3J6k~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "b7359510016a73961XV53d60EVM~",
+      "bossId": 21363911,
+      "securityId": "JhEdjESwwmort-01xvgiYdE49d4aemGxSzKl3r_0b4N9M_K6dU7QGupbJD3op7seQnZGzoU8nNSmXiZdJR4mhoJ2UV1Z",
+      "name": "杨科",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+      "title": "部门经理",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1645683939000,
+      "bossOnline": false,
+      "brandName": "东方云起信息数据...",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 212908914,
+      "encryptJobId": "04dbff3ba040ca481XV40t21GVNU",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "Andoird前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "长河",
+      "locationDesc": "杭州·滨江区·长河",
+      "experienceName": "3-5年",
+      "degreeName": "大专",
+      "lowSalary": 13,
+      "highSalary": 25,
+      "jobDesc": "岗位职责\n1.负责Andoird/IOS移动端产品开发；\n2.搭建跨平台应用程序框架\n3.编写规范的技术文档\n任职要求：\n1.2年以上移动端APP（android,ios）开发经验，熟悉android/ios原生开发\n2.熟悉使用 react、react native\n3.熟悉 redux,react navigation等第三方库",
+      "requiredSkills": [
+        "Android",
+        "iOS",
+        "移动端",
+        "React",
+        "react nati"
+      ],
+      "address": "杭州滨江区银泰国际353506",
+      "longitude": 120.196596,
+      "latitude": 30.207431,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9cd38239a40e993798e1623d6a21daf8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dec1486690b391587d071ec605d80834",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "13-25K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "1d79d8ccc3e7f1d11nx92d2_Elo~",
+      "brandName": "东方云起信息数据...",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210826/7bf6f160950405e97c2b427e962ee7b7bb551f4e243ef21edcf3e7648b2ace3f4c205e9b725dc5d0.jpg",
+      "industryName": "互联网",
+      "stageName": "未融资",
+      "scaleName": "100-499人",
+      "brandIntroduce": "东方网是全国重点新闻网站，上海市主流媒体之一，拥有120余个频道，中、英、日三个语种版本，业务涵盖新闻发布、舆论交互、数字政务、电子商务、市场广告、技术运营、投资业务等多个领域，并通过互联网、报纸、手机、移动电视、互动电视、楼宇电视、电子站牌等传播载体，实现影响力的立体覆盖。具备大型网站所有互动功能、多媒体新闻传送能力和直播能力。是上海最具影响力、权威性和公信度的网络媒体。\n       东方云起(浙江)信息数据有限公司成立于2021年04月09日，办公地址为杭州市滨江区秋溢路288号东冠科技园1幢1709， 经营范围包括一般项目：互联网数据服务、游戏技术开发及运营等，是一家由东方网牵头成立的新型科技型企业。期待您的加入为我们增添更多新鲜的血液，实现个人和企业“双赢”的目标！",
+      "comName": "东方云起（浙江）信息数据有限公司杭州分公司",
+      "legalPerson": "程刚",
+      "startDate": "2021-04-26",
+      "regCapital": "-",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市滨江区长河街道滨安路597号恒鼎大厦5层505室",
+      "businessScope": "许可项目：广播电视节目传送（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。一般项目：互联网数据服务；广告设计、代理；广告发布（非广播电台、电视台、报刊出版单位）；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；数字内容制作服务（不含出版发行）；软件开发；软件外包服务；信息技术咨询服务；信息系统运行维护服务；网络技术服务；互联网安全服务；互联网销售（除销售需要许可的商品）（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。（在总公司经营范围内从事经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "东方网是全国重点新闻网站，上海市主流媒体之一，拥有120余个频道，中、英、日三个语种版本，业务涵盖新闻发布、舆论交互、数字政务、电子商务、市场广告、技术运营、投资业务等多个领域，并通过互联网、报纸、手机、移动电视、互动电视、楼宇电视、电子站牌等传播载体，实现影响力的立体覆盖。具备大型网站所有互动功能、多媒体新闻传送能力和直播能力。是上海最具影响力、权威性和公信度的网络媒体。\n       东方云起(浙江)信息数据有限公司成立于2021年04月09日，办公地址为杭州市滨江区秋溢路288号东冠科技园1幢1709， 经营范围包括一般项目：互联网数据服务、游戏技术开发及运营等，是一家由东方网牵头成立的新型科技型企业。期待您的加入为我们增添更多新鲜的血液，实现个人和企业“双赢”的目标！",
+      "encryptComId": "1f1d2de0345848c91HB62t66EVo~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "iOS前端",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "学历不限",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "109YMTl81op.search.2",
+          "performance": "",
+          "salaryDesc": "13-25K",
+          "jobLabels": [
+            "3-5年",
+            "学历不限",
+            "Android",
+            "iOS",
+            "移动端"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "学历不限",
+              "highlight": false
+            },
+            {
+              "content": "Android",
+              "highlight": false
+            },
+            {
+              "content": "iOS",
+              "highlight": false
+            },
+            {
+              "content": "移动端",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "f833b81e94d559fa1XV529y9FlVQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "东方云起信息数据...",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210826/7bf6f160950405e97c2b427e962ee7b7bb551f4e243ef21edcf3e7648b2ace3f4c205e9b725dc5d0.jpg",
+          "brandStage": "未融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "杨科",
+          "bossTitle": "部门经理",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Android",
+            "iOS",
+            "移动端",
+            "React"
+          ],
+          "welfares": [],
+          "securityId": "EuDHmE3ZC7CFQ-R1WdWli55CIDXmEL6WLlBo8AVeX5ZtqD2gmCQcUlnhdvljVaTBsAlq4xk~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "游戏服务端开发",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "109YMTl81op.search.3",
+          "performance": "",
+          "salaryDesc": "18-25K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "SQL",
+            "服务器端开发",
+            "Skynet"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "服务器端开发",
+              "highlight": false
+            },
+            {
+              "content": "Skynet",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "0794352c23745d9f1nN_39W_EFpY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "东方云起信息数据...",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210826/7bf6f160950405e97c2b427e962ee7b7bb551f4e243ef21edcf3e7648b2ace3f4c205e9b725dc5d0.jpg",
+          "brandStage": "未融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "朱怀仁",
+          "bossTitle": "项目组长",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "SQL",
+            "服务器端开发",
+            "Skynet",
+            "游戏开发",
+            "MacOS",
+            "Windows",
+            "MySQL"
+          ],
+          "welfares": [],
+          "securityId": "zsKZbFThIn9yG-q1UTJJe7wWlhR3ecLLkZl7vzesuvlRx4zhRWOF_UNzuJkxXebQeg6KNLI~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "客户端开发",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "109YMTl81op.search.4",
+          "performance": "",
+          "salaryDesc": "10-15K·13薪",
+          "jobLabels": [
+            "经验不限",
+            "大专",
+            "Cocos Creator",
+            "JavaScript/TypeScript",
+            "计算机/软件工程相关专业"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "Cocos Creator",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript/TypeScript",
+              "highlight": false
+            },
+            {
+              "content": "计算机/软件工程相关专业",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "a7df1e4f2fc673221nN_39W8FFJW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "东方云起信息数据...",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210826/7bf6f160950405e97c2b427e962ee7b7bb551f4e243ef21edcf3e7648b2ace3f4c205e9b725dc5d0.jpg",
+          "brandStage": "未融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "朱怀仁",
+          "bossTitle": "项目组长",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Cocos Creator",
+            "JavaScript/TypeScript",
+            "计算机/软件工程相关专业",
+            "手游开发经验",
+            "移动端",
+            "CocosCreator",
+            "JavaScript/TypeScrip"
+          ],
+          "welfares": [],
+          "securityId": "pCAsPyA5gYxUW-x1CKkvR8Z0Bt9ZNqpV8qTSwds7YYZ_S50W1Tm69ixMv_4NXYc423JQDx4~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Cocos Creator 开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "109YMTl81op.search.5",
+          "performance": "",
+          "salaryDesc": "13-20K",
+          "jobLabels": [
+            "1-3年",
+            "大专",
+            "游戏引擎",
+            "Socket技术",
+            "网络协议"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "游戏引擎",
+              "highlight": false
+            },
+            {
+              "content": "Socket技术",
+              "highlight": false
+            },
+            {
+              "content": "网络协议",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "6880cec11c4c6eef1nJ42tq8GFNS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "东方云起信息数据...",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210826/7bf6f160950405e97c2b427e962ee7b7bb551f4e243ef21edcf3e7648b2ace3f4c205e9b725dc5d0.jpg",
+          "brandStage": "未融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "周筝",
+          "bossTitle": "行政",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210621/9da1bc9025a535311f5defe09f65ba0f41c42ec624c3f4cbd29adfa99810c6a4_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "游戏引擎",
+            "Socket技术",
+            "网络协议",
+            "TypeScript",
+            "Android",
+            "移动端"
+          ],
+          "welfares": [],
+          "securityId": "Df-9oZD83nVwk--1CV9ZjFhBtaMTDp_bi2UPsIQyWzznA3Qd-AaINHNrUsHcDFPGBE5Ppsk~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Cocos creator前端程序",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "109YMTl81op.search.6",
+          "performance": "",
+          "salaryDesc": "15-25K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "大专",
+            "Cocos Creator",
+            "JavaScript/TypeScript",
+            "Lua"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "Cocos Creator",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript/TypeScript",
+              "highlight": false
+            },
+            {
+              "content": "Lua",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "460d504ec1c1f2921Xx839W9GFVQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "东方云起信息数据...",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210826/7bf6f160950405e97c2b427e962ee7b7bb551f4e243ef21edcf3e7648b2ace3f4c205e9b725dc5d0.jpg",
+          "brandStage": "未融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "朱怀仁",
+          "bossTitle": "项目组长",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Cocos Creator",
+            "JavaScript/TypeScript",
+            "Lua",
+            "手游开发经验",
+            "计算机/软件工程相关专业"
+          ],
+          "welfares": [],
+          "securityId": "VncJKwGXAUrx8-S1olBMmJlUCYkq2cds3Y40xei7n7McjEtl3TCTrGxuEkXVh_lbEP_RNFU~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

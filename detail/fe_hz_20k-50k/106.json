@@ -1,0 +1,509 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "v1qMjRoc5O7JO-O1m4ZYdqGQTperS_KOL9KwcPqmvZgUC7UPwC_hpWxKTQpKIK7ctnVZepDe6PUJ84vUvxtl5EmsyNcTaW2kR8Bcn0L6j9aWZSZewT9EtVA7_qrIsRwWyIPGrOo~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "530e5030afc3ce571nVy2NS4FVo~",
+      "bossId": 11839558,
+      "securityId": "8cUcTdhyWA3OP-y1D_k3BrsWaZ3vvLbMhXn2rVZ_sKt2RrU3A9l64GFhviLv-663xyykhldPgMz9Oh0L84Mhz2wQ4RI~",
+      "name": "魏先生",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+      "title": "前端主管",
+      "activeTimeDesc": "2月内活跃",
+      "activeTime": 1695055226000,
+      "bossOnline": false,
+      "brandName": "凌笛数码",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 42592651,
+      "encryptJobId": "51d6a43b2fc5174303Z_0t-7FVM~",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "三墩",
+      "locationDesc": "杭州·西湖区·三墩",
+      "experienceName": "5-10年",
+      "degreeName": "学历不限",
+      "lowSalary": 25,
+      "highSalary": 50,
+      "jobDesc": "工作职责:\n1.根据产品需求完成产品前端展示和交互效果，配合后端开发人员实现产品界面和功能\n2.负责pc、移动端产品核心前端模块的开发和优化\n3.参与制定JS、CSS、HTML开发规范并推进执行\n4.编写封装良好的前端交互组件，维护及优化前端页面性能\n\n任职要求:\n1.前端基础扎实，精通HTML/CSS/JS/ES6\n2.熟练一种或多种主流前端技术及框架（React/Vue/Angular），有复杂产品的开发经验优先\n3.熟悉前端工程化本地化开发解决方案（Webpack，Fis, Gulp等）\n4.熟练使用一门非前端脚本语言（如：NodeJS、Python、PHP、JAVA 等）加分\n5.github社区活跃，有开源项目经验 加分\n6.做事积极主动，责任心强，逻辑性强，乐于团队合作\n\n如有GitHub、segmentfault、博客等请注明地址",
+      "requiredSkills": [
+        "vue.js",
+        "react",
+        "node.js"
+      ],
+      "address": "杭州西湖区紫金广场B座1610",
+      "longitude": 120.095301,
+      "latitude": 30.308518,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0bd2ea9cbcbabc03bb629c5fed694354",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2cef28ee8230f34ec6dcf9fd415302f5",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "25-50K·14薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "b9002acb7964bf040HVz2N26",
+      "brandName": "凌笛数码",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170705/3b60f0fd5d87bbbd02e0290671431ab5e50ffbb4a0c0263bc527ea3aa6da4bd0.jpg",
+      "industryName": "互联网",
+      "stageName": "A轮",
+      "scaleName": "100-499人",
+      "brandIntroduce": "浙江凌迪数字科技有限公司成立于2015年11月，致力于以3D数字化重构时尚产业，全面推动服装行业供给侧改革。旗下Style3D是全球首个时尚产业链3D数字化服务平台，拥有国内唯一成熟的服装3D建模技术，核心产品包括Style3D数字化建模设计软件、3D研发全流程协同平台、3D数字化时尚产业服务交易平台等。\n\n凌迪科技与百度、阿里、腾讯、浙江大学CAD&CG国家重点实验室等公司和高校深度合作，全力打造最强的服装3D数字化技术群，为服装产业数字化赋能。",
+      "comName": "浙江凌迪数字科技有限公司",
+      "legalPerson": "刘郴",
+      "startDate": "2015-10-26",
+      "regCapital": "3253.2476万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市上城区钱江路639号1958室",
+      "businessScope": "一般项目：货物进出口；技术进出口；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；服装制造；服饰研发；互联网销售（除销售需要许可的商品）；服装服饰批发；服装服饰零售；服装辅料销售；羽毛（绒）及制品销售；鞋帽批发；鞋帽零售；化妆品批发；化妆品零售；软件销售；人工智能硬件销售；计算机软硬件及辅助设备批发；计算机软硬件及辅助设备零售（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "浙江凌迪数字科技有限公司成立于2015年11月，致力于以3D数字化重构时尚产业，全面推动服装行业供给侧改革。旗下Style3D是全球首个时尚产业链3D数字化服务平台，拥有国内唯一成熟的服装3D建模技术，核心产品包括Style3D数字化建模设计软件、3D研发全流程协同平台、3D数字化时尚产业服务交易平台等。\n\n凌迪科技与百度、阿里、腾讯、浙江大学CAD&CG国家重点实验室等公司和高校深度合作，全力打造最强的服装3D数字化技术群，为服装产业数字化赋能。",
+      "encryptComId": "f930b547a4bedd121Xx-3dS7GVI~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "web前端",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "浙大紫金港",
+          "distance": "",
+          "lid": "ZZyM9cX5tl.search.1",
+          "performance": "",
+          "salaryDesc": "18-35K·14薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "前端开发",
+            "HTML",
+            "CSS"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            },
+            {
+              "content": "HTML",
+              "highlight": false
+            },
+            {
+              "content": "CSS",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "dfa7b7ff4b71258a1nZ73tq1ElNT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "凌笛数码",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170705/3b60f0fd5d87bbbd02e0290671431ab5e50ffbb4a0c0263bc527ea3aa6da4bd0.jpg",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "翁晓翔",
+          "bossTitle": "产品经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170704/0d874491beba1b5dfa3d0fda3a06bfd2affb865a2ca1f16cad0c3df2a2f9a6b8_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "前端开发",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "ES6",
+            "React",
+            "PC端",
+            "GIT"
+          ],
+          "welfares": [],
+          "securityId": "iFWPkLUJ-8-wd-o12NoZsEM80PJIqkQrhaNu6HozvgArgRmDQzOrYHtWLoiLFGvZEpI4zl8~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "资深渲染算法工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "古墩路",
+          "distance": "",
+          "lid": "ZZyM9cX5tl.search.2",
+          "performance": "",
+          "salaryDesc": "30-50K·15薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "C++",
+            "渲染"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "C++",
+              "highlight": false
+            },
+            {
+              "content": "渲染",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "5d0b7ea1e50e11eb1nF-2dS1FlRS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "凌笛数码",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170705/3b60f0fd5d87bbbd02e0290671431ab5e50ffbb4a0c0263bc527ea3aa6da4bd0.jpg",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "骆立康",
+          "bossTitle": "总架构师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171009/e09e156113cd36c74499082ed1a64a76bd6c4df4b9c0f45df27d9b74c230fdfc_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "C++",
+            "渲染"
+          ],
+          "welfares": [],
+          "securityId": "PFEdA9Qvzwg9t-51j6ksxIFsCFJ-3BHIUEtB7YZVimnjsmltWEHq-1h8Ut2Ng-afMsJQPBk~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级图形学算法工程师（CAD方向）",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "古墩路",
+          "distance": "",
+          "lid": "ZZyM9cX5tl.search.3",
+          "performance": "",
+          "salaryDesc": "25-50K·15薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "数据结构",
+            "QT",
+            "C++"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "数据结构",
+              "highlight": false
+            },
+            {
+              "content": "QT",
+              "highlight": false
+            },
+            {
+              "content": "C++",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "e3f05f5b3964238d1nZ_3960EFdS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "凌笛数码",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170705/3b60f0fd5d87bbbd02e0290671431ab5e50ffbb4a0c0263bc527ea3aa6da4bd0.jpg",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "骆立康",
+          "bossTitle": "总架构师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171009/e09e156113cd36c74499082ed1a64a76bd6c4df4b9c0f45df27d9b74c230fdfc_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "数据结构",
+            "QT",
+            "C++",
+            "几何"
+          ],
+          "welfares": [],
+          "securityId": "8epsuWxvT7BHc-P15UuDzztfr_QGhcs6qHAzt4KcgicEUXPkt8l_R_Wc_WbtuNZzJ83Xqbg~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "图形学算法工程师（渲染方向）",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "古墩路",
+          "distance": "",
+          "lid": "ZZyM9cX5tl.search.4",
+          "performance": "",
+          "salaryDesc": "30-50K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "渲染技术",
+            "C/C++",
+            "计算机图形学"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "渲染技术",
+              "highlight": false
+            },
+            {
+              "content": "C/C++",
+              "highlight": false
+            },
+            {
+              "content": "计算机图形学",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "8473efed4def45f21nB509y9GVQ~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "凌笛数码",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170705/3b60f0fd5d87bbbd02e0290671431ab5e50ffbb4a0c0263bc527ea3aa6da4bd0.jpg",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "黄宁海",
+          "bossTitle": "CTO",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170913/550a451332be882c124f990c2e13b15c5ca4d7fec5ecb26d3bcf708da4c6dbf8_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "渲染技术",
+            "C/C++",
+            "计算机图形学"
+          ],
+          "welfares": [],
+          "securityId": "w0yn3eMG6RR54-W173E49CYfiE8xNeM_H1bh5TU8wHeFsh78V2MeBBffxB2W5Z1xGD4c6Q~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "WEBGL开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "古墩路",
+          "distance": "",
+          "lid": "ZZyM9cX5tl.search.5",
+          "performance": "",
+          "salaryDesc": "12-24K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "threejs",
+            "webgl",
+            "Javascript"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "threejs",
+              "highlight": false
+            },
+            {
+              "content": "webgl",
+              "highlight": false
+            },
+            {
+              "content": "Javascript",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "638bb3dcd92f4bd91XR-39S_E1Y~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "凌笛数码",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170705/3b60f0fd5d87bbbd02e0290671431ab5e50ffbb4a0c0263bc527ea3aa6da4bd0.jpg",
+          "brandStage": "A轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "黄宁海",
+          "bossTitle": "CTO",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170913/550a451332be882c124f990c2e13b15c5ca4d7fec5ecb26d3bcf708da4c6dbf8_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "threejs",
+            "webgl",
+            "Javascript"
+          ],
+          "welfares": [],
+          "securityId": "afjqsS5IbCL99-F1cu2slKQgmi2UXbBoY6eXaJadchaZOhXZKF8STHMN0QDECTiQrjUz5A~~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

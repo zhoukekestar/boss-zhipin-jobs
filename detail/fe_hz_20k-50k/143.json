@@ -1,0 +1,500 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "7NH7yCVUSQkvm-l1JnWvOR2ipe4T4BMNAlM37jZam_sS4hkvfgW3eS0zEAM4BZSAXzcNcYUC22fAXelLtxiFlgbTPoSSkdPVz_hhQUEOS5A7otXMpzNU53_2Eg7-lJ1NlrSpr5XlbQ~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "4e55264f0dded2cb1n1z09i8FlE~",
+      "bossId": 19985163,
+      "securityId": "Pud5bzXLxsNEM-D1iALJvk_iLUE4kjKIDkx6Ky27I3maEp5yWVXHvr3aH1Q98GRWLTOSBOMu8UR3hzMpSDEFbrMzbj8M",
+      "name": "冯良琦",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20161102/4a9675383cea3159a0cc1fedf991828f8c7dd922ad47494fc02c388e12c00eac_s.jpg",
+      "title": "前端工程师",
+      "activeTimeDesc": "4月内活跃",
+      "activeTime": 1687795933000,
+      "bossOnline": false,
+      "brandName": "熙牛医疗",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 182861463,
+      "encryptJobId": "ded75af5953983821nx409u8FFRT",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端研发工程师",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "五常",
+      "locationDesc": "杭州·余杭区·五常",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 25,
+      "jobDesc": "选择来未来,你会享受到：\n待遇与福利： 双休，社保公积金实缴，上班无打卡，真正的弹性工作制\n有挑战的工作：我们的前端场景足够复杂，无论你是业务方向和工程方向，这里足够有趣味的挑战，满足你所有的好奇心和求知欲\n极大的成长空间: 身边都是牛人，技术和学习的氛围浓厚，定期团队分享\n多元的技术实践机会：不限技术边界，我们有跨端，可视化，云编辑器，node供你选择\n\n岗位职责：\n负责医疗行业相关PC端、移动端产品及数据可视化相关产品的研发；\n解决团队开发中面临的各类问题，提升团队开发效能；\n从客户的反馈、自己的思考、用户的需求出发，进行产品创新性功能的探索、调研和原型开发，并拿到结果。\n1. 拥有两年以上Web前端技术的经验，精通React、Vue两种框架中的至少一种，并有在大型项目中使用的成功经验；\n2. 有良好的项目管理能力和沟通表达能力，能独当一面负责一个大型项目的研发流程管理；\n3. 熟悉至少一门后端语言和拥有较强跨端开发经验的开发者优先；\n4. 以下内容满足其中一项即可\n精通小程序开发，含微信小程序、阿里小程序开发，并有在大型项目中使用的成功经验；\n精通前端数据可视化，并有在大型项目中的成功实践经验；\n有良好的前端工程化经验，大型网站前端架构、前端性能、可访问性、可维护性，Web安全等方面的实践经验；",
+      "requiredSkills": [
+        "Web端",
+        "PC端",
+        "小程序",
+        "前端开发",
+        "React"
+      ],
+      "address": "杭州余杭区中电海康集团基地H栋5、6层",
+      "longitude": 120.014008,
+      "latitude": 30.273957,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/05eede007634fa93eaac392730f68054",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/75bbccf9549d46505430a8c7fcbf6890",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-25K·13薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "5aa9780e096546b01nd809i9Eg~~",
+      "brandName": "熙牛医疗",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190605/86d97f8f5f2ad39e62d3bedf25b15bc0500258b45a8b4c43de1714139b9f02f5_s.jpg",
+      "industryName": "计算机软件",
+      "stageName": "B轮",
+      "scaleName": "100-499人",
+      "brandIntroduce": "熙牛医疗科技（杭州）有限公司，是专注服务智慧医疗与健康信息化的高新技术企业。公司旨在将阿里巴巴的中台架构理念，和先进的技术能力，与医疗健康服务相结合，以实现医疗资源的高效匹配，推动医疗服务质量与效率的提升。同时，借助阿里巴巴资深的运营能力，推进以居民为中心的大健康服务体系的建设与应用。\n公司CEO玄难，作为前阿里事业群副总裁，一手缔造了阿里中台体系，实现了中台架构从理论到实践的落地应用，当前正在积极推进中台体系在医疗健康行业的创新应用。公司拥有员工400多人，在杭州、成都设有研发中心，其核心技术团队均是阿里P8以上，且有多年的医疗、电商和电信行业经验，立志于全面推进医疗健康行业的数字化创新与变革。",
+      "comName": "熙牛医疗科技（浙江）有限公司",
+      "legalPerson": "墙辉",
+      "startDate": "2017-12-21",
+      "regCapital": "3030.303万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市余杭区五常街道爱橙街198号中电海康有限公司海创园区H号楼5层505",
+      "businessScope": "医疗技术、计算机软硬件、云计算软硬件、大数据、物联网技术的技术开发、技术服务、技术咨询、成果转让；数据处理与存储服务，会议服务，经济信息咨询（除商品中介），设计、制作、代理、发布国内广告（除网络）；批发、零售：电子产品（除电子出版物）、通讯设备（除专控）、计算机软件及辅助设备；生产、销售：第二类医疗器械、第三类医疗器械；承接智能楼宇工程、电子与智能化工程、建筑智能化工程（涉及资质凭资质经营），信息系统集成服务，计算机网络系统集成。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "熙牛医疗科技（杭州）有限公司，是专注服务智慧医疗与健康信息化的高新技术企业。公司旨在将阿里巴巴的中台架构理念，和先进的技术能力，与医疗健康服务相结合，以实现医疗资源的高效匹配，推动医疗服务质量与效率的提升。同时，借助阿里巴巴资深的运营能力，推进以居民为中心的大健康服务体系的建设与应用。\n公司CEO玄难，作为前阿里事业群副总裁，一手缔造了阿里中台体系，实现了中台架构从理论到实践的落地应用，当前正在积极推进中台体系在医疗健康行业的创新应用。公司拥有员工400多人，在杭州、成都设有研发中心，其核心技术团队均是阿里P8以上，且有多年的医疗、电商和电信行业经验，立志于全面推进医疗健康行业的数字化创新与变革。",
+      "encryptComId": "67f94709da7c5a110HV83966Eg~~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "测试工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "未来科技城",
+          "distance": "",
+          "lid": "ZVZgbUcXdI.search.1",
+          "performance": "",
+          "salaryDesc": "15-25K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "性能测试",
+            "Java",
+            "分布式技术"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "性能测试",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "2085217cc55f0e3d1nV_3tW9E1JQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "熙牛医疗",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190605/86d97f8f5f2ad39e62d3bedf25b15bc0500258b45a8b4c43de1714139b9f02f5_s.jpg",
+          "brandStage": "B轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "赵佳慧",
+          "bossTitle": "测试工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190308/d12ca214412984cda98221536da6782a8b34df469e5fc0e3fca8f2403102990c_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "性能测试",
+            "Java",
+            "分布式技术",
+            "自动化测试",
+            "接口测试",
+            "web端测试",
+            "白盒测试",
+            "黑盒测试"
+          ],
+          "welfares": [],
+          "securityId": "NfiQAtFLIcXXv-o1sMtIQb9quv6ewJNJJR3rnZwuP0fDFeM0FV-oxvURSDfdH6yfTvTe2Q~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "ZVZgbUcXdI.search.2",
+          "performance": "",
+          "salaryDesc": "12-24K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "前端开发",
+            "WEB开发",
+            "JavaScript"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            },
+            {
+              "content": "WEB开发",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "baeefe28711c76931XZz3tS0FFtT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "熙牛医疗",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190605/86d97f8f5f2ad39e62d3bedf25b15bc0500258b45a8b4c43de1714139b9f02f5_s.jpg",
+          "brandStage": "B轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "张慧云",
+          "bossTitle": "前端工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211003/607f1f3d68754fd0077fcbddf61f23d7ae825354cf73dcdcdea1af56fd71467f1bb27c06f7d710f9_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "前端开发",
+            "WEB开发",
+            "JavaScript",
+            "TypeScript",
+            "HTML",
+            "CSS",
+            "Less",
+            "React"
+          ],
+          "welfares": [],
+          "securityId": "fHBndiAC5mNUN-B1b4vWZycSBybAiGPQRo7Ks9iJW1iOtUoiwKbRYMPJaeFXdWV3ZNVCmihM",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "数据开发(BI方向)",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "ZVZgbUcXdI.search.4",
+          "performance": "",
+          "salaryDesc": "10-15K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "SQL",
+            "FineReport（帆软）",
+            "SmartBI"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "FineReport（帆软）",
+              "highlight": false
+            },
+            {
+              "content": "SmartBI",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "45507fa1919f8a5e1XV_2tS8EldQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "熙牛医疗",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190605/86d97f8f5f2ad39e62d3bedf25b15bc0500258b45a8b4c43de1714139b9f02f5_s.jpg",
+          "brandStage": "B轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "王涛",
+          "bossTitle": "数据开发",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "SQL",
+            "FineReport（帆软）",
+            "SmartBI",
+            "BI",
+            "报表",
+            "指标"
+          ],
+          "welfares": [],
+          "securityId": "ubAZRCXsOwkBU-Z1yo6rPo3lusnisvv5vXfC2HJf0eHBOZuXE1orpQgFzPL-Z0Bn65Z9m0M~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "his交付实施工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "ZVZgbUcXdI.search.5",
+          "performance": "",
+          "salaryDesc": "6-10K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "HIS"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "HIS",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "2d2996ebba237a0a1Xx_3tm7GVtT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "熙牛医疗",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190605/86d97f8f5f2ad39e62d3bedf25b15bc0500258b45a8b4c43de1714139b9f02f5_s.jpg",
+          "brandStage": "B轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "蒋靖男",
+          "bossTitle": "Hr",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230907/607f1f3d68754fd01fedb5e5a682f7c0c8d378ac853eb6197346be6533ee33bb5de82da47875db06_s.jpg.webp",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "HIS"
+          ],
+          "welfares": [],
+          "securityId": "MB_IbSRuWAgVH-b1FHkfGmy9foVqp_lIfVXe-zTL6kMBFEU2gSVDSFvnFuWiqrWVxKfz9Hg~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "JAVA开发工程师(业务平台部）",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "ZVZgbUcXdI.search.6",
+          "performance": "",
+          "salaryDesc": "12-18K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "Java"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "dd72c4da06a496191XB90t6-EldQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "熙牛医疗",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190605/86d97f8f5f2ad39e62d3bedf25b15bc0500258b45a8b4c43de1714139b9f02f5_s.jpg",
+          "brandStage": "B轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "蒋靖男",
+          "bossTitle": "Hr",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230907/607f1f3d68754fd01fedb5e5a682f7c0c8d378ac853eb6197346be6533ee33bb5de82da47875db06_s.jpg.webp",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java"
+          ],
+          "welfares": [],
+          "securityId": "b0IrdVMu-UQ6u-d1QHFZimSVactH-Nx_XkpuEfOuojeqvCY9kJO9FZYi-gydRXIbWHpHt8E~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

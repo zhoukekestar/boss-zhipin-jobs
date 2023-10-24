@@ -1,0 +1,510 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "qcaE1COUWkcgN-k1FZPYS7OSMtAX8VQU5CRa724u-ZrEjWmJ30HZFtXuVnx0-rax3nXQHkPn-q6dNgQ754vwOjIVPza6mALq6DuEcWk3p5GIrVXWNtxp3jkvOpn4rHGXzVlxnSV5cA~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "2836abfbcc0e83380nZ439W_ElpT",
+      "bossId": 522482283,
+      "securityId": "_6rXrmQ2HXP62-U1JENFAA598I4s3l3BVGLYDBCUWZjuS2AAUCDzQ8VZKpkE1gqrGF1EMqyqcwhPVOp9Mbqq9sldgsc4VQ~~",
+      "name": "马央君",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_16.png",
+      "title": "智慧公卫研发部经理",
+      "activeTimeDesc": "本周活跃",
+      "activeTime": 1697860506354,
+      "bossOnline": false,
+      "brandName": "联众智慧",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 147142981,
+      "encryptJobId": "0b6ab6aafb0511381nB92tm_GVpR",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "五常",
+      "locationDesc": "杭州·余杭区·五常",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 11,
+      "highSalary": 21,
+      "jobDesc": "工作内容：\n1.负责公司WEB端、移动端相关产品前端代码实现；\n2.完成关键技术筛选和项目的架构设计、持续优化技术、提高产品用户体验；\n3.持续跟进技术发展，结合业务需求，为团队引入新技术与解决方案，并能定期做技术分享；\n4.配合产品经理和UI设计师，研究并改善用户体验。\n任职要求：\n1.本科及以上学历，计算机、信息技术相关专业；\n2.具有3年以上Web前端开发经验，熟练使用VUE或者React等主流框架,对其中一种有过深入了解；\n3.熟悉组件化和模块化，能根据基建组件开发业务组件；\n4.熟悉工程化，对后端语言有一定了解，代码构建与优化、项目发布与部署有实践经验。",
+      "requiredSkills": [
+        "前端开发",
+        "移动端",
+        "JavaScript",
+        "Vue",
+        ".NET"
+      ],
+      "address": "杭州余杭区奥克斯·创智一号5号楼7层",
+      "longitude": 120.019841,
+      "latitude": 30.286107,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4a7c75e06e34eb33b0fe6b59bea098bd",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eb8139ee9959c06edfdb74cdc76203cd",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "11-21K·14薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "9088ea43ec6fb1621XR53Ny7",
+      "brandName": "联众智慧",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180412/f33e8ecead91d0c7de92bf2384fd6368.png",
+      "industryName": "医疗健康",
+      "stageName": "不需要融资",
+      "scaleName": "1000-9999人",
+      "brandIntroduce": "联众智慧科技股份有限公司是国内领先的医疗卫生行业信息化整体解决方案提供商和服务商。 公司成立于1999 年，总部设立在杭州，公司员工1000余人，全国范围内拥有机构客户3000余家，已先后在北京、上海、江苏、江西、安徽、陕西、吉林、四川、河南、贵州、云南、黑龙江、内蒙古、新疆等地区设立了分支机构，为全国客户提供本地化的产品研发、工程实施、系统集成、售后及运营服务。 \r\n公司长期致力于医疗卫生信息化建设，协助医疗机构以权威的信息化评审为目标，构建全面完善的 HIT 管理体系。同时公司依托于浙江大学计算机学院构建“产学研”一体化技术研发中心，并融合行业及IT技术领域领先企业，基于AI、物联网、云计算、大数据、移动互联等核心技术，以创新的运营模式为各类医疗机构和全民健康提供智慧医疗服务。20年来，研发自主知识产权产品100余个，获得国家、省级及相关行业协会标准认证及奖项 400 多项。\r\n     “用匠心为医者定制有温度的产品、用爱心为患者打造有情感的体验、 用善心为社会构建有无限可能的未来”是我们的使命，联众始终坚持以诚挚的服务、创新的理念、规范的管理、领先的产品促进企业和社会的和谐发展，为推进医疗健康行业的科学化和现代化、呵护人类健康做出积极的贡献！",
+      "comName": "联众智慧科技股份有限公司",
+      "legalPerson": "沈勇",
+      "startDate": "1999-09-06",
+      "regCapital": "10224万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市滨江区滨安路1197号2幢4166室",
+      "businessScope": "医疗器械的销售，医疗卫生系统应用软件、电子通讯技术及其他计算机软硬件开发、销售，计算机网络系统集成，信息咨询服务（期货、金融信息除外），计算机技术培训。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "联众智慧科技股份有限公司是国内领先的医疗卫生行业信息化整体解决方案提供商和服务商。 公司成立于1999 年，总部设立在杭州，公司员工1000余人，全国范围内拥有机构客户3000余家，已先后在北京、上海、江苏、江西、安徽、陕西、吉林、四川、河南、贵州、云南、黑龙江、内蒙古、新疆等地区设立了分支机构，为全国客户提供本地化的产品研发、工程实施、系统集成、售后及运营服务。 \r\n公司长期致力于医疗卫生信息化建设，协助医疗机构以权威的信息化评审为目标，构建全面完善的 HIT 管理体系。同时公司依托于浙江大学计算机学院构建“产学研”一体化技术研发中心，并融合行业及IT技术领域领先企业，基于AI、物联网、云计算、大数据、移动互联等核心技术，以创新的运营模式为各类医疗机构和全民健康提供智慧医疗服务。20年来，研发自主知识产权产品100余个，获得国家、省级及相关行业协会标准认证及奖项 400 多项。\r\n     “用匠心为医者定制有温度的产品、用爱心为患者打造有情感的体验、 用善心为社会构建有无限可能的未来”是我们的使命，联众始终坚持以诚挚的服务、创新的理念、规范的管理、领先的产品促进企业和社会的和谐发展，为推进医疗健康行业的科学化和现代化、呵护人类健康做出积极的贡献！",
+      "encryptComId": "9966aec87cf71e8f1nVy3tu6"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "高级项目经理（医疗行业）",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "ZXMF9k0oBw.search.1",
+          "performance": "",
+          "salaryDesc": "15-30K·14薪",
+          "jobLabels": [
+            "5-10年",
+            "大专",
+            "软件实施"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "软件实施",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "09628f727befa9761XRz2dW8FVVQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "联众智慧",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180412/f33e8ecead91d0c7de92bf2384fd6368.png",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "沈女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180404/c4f0900be98e4a0e9eeec1a44655ec17cfcd208495d565ef66e7dff9f98764da_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "软件实施"
+          ],
+          "welfares": [],
+          "securityId": "asCjzqDfMClYU-615IYZ3WCsyUUYkFkUnoHswkBq4dUfAgdRfmYVGD1AjPhpLBx-IJAR0Uc~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "ZXMF9k0oBw.search.2",
+          "performance": "",
+          "salaryDesc": "10-15K·14薪",
+          "jobLabels": [
+            "3-5年",
+            "大专",
+            "HTML",
+            "CSS",
+            "前端开发"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "HTML",
+              "highlight": false
+            },
+            {
+              "content": "CSS",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "89fa07eb64ea5b8b1XR829q5GVRW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "联众智慧",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180412/f33e8ecead91d0c7de92bf2384fd6368.png",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "王健",
+          "bossTitle": "研发",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211230/607f1f3d68754fd0f41bef9660b87021270088433a4dd1db89cf223862cea69610577c1e0e0df718_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "HTML",
+            "CSS",
+            "前端开发",
+            "React",
+            "GIT",
+            "JavaScript",
+            "AJAX",
+            "Vue"
+          ],
+          "welfares": [],
+          "securityId": "KTEedf6cBJIuA-i1hM8bcTni6JB-yy6GkewNwr2BARhPoCrUV49CVE2VJ1kMjv8NnMU1kRHT",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "ZXMF9k0oBw.search.3",
+          "performance": "",
+          "salaryDesc": "12-16K·14薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "后端工程师",
+            "Java",
+            "Java开发经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Java开发经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "76c0904b071685db1Xxz3N6-GFJU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "联众智慧",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180412/f33e8ecead91d0c7de92bf2384fd6368.png",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "凡琳琳",
+          "bossTitle": "招聘专员",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201022/0d229ec1a119e17ca051d204c7cc565f29e7f182c018026056973ba72418a952_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "Java",
+            "Java开发经验",
+            "医疗软件"
+          ],
+          "welfares": [],
+          "securityId": "tvdk0B_psR1OA--1V9NZCEwzij_WtI72XUfseFC2IhxWeioXnYf0T459pQiR7gL16wmiPbY~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": ".NET",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "ZXMF9k0oBw.search.4",
+          "performance": "",
+          "salaryDesc": "15-25K·15薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "C#",
+            "微服务架构",
+            "Oracle"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "C#",
+              "highlight": false
+            },
+            {
+              "content": "微服务架构",
+              "highlight": false
+            },
+            {
+              "content": "Oracle",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "a97776a1398b21381n1z0tW5FFZX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "联众智慧",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180412/f33e8ecead91d0c7de92bf2384fd6368.png",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "任海通",
+          "bossTitle": "智慧医疗研发部经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210502/da52e82e281d2a1bc5b2576c83a885a432a2c7676ac427690b9904b38a9ab451_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "C#",
+            "微服务架构",
+            "Oracle",
+            "Windows",
+            "高级软件工程师",
+            "EF",
+            ".NET MVC",
+            ".NET Core"
+          ],
+          "welfares": [],
+          "securityId": "KNXBt2ThguNYd-51CRaC01bM-kOsAfJBUdVYH0euysGKXswhmeqstI9Vs_WAzMdQjCkKGZ1K",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "ZXMF9k0oBw.search.5",
+          "performance": "",
+          "salaryDesc": "12-18K·14薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "Vue",
+            "组件封装",
+            "低代码"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Vue",
+              "highlight": false
+            },
+            {
+              "content": "组件封装",
+              "highlight": false
+            },
+            {
+              "content": "低代码",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "6201d1e24034f1661XV90t-4F1NX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "联众智慧",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180412/f33e8ecead91d0c7de92bf2384fd6368.png",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "凡琳琳",
+          "bossTitle": "招聘专员",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201022/0d229ec1a119e17ca051d204c7cc565f29e7f182c018026056973ba72418a952_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Vue",
+            "组件封装",
+            "低代码"
+          ],
+          "welfares": [],
+          "securityId": "so1esEKpdLGnv-Z1oRQ7rggc_i4g99BfYllwpov-1chdMQI26_1bLoO9l8kYr9ZkBdQPc00~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

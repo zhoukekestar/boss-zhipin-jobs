@@ -1,0 +1,291 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "rYUCUHRffV4gX-c1UNvq_hn2MBjDcxZHYZEOi6LZK0Xpz0yZnQ8Vw9yEt3c-9jAIOs4TQLh-MvGHN72-w6Dq9TnvJnThYYiWxA7kohwjO3VFxMU_zhvgWfRZE5XA0rY2bMeB0Nbe_n0~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "4ee59f9822d81c630nR509m5GVU~",
+      "bossId": 50384497,
+      "securityId": "nif5XPbwRewWl-e1wLyONsqatdqjT-pqbqLJGy2yI4YZyTQp_HJgf_pLFmnm1brsxQhRzSQUH7ujEOlvtjjXn6LoNv3K",
+      "name": "曹海霖",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210525/bbe03de43fe33423b75796eec9b934686995c1333bc8da92ad0977a7961411b9_s.png",
+      "title": "人资线-中高级前端",
+      "activeTimeDesc": "今日活跃",
+      "activeTime": 1698109113892,
+      "bossOnline": false,
+      "brandName": "文渊阁科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 298908600,
+      "encryptJobId": "028d3aa82fad31741X1y0t21FlJQ",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端开发",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "拱墅区",
+      "businessDistrict": "城西银泰城",
+      "locationDesc": "杭州·拱墅区·城西银泰城",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 25,
+      "jobDesc": "职位详情：本科以及以上学历，以下第2以及第3条作为核心考察和工作内容。\n0 基础扎实\n1 参与公司核心项目的研发，完成优质的前端代码以及后续的维护\n2 在理解前端开发流程的基础上，优化产品细节，实现高保真的页面制作，交互体验。\n3 关注前端前沿的技术，愿意接受业务以外的学习和调研任务\n\n岗位要求：\n1 熟悉基本前端基础，html+css+js，其中js基础重点考察\n2 熟悉vue框架，了解其原理，并有线上作品可访问。有使用过uni-app开发app上架经验优先考虑。\n3 能独立解决开发中的显示、逻辑问题\n4 工作热情，积极，善于思考，沟通协作能力强\n\n我们的前端团队：团队氛围浓厚，一个成长共建中的团队。\n目前在职7人，后期扩大招聘到10-15人左右。每周有周会，周会内容包括项目同步，技术问题讨论，基础建设规划，自由主题分享。\n\n目前杭州团队和业务初创阶段，有确定的主业务线2条，工具线n条，按照项目开发时间发项目奖金。",
+      "requiredSkills": [
+        "JavaScript",
+        "CSS",
+        "Vue"
+      ],
+      "address": "杭州拱墅区运河财富中心9幢3楼",
+      "longitude": 120.111906,
+      "latitude": 30.309937,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5349cd34ca2f3bb4fa644c1e349c2931",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8fed810e7ee8947adc5beb4df7035ab9",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-25K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "9c435fa4f2fd20091XV909u0Flc~",
+      "brandName": "文渊阁科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230511/7bf6f160950405e9be7934d18c96594ae3937864b198035302ee963aa499e1f33fb751070258a7b6.jpg",
+      "industryName": "互联网",
+      "stageName": "未融资",
+      "scaleName": "100-499人",
+      "brandIntroduce": "四川文渊阁科技有限公司，简称文渊阁科技，隶属于首辅工程设计有限公司，致力于为工程设计提供完善的研发体系，是一家追求高效率高品质服务的工程设计体系研发公司。为建筑企业提供SAAS化系统服务比如（OA、招聘、采购、CRM、项目管理、文书写作）。",
+      "comName": "四川文渊阁科技有限公司",
+      "legalPerson": "徐苏美",
+      "startDate": "2022-04-02",
+      "regCapital": "5000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "四川省德阳市旌阳区龙泉山北路325号",
+      "businessScope": "一般项目：软件开发；网络与信息安全软件开发；互联网销售（除销售需要许可的商品）；云计算装备技术服务；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；打字复印；办公服务；办公设备耗材销售；计算机软硬件及辅助设备零售；软件销售。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）许可项目：第二类增值电信业务。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "四川文渊阁科技有限公司，简称文渊阁科技，隶属于首辅工程设计有限公司，致力于为工程设计提供完善的研发体系，是一家追求高效率高品质服务的工程设计体系研发公司。为建筑企业提供SAAS化系统服务比如（OA、招聘、采购、CRM、项目管理、文书写作）。",
+      "encryptComId": "4d71bfce940cc0ca1HJ42tm-GFc~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "拱墅区",
+          "businessName": "城西银泰城",
+          "distance": "",
+          "lid": "1004xmUM0rg.search.2",
+          "performance": "",
+          "salaryDesc": "15-25K",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "JavaScript",
+            "CSS",
+            "Vue"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "CSS",
+              "highlight": false
+            },
+            {
+              "content": "Vue",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "277d392a5d7ca55e1HV_2ti9FFVU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "文渊阁科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230511/7bf6f160950405e9be7934d18c96594ae3937864b198035302ee963aa499e1f33fb751070258a7b6.jpg",
+          "brandStage": "未融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "徐佳辉",
+          "bossTitle": "前端开发",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript",
+            "CSS",
+            "Vue",
+            "计算机/软件工程相关专业",
+            "前端开发经验",
+            "技术博客/开源项目有所贡献",
+            "不接受居家办公"
+          ],
+          "welfares": [],
+          "securityId": "HCTmKyGsrSrV7-r1pbK1tDnPwOg1IcfxiQ3d2sgl5DLcIjqzjacYxcMTU2F8jndf0UUSYtY~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "1004xmUM0rg.search.3",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "JavaScript",
+            "Vue",
+            "前端开发经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "Vue",
+              "highlight": false
+            },
+            {
+              "content": "前端开发经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "c0c7bb85191ccdc71HV-3tW1ElNR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "文渊阁科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230511/7bf6f160950405e9be7934d18c96594ae3937864b198035302ee963aa499e1f33fb751070258a7b6.jpg",
+          "brandStage": "未融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "黄女士",
+          "bossTitle": "前端工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript",
+            "Vue",
+            "前端开发经验"
+          ],
+          "welfares": [],
+          "securityId": "bgvuQUKHKvny8-q18rCY4Ftk6Z9Zbr7nHb1B8JDsk_Pb6D8xFuUyzF6ftSl2lHHfDavk5eX3",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

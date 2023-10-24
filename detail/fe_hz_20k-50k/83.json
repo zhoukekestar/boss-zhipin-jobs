@@ -1,0 +1,355 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "jYqx_HgSJ4Pez-41OTeK5ezMc2XLvzzE2aibD6lthFzlWB3zbgqjG28q9kdeB3O3O_TgtkrARZmpgQvfBs4Mq-R6wK6bp-OJ_Bwl5tgOAAeNY6QfErlM_N5r1W0518MeYKqEAR16lQ~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "6fdbd8d9bf0adef41XJ629-5E1o~",
+      "bossId": 26002438,
+      "securityId": "skfzU6Xh8Q52P-c1oEm63QcBz06knYLNjjnup-jMPhk63M5HFVGXkToy0DKxtHfH4WZW431p0EbI8tSBkKh0cDDTO98~",
+      "name": "Brown",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190216/fb57ea247e3170470c162ef5de3de1e4f3153e456965d737977357b8a24a4123_s.jpg",
+      "title": "招聘者",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1626851808000,
+      "bossOnline": false,
+      "brandName": "吉利集团的蓝科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 21015556,
+      "encryptJobId": "225e5d5ac2d55ac51XV62ti4FVQ~",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "高级前端开发",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": null,
+      "businessDistrict": null,
+      "locationDesc": "杭州",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 12,
+      "highSalary": 24,
+      "jobDesc": "岗位职责：\n1、负责移动端H5以及后台管理系统组件化开发；\n2、能够独立完成系统设计、模块设计和开发工作，同时注重程序的安全、质量和性能；\n3、负责web前端功能开发和重构，保持高效的前端性能，优秀的代码可维护性，良好的浏览器兼容性。\n任职要求：\n1、计算机及相关专业本科及以上学历，5年以上web前端开发经验；\n2、熟练掌握前端相关技术(HTML/CSS/JavaScript/HTML5/CSS3...)，了解http协议以及相关开发调试工具；\n3、熟练掌握一个前端框架（React, Angular2, Vue, …）；\n4、对web服务器端开发（nodejs、java）有一定的了解和实践, 对web系统安全有一定的了解；\n5、良好软件工程思想，良好的编程能力和编程习惯；\n6、工作认真负责，乐观开朗，善于团队合作；\n7、有较强的逻辑分析、问题排查能力；\n8、具有很强的学习能力和对新技术的追求精神。",
+      "requiredSkills": [
+        "Javascript",
+        "JS",
+        "HTML/CSS"
+      ],
+      "address": null,
+      "longitude": 0,
+      "latitude": 0,
+      "staticMapUrl": "",
+      "pcStaticMapUrl": "",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "12-24K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "38f33dc4ec6e3fb51nx-3NW1FFo~",
+      "brandName": "吉利集团的蓝科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+      "industryName": "移动互联网",
+      "stageName": "",
+      "scaleName": "100-499人",
+      "brandIntroduce": "",
+      "comName": "杭州闪布科技有限公司",
+      "legalPerson": "张振杰",
+      "startDate": "2016-04-01",
+      "regCapital": "4086万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市滨江区西兴街道江陵路1760号1号楼611室",
+      "businessScope": "一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；人力资源服务（不含职业中介活动、劳务派遣服务）；软件开发；广告制作；广告设计、代理；软件销售；电子产品销售；信息技术咨询服务；广告发布（非广播电台、电视台、报刊出版单位）；会议及展览服务（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：基础电信业务；第一类增值电信业务；第二类增值电信业务（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "",
+      "encryptComId": "c8132b6704287a671XR_3ti6FVc~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "高级运维工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": null,
+          "businessName": null,
+          "distance": "",
+          "lid": "101Ok50nwgI.search.1",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "系统运维",
+            "运维",
+            "运维开发"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "系统运维",
+              "highlight": false
+            },
+            {
+              "content": "运维",
+              "highlight": false
+            },
+            {
+              "content": "运维开发",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "076b43f1b8bfcbb91XRz3N61FlI~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "吉利集团的蓝科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+          "brandStage": "",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "Brown",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190216/fb57ea247e3170470c162ef5de3de1e4f3153e456965d737977357b8a24a4123_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "系统运维",
+            "运维",
+            "运维开发"
+          ],
+          "welfares": [],
+          "securityId": "rmuTEp44hvUOh-t10MNoiRsXA72ufnv_iBZsDZ0mgS5jzg7ofwtIj1kc-feUU9g-OdBNmw~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级JAVA开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "西兴",
+          "distance": "",
+          "lid": "101Ok50nwgI.search.3",
+          "performance": "",
+          "salaryDesc": "20-40K",
+          "jobLabels": [
+            "5-10年",
+            "大专",
+            "搜索算法",
+            "Java"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "搜索算法",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "d841d89754ed5cd51nd93Ni-Flo~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "吉利集团的蓝科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+          "brandStage": "",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "王飞",
+          "bossTitle": "技术总监",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170327/e6d8d282825e93c48eeeb9d23f14064a4283b2fb893479543a657eb723e37f7a_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "搜索算法",
+            "Java"
+          ],
+          "welfares": [],
+          "securityId": "MLN4OO0M8O_gS-v1jWMKJuxjDKJcjtVISXyIiPTnrqA308kZLBmN8mlNdH6Ke9EuV3XKaQ~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级Java/资深Java/技术专家",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": null,
+          "businessName": null,
+          "distance": "",
+          "lid": "101Ok50nwgI.search.4",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "系统架构",
+            "后端开发",
+            "中间件"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "系统架构",
+              "highlight": false
+            },
+            {
+              "content": "后端开发",
+              "highlight": false
+            },
+            {
+              "content": "中间件",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "af9ccc3cc3e71d271XRy2du6ElM~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "吉利集团的蓝科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+          "brandStage": "",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "Brown",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190216/fb57ea247e3170470c162ef5de3de1e4f3153e456965d737977357b8a24a4123_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "系统架构",
+            "后端开发",
+            "中间件"
+          ],
+          "welfares": [],
+          "securityId": "EC4lKe6lJBhAI-11hE6rIUTPkECSmOqODhclXNUzBbZEuOhWYVcbvhCelmtMrhwQvSO44g~~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

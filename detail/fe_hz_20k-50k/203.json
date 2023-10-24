@@ -1,0 +1,519 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "TBceUBfs4c5xP-f1T8l110fupv1k2UIlGKi3FluhYMBjoS8RgEqWa6w1i163SKUTeMQoK65mpMZte1bBeQjtWKZwKh0r6ik6yozjt8Le6r3ur4OQpAV90A7XYBy_P_7i-XPpNbRSOg~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "345202d51068dcd01HF62dm4GVc~",
+      "bossId": 35024595,
+      "securityId": "ghDTSkgH35sBf-e1KT_Z-hjkWhXYfyl-blhMR9p_UXHxrR5k63s9PompBHpza3RuD3gNxSiqziC9YrXDMFwfHXyyb-O8",
+      "name": "魏冬冬",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+      "title": "前端",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1616035612000,
+      "bossOnline": false,
+      "brandName": "乌鸫科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 107977149,
+      "encryptJobId": "3583d7979916f2831nR90tq6EVZZ",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "五常",
+      "locationDesc": "杭州·余杭区·五常",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 20,
+      "highSalary": 40,
+      "jobDesc": "我们是来自阿里巴巴集团数据技术及产品部（DT）的数据平台技术团队。\n\n作为阿里巴巴的数据中台，DT 负责了阿里集团统一的大数据平台，不仅为阿里集团内外几乎所有核心业务线的小二、商家、合作伙伴、社会大众，而且积极响应国家大数据战略，围绕政企客户，思考智能数据解决方案，为其提供全年无休的7*24小时稳定、高效、可靠的大数据解决方案服务！\n\n而未来，我们着眼于未来5-10年的发展远景，结合国家大数据战略思考大数据商业化，致力于对大数据基础建设有需求者、对大数据应用创新有供求者、对企业及产业变革有想法和行动者，顶层设计充分思考云计算+大数据+人工智能：思考基于公有云和专有云云计算，基于阿里集团实战成功经验，联合阿里集团数据中台力量，思考如何将数据中台力量行业化、升级其产品技术赋能政企客户。\n\n在摸爬滚打多年成功治理了阿里巴巴集团超过 EB 级（1EB = 1024 PB）数据之后，我们正在把阿里巴巴的大数据处理经验封装为成熟的解决方案，直接赋能给亟需大数据能力的大型企业、政府机关等。\n\n因此，当你参与到这款产品的开发过程中时，你不仅仅是在写代码做需求，更是在学习阿里巴巴许多大数据专家经过多年沉淀下来的宝贵经验。\n\n关于前端团队\n我们大概是国内最早一批接触并坚定使用 React （2014 年中）和 Redux（2015 年中）技术栈的团队，我们见证了 React 从 0.10.0 到 16.22.0 的进步，也经历了 React Router 升级重构的阵痛（你懂的）。\n\n无论怎样，我们坚定的认同 React + Redux 带来的 predictability 以及生态的给力发展。\n\n除了最新最爽的技术栈，我们还是开源社区的坚定拥趸：recharts、You Dont Need jQuery、pont……\n\n如果你的代码中添加过这些依赖，背后就有我们团队同学的默默付出。\n\n说了这么多，可能你对本职位的要求还有一些疑问，下面是我们希望你具有的能力：\n\n无硬性工作年龄限制，精通各种 Web 前端技术和标准，熟练掌握 ES2015 语法；\n\n至少掌握React、Vue等一种主流框架，能独立开发高质量组件；\n\n熟悉SVG、Canvas等前端绘图技术，有大数据可视化开发经验优先考虑；\n\n主动、皮实、聪明、担当，有良好的沟通和团队协作能力，持续推动拿结果；\n\n喜欢钻研技术，能够快速掌握和应用新技术，有开源项目贡献经验优先考虑。\n\n关于工作地址\n工作地址：杭州，北京，可选\n\n这是一次非常难得的机会，用最酷的技术一起来打造顶尖的产品",
+      "requiredSkills": [
+        "前端开发",
+        "HTML",
+        "React",
+        "云计算",
+        "大数据",
+        "人工智能",
+        "Node.js",
+        "TypeScript"
+      ],
+      "address": "杭州余杭区阿里巴巴西溪园区7幢5楼",
+      "longitude": 120.026022,
+      "latitude": 30.279033,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b59cd0df21d1485e7bce6705c858d639",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dbe513993eb41321d1b97886af5456ca",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-40K·16薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "99d5004b33c2f2150XF43t28EQ~~",
+      "brandName": "乌鸫科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201201/c5b69cef4f3702ccbe1491923ff29002ef1ffb34fa6e88a8631d7a2798ca2646_s.jpg",
+      "industryName": "计算机软件",
+      "stageName": "不需要融资",
+      "scaleName": "1000-9999人",
+      "brandIntroduce": "乌鸫科技，是阿里全资子公司，专注于提供政企数字化转型的产品、解决方案和服务。 依托新基建，助力政府和企业在数字经济时代实现跨越。",
+      "comName": "杭州乌鸫科技有限公司",
+      "legalPerson": "鄢学鵾",
+      "startDate": "2019-08-20",
+      "regCapital": "1000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市余杭区五常街道文一西路969号3幢5层565室",
+      "businessScope": "货物及技术进出口（法律、行政法规禁止经营的项目除外，法律、行政法规限制经验的项目取得许可证后方可经营）；技术开发、技术咨询、技术成果转让：网络平台、电子商务平台技术、计算机软硬件、网络技术产品、多媒体产品；服务：系统集成的设计、调试及维护；提供计算机技术咨询、服务、电子商务平台支持；企业管理咨询，经济信息咨询（除证券、期货）；销售自身开发的产品。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "乌鸫科技，是阿里全资子公司，专注于提供政企数字化转型的产品、解决方案和服务。 依托新基建，助力政府和企业在数字经济时代实现跨越。",
+      "encryptComId": "fc4f4f512f74ee861XV509-1F1s~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "乌鸫科技-高级Java开发工程师-AER",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZQlWkYxLDl.search.1",
+          "performance": "",
+          "salaryDesc": "13-23K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "后端工程师",
+            "Java"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "d9c28588656d6c401HRz3dS0EFFX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "乌鸫科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201201/c5b69cef4f3702ccbe1491923ff29002ef1ffb34fa6e88a8631d7a2798ca2646_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "蔡宛彤",
+          "bossTitle": "招聘顾问",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230619/607f1f3d68754fd04f4fb0c8341be36bbedd0b4d9cbf2eb6bd5ca382b4f9d823405476125260d40a_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "Java"
+          ],
+          "welfares": [],
+          "securityId": "ScgMgeookAkhl-Q1Xt_cX_4g988zXz8XCDVPUj8g8flfSUQaEm2dxfrwIrfinEtfc85RIgwI",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "运维工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "三墩",
+          "distance": "",
+          "lid": "ZQlWkYxLDl.search.2",
+          "performance": "",
+          "salaryDesc": "15-25K·13薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "计算机相关专业",
+            "运维经验",
+            "大数据运维经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "计算机相关专业",
+              "highlight": false
+            },
+            {
+              "content": "运维经验",
+              "highlight": false
+            },
+            {
+              "content": "大数据运维经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "8c81c72ed2e7770b1X1z0ti0EVVT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "乌鸫科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201201/c5b69cef4f3702ccbe1491923ff29002ef1ffb34fa6e88a8631d7a2798ca2646_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "刘红亮",
+          "bossTitle": "运维工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190624/e586f1a2819eab3bae583965d38fc109a4a9c3d3fb24e8cd722f9dcbdc4dbcf6_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "计算机相关专业",
+            "运维经验",
+            "大数据运维经验"
+          ],
+          "welfares": [],
+          "securityId": "f2vBltEcqyKdI-a1ZYGb-sAu02oiG74ib2VjiGyFdv_eRSf2LqZm83zwPI3ykw0sDpl5KPs~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "乌鸫科技-java开发工程师-智能引擎",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "ZQlWkYxLDl.search.3",
+          "performance": "",
+          "salaryDesc": "14-25K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Java开发经验",
+            "Java",
+            "留学生优先"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java开发经验",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "留学生优先",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "8c8dc508f4f470db1X193929F1VW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "乌鸫科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201201/c5b69cef4f3702ccbe1491923ff29002ef1ffb34fa6e88a8631d7a2798ca2646_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "金女士",
+          "bossTitle": "HR.招聘专员",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": {
+            "listingOnline": {
+              "onlineImgUrl": "https://img.bosszhipin.com/beijin/mcs/banner/a403e91441cbb05c6894e9f5593291fdcfcd208495d565ef66e7dff9f98764da.png",
+              "widthPx": 132,
+              "heightPx": 51
+            },
+            "detailOnline": {
+              "onlineImgUrl": "https://img.bosszhipin.com/beijin/mcs/banner/a403e91441cbb05c6894e9f5593291fdcfcd208495d565ef66e7dff9f98764da.png",
+              "widthPx": 132,
+              "heightPx": 51
+            }
+          },
+          "proxyJob": 0,
+          "skills": [
+            "Java开发经验",
+            "Java",
+            "留学生优先",
+            "分布式系统开发经验",
+            "中大型项目架构设计经验",
+            "多线程",
+            "Redis",
+            "后端工程师",
+            "Spring"
+          ],
+          "welfares": [],
+          "securityId": "wZN8zkzE8fU3M-11rChbaY5Ymm2EDX9ajBAFMlnqZTzszzFcozN-PCNFqLZ5fdlg3bebNuna48V4-_Edluz8KpCVlMoxp_3YLxV8NWzOshvU",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "阿里乌鸫科技-前端工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "未来科技城",
+          "distance": "",
+          "lid": "ZQlWkYxLDl.search.4",
+          "performance": "",
+          "salaryDesc": "20-40K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "前端开发",
+            "web前端",
+            "javascript"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            },
+            {
+              "content": "web前端",
+              "highlight": false
+            },
+            {
+              "content": "javascript",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "79a875a2cd19f9761nV829i8FFtQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "乌鸫科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201201/c5b69cef4f3702ccbe1491923ff29002ef1ffb34fa6e88a8631d7a2798ca2646_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "周翰南",
+          "bossTitle": "前端工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "前端开发",
+            "web前端",
+            "javascript"
+          ],
+          "welfares": [],
+          "securityId": "d7gKv4T3QX2qP-s1ziRa3TcU0mOlwxTnqX0s994UkDZlgnPQw3XnWz_DhuhP9bKGxBWUEqc~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "交付经理",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "ZQlWkYxLDl.search.5",
+          "performance": "",
+          "salaryDesc": "20-40K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "微服务架构",
+            "容器技术"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "微服务架构",
+              "highlight": false
+            },
+            {
+              "content": "容器技术",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "c577d0c73a43320e1XZz2NW6E1tQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "乌鸫科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201201/c5b69cef4f3702ccbe1491923ff29002ef1ffb34fa6e88a8631d7a2798ca2646_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "顾嘉伟",
+          "bossTitle": "上海团队技术",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160904/bfe39702b3e926ae267300285a578afb8c7dd922ad47494fc02c388e12c00eac_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "微服务架构",
+            "容器技术"
+          ],
+          "welfares": [],
+          "securityId": "NWdChQMbl4ZvK-J1rCwuh1_XYpPgFI7k7ujYA2HaPrNH0TeDjhqJS7ZKa-cRMyCNA9bTTR0~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

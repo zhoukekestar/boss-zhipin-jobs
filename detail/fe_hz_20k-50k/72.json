@@ -1,0 +1,273 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "3AWNcY9Y-FrVb-n1pK4O5k_MymDlrVByXuuF7V1ZzAX8RHgBcKDZirAAFByzC6R2q4Szp7ePzjqDTXMsp7KGxJdM53vA4ITsayFnvumKUHXrwzmGbA4uuO37ZU61W9AzKDbqS0Lz",
+    "bossBaseInfoVO": {
+      "encryptBossId": "81492c8cad51334a0nB_2NS0F1Y~",
+      "bossId": 54539974,
+      "securityId": "9F0DKb-vJtA5Q-B1g2FMlUmpUtIFrQt8xcXsx64odFINogQjxWhxOTbUwj-6XqreqGs4gHSxInMQdE8kR_wVqcwczLA~",
+      "name": "卢博",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200713/abc552c488ef1f6d1b77826bfa8fc83530a7964d6fa388cf9b754a15d6288137_s.jpg",
+      "title": "产品经理",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1595239542000,
+      "bossOnline": false,
+      "brandName": "志永文化创意",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 78999041,
+      "encryptJobId": "fdaa5195bfc4a1160Hxz0tS9FFM~",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": null,
+      "businessDistrict": null,
+      "locationDesc": "杭州",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 30,
+      "jobDesc": "1、负责公司软件产品开发和优化工作。\n3、熟悉跨平台多端开发\n岗位要求：\n1、熟悉React框架。\n2、有跨平台多端开发经验。",
+      "requiredSkills": [
+        "前端开发"
+      ],
+      "address": "杭州富阳区富春硅谷1幢1102",
+      "longitude": 119.986272,
+      "latitude": 30.144544,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6d3e3830fb6fc7816a60fa0b217aac96",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c45a7b3bd5fd1bc54d07a7bebfcdeaf4",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-30K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "d6596a446e60f2940nZ509u5EQ~~",
+      "brandName": "志永文化创意",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190727/072ce8e1bf1a77620f87ef78a30e93d753adef671386b593bc055bad42375f8d.png",
+      "industryName": "培训机构",
+      "stageName": "不需要融资",
+      "scaleName": "0-20人",
+      "brandIntroduce": "公司成立于2014年6月6日；杭州分区位于浙江省杭州市西湖区转塘街道万美商务中心五号楼三楼301-308室，是一家专注于2-14岁孩子健康的运动综合馆，借助各种道具的合理组合，将运动效果达到最后大化，从而达到强身健体、促进身体发育以及促进智力升涨的效果。\n  TOP KIDS为知名青少儿运动品牌，现营数十家青少儿运动综合体，拥有百余人专业教练团队，专注青少儿运动十余年，只为给孩子们带有来更加专业、科学、合理的课程设置。",
+      "comName": "杭州志永文化创意有限公司",
+      "legalPerson": "张洁",
+      "startDate": "2016-12-05",
+      "regCapital": "100万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市西湖区转塘街道霞鸣街199号万美商务中心5号楼301室、302室、303室、305室、306室、307室、308室",
+      "businessScope": "服务：文化创意，文化艺术品设计，雕塑、景观、平面广告的设计、施工（涉及资质的凭资质经营）；绘画培训，少儿体能培训。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "公司成立于2014年6月6日；杭州分区位于浙江省杭州市西湖区转塘街道万美商务中心五号楼三楼301-308室，是一家专注于2-14岁孩子健康的运动综合馆，借助各种道具的合理组合，将运动效果达到最后大化，从而达到强身健体、促进身体发育以及促进智力升涨的效果。\n  TOP KIDS为知名青少儿运动品牌，现营数十家青少儿运动综合体，拥有百余人专业教练团队，专注青少儿运动十余年，只为给孩子们带有来更加专业、科学、合理的课程设置。",
+      "encryptComId": "f17ae782453e8b0e1nR72dq-EFE~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "Android、ios开发",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": null,
+          "businessName": null,
+          "distance": "",
+          "lid": "1035n8DFa37.search.2",
+          "performance": "",
+          "salaryDesc": "10-15K",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "IOS",
+            "Android"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "IOS",
+              "highlight": false
+            },
+            {
+              "content": "Android",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "4c9f868f11616a8933R-2dq0ElY~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "志永文化创意",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190727/072ce8e1bf1a77620f87ef78a30e93d753adef671386b593bc055bad42375f8d.png",
+          "brandStage": "不需要融资",
+          "brandScale": "0-20人",
+          "comName": null,
+          "bossName": "卢博",
+          "bossTitle": "产品经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200713/abc552c488ef1f6d1b77826bfa8fc83530a7964d6fa388cf9b754a15d6288137_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "IOS",
+            "Android"
+          ],
+          "welfares": [],
+          "securityId": "iT5XvFyal2b2O-y1ETBB0Z7sj9NRYg_2iSd1VXTGXXkwmfSGmcZA-hR9cko1dloG6uKbYw~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Android、iOS客户端开发",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": null,
+          "businessName": null,
+          "distance": "",
+          "lid": "1035n8DFa37.search.3",
+          "performance": "",
+          "salaryDesc": "10-15K",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "Android",
+            "IOS"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Android",
+              "highlight": false
+            },
+            {
+              "content": "IOS",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "7f8973556da25cc433R-2dq1EVE~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "志永文化创意",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190727/072ce8e1bf1a77620f87ef78a30e93d753adef671386b593bc055bad42375f8d.png",
+          "brandStage": "不需要融资",
+          "brandScale": "0-20人",
+          "comName": null,
+          "bossName": "卢博",
+          "bossTitle": "产品经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200713/abc552c488ef1f6d1b77826bfa8fc83530a7964d6fa388cf9b754a15d6288137_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Android",
+            "IOS"
+          ],
+          "welfares": [],
+          "securityId": "8pME2Fim0g8si-C1DobIs6CW0herjI94cuWjySZDAj7eWrXhCGKCUH2ThKEdxD082CY-og~~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

@@ -1,0 +1,523 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "YEFFj7Sl0Wbq_-c1gWADfxleg5DccaGB-fbUe7jZ8baBchrm5Vshl9wEkjH_9HZXS8xSrtPFPjDYZaYXBr8XR80b1Qq2m6wbB6BariHCVQcWU8vvV3wB9jfWWDee9E65MnRHnn2BEw~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "1f76e4e118c780bc0XJ-2ti_Elc~",
+      "bossId": 66415225,
+      "securityId": "vKK7zrpqmg8os-d1Zl0trWWNrqEb-zE-OuDzfxWvWqiCfa3XpQi-RVFoeMqAUIIZ8UoxbEI22aX3wGl_-RlhQ9W5pofZ",
+      "name": "陶菲",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190620/e2d93547efb86cd0df25371286efac5e20886fed8af78220a70a9aa7a457c586_s.png",
+      "title": "前端开发",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1680793556000,
+      "bossOnline": false,
+      "brandName": "来未来",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 182468078,
+      "encryptJobId": "064d802f701070f01nx439u1EFVY",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "五常",
+      "locationDesc": "杭州·余杭区·五常",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "lowSalary": 11,
+      "highSalary": 22,
+      "jobDesc": "选择来未来,你会享受到：\n1.待遇与福利： 双休，社保公积金实缴，16薪，上班无打卡，真正的弹性工作制\n2.有挑战的工作：我们的前端场景足够复杂，无论你是业务方向和工程方向，这里足够有趣味的挑战，满足你所有的好奇心和求知欲\n3.极大的成长空间: 身边都是牛人，技术和学习的氛围浓厚，定期团队分享\n4.多元的技术实践机会：不限技术边界，我们有跨端，可视化，云编辑器，node供你选择\n\n岗位职责：\n1.负责医疗行业相关业务PC端开发，与UED、后台工程师协作，完成设计交2.互实现、数据交互、动态信息展现；\n3.负责医疗行业相关移动端产品及数据可视化相关产品的研发；\n4.关注用户体验，与合作方一起不断改进产品的易用性\n\n职位要求：\n1.有良好的前端基础知识：HTML，CSS，JavaScript；\n2.具备MVVM框架开发经验，如React、VueJS、AngularJS等；\n3.良好的沟通和团队协作能力、责任心强；\n4.拥有医疗行业开发经验的开发者优先；\n5.具备大型网站前端架构、工程化、前端性能、可访问性、可维护性，Web安全等方面的实践经验者优先；\n6.关注业界新技术，保持好奇心，有持续自我学习的习惯；",
+      "requiredSkills": [
+        "PC端",
+        "JavaScript",
+        "TypeScript",
+        "Vue",
+        "React"
+      ],
+      "address": "杭州余杭区来未来科技(浙江)有限公司5楼",
+      "longitude": 120.014952,
+      "latitude": 30.275186,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ef86e48b0c7c5a5f0747b5175a4feac9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/42997ebdab72381874c8388374dc0bc5",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "11-22K·16薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "a1db6ef0f15636120HVz3tq-GQ~~",
+      "brandName": "来未来",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200802/e5ca30bf1d1a0b587463d0ae7fa790db10cc30fb651a4cf3534c952a8c783664_s.jpg",
+      "industryName": "计算机软件",
+      "stageName": "B轮",
+      "scaleName": "500-999人",
+      "brandIntroduce": "来未来科技（浙江）有限公司和熙牛医疗科技（浙江）有限公司是聚焦于医疗健康行业数字化业务创新的公司，我们旨在整合云计算、大数据、人工智能、物联网等新技术能力，结合医疗卫生行业发展诉求，基于数据、业务双中台方法论构建新一代医疗数字化解决方案及生态体系，为卫健委、医院、医生、患者和健康人群提供智能化医疗健康产品和服务，引领医疗健康行业数字化技术与业务创新。",
+      "comName": "来未来科技（浙江）有限公司",
+      "legalPerson": "墙辉",
+      "startDate": "2020-01-13",
+      "regCapital": "2428.8724万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市余杭区五常街道爱橙街198号中电海康集团有限公司海创园区H号楼5层501",
+      "businessScope": "一般项目：软件开发；人工智能基础软件开发；人工智能应用软件开发；网络与信息安全软件开发；人工智能理论与算法软件开发；软件外包服务；数据处理和存储支持服务；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；信息系统集成服务；广告设计、制作、代理；广告发布（非广播电台、电视台、报刊出版单位）；信息技术咨询服务；信息咨询服务（不含许可类信息咨询服务）；安全咨询服务；市场营销策划；计算机软硬件及辅助设备批发；电子元器件批发（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "来未来科技（浙江）有限公司和熙牛医疗科技（浙江）有限公司是聚焦于医疗健康行业数字化业务创新的公司，我们旨在整合云计算、大数据、人工智能、物联网等新技术能力，结合医疗卫生行业发展诉求，基于数据、业务双中台方法论构建新一代医疗数字化解决方案及生态体系，为卫健委、医院、医生、患者和健康人群提供智能化医疗健康产品和服务，引领医疗健康行业数字化技术与业务创新。",
+      "encryptComId": "ed695943a3b06d8c1Xd63N--FlQ~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "Java",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "ZWwPf80K7L.search.1",
+          "performance": "",
+          "salaryDesc": "15-20K·14薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "服务器端开发",
+            "微服务架构",
+            "分布式技术"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "服务器端开发",
+              "highlight": false
+            },
+            {
+              "content": "微服务架构",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "2ef3f7212c0f79cb1n183di5EVVT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "来未来",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200802/e5ca30bf1d1a0b587463d0ae7fa790db10cc30fb651a4cf3534c952a8c783664_s.jpg",
+          "brandStage": "B轮",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "杨先生",
+          "bossTitle": "服务端开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20161102/af89e6a9f6dc72e9d3d9672206f166942c8a7c30c904b797449b84556d0b231e_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "服务器端开发",
+            "微服务架构",
+            "分布式技术",
+            "Spring",
+            "SpringBoot",
+            "MySQL",
+            "软件工程师"
+          ],
+          "welfares": [],
+          "securityId": "-JZelU9ySwB2Q-A1orT0uVdQzDlzsqGg7_yHLrQdh3gcXJvaTsDdhC46qby8SOVVFDUUTys~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java开发工程师（区域平台）",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "ZWwPf80K7L.search.2",
+          "performance": "",
+          "salaryDesc": "15-20K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "后端工程师",
+            "Java",
+            "Spring"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "38a1ae37ca5989fc1Xx52dq1F1JQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "来未来",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200802/e5ca30bf1d1a0b587463d0ae7fa790db10cc30fb651a4cf3534c952a8c783664_s.jpg",
+          "brandStage": "B轮",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "葛立海",
+          "bossTitle": "资深开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "Java",
+            "Spring",
+            "MySQL"
+          ],
+          "welfares": [],
+          "securityId": "Xqu8Eowz23Fu1-C1SVDLlinQmUVpOCiUHbwRzR60KtVvIWP3X8lJ36PGPyhZLaxZKToxBw8~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "数据交付-数仓开发",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZWwPf80K7L.search.3",
+          "performance": "",
+          "salaryDesc": "10-15K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "SQL",
+            "Power BI",
+            "大数据开发经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "Power BI",
+              "highlight": false
+            },
+            {
+              "content": "大数据开发经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "7e5adb74478145001HV_39i7GVpQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "来未来",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200802/e5ca30bf1d1a0b587463d0ae7fa790db10cc30fb651a4cf3534c952a8c783664_s.jpg",
+          "brandStage": "B轮",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "吴西",
+          "bossTitle": "数据开发",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "SQL",
+            "Power BI",
+            "大数据开发经验",
+            "ETL设计/开发经验",
+            "BI项目开发经验"
+          ],
+          "welfares": [],
+          "securityId": "POUlAstm4dO6I-01P5eooGppiuk03UthhD3q3grFyDQya2bOs83pfzu4fwmOXkDjAJ8kFis~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "ZWwPf80K7L.search.4",
+          "performance": "",
+          "salaryDesc": "10-15K·16薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "SpringBoot",
+            "Dubbo",
+            "MySQL"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "SpringBoot",
+              "highlight": false
+            },
+            {
+              "content": "Dubbo",
+              "highlight": false
+            },
+            {
+              "content": "MySQL",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "10795cba71990e061n170tW0FFNU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "来未来",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200802/e5ca30bf1d1a0b587463d0ae7fa790db10cc30fb651a4cf3534c952a8c783664_s.jpg",
+          "brandStage": "B轮",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "闫龙飞",
+          "bossTitle": "java工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201221/71c01434018c1d872194ec5b85f1cee22c458e167ec050c62a7fff8da019b609_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "SpringBoot",
+            "Dubbo",
+            "MySQL",
+            "后端开发",
+            "Linux",
+            "软件工程师"
+          ],
+          "welfares": [],
+          "securityId": "xcgnWMNcBAC86-X1uONgVuSQOkY5RSw_jbitIjwUdzTPwf3CgbcplTI0S3wrOxEpWXzQ3bE~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "ZWwPf80K7L.search.5",
+          "performance": "",
+          "salaryDesc": "10-15K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "分布式技术",
+            "微服务架构",
+            "消息队列"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "微服务架构",
+              "highlight": false
+            },
+            {
+              "content": "消息队列",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "a84ab23635c71f4c1nVz39W4FVpW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "来未来",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200802/e5ca30bf1d1a0b587463d0ae7fa790db10cc30fb651a4cf3534c952a8c783664_s.jpg",
+          "brandStage": "B轮",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "胡杰",
+          "bossTitle": "java开发",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_16.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "分布式技术",
+            "微服务架构",
+            "消息队列",
+            "容器技术",
+            "多线程"
+          ],
+          "welfares": [],
+          "securityId": "uga8xO6e5yDho-u10A8adLcG6wzsrQkEiAez2izS0Cd_fj9xCJt5sX_3bPKfepUsV8sLKhio",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

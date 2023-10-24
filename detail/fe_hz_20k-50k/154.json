@@ -1,0 +1,498 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "woPj-v7g3Zbhj-21anW1hqRdBBSncvWBr6Z1WSw_gCgp6mLQ8DdNVXv27pR9aTIV4ev2Ae935kx7gt976_nts9Wswoj_rIH-4_UXoInkHGYqgr5LBOsEiyA7hIfkNSr0mJQcrF48JQ~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "071a1a41ac2ab1c91XN70tS5E1Q~",
+      "bossId": 27199436,
+      "securityId": "zmmUbRYlMx3ol-H1kwO3VH_mDdt5u4_65OA8okNHyLZuJaDXHh9b2QgjGWboG4V7FqfpNS3v46WU_KPg_pMSSI9hkn0j",
+      "name": "徐女士",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211210/607f1f3d68754fd0036d28d36e33ab83422130eae20bbdf34b48b83e5d01594a7a049b02d81e12eb_s.png",
+      "title": "Hr",
+      "activeTimeDesc": "刚刚活跃",
+      "activeTime": 1698112762564,
+      "bossOnline": false,
+      "brandName": "理想连线",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 261174164,
+      "encryptJobId": "36315a824d52a6b41XJ72tq5EVRU",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "中高级前端开发",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "三墩",
+      "locationDesc": "杭州·西湖区·三墩",
+      "experienceName": "5-10年",
+      "degreeName": "本科",
+      "lowSalary": 18,
+      "highSalary": 30,
+      "jobDesc": "岗位职责：\n1、参与产品需求评审，高质量完成开发任务，解决日常线上问题；\n2、与设计团队、后端开发团队紧密配合，确保有效对接；\n3、页面开发通过标准校验，兼容各主流浏览器；\n4、负责web组件的设计与开发；\n5、负责web前端的系统架构、开发设计、分析及优化。\n岗位要求：\n1、全日制本科及以上学历，6年以上相关工作经验，精通 react +redux；有webrtc和IM相关开发经验 ，熟悉Websocket协议优先；\n2、对网页布局有相当的设计、规划能力，能准确把握网站页面的整体风格和色彩的设计；\n3、熟悉模块化、前端编译和构建工具，熟练运用主流的移动端JS库和开发框架，并深入理解其设计原理，例如：ReactJS、Redux、AntD等；\n4、对Web性能优化、调试、常见漏洞有深刻理解和使用经验;\n5、对webpack、JS 新特性、响应式布局、Web 动画等有深刻理解和使用经验优先；\n6、有良好的代码习惯，能编写出高效、高性能、具有高可维护性的代码。\n7、对技术有强烈的进取心，具有良好的沟通能力和团队合作精神、优秀的分析问题和解决问题的能力；",
+      "requiredSkills": [
+        "React"
+      ],
+      "address": "杭州西湖区西港·新界西区理想连线",
+      "longitude": 120.065654,
+      "latitude": 30.312759,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7a5daab6eb09432e048038c2afa869f7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e57352e7e3b9fc7ea345abf81bf00ced",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "18-30K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "e8e26b735d5131dc0X1939-1EQ~~",
+      "brandName": "理想连线",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200306/b5bd1742835f15938465981f36b4ce2b941fc5a3b1cba733407215ecfb017684_s.jpg",
+      "industryName": "工程施工",
+      "stageName": "未融资",
+      "scaleName": "1000-9999人",
+      "brandIntroduce": "理想连线企业集团（Ideal-Link Enterprise Group）是由“理想连线工程技术集团”及“直属企业”组合而成的企业集团。集团坐落于浙江杭州，创始于1996年，现有在职职工2500余人，且绝大部分具有大学及以上学历，其中中高级职称和国家注册师人数占比50%以上，是知识密集型企业。\n理想连线工程技术集团旗下拥有建友、荣阳、蟠龙、浙城等四个专业品牌企业群，业务范围遍及建设工程除施工承包和投资开发外的工程管理和设计咨询服务领域全链条，包括并不限于：政府采购、投资咨询、城乡规划、勘察设计、工程代建、招标代理、造价咨询、监理监造、监测检测、管理评审、交付评估、保修管理等，并先后获得“国家工程建设质量奖”、“国家高新技术企业”、“浙江省服务业名牌企业”、“浙江省守合同重信用AAA企业”、“浙江省重大项目稽察专家单位”、“浙江省优秀造价咨询企业”等各类荣誉和奖项。\n理想连线直属企业目前有理想连线网络技术股份有限公司及浙江理想连线企业策划有限公司，是围绕理想连线企业集团的组织宗旨和组织目标而设立的独立法人企业，主要为集团各成员企业及职员提供配套服务与管理支持。业务主要包括网络技术研发、活动会展策划、平面视觉设计、视频剪辑制作、人力资源服务、物资采购供应及后勤保障服务等。\n集团建有完善的党委、工会、团委、妇联、知联会、新联会等附建组织，并先后被授予“全国模范职工之家”、“全国巾帼文明岗”、“浙江省文明单位”、并在25周年之际，出资创设“理想花开公益基金会”，真切履行社会责任。\n“基业长青、追求卓越”，我们将始终谨记理想，不忘初心，超越自我，连线未来！",
+      "comName": "理想连线工程技术集团有限公司",
+      "legalPerson": "郑育高",
+      "startDate": "2012-07-02",
+      "regCapital": "7710万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市西湖区西港发展中心西7幢901室",
+      "businessScope": "工程技术服务，工程管理服务，工程勘察、设计、监理、咨询，城乡规划编制服务（凭许可证经营），工程招标代理，工程造价咨询，工程质量检测，人力资源服务（在有效的《人力资源服务许可证》范围内经营），企业管理服务，投资管理，投资咨询，培训服务（与学历教育有关的培训活动除外），代理记账业务，电子信息技术、软件技术开发、技术咨询及成果转让。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "理想连线企业集团（Ideal-Link Enterprise Group）是由“理想连线工程技术集团”及“直属企业”组合而成的企业集团。集团坐落于浙江杭州，创始于1996年，现有在职职工2500余人，且绝大部分具有大学及以上学历，其中中高级职称和国家注册师人数占比50%以上，是知识密集型企业。\n理想连线工程技术集团旗下拥有建友、荣阳、蟠龙、浙城等四个专业品牌企业群，业务范围遍及建设工程除施工承包和投资开发外的工程管理和设计咨询服务领域全链条，包括并不限于：政府采购、投资咨询、城乡规划、勘察设计、工程代建、招标代理、造价咨询、监理监造、监测检测、管理评审、交付评估、保修管理等，并先后获得“国家工程建设质量奖”、“国家高新技术企业”、“浙江省服务业名牌企业”、“浙江省守合同重信用AAA企业”、“浙江省重大项目稽察专家单位”、“浙江省优秀造价咨询企业”等各类荣誉和奖项。\n理想连线直属企业目前有理想连线网络技术股份有限公司及浙江理想连线企业策划有限公司，是围绕理想连线企业集团的组织宗旨和组织目标而设立的独立法人企业，主要为集团各成员企业及职员提供配套服务与管理支持。业务主要包括网络技术研发、活动会展策划、平面视觉设计、视频剪辑制作、人力资源服务、物资采购供应及后勤保障服务等。\n集团建有完善的党委、工会、团委、妇联、知联会、新联会等附建组织，并先后被授予“全国模范职工之家”、“全国巾帼文明岗”、“浙江省文明单位”、并在25周年之际，出资创设“理想花开公益基金会”，真切履行社会责任。\n“基业长青、追求卓越”，我们将始终谨记理想，不忘初心，超越自我，连线未来！",
+      "encryptComId": "5e158eaeacaa03a61XV939m4F1o~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "中级android工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "三墩",
+          "distance": "",
+          "lid": "ZV043StSvS.search.1",
+          "performance": "",
+          "salaryDesc": "12-20K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "计算机/软件工程相关专业",
+            "kotlin",
+            "数据结构"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "计算机/软件工程相关专业",
+              "highlight": false
+            },
+            {
+              "content": "kotlin",
+              "highlight": false
+            },
+            {
+              "content": "数据结构",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "02724c16468e32891XFz2Nq5FVBX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "理想连线",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200306/b5bd1742835f15938465981f36b4ce2b941fc5a3b1cba733407215ecfb017684_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "徐女士",
+          "bossTitle": "Hr",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211210/607f1f3d68754fd0036d28d36e33ab83422130eae20bbdf34b48b83e5d01594a7a049b02d81e12eb_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "计算机/软件工程相关专业",
+            "kotlin",
+            "数据结构"
+          ],
+          "welfares": [],
+          "securityId": "SHUalaYVTwlgy-e1fj-bM1ZtGrrViHxLSMyR8yEX6Xj6ziYuul3yIEeNTDnzTpFuddCL9Ew~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "中级大数据开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "三墩",
+          "distance": "",
+          "lid": "ZV043StSvS.search.2",
+          "performance": "",
+          "salaryDesc": "12-18K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Python",
+            "Java",
+            "计算机相关专业"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "计算机相关专业",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "a81d525385a4d8ed1HV82dq4FVBZ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "理想连线",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200306/b5bd1742835f15938465981f36b4ce2b941fc5a3b1cba733407215ecfb017684_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "孙心怡",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230220/607f1f3d68754fd02b1ac9d068d4c583b537e6b7cb0bad4ec8ffd8ea061b2a5575f164a20f09d864_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Python",
+            "Java",
+            "计算机相关专业",
+            "大数据开发经验"
+          ],
+          "welfares": [],
+          "securityId": "HSB7QR-Y-DUEG-v1nkXbuRIr_ucEJ5wVQ6JxNKeKvwS0st8FB0Gvd8-Ao3suQ_DIE26FUV0~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级前端工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "三墩",
+          "distance": "",
+          "lid": "ZV043StSvS.search.3",
+          "performance": "",
+          "salaryDesc": "20-30K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "React"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "React",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "fb0b9e2497c5d3f31X1709i-GFNU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "理想连线",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200306/b5bd1742835f15938465981f36b4ce2b941fc5a3b1cba733407215ecfb017684_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "孙心怡",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230220/607f1f3d68754fd02b1ac9d068d4c583b537e6b7cb0bad4ec8ffd8ea061b2a5575f164a20f09d864_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "React"
+          ],
+          "welfares": [],
+          "securityId": "z1MhBfQrccKTK-g1ynU9JRw7Ru63Ga5nlbnPfIzEx68f1ZvgxmVB8PEfnoZLScadv59wpDU~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级java开发",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "三墩",
+          "distance": "",
+          "lid": "ZV043StSvS.search.4",
+          "performance": "",
+          "salaryDesc": "15-25K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Spring",
+            "MyBatis",
+            "MySQL"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            },
+            {
+              "content": "MyBatis",
+              "highlight": false
+            },
+            {
+              "content": "MySQL",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "c3dc8ddb982b1b161HR63d6_FVBY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "理想连线",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200306/b5bd1742835f15938465981f36b4ce2b941fc5a3b1cba733407215ecfb017684_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "徐女士",
+          "bossTitle": "Hr",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211210/607f1f3d68754fd0036d28d36e33ab83422130eae20bbdf34b48b83e5d01594a7a049b02d81e12eb_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Spring",
+            "MyBatis",
+            "MySQL",
+            "计算机/软件工程相关经验"
+          ],
+          "welfares": [],
+          "securityId": "NFB7dG_6QnX1l-i1K1ZLgADfrDwPkH_6rSRw-Q8ioLnuIFaqWFx6fUhqt_VX0sKoG7Ou3H0~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级java开发",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "三墩",
+          "distance": "",
+          "lid": "ZV043StSvS.search.5",
+          "performance": "",
+          "salaryDesc": "22-35K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "Spring",
+            "Java开发经验",
+            "计算机/软件工程相关经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            },
+            {
+              "content": "Java开发经验",
+              "highlight": false
+            },
+            {
+              "content": "计算机/软件工程相关经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "734e3258f0e668481HR52dW_GFVS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "理想连线",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200306/b5bd1742835f15938465981f36b4ce2b941fc5a3b1cba733407215ecfb017684_s.jpg",
+          "brandStage": "未融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "林女士",
+          "bossTitle": "人事专员",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Spring",
+            "Java开发经验",
+            "计算机/软件工程相关经验",
+            "中大型项目架构设计经验"
+          ],
+          "welfares": [],
+          "securityId": "Vj7rqpyxoRw1y-E1dIGxvrw9VTPWvZTCi9if5xMgsokP0aZbEaAQN_Gr4GqE9wfOOja0pyw~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

@@ -1,0 +1,524 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "VBVhUjBmF3IN9-41DR3bFwH4uIikG5oti1GHBOfbySauzMUoVhJ0cWBh9RV6NBoWZC-rNb9r70naL3LWWWk0kDXYKYCI98IyQ2WqOo7k48zjSCCd8vK_nNPuPLmNAOLX0VmMW_O_",
+    "bossBaseInfoVO": {
+      "encryptBossId": "099ab78db16569200n160t26Flo~",
+      "bossId": 59090768,
+      "securityId": "p1NPddt2TmiZi-d14CEiyz35al043wMmwPdH0cONRuVSXaDEWgECVvQhQnsN2TKDiMuo6j53t7Ss9Xv28A_askpI3QFz",
+      "name": "栾茜",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230731/607f1f3d68754fd0a21de8c126d6cce80c514da64a1bb01b134904f4ad44c764ad877afa4b4ec23b_s.jpg.webp",
+      "title": "HR",
+      "activeTimeDesc": "刚刚活跃",
+      "activeTime": 1698152038773,
+      "bossOnline": false,
+      "brandName": "武汉佰钧成技术",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 147240076,
+      "encryptJobId": "265c10d6d63622ca1nB92dm9EFVW",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "转塘",
+      "locationDesc": "杭州·西湖区·转塘",
+      "experienceName": "3-5年",
+      "degreeName": "大专",
+      "lowSalary": 13,
+      "highSalary": 24,
+      "jobDesc": "1、熟练掌握React、Redux相关技术，一年以上react项目实战经验；\n2、能熟练使用HTML&CSS基础，至少说出10个H5标签，说出5种选择器及优先级；\n3、至少使用过Flex,Grid,Float其中两种以上布局，对bootstrap框架有一定了解 \n4、对原生JavaScript、jQuery语法有较好掌握，会区分数据类型，函数，操作符，作用域清楚，了解基本DOM操作和事件，掌握基本的Ajax调用流程",
+      "requiredSkills": [
+        "前端开发",
+        "React",
+        "Bootstrap",
+        "ES6"
+      ],
+      "address": "杭州西湖区飞天园区1",
+      "longitude": 120.080074,
+      "latitude": 30.132317,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2b9a764208a70c545ad3f1ed9dcd71f2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/57b5ef621296183ab5155d145133603a",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "13-24K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "71bcdc1198f6c83703J70tq8",
+      "brandName": "武汉佰钧成技术",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/39330dfb0bc7d6cad2158722dd7d37fecfcd208495d565ef66e7dff9f98764da.jpg",
+      "industryName": "计算机软件",
+      "stageName": "不需要融资",
+      "scaleName": "1000-9999人",
+      "brandIntroduce": "武汉佰钧成技术有限责任公司（以下简称“佰钧成”），总部位于中国科教之城武汉，在职员工超过10000人，属华中区最大的技术服务外包供应商，软件服务行业百强企业。自2006年成立以来，佰钧成秉承“创造价值 承诺必达”的服务宗旨，迅速成长为IBM、华为、 VIVO，Google、Microsoft等全球500强企业在信息服务领域的重要合作伙伴。\n      目前，佰钧成在中国大陆设立了26个分支机构或研发中心，并在美国、日本、新加坡和中国香港地区设立了分支机构，正逐步建成服务全球的需求响应机制。经过多年积累，佰钧成拥有了丰富的大型项目管理经验，在高科技、通信、能源、金融、制造等行业形成了独具特色的行业解决方案。\n      为员工创造发展环境，为客户提供卓越服务，为社会竭尽公民责任，佰钧成与您共同成长！",
+      "comName": "武汉佰钧成技术有限责任公司",
+      "legalPerson": "耿标",
+      "startDate": "2006-06-28",
+      "regCapital": "10000万元人民币",
+      "statusDesc": "存续",
+      "regAddress": "武汉东湖开发区关山一路华中曙光软件园二期研发楼",
+      "businessScope": "计算机软件、硬件、系统集成及通讯产品（专营除外）的开发研制、转让、承接、销售、技术服务、咨询、培训；机电技术及产品的开发、研制、销售、技术服务。货物进出口；技术进出口；代理进出口。（不含国家禁止或限制进出口的货物或技术）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "武汉佰钧成技术有限责任公司（以下简称“佰钧成”），总部位于中国科教之城武汉，在职员工超过10000人，属华中区最大的技术服务外包供应商，软件服务行业百强企业。自2006年成立以来，佰钧成秉承“创造价值 承诺必达”的服务宗旨，迅速成长为IBM、华为、 VIVO，Google、Microsoft等全球500强企业在信息服务领域的重要合作伙伴。\n      目前，佰钧成在中国大陆设立了26个分支机构或研发中心，并在美国、日本、新加坡和中国香港地区设立了分支机构，正逐步建成服务全球的需求响应机制。经过多年积累，佰钧成拥有了丰富的大型项目管理经验，在高科技、通信、能源、金融、制造等行业形成了独具特色的行业解决方案。\n      为员工创造发展环境，为客户提供卓越服务，为社会竭尽公民责任，佰钧成与您共同成长！",
+      "encryptComId": "406db59c4729eb971Hdy0t8~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "ETL工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "转塘",
+          "distance": "",
+          "lid": "ZU2afsuGZm.search.1",
+          "performance": "",
+          "salaryDesc": "12-15K",
+          "jobLabels": [
+            "1-3年",
+            "大专",
+            "Python",
+            "pandas",
+            "json"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "pandas",
+              "highlight": false
+            },
+            {
+              "content": "json",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "c6ecd2f982ceee561HV50t60FlJQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "武汉佰钧成技术",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/39330dfb0bc7d6cad2158722dd7d37fecfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "刘娅",
+          "bossTitle": "招聘HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230406/607f1f3d68754fd09236edead67961f7945c76df6937c0f5c62fdda839e330112efd2a0a2c3e7e3c_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Python",
+            "pandas",
+            "json"
+          ],
+          "welfares": [],
+          "securityId": "7Tj1lL6Y_au6n-F1uTtw-OQs370_p3vCjq_cX3eVUQA7AORxDbz85-6oqBL2nvB2mI26q6Y~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "服务器硬件维修",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "ZU2afsuGZm.search.3",
+          "performance": "",
+          "salaryDesc": "10-12K",
+          "jobLabels": [
+            "3-5年",
+            "大专",
+            "IDC机房运维",
+            "运维开发/DevOps",
+            "实施交付运维"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "IDC机房运维",
+              "highlight": false
+            },
+            {
+              "content": "运维开发/DevOps",
+              "highlight": false
+            },
+            {
+              "content": "实施交付运维",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "a5c39626d855da411HV82ti9EVRX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "武汉佰钧成技术",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/39330dfb0bc7d6cad2158722dd7d37fecfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "向女士",
+          "bossTitle": "招聘组经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220725/607f1f3d68754fd0479b4d27e0f0fe59b0b9f0a08b794bc6980ad42a1d29210d1b31362ab8e584c0_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "IDC机房运维",
+            "运维开发/DevOps",
+            "实施交付运维",
+            "Python/Shell",
+            "通信相关专业",
+            "电子/电气/自动化相关专业",
+            "运维经验",
+            "服务器",
+            "硬件"
+          ],
+          "welfares": [],
+          "securityId": "5Bw4YrGrYeB0J-_1IjlhTA_fyeY_Rjt2KOjNTym0QiQA0-uXl5hju3vXoEmD6Z_D7CUdCzs~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "python开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "ZU2afsuGZm.search.4",
+          "performance": "",
+          "salaryDesc": "10-15K",
+          "jobLabels": [
+            "1-3年",
+            "大专",
+            "Python",
+            "MySQL",
+            "爬虫"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "MySQL",
+              "highlight": false
+            },
+            {
+              "content": "爬虫",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "a34081660f2090501XF529q8EVpQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "武汉佰钧成技术",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/39330dfb0bc7d6cad2158722dd7d37fecfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "张女士",
+          "bossTitle": "招聘人事",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220314/607f1f3d68754fd0cd86ef74ac95ba67f0060bb3cb3964379443bcd4f0943dadf85431edc2f6f5b5_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Python",
+            "MySQL",
+            "爬虫",
+            "运维开发",
+            "爬虫经验",
+            "HTTP"
+          ],
+          "welfares": [],
+          "securityId": "JvAVz4bWyh-L8-11rHvgW1wkzvLE9lN8V4LZ11ljHt5kZOoIvRE6uh0PCbiyr5vTiIKoQTg~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "python开发-急招",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "ZU2afsuGZm.search.5",
+          "performance": "",
+          "salaryDesc": "14-17K",
+          "jobLabels": [
+            "5-10年",
+            "大专",
+            "后端",
+            "Python",
+            "计算机相关专业"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "后端",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "计算机相关专业",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "36220161597bdb8b1HV-0tq6EVRU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "武汉佰钧成技术",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/39330dfb0bc7d6cad2158722dd7d37fecfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "林先生",
+          "bossTitle": "招聘",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230420/607f1f3d68754fd08d4dd51b1733da07f3c1aa2b9be58a980f0af4d4d45c860d7dc316a241eabc8e_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端",
+            "Python",
+            "计算机相关专业"
+          ],
+          "welfares": [],
+          "securityId": "9rENwLm3umDF--P1bY2Mjpl1Wf2nAfYMI9aIfiZ3C0LNHs17WUwLg48qJKF9N4TD2Ke9OC4~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "云产品网络售后",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "ZU2afsuGZm.search.6",
+          "performance": "",
+          "salaryDesc": "12-14K",
+          "jobLabels": [
+            "3-5年",
+            "大专",
+            "阿里云",
+            "ACP"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "阿里云",
+              "highlight": false
+            },
+            {
+              "content": "ACP",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "b79edca3557e5f9f1HV929i0FVpX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "武汉佰钧成技术",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/39330dfb0bc7d6cad2158722dd7d37fecfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "徐秀",
+          "bossTitle": "人事",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231020/607f1f3d68754fd0f7e4ba457a7e8d8b1ed41a4922e11fbaedca74ffc6b53a9a6aa9b7e0cbef3d5a_s.jpg.webp",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": {
+            "listingOnline": {
+              "onlineImgUrl": "https://img.bosszhipin.com/beijin/mcs/banner/a403e91441cbb05c6894e9f5593291fdcfcd208495d565ef66e7dff9f98764da.png",
+              "widthPx": 132,
+              "heightPx": 51
+            },
+            "detailOnline": {
+              "onlineImgUrl": "https://img.bosszhipin.com/beijin/mcs/banner/a403e91441cbb05c6894e9f5593291fdcfcd208495d565ef66e7dff9f98764da.png",
+              "widthPx": 132,
+              "heightPx": 51
+            }
+          },
+          "proxyJob": 0,
+          "skills": [
+            "阿里云",
+            "ACP"
+          ],
+          "welfares": [],
+          "securityId": "VLRymQKR4VgXC-Y17xlZxNFVd5mwebRAjrDcxvA3vIwtUE6Gyl758KlY0sNsoZBQvLstsuCdXXgIybulMUE2Sy-f5d-3upPj55XL-orn4W0~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

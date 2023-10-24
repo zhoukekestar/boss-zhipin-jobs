@@ -1,0 +1,507 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "53VTzcDv_9Wd4-r1aPPc2dBs4y7QOymnq0DpCPGm-ClAZKcZa_rs4JY83ty7BQ8wnBAOzEH-L5-tn9QxsZ6k9CHWPqQmXCvNuaPxh7qTuWIHNg5MyYWLWTpPqcfRrsjb201Y6RMQ5w~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "5ca17dd9f828cfbb0XF809m8ElY~",
+      "bossId": 65684124,
+      "securityId": "vPU5gEGRYlG43-s1iOSL5rTl1Yi4x6FgDTG_V_g87vV_X7a4z2q7WwfuGbzsaMG32UZCGCOHKHU-iUS-1qNTgoqRDcYw",
+      "name": "林志远",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190614/127d69f636b15bf64b1691ec28b6374405a86c9a1060fc81ee0b42fbc1210d55_s.png",
+      "title": "前端",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1666703423000,
+      "bossOnline": false,
+      "brandName": "共道科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 194966170,
+      "encryptJobId": "3e46eb64e43e816c1n1-0tu7EVVQ",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端开发",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "五常",
+      "locationDesc": "杭州·余杭区·五常",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 20,
+      "highSalary": 40,
+      "jobDesc": "前端开发\n\n职位详情\n前端开发 Node . js HTML CSS \n JavaScript ES6 React GIT \n1、三年及以上前端开发相关经验\n2、具备扎实的 JavaScript / CSS / HTML 基础，熟练掌握ES6/开发技能\n3、熟悉浏览器标准，熟悉跨浏览器、跨平台开发，能解决各种兼容性问题\n4、熟悉数据结构、 HTTP 协议等\n5、熟练掌握 Angular 、 React 、 Vue 至少一种框架\n6、熟悉前端工程化，并有相关经验\n7、良好的沟通、表达、理解能力，有担当，有足够的好奇心，对技术充满热情\n加分项：\n1、有 Node . js 项目经验的\n2、有 Java 等后端经验的\n3、主导过大中型项目，或在其中担任主끌的4、有 GitHub 开源项目的\n5、有个人博客并持续更新的",
+      "requiredSkills": [
+        "CSS3",
+        "JavaScript",
+        "AngularJS",
+        "HTML",
+        "Web端"
+      ],
+      "address": "杭州余杭区乐佳国际471",
+      "longitude": 120.008854,
+      "latitude": 30.279527,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0edec2fb58c2577530008a806689c108",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e1e80227e073407af6a51bcc28c937a5",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-40K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "5f5304ff4a4526a81nN40ty6EQ~~",
+      "brandName": "共道科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200305/6f3dd68fccd557d1c03b0e587d02d26bbb983f218f524b11f8fc98ed8748e7be_s.jpg",
+      "industryName": "互联网",
+      "stageName": "不需要融资",
+      "scaleName": "100-499人",
+      "brandIntroduce": "共道科技2018年成立于浙江杭州，是阿里巴巴旗下生态公司。公司通过互联网、云计算、区块链、机器智能为法院等司法机关、市场监督管理局等行政执法部门提供数字化、智能化解决方案，帮助提升司法和执法效能，同时围绕企业纠纷诉讼和相关法律服务提供一揽子解决方案。公司致力于帮助每个人拥有实现共道的能力，让公道触手可及。",
+      "comName": "共道网络科技有限公司",
+      "legalPerson": "何长春",
+      "startDate": "2018-01-17",
+      "regCapital": "16440万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省五常街道文一西路998号18幢111-1室",
+      "businessScope": "一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；网络技术服务；软件开发；信息技术咨询服务；网络与信息安全软件开发；商务代理代办服务；市场主体登记注册代理；计算机系统服务；信息系统集成服务；人工智能行业应用系统集成服务；人工智能通用应用系统；信息咨询服务（不含许可类信息咨询服务）；社会经济咨询服务；大数据服务；知识产权服务；广告制作；广告设计、代理；软件外包服务；数据处理服务；数据处理和存储支持服务；互联网数据服务；区块链技术相关软件和服务；物联网技术服务；云计算设备制造；信息安全设备制造；计算机软硬件及外围设备制造；办公服务；会议及展览服务；人工智能公共数据平台；平面设计；信息系统运行维护服务；人工智能公共服务平台技术咨询服务；企业形象策划；品牌管理；劳务服务（不含劳务派遣）；人工智能基础资源与技术平台；法律咨询（不包括律师事务所业务）；计算机软硬件及辅助设备批发；计算机软硬件及辅助设备零售；信息安全设备销售；云计算设备销售；人工智能硬件销售；电子产品销售；软件销售；网络设备销售；接受金融机构委托从事信息技术和流程外包服务（不含金融信息服务）（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：第二类增值电信业务；劳务派遣服务（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "共道科技2018年成立于浙江杭州，是阿里巴巴旗下生态公司。公司通过互联网、云计算、区块链、机器智能为法院等司法机关、市场监督管理局等行政执法部门提供数字化、智能化解决方案，帮助提升司法和执法效能，同时围绕企业纠纷诉讼和相关法律服务提供一揽子解决方案。公司致力于帮助每个人拥有实现共道的能力，让公道触手可及。",
+      "encryptComId": "e880f97b745d540b33By0tu-GA~~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "Java高级开发专家",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "100eiFzKO88.search.1",
+          "performance": "",
+          "salaryDesc": "23-45K·15薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "Java",
+            "Spring",
+            "架构师"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            },
+            {
+              "content": "架构师",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "c0fa8cb32732ab7733V82dy4FVI~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "共道科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200305/6f3dd68fccd557d1c03b0e587d02d26bbb983f218f524b11f8fc98ed8748e7be_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "李叶枫",
+          "bossTitle": "开发专家",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171218/d7d86a4ad05a1e4f1a0b189829a5797e5725b5bea2f8eb4658236d3664ee8976_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "Spring",
+            "架构师",
+            "分布式技术",
+            "微服务架构",
+            "Dubbo",
+            "后端开发"
+          ],
+          "welfares": [],
+          "securityId": "HYR4Bc7WqojJQ-l1673-0d_BKi-Npo_opvyQx7BKTJWA9Qm0Nw0MjLvLCobbh7wxUVYgNg~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "运维工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "未来科技城",
+          "distance": "",
+          "lid": "100eiFzKO88.search.2",
+          "performance": "",
+          "salaryDesc": "30-50K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "Linux",
+            "系统运维",
+            "数据库运维"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Linux",
+              "highlight": false
+            },
+            {
+              "content": "系统运维",
+              "highlight": false
+            },
+            {
+              "content": "数据库运维",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "a19940f2f7843f871XVy0925ElFQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "共道科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200305/6f3dd68fccd557d1c03b0e587d02d26bbb983f218f524b11f8fc98ed8748e7be_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "吴先生",
+          "bossTitle": "资深开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Linux",
+            "系统运维",
+            "数据库运维",
+            "自动化运维"
+          ],
+          "welfares": [],
+          "securityId": "9fNnlBPAYcjGd-u162Nc_DCRPHJLbEboaNBWpLxuvipqXgVWhJMFz5TzuIvrHe25Pnma_aM~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "后端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "100eiFzKO88.search.3",
+          "performance": "",
+          "salaryDesc": "10-15K",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "后端开发",
+            "前端开发",
+            "机器学习"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端开发",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            },
+            {
+              "content": "机器学习",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "273b2678baa59e431HB42t--ElM~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "共道科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200305/6f3dd68fccd557d1c03b0e587d02d26bbb983f218f524b11f8fc98ed8748e7be_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "蒋昆伦",
+          "bossTitle": "测试",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180410/da051b6863e4b2390d6b78bc6bef4f20cfcd208495d565ef66e7dff9f98764da_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端开发",
+            "前端开发",
+            "机器学习"
+          ],
+          "welfares": [],
+          "securityId": "l0A37ELBezlgq-91qDDiMEHyzb8MQMEuz4RzaQDNEzHGEIvtWWUGnTBOewKbt6ubjuydmA~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "C＋＋开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "未来科技城",
+          "distance": "",
+          "lid": "100eiFzKO88.search.4",
+          "performance": "",
+          "salaryDesc": "12-20K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "C++",
+            "音视频编解码",
+            "流媒体技术"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "C++",
+              "highlight": false
+            },
+            {
+              "content": "音视频编解码",
+              "highlight": false
+            },
+            {
+              "content": "流媒体技术",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "d572f4af0396fba91n172ty-FFNV",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "共道科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200305/6f3dd68fccd557d1c03b0e587d02d26bbb983f218f524b11f8fc98ed8748e7be_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "刘欢",
+          "bossTitle": "JAVA开发专家",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230525/607f1f3d68754fd0b2fb76fac1ed3dc266d52da8ea920b6927b10e2c3853dd21bf5068446c3d9fb7_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "C++",
+            "音视频编解码",
+            "流媒体技术",
+            "音视频开发",
+            "音视频相关开发经验",
+            "Python"
+          ],
+          "welfares": [],
+          "securityId": "VSHZobyBOcpYU-p1TGjHV9qa-0jJEZBl7_SbpZN61qvFzonCQYvmc86Bo28f9wyMOVS2hIQ~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java高级开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "未来科技城",
+          "distance": "",
+          "lid": "100eiFzKO88.search.5",
+          "performance": "",
+          "salaryDesc": "25-35K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "Java"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "99f4cef4d011ced20nR529S7EFo~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "共道科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200305/6f3dd68fccd557d1c03b0e587d02d26bbb983f218f524b11f8fc98ed8748e7be_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "吴先生",
+          "bossTitle": "资深开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java"
+          ],
+          "welfares": [],
+          "securityId": "D083_eDUIACfp-V1e8Ia0ZKqHIs84ug1TBZlDH0ENomjke-wN9iVhdlrnXTjNJHTGb_h9Q~~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

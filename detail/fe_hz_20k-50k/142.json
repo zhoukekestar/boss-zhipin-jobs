@@ -1,0 +1,485 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "u8NXLxQz1V1cG-21GpHE3lpQNfpGSCUNxgcsQcOXcFO7wRyzZd2V7bGU0nAmkgSkKqxJ0yMC4gYLfJxkUEZ6ZXfMiY-XJBGqCiy3vFf3ZeKcLTNH5xNfu5W_vfE8vv-3z_8nnPse8bDV",
+    "bossBaseInfoVO": {
+      "encryptBossId": "b0e00d8c49f689a50nd90t-7GVBU",
+      "bossId": 537926924,
+      "securityId": "iGa81Sb4Q2e9_-L1zJy5sWmb968UcnDzKCNWkNlMPIZlxI7YIF5GAJbs4cRb1Ts3i4b8wJXMFZpgFgo_l38Omoq_dpa-aQ~~",
+      "name": "高先生",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210825/607f1f3d68754fd0da2a9402b9a904f6dc82fdce50415b34cdac4f12cf3244a92f1a7d7a92b5c755_s.png",
+      "title": "HR",
+      "activeTimeDesc": "刚刚活跃",
+      "activeTime": 1698143527824,
+      "bossOnline": false,
+      "brandName": "爱诗科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 290321680,
+      "encryptJobId": "14a3f31cedcb279a1X162N-8FlpQ",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端研发工程师",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "长河",
+      "locationDesc": "杭州·滨江区·长河",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 25,
+      "highSalary": 40,
+      "jobDesc": "职位描述\n1、负责AIGC电商业务前端部分开发工作；2、负责业务组件开发、平台优化，业务基建等工作；3、攻克项目疑难问题，支持高难度需求开发，对项目进行性能优化和技术升级；4、探索实践高效的横跨前&后&客户端、异地远程的沟通和开发模式，提升整体团队效率。职位要求1、计算机基础扎实，熟练掌握JavaScript，ES5/6，CSS，熟练掌握各种布局；2、对解决浏览器兼容性问题、前端性能优化有一定的经验；3、理解工程化思想，对构建和持续集成有一定认识，熟悉一种构建工具；4、理解组件化开发思想，有一定的设计能力，熟悉最少一种前端主流框架；5、了解常见的后端技术栈和工具，有多角色协作完成项目的实践经验；6、具备良好的服务意识、责任心、较强的学习能力、优秀的团队沟通与协作能力；7、有 Hybrid 开发经验（Weex/React Native/Flutter 等）优先。",
+      "requiredSkills": [
+        "JavaScript",
+        "HTML5"
+      ],
+      "address": "杭州滨江区中财大厦1",
+      "longitude": 120.213856,
+      "latitude": 30.209392,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/202e58f6d35660778e909a11f27438b8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e8b8f0c54588999837ec2baf65bd029e",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "25-40K·16薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "846753040df0fa341XJ83NS0FFQ~",
+      "brandName": "爱诗科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230719/7bf6f160950405e9db81cbc5cdd73c89a95fad370202de0a20122f150a0633f77a2f048f26db85de.png",
+      "industryName": "互联网",
+      "stageName": "天使轮",
+      "scaleName": "20-99人",
+      "brandIntroduce": "公司介绍\n· 爱诗科技是一家专注于AIGC视觉多模态算法平台的初创公司，旨在通过AI技术帮助不同行业和场景的创意工作者生成内容，把他们从繁琐的重复性工作中解放，真正专注于创意创新上；\n· 创始人王长虎是前字节跳动视觉技术负责人、前微软亚洲研究院主管研究员，深度参与抖音和TIKTOK等产品从0到1的建设和发展；\n· 团队成员来自全球顶尖科技公司和头部资本和管理咨询公司。由各个领域的顶尖高手组成的团队，正在准备迎接不同寻常的挑战，期待你的加入。",
+      "comName": "北京爱诗科技有限公司",
+      "legalPerson": "王长虎",
+      "startDate": "2023-04-07",
+      "regCapital": "100万人民币",
+      "statusDesc": "存续",
+      "regAddress": "北京市朝阳区东八间房北岗子环里1层1241号",
+      "businessScope": "一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；数据处理服务；人工智能基础软件开发；人工智能应用软件开发；计算机系统服务；计算机软硬件及辅助设备批发；企业管理咨询；信息咨询服务（不含许可类信息咨询服务）；互联网安全服务；互联网销售（除销售需要许可的商品）；广告设计、代理；广告发布；广告制作；电子产品销售；机械设备销售；货物进出口；技术进出口；进出口代理。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）许可项目：第一类增值电信业务；广播电视节目制作经营；出版物零售；第二类增值电信业务。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）（不得从事国家和本市产业政策禁止和限制类项目的经营活动。）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "公司介绍\n· 爱诗科技是一家专注于AIGC视觉多模态算法平台的初创公司，旨在通过AI技术帮助不同行业和场景的创意工作者生成内容，把他们从繁琐的重复性工作中解放，真正专注于创意创新上；\n· 创始人王长虎是前字节跳动视觉技术负责人、前微软亚洲研究院主管研究员，深度参与抖音和TIKTOK等产品从0到1的建设和发展；\n· 团队成员来自全球顶尖科技公司和头部资本和管理咨询公司。由各个领域的顶尖高手组成的团队，正在准备迎接不同寻常的挑战，期待你的加入。",
+      "encryptComId": "627effd5d645feae1H1539m0GFc~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "ZW4JTK8bUT.search.1",
+          "performance": "",
+          "salaryDesc": "23-35K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "硕士",
+            "JavaScript",
+            "HTML5",
+            "CSS"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "HTML5",
+              "highlight": false
+            },
+            {
+              "content": "CSS",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "6709fd208ead39581HR43N-7FlJT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "爱诗科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230719/7bf6f160950405e9db81cbc5cdd73c89a95fad370202de0a20122f150a0633f77a2f048f26db85de.png",
+          "brandStage": "天使轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "高先生",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210825/607f1f3d68754fd0da2a9402b9a904f6dc82fdce50415b34cdac4f12cf3244a92f1a7d7a92b5c755_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript",
+            "HTML5",
+            "CSS"
+          ],
+          "welfares": [],
+          "securityId": "C1bHIqQICMPZz-v1Otq2g116fV_ztK4Em1okuvWCok1M8FQfJZAhSGGFo41ALUhMKsiWMowl",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "算法专家-语言大模型方向",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZW4JTK8bUT.search.2",
+          "performance": "",
+          "salaryDesc": "25-40K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "硕士",
+            "自然语言处理项目经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "自然语言处理项目经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "cba3a343821f928a1HR_09y_FVFT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "爱诗科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230719/7bf6f160950405e9db81cbc5cdd73c89a95fad370202de0a20122f150a0633f77a2f048f26db85de.png",
+          "brandStage": "天使轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "高先生",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210825/607f1f3d68754fd0da2a9402b9a904f6dc82fdce50415b34cdac4f12cf3244a92f1a7d7a92b5c755_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "自然语言处理项目经验"
+          ],
+          "welfares": [],
+          "securityId": "a92y9D-StreD8-g1h5-aa0idI49unebX8K4BjNnpP5RP2xVq6StD_TLuF1ZiOOKF2ElJa3nV",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "ZW4JTK8bUT.search.3",
+          "performance": "",
+          "salaryDesc": "25-40K",
+          "jobLabels": [
+            "3-5年",
+            "硕士",
+            "Java",
+            "后端工程师"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "99dc14e8144de9751X1-3Ni6ElRQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "爱诗科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230719/7bf6f160950405e9db81cbc5cdd73c89a95fad370202de0a20122f150a0633f77a2f048f26db85de.png",
+          "brandStage": "天使轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "高先生",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210825/607f1f3d68754fd0da2a9402b9a904f6dc82fdce50415b34cdac4f12cf3244a92f1a7d7a92b5c755_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "后端工程师"
+          ],
+          "welfares": [],
+          "securityId": "BfClDPuAyAoEx-P17mVooP66n2HawrgMWWGxqBdDtGZrsnQapjW58a9WRq_9rXdNI39dNUYw",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "终端开发工程师-基础工程",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZW4JTK8bUT.search.4",
+          "performance": "",
+          "salaryDesc": "25-40K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Android客户端产品研发",
+            "Java",
+            "Kotlin"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Android客户端产品研发",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Kotlin",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "1d18c6ecbcc4372d1HV82dm7GFFU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "爱诗科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230719/7bf6f160950405e9db81cbc5cdd73c89a95fad370202de0a20122f150a0633f77a2f048f26db85de.png",
+          "brandStage": "天使轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "高先生",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210825/607f1f3d68754fd0da2a9402b9a904f6dc82fdce50415b34cdac4f12cf3244a92f1a7d7a92b5c755_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Android客户端产品研发",
+            "Java",
+            "Kotlin",
+            "C++"
+          ],
+          "welfares": [],
+          "securityId": "Sgjdb7EdJk7KP-v1U_lGMzezxac7a-AbcDH_1ecMjfw2f6UM8dblf4Mw_Xz07Bj1EaKY9j_S",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "java开发",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZW4JTK8bUT.search.5",
+          "performance": "",
+          "salaryDesc": "23-35K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "后端工程师",
+            "Java"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "69be9b2991c24f741HR_29y-GFZY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "爱诗科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230719/7bf6f160950405e9db81cbc5cdd73c89a95fad370202de0a20122f150a0633f77a2f048f26db85de.png",
+          "brandStage": "天使轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "高先生",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210825/607f1f3d68754fd0da2a9402b9a904f6dc82fdce50415b34cdac4f12cf3244a92f1a7d7a92b5c755_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "Java"
+          ],
+          "welfares": [],
+          "securityId": "P5B2XFOhDtNP0-j1e_u6QXAgVWwvDcNWOMRex1hzRjCyKL0pht4JzH8GNbIH4_-o_No_fRid",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

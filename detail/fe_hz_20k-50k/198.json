@@ -1,0 +1,281 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "3oUk2N0rj5WP2-B1zSmVuwXKlRqsIK919V3uXt7bWnsByivuGMVYwfF4i8YtWvk6NH8G-0Rw1S9rPpWO6VDPaoZ-6ATOzQdi0q72Dm4dObspYKkJc19A5i50uMdul4rJf4R0JsU~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "c52852cf8c58f1b11Hdy0920ElU~",
+      "bossId": 33880927,
+      "securityId": "rk4EbD8KH3YL8-Z1LF3o7-QVCENVdRyemgwTmDjpd7kfU4jV0p4W8VPDF9VyzB9jQ6R7vs-kwM0BX-50lm4ajM1WipY~",
+      "name": "杨先生",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191031/63ab48ca23a82a56df79ca635d69b66aec99ec0b5e8ca181abda53aa74e3951a_s.jpg",
+      "title": "资深JAVA工程师",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1680490465000,
+      "bossOnline": false,
+      "brandName": "嘉云数据",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 60994952,
+      "encryptJobId": "d1f118bab02aeb130XRz0tm0FVA~",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "文二路",
+      "locationDesc": "杭州·西湖区·文二路",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 20,
+      "highSalary": 30,
+      "jobDesc": "部门属于Club Factory的核心部门，占全站GMV58%以上，急招前端大牛～\n\n\n前端工程师\r\n岗位职责：\r\n- 参与卖家服务相关Web应用的前端开发\r\n- 持续提高卖家服务Web应用的易用性和用户体验\r\n\r\n岗位要求：\r\n- 计算机相关专业本科及以上学历\r\n- 三年及以上前端开发工作经验\n- 有良好的JavaScript/HTML/CSS编程基础，熟悉ES6/HTML5/CSS3\r\n- 了解W3C标准、HTTP协议\r\n- 熟练应用至少一种前端开发框架，如：Vue.js、React等\r\n- 熟悉前端开发组件化、工程化者优先\n- 有大型电商前端应用开发经验者优先\n- 对Web页面性能优化有实践经验者优先\r\n- 了解至少一种服务端开发语言(如:Java/Ruby/PHP/Python/Scala/go...)并有项目经验者优先",
+      "requiredSkills": [
+        "前端开发",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Vue"
+      ],
+      "address": "杭州西湖区华星时代广场A座",
+      "longitude": 120.124781,
+      "latitude": 30.277026,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1d067109af8a9270a60f565ccb63df00",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/861bef942568f655720e5fbabf5f0b21",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-30K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "c195d04474f07d6f03J72dW-",
+      "brandName": "嘉云数据",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180213/340065c4ea7b1e3d379d97bbef06339fcfcd208495d565ef66e7dff9f98764da.jpg",
+      "industryName": "移动互联网",
+      "stageName": "D轮及以上",
+      "scaleName": "500-999人",
+      "brandIntroduce": "杭州嘉云数据科技有限公司成立于2014年，是大数据和人工智能在电商出海领域应用的行业领先企业。先后被评为浙江省重点跨境电商企业、中国跨境电商30强、2018杭州准独角兽企业、2017创业企业100强。2019年完成D轮1亿美元融资，投资方包括启明创投、贝塔斯曼基金会和峰瑞资本等顶级基金。\n\n公司自主研发人工智能电商出海平台 “Club Factory”，商品涵盖服装、鞋包、配饰、美妆、3C数码、家居用品等全品类消费品。上线一年半时间，迅速进入了29个国家。2019年Q1-Q3，是世界Shopping类目APP下载量排行第6的App，2019年10月，更是登上了Shopping类目下载排行第一的里程碑。Club Factory日均活跃用户高达上千万，目前Club Factroy主要深耕印度，已成为印度排名前三的主流购物平台，深受印度中青年消费群体喜爱。\n\n嘉云数据利用大数据和人工智能技术，搭建“供应链大脑”，通过精准的商品知识图谱和进销存预测，将海量商品和供应商管理从“重”变“轻”，大幅降低平台供应链把控成本，也极大的节约了企业的备货成本。同时间，Club Factory深耕印度本地供应链，赋能印度中小企业卖家，是中国电商出海在海外市场本地商家成功经验的绝对领先者。目前Club Factory管理数千万SKU，合作过上百万家供应商。\n\n公司始于斯坦福大学创业团队。核心技术团队来自谷歌、阿里、Amazon、网易等，具有斯坦福大学、加州大学伯克利分校、卡内基梅隆、浙江大学等院校的计算机专业背景。\n\n大数据和人工智能技术为企业带来新一轮的机遇和科技红利。嘉云数据将继续致力于服务国内外制造企业和中小企业，同时也为广大海外市场用户带去高性价比的商品和服务，在发展过程中实现本地化共生共赢。",
+      "comName": "杭州嘉云数据科技有限公司",
+      "legalPerson": "孙维霞",
+      "startDate": "2014-10-16",
+      "regCapital": "400万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市西湖区马塍路36号1幢二层251室",
+      "businessScope": "一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；第二类医疗器械销售；普通货物仓储服务（不含危险化学品等需许可审批的项目）；信息咨询服务（不含许可类信息咨询服务）；软件销售；软件开发；计算机软硬件及辅助设备批发；计算机软硬件及辅助设备零售；互联网销售（除销售需要许可的商品）；卫生洁具销售；个人卫生用品销售；照相机及器材销售；皮革制品销售；家具销售；针纺织品销售；消毒剂销售（不含危险化学品）；日用百货销售；电子产品销售；家用电器零配件销售；家用电器销售；照明器具销售；日用木制品销售；日用口罩（非医用）销售；箱包销售；日用杂品销售；厨具卫具及日用杂品批发；厨具卫具及日用杂品零售；日用品零售；化妆品批发；化妆品零售；橡胶制品销售；卫生用品和一次性使用医疗用品销售；医用口罩批发；玩具销售；家居用品销售；服装服饰批发；服装服饰零售；塑料制品销售；竹制品销售；工艺美术品及收藏品零售（象牙及其制品除外）（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：货物进出口；技术进出口；互联网信息服务；第二类增值电信业务（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "杭州嘉云数据科技有限公司成立于2014年，是大数据和人工智能在电商出海领域应用的行业领先企业。先后被评为浙江省重点跨境电商企业、中国跨境电商30强、2018杭州准独角兽企业、2017创业企业100强。2019年完成D轮1亿美元融资，投资方包括启明创投、贝塔斯曼基金会和峰瑞资本等顶级基金。\n\n公司自主研发人工智能电商出海平台 “Club Factory”，商品涵盖服装、鞋包、配饰、美妆、3C数码、家居用品等全品类消费品。上线一年半时间，迅速进入了29个国家。2019年Q1-Q3，是世界Shopping类目APP下载量排行第6的App，2019年10月，更是登上了Shopping类目下载排行第一的里程碑。Club Factory日均活跃用户高达上千万，目前Club Factroy主要深耕印度，已成为印度排名前三的主流购物平台，深受印度中青年消费群体喜爱。\n\n嘉云数据利用大数据和人工智能技术，搭建“供应链大脑”，通过精准的商品知识图谱和进销存预测，将海量商品和供应商管理从“重”变“轻”，大幅降低平台供应链把控成本，也极大的节约了企业的备货成本。同时间，Club Factory深耕印度本地供应链，赋能印度中小企业卖家，是中国电商出海在海外市场本地商家成功经验的绝对领先者。目前Club Factory管理数千万SKU，合作过上百万家供应商。\n\n公司始于斯坦福大学创业团队。核心技术团队来自谷歌、阿里、Amazon、网易等，具有斯坦福大学、加州大学伯克利分校、卡内基梅隆、浙江大学等院校的计算机专业背景。\n\n大数据和人工智能技术为企业带来新一轮的机遇和科技红利。嘉云数据将继续致力于服务国内外制造企业和中小企业，同时也为广大海外市场用户带去高性价比的商品和服务，在发展过程中实现本地化共生共赢。",
+      "encryptComId": "1809b73c348b362d1XV939W5"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "Java开发",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "文二路",
+          "distance": "",
+          "lid": "ZQLG8eSzks.search.1",
+          "performance": "",
+          "salaryDesc": "12-20K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Java"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "9b4a199ee7b032c30XV609q8FFY~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "嘉云数据",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180213/340065c4ea7b1e3d379d97bbef06339fcfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "D轮及以上",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "陈丽然",
+          "bossTitle": "java开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180915/e3d29906d9e89b4d095fe11f17868d4d819c01226d9fbdae0876f3c7c5e659ff_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java"
+          ],
+          "welfares": [],
+          "securityId": "Ns0aTt5LedZEL-r1c9GPgNhTYqu0KyhQqJT_KXP1lrDRgd5iJCexOGjvzMeAnR97bGzeSQ~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "搜索推荐算法工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "文二路",
+          "distance": "",
+          "lid": "ZQLG8eSzks.search.2",
+          "performance": "",
+          "salaryDesc": "20-40K",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "推荐算法",
+            "搜索算法",
+            "广告算法"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "推荐算法",
+              "highlight": false
+            },
+            {
+              "content": "搜索算法",
+              "highlight": false
+            },
+            {
+              "content": "广告算法",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "f6839caf3d161ef51nZ82t25GFVU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "嘉云数据",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180213/340065c4ea7b1e3d379d97bbef06339fcfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "D轮及以上",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "陈钰雯",
+          "bossTitle": "搜索算法",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "推荐算法",
+            "搜索算法",
+            "广告算法",
+            "人工智能",
+            "大数据",
+            "TensorFlow",
+            "DNN"
+          ],
+          "welfares": [],
+          "securityId": "eG9JicqpRsWYV-x1xAPwHbY8bdBisSMwNeZkHwV7X35wdNfa4hOKrCcZfC7U19qm4fdCN_r8",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

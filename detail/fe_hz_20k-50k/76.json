@@ -1,0 +1,454 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "WrV304T2LXt83-71rzH_FkN0c3x-P_EAGLeUYdW83cYsMwJIINby7PDtJeXL-1WHgtbLid4nuqjYP9X0sdohOyebDSiuB1wn0vv-bOynPikCgSmMkTCiIXc7M8rs8RGRa4Dj0ik~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "b09e30664832bf081nZ93Nu0FFU~",
+      "bossId": 12776947,
+      "securityId": "-J8Hn2WqpT7JF-X1VlVA0gRiD8p79p0Qa_ndi3Vph1NNPYgPkeyN3JTrh_C-_33lp9ILAkBIvIIhiWv2mfPRT3vFWCxV",
+      "name": "鲁先生",
+      "tinyAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+      "title": "资深前端开发",
+      "activeTimeDesc": "近半年活跃",
+      "activeTime": 1684148413000,
+      "bossOnline": false,
+      "brandName": "杭州微盟",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 199932205,
+      "encryptJobId": "0498c0ff3415e6071n1z0t6_ElJV",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端技术专家",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "仓前",
+      "locationDesc": "杭州·余杭区·仓前",
+      "experienceName": "5-10年",
+      "degreeName": "本科",
+      "lowSalary": 35,
+      "highSalary": 60,
+      "jobDesc": "职位描述\n1. 负责公司SaaS产品的前端 (Web&H5&小程序)研发；\n2. 负责前端技术架构的规划、设计及持续优化，架构符合业务需求和未来发展，并能支撑起优质的用户体验和高人效的开发效率；\n3. 负责与产品、后端、APP端、测试等多团队协作，保障项目高质量推进；\n3. 负责前端开发关键技术问题的攻关和系统优化，协助排查并解决开发过程中的技术难题；\n4. 负责提升系统的可维护性、可扩展性、部署效率等维度，提供性能优化、日志收集及统计分析等方案，并推动执行、落地；\n5. 负责团队建设和人员管理，搭建团队人才梯队，负责人员绩效考核和能力提升；\n\n\n任职资格\n1. 全日制本科及以上学历，4年以上前端开发经验；\n2. 熟悉原生JavaScript和ES6, 能够熟练使用主流的javascript框架；\n3. 精通React框架，有NodeJS开发经验，编写过前端架构，有服务器经验或者开源项目经验优先.\n4. 对Web标准和兼容性有良好认识，具备良好的代码风格以及接口、架构设计能力，需要具有处理浏览器兼容性的经验；\n5. 具备大型项目前端经验优先；\n6. 具有较强的团队合作精神、进取心和求知欲，热爱学习，勇于挑战。能够带领团队。",
+      "requiredSkills": [
+        "前端开发",
+        "JavaScript",
+        "HTML",
+        "ES6",
+        "React",
+        "Web端",
+        "移动端",
+        "小程序"
+      ],
+      "address": "杭州余杭区杭州华夏之心·WeTown美瑭19层",
+      "longitude": 120.001889,
+      "latitude": 30.283615,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5ec65f74cb5681e773343d3cb35663ba",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2895bb0abe4b3f4fddd7db352b138d20",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "35-60K·14薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "8df52a1ba365254d1nV93Nw~",
+      "brandName": "杭州微盟",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/bar/brand/11771.jpg",
+      "industryName": "移动互联网",
+      "stageName": "已上市",
+      "scaleName": "1000-9999人",
+      "brandIntroduce": "微盟成立于 2013 年 4 月，现有员工超 2000 人，渠道代理商超 1500 家，注册商户突破 270 万家，2019年香港主板上市，股票代码【2013.HK】；\n微盟，智能商业服务提供商！为中小企业提供微商城、智慧零售、餐饮O2O、微盟小程序等一体化解决方案，以更开放的服务生态为用户提供产品和服务，构建线上线下融合、开放互通的智能商业服务生态体系，帮助更多中小企业向智能商业转型升级！\n    杭州为盟信息科技有限公司作为微盟杭州地区子公司，坐落于杭州市滨江区，作为微盟在华东战区的重要战略布局，杭州微盟扎根杭州，辐射浙江，影响华东。主要负责微盟旗下旺铺分销、萌店、O2O智慧餐厅等各项业务。提供本地化的销售、服务、运营和技术开发等相关工作。自2015年8月成立至今团队突破100人，目前服务杭州1000余家商户，其中包括 百草味、老板电器、艾莱依、欧诗漫、小也、艺福堂、十九楼、浙大纺织、中国美院、九阳等知名企业。致力于打造杭州本地企业营销和运营服务最强的服务团队。",
+      "comName": "杭州为盟信息科技有限公司",
+      "legalPerson": "周梦梦",
+      "startDate": "2015-08-21",
+      "regCapital": "100万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市拱墅区滨绿大厦1幢301室",
+      "businessScope": "一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；日用百货销售；鞋帽零售；服装服饰零售；玩具销售；化妆品零售；工艺美术品及收藏品零售（象牙及其制品除外）；体育用品及器材零售；办公用品销售；照相机及器材销售；电子产品销售；广告制作；广告设计、代理；广告发布（非广播电台、电视台、报刊出版单位）；市场营销策划；企业形象策划；项目策划与公关服务；信息咨询服务（不含许可类信息咨询服务）；网络技术服务；计算机软硬件及辅助设备零售；软件销售；移动通信设备制造（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：第二类增值电信业务；互联网信息服务（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "微盟成立于 2013 年 4 月，现有员工超 2000 人，渠道代理商超 1500 家，注册商户突破 270 万家，2019年香港主板上市，股票代码【2013.HK】；\n微盟，智能商业服务提供商！为中小企业提供微商城、智慧零售、餐饮O2O、微盟小程序等一体化解决方案，以更开放的服务生态为用户提供产品和服务，构建线上线下融合、开放互通的智能商业服务生态体系，帮助更多中小企业向智能商业转型升级！\n    杭州为盟信息科技有限公司作为微盟杭州地区子公司，坐落于杭州市滨江区，作为微盟在华东战区的重要战略布局，杭州微盟扎根杭州，辐射浙江，影响华东。主要负责微盟旗下旺铺分销、萌店、O2O智慧餐厅等各项业务。提供本地化的销售、服务、运营和技术开发等相关工作。自2015年8月成立至今团队突破100人，目前服务杭州1000余家商户，其中包括 百草味、老板电器、艾莱依、欧诗漫、小也、艺福堂、十九楼、浙大纺织、中国美院、九阳等知名企业。致力于打造杭州本地企业营销和运营服务最强的服务团队。",
+      "encryptComId": "4056423b88e8b2141X153dm6"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "Java专家（新零售-杭州）",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "102IYxnrLiv.search.1",
+          "performance": "",
+          "salaryDesc": "40-60K·14薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "分布式技术",
+            "负载均衡技术",
+            "Spring"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "负载均衡技术",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "1072cd8681a4ae0e1n1z3dS7GFFU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州微盟",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/brand/11771.jpg",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "鲁先生",
+          "bossTitle": "资深前端开发",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "分布式技术",
+            "负载均衡技术",
+            "Spring",
+            "Dubbo",
+            "Hibernate",
+            "MySQL",
+            "Redis",
+            "Memcached"
+          ],
+          "welfares": [],
+          "securityId": "GxWWEK3h_mJjh-n1Nbt7Dyr99slBF-wIgxuXVteSO7ljCQ6QPlaEjdkfFGQ7H50YCLaYhTw~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "JAVA开发-销氪",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "102IYxnrLiv.search.2",
+          "performance": "",
+          "salaryDesc": "22-40K·14薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "多线程",
+            "容器技术",
+            "Dubbo"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "多线程",
+              "highlight": false
+            },
+            {
+              "content": "容器技术",
+              "highlight": false
+            },
+            {
+              "content": "Dubbo",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "56cee479b41d7e9a1n1z0920GFRZ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州微盟",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/brand/11771.jpg",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "鲁先生",
+          "bossTitle": "资深前端开发",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "多线程",
+            "容器技术",
+            "Dubbo",
+            "SSM",
+            "Redis",
+            "Linux"
+          ],
+          "welfares": [],
+          "securityId": "KEZwqclu0AHov-Z1Im3W5osgzwZGC8gD3fBICV9hHYMYWNrfgJliV8Xyd_liuypLOKR1u6Q~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "JAVA技术专家-销氪",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "102IYxnrLiv.search.3",
+          "performance": "",
+          "salaryDesc": "30-60K·14薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "分布式技术",
+            "搜索引擎技术",
+            "Spring"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "搜索引擎技术",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "20f276c027e4c7dc1n1z3N28GFpS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州微盟",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/brand/11771.jpg",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "鲁先生",
+          "bossTitle": "资深前端开发",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "分布式技术",
+            "搜索引擎技术",
+            "Spring",
+            "Dubbo",
+            "架构师"
+          ],
+          "welfares": [],
+          "securityId": "qKBFN1Iw43in0-211TjxQvbJCySI9eFMun-PXVCKvy4_hwkeu6bOu1cNXpWP9KRXxVZ0jQQ~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "前端开发-销氪",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "102IYxnrLiv.search.4",
+          "performance": "",
+          "salaryDesc": "20-40K·14薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Node.js",
+            "HTML",
+            "React"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Node.js",
+              "highlight": false
+            },
+            {
+              "content": "HTML",
+              "highlight": false
+            },
+            {
+              "content": "React",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "b752fba5f1ef536e1n1z0t68ElpX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州微盟",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/brand/11771.jpg",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "鲁先生",
+          "bossTitle": "资深前端开发",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Node.js",
+            "HTML",
+            "React",
+            "React.JS",
+            "移动端",
+            "小程序",
+            "PC端"
+          ],
+          "welfares": [],
+          "securityId": "_sdz0JvxvZ1HS-312ctoElm4mhIVMmLwIiaeWINjPzZ8XA3L7lB8kI2R7VhzSPousegFROg~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

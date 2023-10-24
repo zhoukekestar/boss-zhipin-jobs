@@ -1,0 +1,501 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "aRtpnC7g-uoXk-N1adsNJ50o4QOYkRF4eZqeccBqyNUQ9LhABm8rpwh23wr6Vu7kcpvVcGES7zU8IQWrmMkKyWmK5xAIW9N2zO0EE-sriiBNnfxtx3E62u9I8zhD5MxQSCNvNX67Xg~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "58e409dd8902063f3nF92N-7EVY~",
+      "bossId": 95732614,
+      "securityId": "GNiVULUsSQdby-Z1QvGQnAVUpBY-uRSb-uOoKZ1I9GXlMboJMIIT57Qq9oGYbErGo1UnkoJC6rIisPhtxbVE4vCC70y6",
+      "name": "周先生",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211115/607f1f3d68754fd024f02cd624b678053f43884f03e49d46cfb2dcbf9f35817bd65a1cfea095e332_s.png",
+      "title": "商户研发部-前端leader",
+      "activeTimeDesc": "2月内活跃",
+      "activeTime": 1695016184000,
+      "bossOnline": false,
+      "brandName": "传易互联",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 196652389,
+      "encryptJobId": "c9aa44b8606054311n183di_E1pZ",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "西溪",
+      "locationDesc": "杭州·西湖区·西溪",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 18,
+      "highSalary": 25,
+      "jobDesc": "0、需要本科以上学历，公司层面的要求\n1、能够独立支撑一条前端业务线的开发和维护工作\n2、持续改进前端页面性能、安全性、稳定性和可扩展性\n3、参与优化前端开发效率、质量，包括且不限于 CI 建设、研发工具、内部分享学习等\n4、有Vue项目开发经验优先\n5、急招，能快速到岗优先",
+      "requiredSkills": [
+        "前端开发",
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "HTML5",
+        "ES6",
+        "TypeScript",
+        "WEB开发"
+      ],
+      "address": "杭州西湖区杭州互联网创新创业园B幢8楼",
+      "longitude": 120.066889,
+      "latitude": 30.290128,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3cfbe6b51c40c5bad10b5c882272ab7d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/18594e0a53327509cc88712071cb6d38",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "18-25K·14薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "5d8bde3cddfa3b351nN82tW0EA~~",
+      "brandName": "传易互联",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190625/337bc41f9eba5a4653f2ba63f86cbf955f31b24264037ab68ec697593a67f267_s.jpg",
+      "industryName": "移动互联网",
+      "stageName": "不需要融资",
+      "scaleName": "500-999人",
+      "brandIntroduce": "传易集团是由中国领先的互联网公司网易集团(纳斯达克代码：NTES) 和全球智能终端产品及移动增值服务提供商传音控股集团共同创办的合资公司。从音乐、短视频、新闻资讯到支付服务，传易聚焦移动互联网领域，致力于为非洲的广大用户提供多样化的在线服务。作为率先深入非洲市场的中国互联网公司，传易现已凭借非洲最大的在线音乐平台Boomplay、非洲排名第一的短视频社交平台Vskit等优秀的在线应用成为非洲服务最多用户的互联网企业之一。\n\n随着非洲基础设施的不断完善和互联网消费需求的持续增长，非洲互联网业务的未来发展呈现出了巨大的潜力和增长空间。专注于打造非洲用户最喜爱的互联网产品，传易将网易雄厚的技术实力、先进的互联网产品运营理念，与传音在非洲成熟的渠道资源、坚实的市场根基强强联合，在精准选择产品的基础上，不断实现更强大的技术创新和更广阔的地域覆盖。通过在本地化内容领域的不懈深耕，传易致力为非洲用户带来更方便，更多元的互联网体验，并持续成长为非洲市场最具影响力的技术领导者。\n\n股东介绍：\n网易是中国领先的互联网技术公司, 由丁磊先生于 1997 年6月创立, 并于2000年6月在美国纳斯达克股票市场公开上市（NASDAQ：NTES）。目前，网易已覆盖中国超过9亿用户，为其提供邮箱、电商、游戏、视频直播、新闻媒体、内容社区、在线教育等多元化的互联网服务。网易秉承以人为本的人才战略，渴望吸引、留住并激励最优秀的人才，倡导为员工提供轻松的办公氛围和良好的生活条件，为优秀人才提供快速成长的平台和充足的发展空间。\n\n\n传音控股致力于成为新兴市场消费者最喜爱的智能终端产品和移动互联服务提供商。传音旗下拥有新兴市场知名手机品牌TECNO、itel及Infinix，还包括数码配件品牌Oraimo、家用电器品牌Syinix以及售后服务品牌Carlcare。2019年传音手机出货量1.37亿部，根据 IDC统计数据，全球市场占有率8.1%，排名第四；非洲市场占有率52.5%，排名第一。2019年，传音荣获“中国民营企业500强”、“中国民营企业制造业500强”、“广东省制造业企业500强”、“广东省百强民营企业”、“深圳500强企业”、“深圳市民营领军骨干企业”等殊荣。2019年9月30日，传音控股在上海证券交易所科创板成功挂牌上市。目前，传音全球销售网络已覆盖70多个国家和地区，包括尼日利亚、肯尼亚、坦桑尼亚、埃塞俄比亚、埃及、阿联酋（迪拜）、印度、巴基斯坦、印度尼西亚、越南、孟加拉国等。",
+      "comName": "传易互联（深圳）有限公司",
+      "legalPerson": "曹鲁",
+      "startDate": "2017-10-25",
+      "regCapital": "1800万美元",
+      "statusDesc": "存续",
+      "regAddress": "深圳市南山区粤海街道滨海社区海天一路8号百度国际大厦西塔楼6层",
+      "businessScope": "一般经营项目是：互联网技术开发；软件设计开发、销售及技术咨询。（以上法律、行政法规、国务院决定规定在登记前须经批准的项目除外，限制的项目须取得许可后方可经营），许可经营项目是：",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "传易集团是由中国领先的互联网公司网易集团(纳斯达克代码：NTES) 和全球智能终端产品及移动增值服务提供商传音控股集团共同创办的合资公司。从音乐、短视频、新闻资讯到支付服务，传易聚焦移动互联网领域，致力于为非洲的广大用户提供多样化的在线服务。作为率先深入非洲市场的中国互联网公司，传易现已凭借非洲最大的在线音乐平台Boomplay、非洲排名第一的短视频社交平台Vskit等优秀的在线应用成为非洲服务最多用户的互联网企业之一。\n\n随着非洲基础设施的不断完善和互联网消费需求的持续增长，非洲互联网业务的未来发展呈现出了巨大的潜力和增长空间。专注于打造非洲用户最喜爱的互联网产品，传易将网易雄厚的技术实力、先进的互联网产品运营理念，与传音在非洲成熟的渠道资源、坚实的市场根基强强联合，在精准选择产品的基础上，不断实现更强大的技术创新和更广阔的地域覆盖。通过在本地化内容领域的不懈深耕，传易致力为非洲用户带来更方便，更多元的互联网体验，并持续成长为非洲市场最具影响力的技术领导者。\n\n股东介绍：\n网易是中国领先的互联网技术公司, 由丁磊先生于 1997 年6月创立, 并于2000年6月在美国纳斯达克股票市场公开上市（NASDAQ：NTES）。目前，网易已覆盖中国超过9亿用户，为其提供邮箱、电商、游戏、视频直播、新闻媒体、内容社区、在线教育等多元化的互联网服务。网易秉承以人为本的人才战略，渴望吸引、留住并激励最优秀的人才，倡导为员工提供轻松的办公氛围和良好的生活条件，为优秀人才提供快速成长的平台和充足的发展空间。\n\n\n传音控股致力于成为新兴市场消费者最喜爱的智能终端产品和移动互联服务提供商。传音旗下拥有新兴市场知名手机品牌TECNO、itel及Infinix，还包括数码配件品牌Oraimo、家用电器品牌Syinix以及售后服务品牌Carlcare。2019年传音手机出货量1.37亿部，根据 IDC统计数据，全球市场占有率8.1%，排名第四；非洲市场占有率52.5%，排名第一。2019年，传音荣获“中国民营企业500强”、“中国民营企业制造业500强”、“广东省制造业企业500强”、“广东省百强民营企业”、“深圳500强企业”、“深圳市民营领军骨干企业”等殊荣。2019年9月30日，传音控股在上海证券交易所科创板成功挂牌上市。目前，传音全球销售网络已覆盖70多个国家和地区，包括尼日利亚、肯尼亚、坦桑尼亚、埃塞俄比亚、埃及、阿联酋（迪拜）、印度、巴基斯坦、印度尼西亚、越南、孟加拉国等。",
+      "encryptComId": "52c65370f9f9a51f33J53Nu9Fw~~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "测试开发工程师/高级测试开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "104Y0Ssg9vK.search.1",
+          "performance": "",
+          "salaryDesc": "15-25K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Java",
+            "JMeter",
+            "TestNG"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "JMeter",
+              "highlight": false
+            },
+            {
+              "content": "TestNG",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "195680984bb522111XB-2dm-FVtR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "传易互联",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190625/337bc41f9eba5a4653f2ba63f86cbf955f31b24264037ab68ec697593a67f267_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "万建勇",
+          "bossTitle": "高级测试开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "JMeter",
+            "TestNG",
+            "计算机相关专业",
+            "测试工作经验",
+            "自动化测试经验"
+          ],
+          "welfares": [],
+          "securityId": "wUX4XLl2SPR6s-g1NIaOL8woAf7HXZHlnTS7qzpqG2Qvr6W7p-5xXrmLDuPsENnQZ1KzENg~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "技术支持",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "104Y0Ssg9vK.search.2",
+          "performance": "",
+          "salaryDesc": "15-20K·14薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "IT技术支持经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "IT技术支持经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "e0629e4c59ae39cf1XB42tu1FFNX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "传易互联",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190625/337bc41f9eba5a4653f2ba63f86cbf955f31b24264037ab68ec697593a67f267_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "刘先生",
+          "bossTitle": "内推工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220818/607f1f3d68754fd0dbffd657db9142ebaf52fd5481845177adb49a3fc86fef7e3a848b42abf16aa7_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "IT技术支持经验"
+          ],
+          "welfares": [],
+          "securityId": "iZWeWmHzkqqTs-y1OIvfRnR7lRUdN4Rn44dOuZGpbm-iTUDPmZcCT1DUV75vydeH3MVeBpU~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "104Y0Ssg9vK.search.3",
+          "performance": "",
+          "salaryDesc": "15-25K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Java"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "321d3e4956c847a91XB60tW_F1tQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "传易互联",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190625/337bc41f9eba5a4653f2ba63f86cbf955f31b24264037ab68ec697593a67f267_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "石磊",
+          "bossTitle": "Java开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java"
+          ],
+          "welfares": [],
+          "securityId": "v0pQgsoFwDFb_-j19MQKa9sQwZZpF8WolJxvwwVWR6jDQgkd66YtGLmrv5Izk6aXNMcasYI~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级测试开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "104Y0Ssg9vK.search.5",
+          "performance": "",
+          "salaryDesc": "15-30K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "性能测试",
+            "自动化测试",
+            "压力测试"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "性能测试",
+              "highlight": false
+            },
+            {
+              "content": "自动化测试",
+              "highlight": false
+            },
+            {
+              "content": "压力测试",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "e3952cae6580d8b81XJ-39i0FVZQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "传易互联",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190625/337bc41f9eba5a4653f2ba63f86cbf955f31b24264037ab68ec697593a67f267_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "朱女士",
+          "bossTitle": "资深测试开发",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180706/447fb26b48b47875df0634eedc3d3144a1c929ddaad29d9290c144bf104cbe17_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "性能测试",
+            "自动化测试",
+            "压力测试",
+            "Java",
+            "Python",
+            "MySQL",
+            "计算机相关专业",
+            "测试工作经验",
+            "自动化测试经验",
+            "金融支付，多国，app专项"
+          ],
+          "welfares": [],
+          "securityId": "UfBArK4x5fKer-B1dpEwhgGaTkJ68OUQqtlMizPfiUusjgYbCrdM8IgxULVca1KAgbU9jkM~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "中间件开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "学历不限",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "104Y0Ssg9vK.search.6",
+          "performance": "",
+          "salaryDesc": "25-35K",
+          "jobLabels": [
+            "5-10年",
+            "学历不限",
+            "后端工程师",
+            "分布式系统开发经验",
+            "源码爱好者"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "学历不限",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "分布式系统开发经验",
+              "highlight": false
+            },
+            {
+              "content": "源码爱好者",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "0355542ad530ae2e1Xx_3NS1ElpY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "传易互联",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190625/337bc41f9eba5a4653f2ba63f86cbf955f31b24264037ab68ec697593a67f267_s.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "李思明",
+          "bossTitle": "中间件负责人",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20161129/f7650adf537b93a7db88bce0fec777da8c7dd922ad47494fc02c388e12c00eac_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "分布式系统开发经验",
+            "源码爱好者",
+            "技术达人"
+          ],
+          "welfares": [],
+          "securityId": "cwC3iEiAaRPH0-91BdfubzVGgNc2QFmdEnErFLccIUTYXmN4hTB51V8fbeQsQ0L89ioj1Ew~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

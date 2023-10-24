@@ -1,0 +1,523 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "8S_AAW8kcMaZU-018dGPoluz0EFVfl3-lGwnVkWvZ-RkKjEKejfRok1qhv1Rk9gkpMtoIoTLYEP9I6BkMcE73Wc3hD3UYZ2qTC3KfsypJoQd0FRpoQJ0EbAKgadMlvlOFHloNzEcdtT_i3qMeZieDDOsS3QcKpAiUfFQxtIJ53XpyRY~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "872ca1b7b79747990nJ729S-GFY~",
+      "bossId": 56109384,
+      "securityId": "zTD75wckBHScC-P1S25NpATS5JmSWv77YW3RikUnc1AxQaBLInNpr2EekuB1Vtc966EnAkNdgW8H39MmGtMJfvCTiU4X",
+      "name": "刘先生",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190304/0605fb2470c979d070e88a5819e8cd9e8766f5c405f46381ad22623c444a8650_s.jpg",
+      "title": "前端技术专家",
+      "activeTimeDesc": "刚刚活跃",
+      "activeTime": 1698150159649,
+      "bossOnline": false,
+      "brandName": "飞猪",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 288856442,
+      "encryptJobId": "65c0946d042f4c8a1Xxy09i7FFZS",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端工程师",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "仓前",
+      "locationDesc": "杭州·余杭区·仓前",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "lowSalary": 18,
+      "highSalary": 22,
+      "jobDesc": "【关于飞猪旅行】\n属于阿里集团，专注旅行业务（机票/酒店/度假/商旅）\n【关于我们团队】\n负责度假业务（门票/酒景/跟团游/自由行/境外游/签证/境外通讯）\n-----\n【基本情况】\nP5 职级，前端工程师，笔试(非hard算法)+面试(2或3面)，团队不卷\n【基本要求】\n1）熟悉前端主流框架 React 或 Vue ，1~3年经验\n2）前端基础扎实、计算机基础扎实\n3）具备以下条件优先\n**（中后台） 微前端、低代码经验优先；\n**（H5/小程序）多端H5、小程序、前端业务框架、Node经验优先\n**（PM能力）在中大型项目中担任过 PM 或主导中大型项目的技术方案架构\n**（分享/开源）有技术博客、参与开源项目者优先\n-----\n【岗位描述】\n1）负责飞猪旅行业务的多端页面（H5、小程序、中后台）小程序开发、上线、维护工作\n2）参与前端技术架构设计，承担核心模块的代码编写\n3）保障业务性能与稳定性，分析各类数据，识别并解决瓶颈问题\n4）在理解产品业务的基础上，打造提升产品体验或研发效能的技术工具、产品、平台\n5）关注并实践前端前沿技术\n\n【岗位要求】\n1）本科或以上学历，至少2年前端开发经验\n2）精通各种前端基础技术，包括 HTML/CSS/JavaScript/TypeScript 等，熟悉函数式、性能优化、小程序、跨端技术者优先\n3）熟悉至少一个前端主流框架（React 优先），能够高效完成视觉稿拆解及编码实现\n4）对前端工程化与模块化开发有一定了解，并有一定实践经验（如 Gulp/Webpack/Rollup等）\n5）对前端技术有持续热情，具备良好的团队协作精神，个性乐观开朗，善于与各种不同背景角色合作\n6）良好的项目管理和沟通表达能力",
+      "requiredSkills": [
+        "React",
+        "JavaScript"
+      ],
+      "address": "杭州余杭区巨化大厦1F-19F",
+      "longitude": 120.003462,
+      "latitude": 30.278485,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d6b6ff3e738c11b82aa2bba441394314",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/54b766da3d396b14d4c087bcfc4670fe",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "18-22K·16薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "dccd6d5be6b5b55a1XRz2tS_ElQ~",
+      "brandName": "飞猪",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230112/7bf6f160950405e982e5a3cf61c26dee2ff26a5ea92ea290007a310bd8ef82b635ddef470abce2e9.jpg",
+      "industryName": "计算机软件",
+      "stageName": "不需要融资",
+      "scaleName": "1000-9999人",
+      "brandIntroduce": "飞猪旅行是一个综合性旅游服务平台，提供国内外交通、酒店住宿、景区门票、目的地游玩等产品及旅游周边服务，为消费者创造丰富、高品质的旅行体验。\n飞猪旅行坚持以产品和服务的创新，满足消费者日益个性化、多元化的需求，针对消费者灵活出行的需要，预售套餐应运而生，开创了一种在日历销售之外的新型收益管理和品牌营销模式；为提升酒店住客体验，“信用住”来了：入住全球超20万酒店时，你都可以享受免押金、免排队、免查房服务。包船去南极、在线办理签证，通过直播“云游”四海，承载看世界梦想的“未来飞”……崭新的体验吸引着越来越多的消费者选择飞猪旅行。在我们的用户中，“90后”占比已达到60%以上。\n飞猪旅行致力于为旅游业提供数字化服务，用技术提升行业效率，给商家创造增量价值。我们整合生态内的多元用户场景，为商家提供一体化的全域运营方案。飞猪官方旗舰店常常被旅行品牌企业视为数字化经营的重要阵地，商家可以自主运营、管理和累积其数字化资产。“菲住联盟”则通过会员联盟的方式，帮助广大中小单体酒店突破品牌力弱、入住率低、复购率低的顽疾，走向更高质量的经营和发展。飞猪旅行旗下子品牌“阿里商旅”则是业内领先的一站式数智化差旅管理平台。它为企业客户提供包括差标管控、行程预订、差旅报销等在内的服务解决方案，帮助企业降本增效，增加合规透明度，提升组织效率及员工差旅体验。",
+      "comName": "飞猪商务服务（杭州）有限公司",
+      "legalPerson": "刘剑",
+      "startDate": "2022-01-05",
+      "regCapital": "500万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市余杭区五常街道文一西路969号3幢4层468",
+      "businessScope": "一般项目：办公服务；礼仪服务；航空商务服务；个人商务服务；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；信息技术咨询服务；信息咨询服务（不含许可类信息咨询服务）；商务代理代办服务；会议及展览服务；企业管理咨询；企业管理；社会经济咨询服务；数据处理和存储支持服务；计算机软硬件及辅助设备批发；计算机软硬件及辅助设备零售；计算机软硬件及外围设备制造；互联网销售（除销售需要许可的商品）；旅行社服务网点旅游招徕、咨询服务；票务代理服务；广告设计、代理；广告制作；广告发布（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：旅游业务（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "飞猪旅行是一个综合性旅游服务平台，提供国内外交通、酒店住宿、景区门票、目的地游玩等产品及旅游周边服务，为消费者创造丰富、高品质的旅行体验。\n飞猪旅行坚持以产品和服务的创新，满足消费者日益个性化、多元化的需求，针对消费者灵活出行的需要，预售套餐应运而生，开创了一种在日历销售之外的新型收益管理和品牌营销模式；为提升酒店住客体验，“信用住”来了：入住全球超20万酒店时，你都可以享受免押金、免排队、免查房服务。包船去南极、在线办理签证，通过直播“云游”四海，承载看世界梦想的“未来飞”……崭新的体验吸引着越来越多的消费者选择飞猪旅行。在我们的用户中，“90后”占比已达到60%以上。\n飞猪旅行致力于为旅游业提供数字化服务，用技术提升行业效率，给商家创造增量价值。我们整合生态内的多元用户场景，为商家提供一体化的全域运营方案。飞猪官方旗舰店常常被旅行品牌企业视为数字化经营的重要阵地，商家可以自主运营、管理和累积其数字化资产。“菲住联盟”则通过会员联盟的方式，帮助广大中小单体酒店突破品牌力弱、入住率低、复购率低的顽疾，走向更高质量的经营和发展。飞猪旅行旗下子品牌“阿里商旅”则是业内领先的一站式数智化差旅管理平台。它为企业客户提供包括差标管控、行程预订、差旅报销等在内的服务解决方案，帮助企业降本增效，增加合规透明度，提升组织效率及员工差旅体验。",
+      "encryptComId": "34e06bff3867fe4d1HF639W0FlE~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "推荐算法（高级）专员",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZS0MTTPp0R.search.1",
+          "performance": "",
+          "salaryDesc": "15-30K·16薪",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "Java",
+            "C/C++",
+            "Python"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "C/C++",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "9ca25f1e1ca565531Xdz3t-7FlBU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "飞猪",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230112/7bf6f160950405e982e5a3cf61c26dee2ff26a5ea92ea290007a310bd8ef82b635ddef470abce2e9.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "许女士",
+          "bossTitle": "招聘专家",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "C/C++",
+            "Python",
+            "计算机相关专业",
+            "推荐系统相关经验",
+            "电商/广告算法经验"
+          ],
+          "welfares": [],
+          "securityId": "rDwJ5Xg3hE3gM-_1JsXGuNiYdtxQXsa7gJ0cuy696uTsHvr-eYtQ8Vjjem2ZrE_bKKaxWy8~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java高级开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZS0MTTPp0R.search.2",
+          "performance": "",
+          "salaryDesc": "25-40K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "后端工程师",
+            "Java",
+            "Spring"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "df6839316b435a371XFz3Nq8ElVR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "飞猪",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230112/7bf6f160950405e982e5a3cf61c26dee2ff26a5ea92ea290007a310bd8ef82b635ddef470abce2e9.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "郭晨辉",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221216/607f1f3d68754fd01be8c9ef602b865b479563922cb2c96b02a419632d6807cd836165227d56fce5_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "Java",
+            "Spring",
+            "MyBatis",
+            "计算机/软件工程相关经验",
+            "Java开发经验",
+            "分布式系统开发经验"
+          ],
+          "welfares": [],
+          "securityId": "f00XqqMBgQe6d-v1Xn8Fl3WB8vrJEDRBNApu2UzKDIb_mcMd4_XtCaBou2pVSwtewz3bngw~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZS0MTTPp0R.search.3",
+          "performance": "",
+          "salaryDesc": "25-40K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "后端工程师",
+            "架构师",
+            "Java"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "架构师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "09ccaeccd5b6c3ac1XJ63N61FFdY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "飞猪",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230112/7bf6f160950405e982e5a3cf61c26dee2ff26a5ea92ea290007a310bd8ef82b635ddef470abce2e9.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "林先生",
+          "bossTitle": "研发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "架构师",
+            "Java",
+            "Spring",
+            "MyBatis",
+            "计算机/软件工程相关经验",
+            "分布式系统开发经验",
+            "中大型项目架构设计经验"
+          ],
+          "welfares": [],
+          "securityId": "cRZs7Low2wr3Y-O1XO624lFqXdjvuVTxe-xKmKcLut47JFQV3SNFkvs9HipqDzQ7Obp0Wn2w",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "商业数据分析师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZS0MTTPp0R.search.4",
+          "performance": "",
+          "salaryDesc": "20-40K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Power BI",
+            "数据分析/挖掘经验",
+            "旅游行业数据相关经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Power BI",
+              "highlight": false
+            },
+            {
+              "content": "数据分析/挖掘经验",
+              "highlight": false
+            },
+            {
+              "content": "旅游行业数据相关经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "1bd78989f4f8e40f1Xdz3ty4ElpV",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "飞猪",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230112/7bf6f160950405e982e5a3cf61c26dee2ff26a5ea92ea290007a310bd8ef82b635ddef470abce2e9.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "房女士",
+          "bossTitle": "分析师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Power BI",
+            "数据分析/挖掘经验",
+            "旅游行业数据相关经验",
+            "Tableau",
+            "SQL",
+            "数学/统计相关专业"
+          ],
+          "welfares": [],
+          "securityId": "1nBIYBReOSaHe-s1jI58Mbq9bDuBXLJgqOXaItxAc9Ic_S70Raxd3bYGmspBxDZhfUG9X4Ie",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZS0MTTPp0R.search.5",
+          "performance": "",
+          "salaryDesc": "16-30K",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "Java",
+            "后端开发",
+            "系统架构"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "后端开发",
+              "highlight": false
+            },
+            {
+              "content": "系统架构",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "b13014f13ce6ece11XV-0t28FVRZ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "飞猪",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230112/7bf6f160950405e982e5a3cf61c26dee2ff26a5ea92ea290007a310bd8ef82b635ddef470abce2e9.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "马磊",
+          "bossTitle": "技术专家",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "后端开发",
+            "系统架构"
+          ],
+          "welfares": [],
+          "securityId": "7HsYrKYw1uxbP-f1yINFmhnQHzIAKbkQxa2Oku0mc_qgUV20DKMc5CSFGH4PcbKJchE2UWM~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

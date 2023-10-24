@@ -1,0 +1,521 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "eQQr7i1eHWlRA-Q1OuXRhwgPn1I6M_Kozi5zN_36u2tyF9y_ENYnisxuzOpBzWf3jKDNca1aKt70Z7aXKCkVYmNNNn3O_TGSoBT1ZQH6I_Izb3AuyNp0nuIYuBwKLhGRT5GQe6EDHA~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "8fda5460fa646aac1XR_2d21EFM~",
+      "bossId": 20520801,
+      "securityId": "ifpm_6bASzMys-k11WWpNjL6163n797qxF-VB0msVY7Ey28AdsiQ2LvIy3KAjw72tPS5hYjNxDoFzqJVG0KHTMd6VCPv",
+      "name": "雷先生",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20161223/f836833327aa588e2cc421067e2c687e1d74ed4cc8aad1f4306b0633a12c3336_s.jpg",
+      "title": "得物供应链前端leader",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1646995074000,
+      "bossOnline": false,
+      "brandName": "得物App",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 184894308,
+      "encryptJobId": "24e85f61184046d31nx-09S5E1JY",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "资深前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "西湖区",
+      "businessDistrict": "文二路",
+      "locationDesc": "杭州·西湖区·文二路",
+      "experienceName": "5-10年",
+      "degreeName": "本科",
+      "lowSalary": 25,
+      "highSalary": 50,
+      "jobDesc": "职位描述\n岗位描述：\n\n1.负责供应链相关项目的开发与维护。\n\n2.参与前端架构的设计与实施，解决工程规范、研发效率、性能优化等问题。\n\n3.主导过中大型项目的建设与完善。\n\n4.具有良好的言语表达能力，善于与人沟通合作及高度的责任心。\n\n\n\n任职资格：\n\n1.3年以上前端领域开发经验；\n\n2.掌握主流前端框架的源码实现，理解框架背后的思想，可以持续改进完善业务框架；\n\n3.参与前端技术体系建设，沉淀公共组件、工具、文档。\n\n4.至少熟悉一门非前端开发语言（如Node/Java/php等）；",
+      "requiredSkills": [
+        "前端开发"
+      ],
+      "address": "杭州西湖区黄龙国际中心B",
+      "longitude": 120.127984,
+      "latitude": 30.275405,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eb1b541e56dbfe7d9807f10a2130d2e0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cbd2270a79e227af3718ec7e836e71b0",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "25-50K·16薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "6b46ec00bb8068171X162tm9Fg~~",
+      "brandName": "得物App",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b419a2f4b234c5f9d7626ce1e61d3acbcfcd208495d565ef66e7dff9f98764da.jpg",
+      "industryName": "电子商务",
+      "stageName": "B轮",
+      "scaleName": "1000-9999人",
+      "brandIntroduce": "得物App简介\n得物App是全球领先的集正品潮流电商和潮流生活社区于一体的新一代潮流网购社区。\n基于运动及潮流装备鉴别领域多年的积累与沉淀，得物App在传统电商模式的基础上添加\"鉴别服务\"，推出了\"先鉴别，后发货\"的购物流程，为国内的消费者带来全新的购物体验，让用户可以放心购买到品类丰富的经鉴别为正品的运动潮流装备。目前，平台商品已经覆盖潮鞋、潮服潮搭、手表、配饰、潮玩、3C数码、家居家电、美妆、艺术品等。作为新一代潮流网购社区，得物App聚集了新、潮、酷、炫的各类商品，也是各类潮流品牌发售和运营的首选阵地。\n得物App聚集了大批热爱潮品穿搭和潮流文化的Z世代年轻人（95年后出生），话题讨论集中在球鞋、潮牌、手办、街头文化、汽车腕表和时尚艺术等年轻人关注的热点话题。通过持续沉淀潮流话题内容，得物App正在成为年轻用户的潮流风向标和发声阵地。\n\n用户特点\n基于对潮流文化的了解和对年轻人的消费洞察，得物App上聚集了大量的年轻消费者，其中90后电商主力人群占比超过八成，男女比例各占近一半，覆盖一线城市、沿海地区，广 泛分布于全国。\n相比于传统电商，得物App通过\"社区+电商\"双业务模式，帮助年轻用户了解、获取、交流让他们有幸福感、愉悦感的各种事物。通过抓住\"社交化\"触点，得物App逐渐占领年轻人的消费心智。\n\n差异化服务\n得物App在传统电商模式的基础上增加鉴别真假与查验瑕疵的服务，首创\"先鉴别，后发货\"的购物流程，以\"强中心化\"的平台定位把控商品质量。基于此，保证用户在收到在得物App 购买的商品前，该商品已经通过多道鉴别查验工序中的\"层层关卡\"，得到全面的查验鉴别，为用户提供\"多重鉴别，正品保障\"的全新网购体验。",
+      "comName": "上海识装信息科技有限公司",
+      "legalPerson": "杨冰",
+      "startDate": "2015-07-27",
+      "regCapital": "100万人民币",
+      "statusDesc": "存续",
+      "regAddress": "上海市虹口区中山北一路121号B6-2005室",
+      "businessScope": "许可项目：第二类增值电信业务；拍卖业务；出版物互联网销售；出版物零售；货物进出口；技术进出口；食品经营。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）  一般项目：从事网络信息、计算机科技专业领域内的技术开发、技术转让、技术咨询、技术服务；互联网数据服务；大数据服务；数据处理服务；电子商务（不得从事增值电信、金融业务）；广告设计、代理；广告制作；广告发布（非广播电台、电视台、报刊出版单位）；商务信息咨询（不含投资类咨询）；互联网销售（除销售需要许可的商品）；票务代理服务；销售日用百货，鞋帽，箱包，钟表，服装服饰，化妆品，电子产品，通信设备及相关产品，针纺织品，厨房用品，卫生洁具，家用电器，体育用品及器材，健身器材，文化用品，日用杂品，宠物食品及用品；食品经营（限分支机构经营）。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "得物App简介\n得物App是全球领先的集正品潮流电商和潮流生活社区于一体的新一代潮流网购社区。\n基于运动及潮流装备鉴别领域多年的积累与沉淀，得物App在传统电商模式的基础上添加\"鉴别服务\"，推出了\"先鉴别，后发货\"的购物流程，为国内的消费者带来全新的购物体验，让用户可以放心购买到品类丰富的经鉴别为正品的运动潮流装备。目前，平台商品已经覆盖潮鞋、潮服潮搭、手表、配饰、潮玩、3C数码、家居家电、美妆、艺术品等。作为新一代潮流网购社区，得物App聚集了新、潮、酷、炫的各类商品，也是各类潮流品牌发售和运营的首选阵地。\n得物App聚集了大批热爱潮品穿搭和潮流文化的Z世代年轻人（95年后出生），话题讨论集中在球鞋、潮牌、手办、街头文化、汽车腕表和时尚艺术等年轻人关注的热点话题。通过持续沉淀潮流话题内容，得物App正在成为年轻用户的潮流风向标和发声阵地。\n\n用户特点\n基于对潮流文化的了解和对年轻人的消费洞察，得物App上聚集了大量的年轻消费者，其中90后电商主力人群占比超过八成，男女比例各占近一半，覆盖一线城市、沿海地区，广 泛分布于全国。\n相比于传统电商，得物App通过\"社区+电商\"双业务模式，帮助年轻用户了解、获取、交流让他们有幸福感、愉悦感的各种事物。通过抓住\"社交化\"触点，得物App逐渐占领年轻人的消费心智。\n\n差异化服务\n得物App在传统电商模式的基础上增加鉴别真假与查验瑕疵的服务，首创\"先鉴别，后发货\"的购物流程，以\"强中心化\"的平台定位把控商品质量。基于此，保证用户在收到在得物App 购买的商品前，该商品已经通过多道鉴别查验工序中的\"层层关卡\"，得到全面的查验鉴别，为用户提供\"多重鉴别，正品保障\"的全新网购体验。",
+      "encryptComId": "8b29acb16864f0bb1nd73dy6E1U~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "Java/Golang开发工程师/专家(杭州)",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "107pW84muae.search.1",
+          "performance": "",
+          "salaryDesc": "30-60K·16薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "后端工程师",
+            "Java",
+            "MySQL"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "MySQL",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "54844feef7d577b31HR-2dW1F1RT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "得物App",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/b419a2f4b234c5f9d7626ce1e61d3acbcfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "B轮",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "张森",
+          "bossTitle": "招聘人员",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "Java",
+            "MySQL",
+            "Python",
+            "计算机/软件工程相关经验",
+            "分布式系统开发经验",
+            "中大型项目架构设计经验",
+            "Golang"
+          ],
+          "welfares": [],
+          "securityId": "ftT11CJKeYEIQ-U1o7o--PMnB2SqJkCW4fbiB6ULWANK3EbDzrY6efNHmZI1pK87BBSf888~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级Java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "文二路",
+          "distance": "",
+          "lid": "107pW84muae.search.2",
+          "performance": "",
+          "salaryDesc": "20-40K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Spring",
+            "分布式技术",
+            "Redis"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "Redis",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "c3de4c88b201766b1nBy0t29EFdX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "得物App",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/b419a2f4b234c5f9d7626ce1e61d3acbcfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "B轮",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "刘志远",
+          "bossTitle": "Java高级开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210306/8cd20906ebafa73af5a8e329cf49f4eea2878343a9bf941e71273048104fa1b7_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Spring",
+            "分布式技术",
+            "Redis",
+            "MySQL",
+            "后端开发",
+            "Linux"
+          ],
+          "welfares": [],
+          "securityId": "oUofW5-hBo9xA-Y1VzaZG5jIN0JRs6ryd8HD4hUf0JUjT_BCawQB8jp8dgR71r_s4k1vDFch",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "测试开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "文二路",
+          "distance": "",
+          "lid": "107pW84muae.search.3",
+          "performance": "",
+          "salaryDesc": "20-35K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "自动化测试",
+            "Java",
+            "计算机相关专业"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "自动化测试",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "计算机相关专业",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "544a1b83cd0e2b251XN40ty5E1NQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "得物App",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/b419a2f4b234c5f9d7626ce1e61d3acbcfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "B轮",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "万先生",
+          "bossTitle": "测试开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231020/607f1f3d68754fd025aebf6746a494500c94d2b4328a55ffbc4a8b3baf38467b03e8c9a558e052d5_s.jpg.webp",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "自动化测试",
+            "Java",
+            "计算机相关专业",
+            "测试工作经验"
+          ],
+          "welfares": [],
+          "securityId": "UrQK8Tz88EzFD--1BW1U0_dAFc3QzwG5nqbfVmojyQKU9ixDRMWM1eb7IsB-lS47U8O_FL8~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "资深后端研发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "文二路",
+          "distance": "",
+          "lid": "107pW84muae.search.4",
+          "performance": "",
+          "salaryDesc": "30-60K·16薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "Python",
+            "Shell",
+            "服务器配置"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "Shell",
+              "highlight": false
+            },
+            {
+              "content": "服务器配置",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "c0d67e8034f391b01Xd-3NS9F1NQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "得物App",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/b419a2f4b234c5f9d7626ce1e61d3acbcfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "B轮",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "王先生",
+          "bossTitle": "开发",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Python",
+            "Shell",
+            "服务器配置",
+            "数据结构",
+            "多线程",
+            "架构师",
+            "Spring",
+            "SpringMVC"
+          ],
+          "welfares": [],
+          "securityId": "yMlj-kp9nd64B-Q1Eahpf_uMVXRoQ7UJrPOLTYNMxcTvmmGgwkc9RSQRJa4rvQ8taXb6LaY~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "资深/高级前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "西湖区",
+          "businessName": "文二路",
+          "distance": "",
+          "lid": "107pW84muae.search.5",
+          "performance": "",
+          "salaryDesc": "20-40K·16薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "JavaScript",
+            "React",
+            "Vue"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "React",
+              "highlight": false
+            },
+            {
+              "content": "Vue",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "65b0461df4a05be31XNy2NS5FVpW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "得物App",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/b419a2f4b234c5f9d7626ce1e61d3acbcfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "B轮",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "孙先生",
+          "bossTitle": "资深前端开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230327/607f1f3d68754fd0785bc72eb6bb490b76cc987590bd9d702e61222d312662150e9ecb2147e7a481_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript",
+            "React",
+            "Vue"
+          ],
+          "welfares": [],
+          "securityId": "RVfDV07WW61a0-P1Xj60kf7RLcrqAQDDcgMZXsqAa6rCQUIXflIh3sp_G8JOAmYW8B4o474~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

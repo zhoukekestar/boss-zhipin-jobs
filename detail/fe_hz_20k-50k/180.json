@@ -1,0 +1,509 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "VjoAjNsNMBvnF-L1uHtHrA-ryzYAyPmVBJ76VX_72SL5oK9SZcvJc0PNH18dhriiaoJm0rCf1GS0i6x5BRcVWuMnhaWw0FXzgSDKSFEeFvYTsJwt4XAqncgNUh09e3gIp7NU-a9b",
+    "bossBaseInfoVO": {
+      "encryptBossId": "35c18b9f18b2fdd70XR-2t29GA~~",
+      "bossId": 6041008,
+      "securityId": "d342rWXP-C0i--S1ffGUuWUcmLoLA_PVq61ZpW6ucj1maLWxHZNq2jmwHjoPJpuj7KuWW7DuYBnM61H51KH3gVYG3j0~",
+      "name": "王先生",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160910/032423aadde13b1df25ade058233342c8c7dd922ad47494fc02c388e12c00eac_s.jpg",
+      "title": "前端开发",
+      "activeTimeDesc": "2周内活跃",
+      "activeTime": 1697172592000,
+      "bossOnline": false,
+      "brandName": "云集",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 287329609,
+      "encryptJobId": "32968164084b54051Xx92N-0FlJZ",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "萧山区",
+      "businessDistrict": "北干",
+      "locationDesc": "杭州·萧山区·北干",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 30,
+      "jobDesc": "1. 负责营销裂变等前台场景的前端小程序、H5的编码实现；\n2. 负责营销裂变等前台场景的产品性能与用户体验优化；",
+      "requiredSkills": [
+        "JavaScript",
+        "React",
+        "Vue",
+        "计算机/软件工程相关专业",
+        "前端开发经验"
+      ],
+      "address": "杭州萧山区杭州湾信息港F幢17楼",
+      "longitude": 120.247718,
+      "latitude": 30.203515,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bdec07359d88b3cf16c82605a2212066",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c9609f772d0c2b76663a73c9f594da29",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-30K·14薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "bfb85441d9c896520nN909W-EA~~",
+      "brandName": "云集",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191031/84fc52d23b4260d0cf57abb2ce1ca3069c62300831a5c90b40215ba65f74ab4e.png",
+      "industryName": "电子商务",
+      "stageName": "已上市",
+      "scaleName": "1000-9999人",
+      "brandIntroduce": "云集是一家由社交驱动的精品会员电商平台，为会员提供美妆个护、手机数码、母\n婴玩具、水果生鲜等全品类精选商品。\n云集致力于通过“精选”供应链策略以及极具社交属性的“爆款”营销策略，聚焦\n商品的极致性价比，帮助亿万消费者以优惠价格买到全球好货。\n2017年云集通过4000多款精选商品，完成同比增速超400%的业绩。\n2018年4月23日，云集宣布完成1.2亿美元B轮融资，成为行业独角兽企业。\n2019年5月3日，云集正式在美国纳斯达克挂牌上市。\n\n使命：助力千万创业者，双手改变命运\n愿景：成为云集人实现自我价值且为之自豪的平台。成为1亿家庭信赖的消费品集团。\n价值观：品质第一  创业者为本   协作共赢  有爱有趣有光有火",
+      "comName": "浙江集享电子商务有限公司",
+      "legalPerson": "王华",
+      "startDate": "2018-08-14",
+      "regCapital": "1000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市萧山区经济技术开发区明星路371号1幢1501室",
+      "businessScope": "一般项目：互联网销售（除销售需要许可的商品）；化妆品批发；化妆品零售；服装服饰批发；服装服饰零售；鞋帽批发；鞋帽零售；箱包销售；家居用品销售；日用百货销售；日用品批发；日用品销售；母婴用品销售；食用农产品批发；食用农产品零售；宠物食品及用品批发；宠物食品及用品零售；畜牧渔业饲料销售；珠宝首饰批发；珠宝首饰零售；金银制品销售；体育用品及器材批发；体育用品及器材零售；计算机软硬件及辅助设备批发；计算机软硬件及辅助设备零售；通讯设备销售；电子产品销售；家用电器销售；照相器材及望远镜批发；照相器材及望远镜零售；数字视频监控系统销售；汽车零配件批发；汽车零配件零售；汽车装饰用品销售；消毒剂销售（不含危险化学品）；个人卫生用品销售；卫生用品和一次性使用医疗用品销售；日用口罩（非医用）销售；医用口罩批发；医用口罩零售；医护人员防护用品批发；医护人员防护用品零售；劳动保护用品销售；第一类医疗器械销售；第二类医疗器械销售；软件开发；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；网络技术服务；计算机系统服务；信息系统集成服务；数据处理服务；数据处理和存储支持服务；信息咨询服务（不含许可类信息咨询服务）；信息技术咨询服务；社会经济咨询服务；教育咨询服务（不含涉许可审批的教育培训活动）；健康咨询服务（不含诊疗服务）；企业管理咨询；安全咨询服务；市场营销策划；会议及展览服务；平面设计；数字内容制作服务（不含出版发行）；广告制作；广告发布（非广播电台、电视台、报刊出版单位）；广告设计、代理；商务代理代办服务；票务代理服务；旅客票务代理；供应链管理服务；普通货物仓储服务（不含危险化学品等需许可审批的项目）；国内货物运输代理；非居住房地产租赁（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：食品经营；食品经营（销售预包装食品）；食品经营（销售散装食品）；保健食品销售；婴幼儿配方乳粉销售；特殊医学用途配方食品销售；食品互联网销售；出版物互联网销售；出版物批发；出版物零售；第三类医疗器械经营；第二类增值电信业务；广播电视节目制作经营；网络文化经营；旅游业务；技术进出口；货物进出口（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "云集是一家由社交驱动的精品会员电商平台，为会员提供美妆个护、手机数码、母\n婴玩具、水果生鲜等全品类精选商品。\n云集致力于通过“精选”供应链策略以及极具社交属性的“爆款”营销策略，聚焦\n商品的极致性价比，帮助亿万消费者以优惠价格买到全球好货。\n2017年云集通过4000多款精选商品，完成同比增速超400%的业绩。\n2018年4月23日，云集宣布完成1.2亿美元B轮融资，成为行业独角兽企业。\n2019年5月3日，云集正式在美国纳斯达克挂牌上市。\n\n使命：助力千万创业者，双手改变命运\n愿景：成为云集人实现自我价值且为之自豪的平台。成为1亿家庭信赖的消费品集团。\n价值观：品质第一  创业者为本   协作共赢  有爱有趣有光有火",
+      "encryptComId": "76ef816c1429d7e11nx_3Nq1Flc~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "LLM算法工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "北干",
+          "distance": "",
+          "lid": "ZSAhFBj09b.search.2",
+          "performance": "",
+          "salaryDesc": "20-40K·14薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "LLM",
+            "知识增强"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "LLM",
+              "highlight": false
+            },
+            {
+              "content": "知识增强",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "b6ced57e9a0859031X1_39u7FFZR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "云集",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191031/84fc52d23b4260d0cf57abb2ce1ca3069c62300831a5c90b40215ba65f74ab4e.png",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "何先生",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "LLM",
+            "知识增强"
+          ],
+          "welfares": [],
+          "securityId": "nx-DTHjcV5lhO-q1KDSfwCdFJlPwr6A5yEfJ8hc22n7L7wX16rtFwM5t1YyOv1qiWLYbLKg~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "北干",
+          "distance": "",
+          "lid": "ZSAhFBj09b.search.3",
+          "performance": "",
+          "salaryDesc": "15-30K·14薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "JavaScript",
+            "Vue"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "Vue",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "d4a0d0e8437195101HR82Nq_FlJZ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "云集",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191031/84fc52d23b4260d0cf57abb2ce1ca3069c62300831a5c90b40215ba65f74ab4e.png",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "何先生",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript",
+            "Vue"
+          ],
+          "welfares": [],
+          "securityId": "1cbMDTpS10gBu-X1pe2PoS_a4zlcQyKB8euUTkXkqlhU1taLOvy8rWGezItFiAPeKpaR4XY~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "LLM算法专家",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "北干",
+          "distance": "",
+          "lid": "ZSAhFBj09b.search.4",
+          "performance": "",
+          "salaryDesc": "30-60K·14薪",
+          "jobLabels": [
+            "3-5年",
+            "硕士",
+            "LLM",
+            "算法",
+            "知识增强"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "LLM",
+              "highlight": false
+            },
+            {
+              "content": "算法",
+              "highlight": false
+            },
+            {
+              "content": "知识增强",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "76a8b5715aa46ffa1X1_39u5GVFT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "云集",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191031/84fc52d23b4260d0cf57abb2ce1ca3069c62300831a5c90b40215ba65f74ab4e.png",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "何先生",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "LLM",
+            "算法",
+            "知识增强",
+            "强化学习"
+          ],
+          "welfares": [],
+          "securityId": "MJ21PrCoqe48h-z1-9lRdmRBlFwEvXYsyE8yabzOfH_HGmtRbJWjKABHWV4Mptf_ZEfMhts~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "全栈工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "北干",
+          "distance": "",
+          "lid": "ZSAhFBj09b.search.5",
+          "performance": "",
+          "salaryDesc": "20-40K·14薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "全栈侧重前端",
+            "Vue",
+            "Node.js"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "全栈侧重前端",
+              "highlight": false
+            },
+            {
+              "content": "Vue",
+              "highlight": false
+            },
+            {
+              "content": "Node.js",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "6d8e82ef5ddc2cde1X15396-EVNT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "云集",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191031/84fc52d23b4260d0cf57abb2ce1ca3069c62300831a5c90b40215ba65f74ab4e.png",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "何先生",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "全栈侧重前端",
+            "Vue",
+            "Node.js",
+            "前端开发经验",
+            "全栈项目经验",
+            "python",
+            "小程序"
+          ],
+          "welfares": [],
+          "securityId": "Eb0FT3oZBhqVE-Y1lmAVd05RrIiz8UsOhE4t1zhrxQC6GlQCCRh9HArwrrMQoNXceDRXPPQ~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "推荐算法工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "北干",
+          "distance": "",
+          "lid": "ZSAhFBj09b.search.6",
+          "performance": "",
+          "salaryDesc": "20-40K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "深度学习算法",
+            "算法设计",
+            "机器学习算法"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "深度学习算法",
+              "highlight": false
+            },
+            {
+              "content": "算法设计",
+              "highlight": false
+            },
+            {
+              "content": "机器学习算法",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "2c57343f014f7a1c1nN539m7GFpR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "云集",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191031/84fc52d23b4260d0cf57abb2ce1ca3069c62300831a5c90b40215ba65f74ab4e.png",
+          "brandStage": "已上市",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "孟祥轩",
+          "bossTitle": "算法工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "深度学习算法",
+            "算法设计",
+            "机器学习算法",
+            "分布式技术",
+            "Spark",
+            "Hadoop",
+            "TensorFlow",
+            "搜索算法"
+          ],
+          "welfares": [],
+          "securityId": "QiRRiepUlMG5R-w1FL-haU6LxogUk5UNc5SLJtqIvRsXrzjKuY2temf0BhcQvejUoN_uhyg~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

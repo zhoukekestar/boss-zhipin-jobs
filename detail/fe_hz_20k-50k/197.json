@@ -1,0 +1,449 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "Vq944PXYcUXVB-X12yiQOPmkFF4CaudUxC_d3tEwu6b_yKQIYJlNlwkUC7tFxEYkMcVzGXKCLhNWQ5xwvDsZFg5nrFX_rpIxmSnhbHoh5PkRJFAOjMXoELWv76oTbo0w7iZfhgXSYA~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "0eb61587a7b9035a1nFz2Nq7Eg~~",
+      "bossId": 1593762,
+      "securityId": "-6muuDBsfP_0o-L1dECrboIbH9rhqWX46qRbAvTzpmrOxv94ll_849C2oPb6inIjV9jMB3fExg3agje0MZB1UaiLRVg~",
+      "name": "高佳炯",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211011/607f1f3d68754fd067275065b981dc395f2fd97217154af18b6d7ef4139b9b0de7250dda828555b1_s.jpg",
+      "title": "招聘者",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1641607715000,
+      "bossOnline": false,
+      "brandName": "蜂旅",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 204263479,
+      "encryptJobId": "9b1f43b63e5aba451XR-2du-FFVZ",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "仓前",
+      "locationDesc": "杭州·余杭区·仓前",
+      "experienceName": "5-10年",
+      "degreeName": "大专",
+      "lowSalary": 16,
+      "highSalary": 22,
+      "jobDesc": "1.熟练使用vue 框架搭建以及维护现有后台管理系统的开发以及维护.\n2.具备react 的移动端框架开发能力，能适应react-native 或taro2 进行小程序端以及app双端的开发工作.\n3.统筹前端组的开发工作内容.\n4.有一定的后端开发经验，使用node，php服务端开发中的至少一种.\n5.有相关的原生开发经验优先.",
+      "requiredSkills": [
+        "前端开发",
+        "Node.js",
+        "WEB开发",
+        "全栈开发",
+        "Vue",
+        "React",
+        "php",
+        "Web端"
+      ],
+      "address": "杭州余杭区鼎创财富中心B25楼",
+      "longitude": 120.007646,
+      "latitude": 30.282226,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/af469f891f75762cc1fb80decd49c040",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dd1a044a0c9685bf8344f78fec6197f0",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "16-22K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "3bb3a67f21f40e521nd_3N-_ElQ~",
+      "brandName": "蜂旅",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220401/7bf6f160950405e9decb3974a5c99d50d25d0a5113aaa467c06e9d7aa0c1f49073d5ffb5f60dde0c.jpg",
+      "industryName": "O2O",
+      "stageName": "不需要融资",
+      "scaleName": "20-99人",
+      "brandIntroduce": "浙江蜂旅科技是一家以“低代码、超快捷”为核心的企业级软件技术服务商，瞄准软件行业未来发展趋势，深度布局前沿技术和创新服务模式，其研发的“脉爆云创生态系统”深受企业客户的认可，帮助企业在软件数字化建设方面降本增效，快速搭建属于企业自己的私域化、个性化线上平台。\n脉爆全能营销系统拥有服务器独立部署、前端界面DIY设计、一键在线云打包、0代码和私有化等特点。涉猎教育、互联网、美妆、服装、餐饮等多行业，拥有超5000位服务客户，通过其旗下的新零售门店系统、多用户电商系统、淘宝店分销系统及SaaS软件产品进行服务为客户提供数字化解决方案。\n公司系阿里巴巴第35号员工原阿里巴巴b2b事业部总经理俞朝翎投资，核心团队来自阿里巴巴，腾讯，58同城，美团等知名互联网集团， 更云集各行业资深产品专家，致力于以AI、云计算、大数据等技术驱动零售企业数字化升级，协助品牌企业快速建立线上线下一体化系统，帮助品牌打造自有流量池，实现全渠道全场景互联互通、精准触达与高效互动，最终实现智慧化、智能化的新零售模型。",
+      "comName": "浙江蜂旅网络科技有限公司",
+      "legalPerson": "徐萧",
+      "startDate": "2020-03-25",
+      "regCapital": "500万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省丽水市莲都区城北街368号绿谷信息产业园1号楼2楼201-12",
+      "businessScope": "一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；信息系统集成服务；市场营销策划；会议及展览服务；信息咨询服务（不含许可类信息咨询服务）；礼仪服务；市场调查（不含涉外调查）；餐饮管理；广告设计、代理；票务代理服务；摄影扩印服务；日用电器修理；化妆品批发；化妆品零售；日用百货销售；针纺织品销售；眼镜销售（不含隐形眼镜）；服装服饰批发；文具用品批发；金属材料销售；鞋帽批发；食用农产品（不含蔬菜、冷鲜肉、水产品和豆制品（不含豆浆））批发、零售（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "浙江蜂旅科技是一家以“低代码、超快捷”为核心的企业级软件技术服务商，瞄准软件行业未来发展趋势，深度布局前沿技术和创新服务模式，其研发的“脉爆云创生态系统”深受企业客户的认可，帮助企业在软件数字化建设方面降本增效，快速搭建属于企业自己的私域化、个性化线上平台。\n脉爆全能营销系统拥有服务器独立部署、前端界面DIY设计、一键在线云打包、0代码和私有化等特点。涉猎教育、互联网、美妆、服装、餐饮等多行业，拥有超5000位服务客户，通过其旗下的新零售门店系统、多用户电商系统、淘宝店分销系统及SaaS软件产品进行服务为客户提供数字化解决方案。\n公司系阿里巴巴第35号员工原阿里巴巴b2b事业部总经理俞朝翎投资，核心团队来自阿里巴巴，腾讯，58同城，美团等知名互联网集团， 更云集各行业资深产品专家，致力于以AI、云计算、大数据等技术驱动零售企业数字化升级，协助品牌企业快速建立线上线下一体化系统，帮助品牌打造自有流量池，实现全渠道全场景互联互通、精准触达与高效互动，最终实现智慧化、智能化的新零售模型。",
+      "encryptComId": "c237ac4ff391fd2c1HV72t2-F1I~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "web前端",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZQSWylo7if.search.1",
+          "performance": "",
+          "salaryDesc": "10-15K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "JavaScript",
+            "小程序",
+            "React.JS"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "小程序",
+              "highlight": false
+            },
+            {
+              "content": "React.JS",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "b9698c7d4cf3e5441n162dm4FlNQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "蜂旅",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220401/7bf6f160950405e9decb3974a5c99d50d25d0a5113aaa467c06e9d7aa0c1f49073d5ffb5f60dde0c.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "高佳炯",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211011/607f1f3d68754fd067275065b981dc395f2fd97217154af18b6d7ef4139b9b0de7250dda828555b1_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript",
+            "小程序",
+            "React.JS",
+            "Vue.js",
+            "GIT",
+            "前端开发",
+            "PC端",
+            "Web端"
+          ],
+          "welfares": [],
+          "securityId": "Qxnm8xmYjJ3vX-R1lig4fHzVTGHTTPmhM0oapPerUsufnUHI5skb4oLm4NXh_J6Km_t5SQ~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "ai算法工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "学历不限",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZQSWylo7if.search.2",
+          "performance": "",
+          "salaryDesc": "20-40K",
+          "jobLabels": [
+            "5-10年",
+            "学历不限",
+            "业务导向",
+            "Java",
+            "Python"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "学历不限",
+              "highlight": false
+            },
+            {
+              "content": "业务导向",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "cb4e3c47018619681XN92Nu6F1NX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "蜂旅",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220401/7bf6f160950405e9decb3974a5c99d50d25d0a5113aaa467c06e9d7aa0c1f49073d5ffb5f60dde0c.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "徐萧",
+          "bossTitle": "总裁/总经理/CEO",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210219/19412884cb8ba6e12bcc6ded8c5f5cb2d469a005245e7be91b160e78028e66d7_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "业务导向",
+            "Java",
+            "Python",
+            "C/C++",
+            "计算机相关专业",
+            "机器学习算法/工程化经验",
+            "深度学习经验"
+          ],
+          "welfares": [],
+          "securityId": "nhmtSpWDJMIR0-u10XAZ6ptjzOUZcJUYqHIHCKRu_dBZiDCHdvhYKpx2QZnCU-B25kU_14E~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "会php开发的运维",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZQSWylo7if.search.3",
+          "performance": "",
+          "salaryDesc": "12-16K",
+          "jobLabels": [
+            "3-5年",
+            "大专",
+            "实施交付运维",
+            "Java",
+            "Docker"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "实施交付运维",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Docker",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "c5dc7091673385da1XB40tm9FltY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "蜂旅",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220401/7bf6f160950405e9decb3974a5c99d50d25d0a5113aaa467c06e9d7aa0c1f49073d5ffb5f60dde0c.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "董绍晖",
+          "bossTitle": "经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220918/607f1f3d68754fd0a3d4b42cd17cf63dc37f9c6e11c9927ec06e9d7aa0c1f49073d5ffb5f60dde0c_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "实施交付运维",
+            "Java",
+            "Docker"
+          ],
+          "welfares": [],
+          "securityId": "UZLdX6oS8GyCd-v1M_qowZukocrkaHhhnnNA3suRCrsdatOBP-bMeCzEhUL-rWlUNBPP-yaW",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级前端工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "ZQSWylo7if.search.5",
+          "performance": "",
+          "salaryDesc": "10-15K",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "CSS",
+            "Vue",
+            "前端开发经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "CSS",
+              "highlight": false
+            },
+            {
+              "content": "Vue",
+              "highlight": false
+            },
+            {
+              "content": "前端开发经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "e0c438d58d7023671XB63t24EFtU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "蜂旅",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220401/7bf6f160950405e9decb3974a5c99d50d25d0a5113aaa467c06e9d7aa0c1f49073d5ffb5f60dde0c.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "石慧",
+          "bossTitle": "PHP",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "CSS",
+            "Vue",
+            "前端开发经验"
+          ],
+          "welfares": [],
+          "securityId": "SJkpxABmp3aZw-H1xtmdEexcPYeOlk7jGUSu16qtaCLwefND9JKT7YIC52bnEs0Ht_vjNL0~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

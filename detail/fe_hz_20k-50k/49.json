@@ -1,0 +1,510 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "gF9zUPD0yqK8_-O1ZYnQCubCTQj-9BnYXOnNSlZm0A0GPJGxu8hy41SCCLvjQmpvLjgG-vRYJn0pu1-I2NinWobV2yU5Uf91gomuUmxSpkWjwWXz9d1dvtIDTDPpAJDzHT1i5oMm",
+    "bossBaseInfoVO": {
+      "encryptBossId": "ce7e5ca968d579341HJ62du4ElE~",
+      "bossId": 36026523,
+      "securityId": "HckH8ULfLa_71-R192or-QT9d7B5S2yefx54uCPyQfUfyKlYfXAtpIzuxrSBLCtadde1L9U9kxCnD9tfVxajUr3Afn-2",
+      "name": "易女士",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230818/607f1f3d68754fd0dfe3209364c95c9b857df5f58f20fe10fe275d05f7378af3eb625bd91323bebe_s.jpg.webp",
+      "title": "高级招聘顾问",
+      "activeTimeDesc": "刚刚活跃",
+      "activeTime": 1698144829119,
+      "bossOnline": false,
+      "brandName": "汇合发展",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 200630223,
+      "encryptJobId": "e159ecd7b01674671XR63d69ElBT",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端（杭州）",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "长河",
+      "locationDesc": "杭州·滨江区·长河",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 12,
+      "highSalary": 23,
+      "jobDesc": "招商银行项目：一天7小时工作制，双休，工作日加班费1.5倍+季度绩效！\n外包哦！！！岗位会轮流开放关闭，我打过招呼的，会考虑的同学可以回复我哦！可以先发简历或联系方式给我哒，不然失联啦！！\n注意啦：需要学信网可查全日制统招本科！！！\n项目业务各不同，可以私聊哦～\n\n办公地址：\n1、浙江省杭州市滨江区-高新产业大楼B座（诺基亚大厦B座），地铁6号线诚业路B口\n2、浙江省杭州市滨江区-科达投资大厦，诚业路A口 \n3、浙江省杭州市滨江区-滨兴路1866号（距离高新有1.6公里，一两个地铁站）\n办公地址具体看面试后安排，不会变动\n\n任职要求\n1.4年以上前端开发工作经验。熟悉PC端和移动端页面的开发流程。\n2.熟练掌握HTML、CSS相关知识，能快速高效实现前端页面展示效果。\n3.熟悉一种主流前端框架(React、Angular、Vue等)，熟悉React优先。\n4.有良好的编码习惯，规范的软件开发流程、理解能力良好，执行力强\n5.工作踏实认真、责任心强，具备良好团队协作精神及沟通能力。\n\n或熟悉vue2 和 vue3，有微信小程序开发经验（暂无）\n\n【福利】： \n1、入职购买六险一金（公司全额购买商业险）+开门红+全额年终奖（13薪） 【五险一金基数不是全额缴纳】\n2、入职满一年有1-2次调薪调级机会 \n3、项目稳定、团队稳定性高，团队氛围非常好（汇合员工占招行总员工比例接近55%）； \n4、季度绩效奖金600元 \n5、一年过节费1600红包现金，团队每月有自己的活动经费，法定节假日放假安排； \n6、办公环境优良，加班有加班费（全额工资为计算基数，加班不超过晚上10点，平日加班为时薪1.5倍，周末加班为日薪2倍，节假日3倍）。",
+      "requiredSkills": [
+        "React",
+        "Node.js",
+        "Vue",
+        "计算机/软件工程相关专业",
+        "不接受居家办公",
+        "HTML5",
+        "小程序",
+        "java后端"
+      ],
+      "address": "杭州滨江区阿里中心·杭州滨江滨兴路1866号",
+      "longitude": 120.189975,
+      "latitude": 30.192263,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/920e6dbbd1592add607a3161e3ad450f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1cb4a407ac9c9255f3aa68a5ea6630cb",
+      "salaryMonth": 0,
+      "performance": "1.5倍加班费，季度绩效，13薪",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "12-23K·13薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "7d0b4cc49181a66b0XZz3Ny5",
+      "brandName": "汇合发展",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/1426296cea307c33732b5fede2c84576cfcd208495d565ef66e7dff9f98764da.jpg",
+      "industryName": "企业服务",
+      "stageName": "不需要融资",
+      "scaleName": "10000人以上",
+      "brandIntroduce": "深圳市汇合发展有限公司（“汇合”）成立于1992年12月，为招商银行下属集团子公司，注册资本1265万元人民币。总部位于深圳市南山区科技园，是在改革创新的氛围中稳健发展的综合型金融配套服务企业。\n       汇合致力于服务标准的规范、招聘渠道的整合、业务流程的优化、职业平台的搭建、金融人才的甄选及培养、合规风险的防范与运营效率的提升，为国内金融行业机构提供多元化的人事服务，行政事务管理和数据信息处理支持。\n       汇合拥有先进的服务理念、高素质的员工队伍、丰富的行业经验和扎实的项目实施能力，核心团队全部来自于国内知名金融企业或机构，熟悉不同类别金融企业内部运营模式，曾获得过深圳市社保局、深圳市人力资源服务协会等机构授予的“年度人力资源服务行业最佳雇主”“年度工伤预防先进单位”“人力资源服务行业创新发展奖”称号。\n       20多年来，伴随着国内金融行业的蓬勃发展，汇合公司根植于深圳，着眼于全国，现已将业务范围拓展至全国近40个大中城市。目前业务已覆盖招商银行总行及下属30多家一级分行和20多家非招商银行的金融机构，累计为客户输送员工上万人（其中，不少已走上所在机构的领导岗位或成长为业务骨干），目前汇合公司在岗员工接近14000人。\n       稳健不失发展，历久继而弥新。展望未来，深圳市汇合发展有限公司将继续坚持“高效，创新，共赢”的核心价值观，以“以人为本，服务至上，求实求精，稳健发展”为经营宗旨，竭诚为银行、证券、基金、保险、信托、财富管理等行业客户服务，立志成为业内一流的金融配套服务供应商。\n       公司官网：www.huihefz.com",
+      "comName": "深圳市汇合发展有限公司",
+      "legalPerson": "毛巨策",
+      "startDate": "1992-12-11",
+      "regCapital": "1265万人民币",
+      "statusDesc": "存续",
+      "regAddress": "深圳市南山区粤海街道白石路3609号深圳湾科技生态园9栋B座8层03、04B、23B号",
+      "businessScope": "一般经营项目是：数据处理与存储服务；信息技术咨询服务；计算机软件的开发与销售；电子设备的销售；办公服务（档案管理）；单位后勤管理服务；物业管理；室内绿化；会务服务；礼仪服务；商务信息咨询。（以上法律、行政法规、国务院决定规定在登记前须经批准的项目除外，限制的项目须取得许可后方可经营）；业务培训（不含教育培训、职业技能培训等需取得许可的培训）。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动），许可经营项目是：劳务派遣服务；其他人力资源服务；停车场经营；园林绿化；餐饮服务；电子设备的生产。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "深圳市汇合发展有限公司（“汇合”）成立于1992年12月，为招商银行下属集团子公司，注册资本1265万元人民币。总部位于深圳市南山区科技园，是在改革创新的氛围中稳健发展的综合型金融配套服务企业。\n       汇合致力于服务标准的规范、招聘渠道的整合、业务流程的优化、职业平台的搭建、金融人才的甄选及培养、合规风险的防范与运营效率的提升，为国内金融行业机构提供多元化的人事服务，行政事务管理和数据信息处理支持。\n       汇合拥有先进的服务理念、高素质的员工队伍、丰富的行业经验和扎实的项目实施能力，核心团队全部来自于国内知名金融企业或机构，熟悉不同类别金融企业内部运营模式，曾获得过深圳市社保局、深圳市人力资源服务协会等机构授予的“年度人力资源服务行业最佳雇主”“年度工伤预防先进单位”“人力资源服务行业创新发展奖”称号。\n       20多年来，伴随着国内金融行业的蓬勃发展，汇合公司根植于深圳，着眼于全国，现已将业务范围拓展至全国近40个大中城市。目前业务已覆盖招商银行总行及下属30多家一级分行和20多家非招商银行的金融机构，累计为客户输送员工上万人（其中，不少已走上所在机构的领导岗位或成长为业务骨干），目前汇合公司在岗员工接近14000人。\n       稳健不失发展，历久继而弥新。展望未来，深圳市汇合发展有限公司将继续坚持“高效，创新，共赢”的核心价值观，以“以人为本，服务至上，求实求精，稳健发展”为经营宗旨，竭诚为银行、证券、基金、保险、信托、财富管理等行业客户服务，立志成为业内一流的金融配套服务供应商。\n       公司官网：www.huihefz.com",
+      "encryptComId": "a9562516fa24385d1nx909m0FQ~~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "前端开发",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "1058CnoPfKa.search.1",
+          "performance": "",
+          "salaryDesc": "12-22K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "HTML5",
+            "React",
+            "Vue"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "HTML5",
+              "highlight": false
+            },
+            {
+              "content": "React",
+              "highlight": false
+            },
+            {
+              "content": "Vue",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "1d905787927c1b0c1HV-3tm7EVFQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "汇合发展",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/1426296cea307c33732b5fede2c84576cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "刘奇",
+          "bossTitle": "招聘顾问",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210325/f75cf9b4f365d8b7999a1648f38e7542b0c4bfad7a53dc375d4895e1a645c941_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "HTML5",
+            "React",
+            "Vue"
+          ],
+          "welfares": [],
+          "securityId": "f4HW2iHuzdAF--Z1Baqdov2D2jPJC-Rpx8ZifkvgvOXB2O_C8gqIWMpGJu8t0w4yy_7K8Q4~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "后端开发",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "1058CnoPfKa.search.2",
+          "performance": "",
+          "salaryDesc": "15-25K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Java",
+            "Spring",
+            "SpringCloud"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            },
+            {
+              "content": "SpringCloud",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "e7ebac04e8dc9fca1HV83961EFNU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "汇合发展",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/1426296cea307c33732b5fede2c84576cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "吴女士",
+          "bossTitle": "招聘顾问",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230820/607f1f3d68754fd0f9e5bbfc31a8fdf6d83355e9f50f874b3fb4fe399724d80f4bdc6cae36844dd1_s.jpg.webp",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "Spring",
+            "SpringCloud",
+            "MySQL",
+            "Redis"
+          ],
+          "welfares": [],
+          "securityId": "RjAYyMo4HYHPL-r1y8RhFjCjKQ2xWYaIFLO5f_KA6YdjkWPqUY_kDw3veF9KR0XeavorC3Kf",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "前端开发",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "1058CnoPfKa.search.3",
+          "performance": "",
+          "salaryDesc": "15-25K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "React"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "React",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "950dc23b963663f61HV-3d21GFpT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "汇合发展",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/1426296cea307c33732b5fede2c84576cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "吴女士",
+          "bossTitle": "招聘顾问",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230820/607f1f3d68754fd0f9e5bbfc31a8fdf6d83355e9f50f874b3fb4fe399724d80f4bdc6cae36844dd1_s.jpg.webp",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "React"
+          ],
+          "welfares": [],
+          "securityId": "idXpY25RRgeEL-h1D_LFbGCb1MX5O0uZZm1IkfA8Jen2kRcu1G1lfGUZDrUOjYHKQYFwUmm_",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "java开发",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "1058CnoPfKa.search.4",
+          "performance": "",
+          "salaryDesc": "12-20K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Java",
+            "即时通讯"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "即时通讯",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "29577934dab1b9511Xxz3dW5F1tS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "汇合发展",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/1426296cea307c33732b5fede2c84576cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "彭权芝",
+          "bossTitle": "综合招聘",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20210628/fd3ad97ff478e341cfdd9992da7b4e300d52ca788e7336bea04e11b43e5efc1c_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "即时通讯"
+          ],
+          "welfares": [],
+          "securityId": "Yx473lZQbq0Sy-K1muV3YKR3N4yRd4WJgzXKFdmnRSysIg9KQ3lGC31ZGBhaQnQNGjq-QlM~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "中高级java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "浦沿",
+          "distance": "",
+          "lid": "1058CnoPfKa.search.5",
+          "performance": "",
+          "salaryDesc": "14-28K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "后端工程师",
+            "Java",
+            "计算机/软件工程相关经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "计算机/软件工程相关经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "a9b93311d23f58871XN40tW_FldR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "汇合发展",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/1426296cea307c33732b5fede2c84576cfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "刘先生",
+          "bossTitle": "招聘经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200710/109c357c6081b4b43bf50dd72f8fd5dc131d9a0f6b9d9e75af122d329062fecd_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": {
+            "listingOnline": {
+              "onlineImgUrl": "https://img.bosszhipin.com/beijin/mcs/banner/a403e91441cbb05c6894e9f5593291fdcfcd208495d565ef66e7dff9f98764da.png",
+              "widthPx": 132,
+              "heightPx": 51
+            },
+            "detailOnline": {
+              "onlineImgUrl": "https://img.bosszhipin.com/beijin/mcs/banner/a403e91441cbb05c6894e9f5593291fdcfcd208495d565ef66e7dff9f98764da.png",
+              "widthPx": 132,
+              "heightPx": 51
+            }
+          },
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "Java",
+            "计算机/软件工程相关经验",
+            "Java开发经验"
+          ],
+          "welfares": [],
+          "securityId": "kJrO6o09IE0ny-b14SEIem5B_3Q4zAHk7tGjQACGkOpCSL1PZxJZ3RUXWXJW8k-7EDVlTmDMFNGlZTMMKgZPOPNtCVghFWSLZbTD0Rh1mg~~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

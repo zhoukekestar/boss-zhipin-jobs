@@ -1,0 +1,500 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "8T01N3ZXnRsYR-H1KB8EMq2Rw1LTPlqi1zzfDZztIaCzALwHH9forvCszwY6sGQi6ik3q8jUen4mbpp4tsWQu0N1zm71MZzJiyAUGMP5XV9nSW0Gl5uBth_-nQD-tmzNuJQQl4Bxc2Y~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "e44a54c050760ec91nV-2N2_FFpS",
+      "bossId": 114302482,
+      "securityId": "5hfHqlhXfdqRM-R1xP8925ZAVT1ACWLfb7QO_H5y963gHgZAGP16JQX5ZGUy6taCzEPuLYmVoGO8mnHjKgMRwtZfycQPhw~~",
+      "name": "陈露艳",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201207/3af51e8c48d45d8b335a334e7515018ca18fe924d2b7505058fde71192e87cae_s.jpg",
+      "title": "资深web前端开发工程师",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1660882975000,
+      "bossOnline": false,
+      "brandName": "字节跳动",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 236747192,
+      "encryptJobId": "f91854aa22de27811Xd83Nm6EVtS",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "五常",
+      "locationDesc": "杭州·余杭区·五常",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 20,
+      "highSalary": 40,
+      "jobDesc": "高级前端开发工程师 - 抖音极速版用户增长\n\n职位描述\n1. 负责亿级dau产品C端研发，包括用户激励体系、用户增长活动等； \n2. 关注业务指标 & 转化链路，技术优化手段结合业务场景落地验证，技术驱动拿到业务收益； \n3. 支持极具挑战的大型活动（春节活动等），攻克C端大流量场景的高稳定性、高可用、高性能建设； \n4. 探索精细化体验优化，分人群、分机型、分场景，将用户体验做到极致； \n5. 探索适老化和无障碍技术解决方案，辅助业务决策，促进业务收益； \n6. 深入研究高性能跨平台动态化渲染方案，结合业务落地跨端场景微前端架构，探索高效开发模式； \n7. 跨端自动化测试(e2e)、自动化监控、自动化巡检体系建设。\n\n职位要求\n 1. 前端基本功扎实，熟练掌握Html、Javascript，CSS，熟练掌握各种布局； \n2. 熟练掌握数据结构、算法、设计模式、网络通信相关计算机基础知识； \n3. 具备良好的系统模块设计能力，并能在日常研发中灵活使用；  \n4. 熟悉一种MVX（React/Vue/Angular）框架； \n5. 熟悉一种构建工具（Webpack/FIS）； \n6. 了解后端技术栈，熟悉一门后端语言（Node/Python/GO等），熟悉与后端的协作模式； \n7. 对技术保持好奇，有良好的沟通能力和团队合作精神、优秀的分析问题和解决问题的能力； \n8. 关注前端前沿技术发展，能够将新知识传递给团队，并且转化到潜在项目中。  \n\n加分项 \n1. 有Hybrid / Flutter / ReactNative / 小程序/ Weex 相关开发经验者； \n2. 有大型C端活动开发经验者； \n3. 有开源作品或者技术博客； \n4. 有相关适老化和无障碍开发经验者优先。",
+      "requiredSkills": [
+        "JavaScript",
+        "HTML5",
+        "CSS",
+        "计算机/软件工程相关专业",
+        "前端开发经验",
+        "技术博客/开源项目有所贡献"
+      ],
+      "address": "杭州余杭区西溪八方城15楼",
+      "longitude": 120.046083,
+      "latitude": 30.289958,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cf41a9eee87253fe89fb5696ada97774",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4c0f40c581e93c8fec939d4606aae8cb",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-40K·15薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "3afecd928d276b490HVy3d2_GQ~~",
+      "brandName": "字节跳动",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200618/ec75eca2ee65111b084dcbd3537e5c360a9b34b60d18a2da6cd497026d46d225.png",
+      "industryName": "互联网",
+      "stageName": "D轮及以上",
+      "scaleName": "10000人以上",
+      "brandIntroduce": "字节跳动是一家全球化的互联网公司，旗下有抖音、今日头条、瓜瓜龙、西瓜视频、飞书等产品，目前字节跳动旗下大力教育瓜瓜龙系列教育项目正在全国各大城市进行推广，大量岗位等你来！",
+      "comName": "杭州巨量引擎网络技术有限公司",
+      "legalPerson": "涂晴",
+      "startDate": "2017-07-07",
+      "regCapital": "1000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市余杭区仓前街道爱力中心1幢601",
+      "businessScope": "一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；网络技术服务；信息技术咨询服务；软件开发；大数据服务；互联网数据服务；数据处理服务；计算机系统服务；信息系统运行维护服务；信息系统集成服务；组织文化艺术交流活动；广告制作；广告发布（非广播电台、电视台、报刊出版单位）；广告设计、代理（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "字节跳动是一家全球化的互联网公司，旗下有抖音、今日头条、瓜瓜龙、西瓜视频、飞书等产品，目前字节跳动旗下大力教育瓜瓜龙系列教育项目正在全国各大城市进行推广，大量岗位等你来！",
+      "encryptComId": "2f965224e6bd93601nR639i0GVA~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "大数据引擎-高级工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "学历不限",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "1054XQi4xWT.search.1",
+          "performance": "",
+          "salaryDesc": "30-40K·14薪",
+          "jobLabels": [
+            "经验不限",
+            "学历不限",
+            "SQL",
+            "Spark",
+            "Flink"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "学历不限",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "Spark",
+              "highlight": false
+            },
+            {
+              "content": "Flink",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "5956ce2d2dece5cb1n182Nq5E1VX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "字节跳动",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200618/ec75eca2ee65111b084dcbd3537e5c360a9b34b60d18a2da6cd497026d46d225.png",
+          "brandStage": "D轮及以上",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "严耀",
+          "bossTitle": "Java开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220703/607f1f3d68754fd068400ae701bb5cf3de409675e8b8c0758325bb7001e0fd4f1114ad755c02ee7c_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "SQL",
+            "Spark",
+            "Flink",
+            "Presto"
+          ],
+          "welfares": [],
+          "securityId": "7ghkL48xcIbOy-y1B9_LJep_1Qi40JnONzLZEEKoaQjEZ_qtw2YJ_Eprssy6ZfWi4rpNGxU~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "1054XQi4xWT.search.2",
+          "performance": "",
+          "salaryDesc": "25-30K·15薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "小程序",
+            "前端开发",
+            "移动端"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "小程序",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            },
+            {
+              "content": "移动端",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "67957df0f70cc3be1Xd-39S1E1JX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "字节跳动",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200618/ec75eca2ee65111b084dcbd3537e5c360a9b34b60d18a2da6cd497026d46d225.png",
+          "brandStage": "D轮及以上",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "许先生",
+          "bossTitle": "前端工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "小程序",
+            "前端开发",
+            "移动端",
+            "React",
+            "Sass"
+          ],
+          "welfares": [],
+          "securityId": "HJoJyvsVCsAGL--1PTfpcjBcH9B8qfgUEoh5h--P8bAH50QJ589LIkpuwzoDImFiCqO0-hI~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "1054XQi4xWT.search.3",
+          "performance": "",
+          "salaryDesc": "25-50K·15薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "java",
+            "go",
+            "微服务架构"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "java",
+              "highlight": false
+            },
+            {
+              "content": "go",
+              "highlight": false
+            },
+            {
+              "content": "微服务架构",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "952a4ef20e4fecc91nBy3t26FFdX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "字节跳动",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200618/ec75eca2ee65111b084dcbd3537e5c360a9b34b60d18a2da6cd497026d46d225.png",
+          "brandStage": "D轮及以上",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "刘文翔",
+          "bossTitle": "架构师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190219/71dbe93db994b32bbb0f173f2e8905121dd815e7d6b8670fed89d711298b66af_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "java",
+            "go",
+            "微服务架构",
+            "分布式技术",
+            "软件工程师",
+            "后端开发"
+          ],
+          "welfares": [],
+          "securityId": "vtc6Rz_ndMj5C-_16F83fweTCWE_lgYzOE8i5Y58Ip2E1tnJJu8CGWkAHStK8PR58XXBXQ0~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "风控算法",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "1054XQi4xWT.search.4",
+          "performance": "",
+          "salaryDesc": "30-60K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "风控/反欺诈"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "风控/反欺诈",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "77a23514e418bcaf1HV_3di7ElNQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "字节跳动",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200618/ec75eca2ee65111b084dcbd3537e5c360a9b34b60d18a2da6cd497026d46d225.png",
+          "brandStage": "D轮及以上",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "姚先生",
+          "bossTitle": "生活服务风控算法工程师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "风控/反欺诈"
+          ],
+          "welfares": [],
+          "securityId": "5jrr95r2myntJ-j1tus1h5c_Up3R2JmN1gEIV6n8_5vktDHlIw4BHySu_A7Yh8tLoaSDhsA2",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Golang",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "仓前",
+          "distance": "",
+          "lid": "1054XQi4xWT.search.5",
+          "performance": "",
+          "salaryDesc": "40-45K·15薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Golang",
+            "Golang服务端开发经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Golang",
+              "highlight": false
+            },
+            {
+              "content": "Golang服务端开发经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "e0df9d8e140c779f1XF83Ni6GFdX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "字节跳动",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200618/ec75eca2ee65111b084dcbd3537e5c360a9b34b60d18a2da6cd497026d46d225.png",
+          "brandStage": "D轮及以上",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "彭正",
+          "bossTitle": "研发",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221122/607f1f3d68754fd0ad4c2ccab37de38faae005d7144fc1c8095e0f7ea92632a64b2306c1427345fb_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Golang",
+            "Golang服务端开发经验"
+          ],
+          "welfares": [],
+          "securityId": "JGUQyh6bFRG5p-K1h6mqH-GwRX021ounxeqP49WryKEiIimrF3adk9aKPlN6tsDBFRutvZEO",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

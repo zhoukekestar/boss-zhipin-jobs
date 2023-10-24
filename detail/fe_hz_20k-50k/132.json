@@ -1,0 +1,510 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "PgocxOi8cojVV-A17LVbBYkvw97Hhukizo7C00NUhB8UOqSI2of05ToJAAJuRuR_bA5Im3k4HQTsqaE9btpP9J7lWrPrmlN-Hjv9_FS68VSKKrSbGPGYQe5AB11pTsvRRA__JSA~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "9c8a9beb4dcc603c1XR42t-4FlA~",
+      "bossId": 20212562,
+      "securityId": "VZuQ0QOH-i-sZ-h19uC9evslnybFS6tQlCv2Un8NWfZ5eVKZ5uOJ_HONQ9_gVpTcxdPqIwT00UhbD9FQ_FS0YEwjpUVC",
+      "name": "姚国奇",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20211102/a2f3e71d9181a67b70ff5b0c1ac0a2a455c9cfc75c60a94f1fa0fd6038ecd03f0f7236279189c83d_s.jpg",
+      "title": "工业互联网招聘经理",
+      "activeTimeDesc": "5月内活跃",
+      "activeTime": 1687227049000,
+      "bossOnline": false,
+      "brandName": "吉利控股集团",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 189015248,
+      "encryptJobId": "0928da4cbaf52fff1nxz29y4ElZY",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端开发",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "长河",
+      "locationDesc": "杭州·滨江区·长河",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 25,
+      "jobDesc": "职位要求：\n1.负责针对公司现有业务系统进行必要的交互体验升级和用户体验调优，满足新的产品需求，提升开发效率与工程质量；\n2.负责公司新产品的前端技术体系搭建，同时确认模块并和UI设计师及后端一起完成产品的研发工作；\n3.负责产品需求对接，需求评审，架构设计及技术攻关，产品所有模块的代码开发，调试及维护工作；\n4.负责把控项目的代码质量，持续集成、监控体系等，以保证服务的高可用和代码的高质量。\n任职资格：\n1.本科以上学历；\n2.3年以上Web前端开发经验；\n3.有扎实的JavaScript，HTML，CSS等编码基础，熟悉jQuery，HTML5，CSS3，ES6，SASS，LESS；\n4.熟悉Flex，有响应式布局发开经验者优先；\n5.具有较强的学习能力、沟通能力，责任感强，有优秀的逻辑分析能力，不断学习最新技术。",
+      "requiredSkills": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "CSS3",
+        "HTML5",
+        "Less",
+        "ES6",
+        "Sass"
+      ],
+      "address": "杭州滨江区浙江吉利控股集团有限公司1",
+      "longitude": 120.219227,
+      "latitude": 30.20858,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5fc25defd95cb72481e60429ec8d6c94",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/736e29407f8e497224d6b2474e55fcda",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-25K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "754b2fa05c5e813e3n15294~",
+      "brandName": "吉利控股集团",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/8d5be9361753e60ab2b1f4e59da3179acfcd208495d565ef66e7dff9f98764da.jpg",
+      "industryName": "汽车生产",
+      "stageName": "已上市",
+      "scaleName": "10000人以上",
+      "brandIntroduce": "吉利控股集团（ZGH）是一家全球化企业，总部位于中国杭州。\n\n集团始建于1986年，于1997年进入汽车行业。吉利一直专注实业，专注技术创新和人才培养，不断打基础练内功，坚定不移地推动企业健康可持续发展。\n\n2019年，吉利控股集团旗下各品牌在全球累计销售汽车超217.8万辆，同比增长1.23%。\n\n吉利控股集团规划于2020年实现汽车年产销超300万辆，进入全球汽车企业前十强。\n\n目前，吉利控股集团已发展成为一家集汽车整车、动力总成、关键零部件设计、研发、生产、销售及服务于一体，并涵盖出行服务、线上科技创新、金融服务、教育、赛车运动等业务在内的全球型集团。此外，吉利还稳健推进全球创新型科技企业的建设，逐步实现汽车制造商向移动出行服务商转变。\n\n吉利控股集团旗下拥有吉利汽车、领克汽车、沃尔沃汽车、Polestar、宝腾汽车、路特斯汽车、伦敦电动汽车、远程新能源商用车、太力飞行汽车、曹操专车、荷马、盛宝银行、铭泰等众多国际知名品牌。各品牌均拥有各自独特的特征与市场定位，相对独立又协同发展。\n\n吉利控股集团还是沃尔沃集团第一大持股股东，戴姆勒股份公司第一大股东。\n\n吉利控股集团一直以“创造安全、环保和节能的汽车”为使命，积极承担为中国汽车行业树立标杆、推广重视创业精神的企业文化、呈现科研发展价值的责任。\n\n同时，吉利控股集团还致力于大力推动世界知名汽车品牌的发展，为多个细分市场提供优质产品。产品覆盖范围从小型车到中大型车、从跑车到豪华车、从乘用车到商用车、从摩托车到飞行汽车，以满足不同层次的消费者需求。\n\n目前，吉利控股集团拥有超过120,000名员工，其中包括超20,000名研发和设计人员。公司总资产超过3900亿元，连续八年成为“财富”全球500强企业。\n          吉利科技事是由吉利控股集团投资，以数字化、智能化赋能人物关联，将金融机构、产业链、线上线下场景以及人车生活连结融合的创新型企业。总部设在北京亦庄，同时在上海重庆等地设立交易投资科技、资产管理科技、保险科技等子公司，并在普惠金融、供应链金融、全球交易投资社群、区块链科技等领域持续投资核心技术。",
+      "comName": "浙江吉利控股集团有限公司",
+      "legalPerson": "李东辉",
+      "startDate": "2003-03-24",
+      "regCapital": "103000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "杭州市滨江区江陵路1760号",
+      "businessScope": "一般项目：以自有资金从事投资活动；汽车新车销售；汽车旧车销售；电力电子元器件制造；电池制造；电动机制造；汽车零部件研发；汽车零配件零售；汽车零部件及配件制造；汽车零配件批发；工程和技术研究和试验发展；电机制造；集成电路芯片及产品制造；工业设计服务；专业设计服务；企业管理；企业管理咨询；技术进出口；货物进出口；业务培训（不含教育培训、职业技能培训等需取得许可的培训）（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：道路机动车辆生产（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "吉利控股集团（ZGH）是一家全球化企业，总部位于中国杭州。\n\n集团始建于1986年，于1997年进入汽车行业。吉利一直专注实业，专注技术创新和人才培养，不断打基础练内功，坚定不移地推动企业健康可持续发展。\n\n2019年，吉利控股集团旗下各品牌在全球累计销售汽车超217.8万辆，同比增长1.23%。\n\n吉利控股集团规划于2020年实现汽车年产销超300万辆，进入全球汽车企业前十强。\n\n目前，吉利控股集团已发展成为一家集汽车整车、动力总成、关键零部件设计、研发、生产、销售及服务于一体，并涵盖出行服务、线上科技创新、金融服务、教育、赛车运动等业务在内的全球型集团。此外，吉利还稳健推进全球创新型科技企业的建设，逐步实现汽车制造商向移动出行服务商转变。\n\n吉利控股集团旗下拥有吉利汽车、领克汽车、沃尔沃汽车、Polestar、宝腾汽车、路特斯汽车、伦敦电动汽车、远程新能源商用车、太力飞行汽车、曹操专车、荷马、盛宝银行、铭泰等众多国际知名品牌。各品牌均拥有各自独特的特征与市场定位，相对独立又协同发展。\n\n吉利控股集团还是沃尔沃集团第一大持股股东，戴姆勒股份公司第一大股东。\n\n吉利控股集团一直以“创造安全、环保和节能的汽车”为使命，积极承担为中国汽车行业树立标杆、推广重视创业精神的企业文化、呈现科研发展价值的责任。\n\n同时，吉利控股集团还致力于大力推动世界知名汽车品牌的发展，为多个细分市场提供优质产品。产品覆盖范围从小型车到中大型车、从跑车到豪华车、从乘用车到商用车、从摩托车到飞行汽车，以满足不同层次的消费者需求。\n\n目前，吉利控股集团拥有超过120,000名员工，其中包括超20,000名研发和设计人员。公司总资产超过3900亿元，连续八年成为“财富”全球500强企业。\n          吉利科技事是由吉利控股集团投资，以数字化、智能化赋能人物关联，将金融机构、产业链、线上线下场景以及人车生活连结融合的创新型企业。总部设在北京亦庄，同时在上海重庆等地设立交易投资科技、资产管理科技、保险科技等子公司，并在普惠金融、供应链金融、全球交易投资社群、区块链科技等领域持续投资核心技术。",
+      "encryptComId": "1dbeb58895310c061HJy39i7"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "星光大道",
+          "distance": "",
+          "lid": "ZX7wJPyJF5.search.1",
+          "performance": "",
+          "salaryDesc": "20-35K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "React",
+            "Webpack",
+            "前端开发经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "React",
+              "highlight": false
+            },
+            {
+              "content": "Webpack",
+              "highlight": false
+            },
+            {
+              "content": "前端开发经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "8ebcbd8ef010add21HR539S1F1RT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "吉利控股集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/8d5be9361753e60ab2b1f4e59da3179acfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "陈晓霞",
+          "bossTitle": "HRBP经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221122/607f1f3d68754fd042cfc3a956e37446613a78152c54b2ea70ff4cb528ce7528d009f5ff8753bc54_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "React",
+            "Webpack",
+            "前端开发经验",
+            "小程序"
+          ],
+          "welfares": [],
+          "securityId": "u5JpgZXrVT79f-C1gemRbqsHMDEFCjm48fvmzRvqFNqJ4paBx2DAFDGwHDeCQFGyve9lW9E~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZX7wJPyJF5.search.2",
+          "performance": "",
+          "salaryDesc": "20-25K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "React",
+            "Vue",
+            "Angular"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "React",
+              "highlight": false
+            },
+            {
+              "content": "Vue",
+              "highlight": false
+            },
+            {
+              "content": "Angular",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "46c4f113af5fce961XJ83N27ElVW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "吉利控股集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/8d5be9361753e60ab2b1f4e59da3179acfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "何先生",
+          "bossTitle": "技术总监助理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230531/607f1f3d68754fd013f2270c532c960f5c6986fb8a18b336c6713e1b9d5943fe43e9c14e5c294712_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "React",
+            "Vue",
+            "Angular"
+          ],
+          "welfares": [],
+          "securityId": "_OE6aZwOkKP2Z-u1jySnxDT_2kjWt0nbvC4LAxV4wYmzT7ayFNV1J4K9yh9uV6mPnLMtiz0~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "算法工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "西兴",
+          "distance": "",
+          "lid": "ZX7wJPyJF5.search.3",
+          "performance": "",
+          "salaryDesc": "20-40K·14薪",
+          "jobLabels": [
+            "3-5年",
+            "硕士",
+            "深度学习算法",
+            "Python",
+            "Java"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "深度学习算法",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "f6c62aa7ddbb5c501XJ62ty-EFJX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "吉利控股集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/8d5be9361753e60ab2b1f4e59da3179acfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "姚先生",
+          "bossTitle": "研发负责人",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190903/2770875cec773c9b6ffff820ef2c9754b56ac30096ffea73afbdbdaece03c889_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "深度学习算法",
+            "Python",
+            "Java",
+            "SQL",
+            "大数据",
+            "人工智能",
+            "自然语言处理"
+          ],
+          "welfares": [],
+          "securityId": "MS8OawNA8mUyH-J1-d7k0akwpfgBqHLZGncSy8YeevspmZ9_DBV9wLJYqTF_0dj5SIzuK6s~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "前端开发（外包）",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZX7wJPyJF5.search.4",
+          "performance": "",
+          "salaryDesc": "14-18K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "互联网前端开发"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "互联网前端开发",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "1a08d5e46a4541e11HV-0ty5FFBX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "吉利控股集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/8d5be9361753e60ab2b1f4e59da3179acfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "刘佳琦",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220803/607f1f3d68754fd035752c4adf2c2dfeece9b372c6bd17053638396f3680732e9020695b10a77ff6_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "互联网前端开发"
+          ],
+          "welfares": [],
+          "securityId": "E9ytH4sFt3okq-z1KkV4l-WIwA_3EMyac7ZrIlJJVwxqVZYIm71AhFXupn_xmMqdxN2FIHn2",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "ZX7wJPyJF5.search.5",
+          "performance": "",
+          "salaryDesc": "20-35K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "Java",
+            "Spring",
+            "Redis"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            },
+            {
+              "content": "Redis",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "95fb7b08522a07491HV_09W9EFVW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "吉利控股集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/8d5be9361753e60ab2b1f4e59da3179acfcd208495d565ef66e7dff9f98764da.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "陆先生",
+          "bossTitle": "招聘",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "Spring",
+            "Redis",
+            "SpringBoot",
+            "Nacos",
+            "RocketMQ"
+          ],
+          "welfares": [],
+          "securityId": "YX0icqNDw99Ls-H1FeChX71QscPmOJn-FFCd_wh2PeDvCvirYG1m_irjzvFKTxsd6SirvoI~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

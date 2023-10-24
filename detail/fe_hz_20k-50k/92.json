@@ -1,0 +1,215 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "YwEBGccZLpkpR-L18hNnauSxd4JVDiohVK_Afuj15jyIte153syCwL3nmJpZseQ5oFP47cQ4pG4vLOZX7beBJ2Pd3wtGAPOBB4pg4CPPjUEkkk52J01JTFJPet9z_K-bDFLPU-xmEg~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "302b09e5305880be1H1y2tS-ElU~",
+      "bossId": 39819327,
+      "securityId": "udn7t7SBayqoq-t1ZAmB2pWGEKPCwTEW7BdVtNclfaSGbzjOZkJW0T8JOxQdt9XUKejHxNa8r3FE4jLEPYxLQHG7ZKHV",
+      "name": "余凌",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201001/1be527b777f31b4df920accb06536dd9e827d5b5720387d1ffdef84262419aee_s.png",
+      "title": "人事经理",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1610615660000,
+      "bossOnline": false,
+      "brandName": "有谱么",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 102109986,
+      "encryptJobId": "1379dbdef22b4c8a1nR42t20GVpW",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "未来科技城",
+      "locationDesc": "杭州·余杭区·未来科技城",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 30,
+      "jobDesc": "职责\n1. 你会跟着10年Google经验的(老)猿一起开发与维护有谱么APP。10年技能必倾囊相授。\n2. 注意，你不再是大厂的一枚螺丝钉。你将是我们的整条流水线（至少半条）。\n要求\n1. 热爱音乐。熟练掌握一门乐器。吉他或尤克里里优先考虑。\n2. 985/211院校本科及以上学历。计算机或软件开发相关专业。\n3. 三年以上Web开发经验。熟悉Web前端技术，以及nodejs，mongodb等服务器端开源技术。有代码洁癖。\n4. 有iOS / Android开发经验优先考虑\n5. 有谱么app用户优先考虑\n待遇\n1. 月薪 15,000 - 30,000。根据经历能力面议。\n2. 根据绩效，创始团队都有奖励期权\n3. 带薪年假\n4. 团队旅游等",
+      "requiredSkills": [
+        "前端开发",
+        "Node.js",
+        "MongoDB"
+      ],
+      "address": "杭州余杭区欧美金融城t5美国中心0",
+      "longitude": 120.002852,
+      "latitude": 30.281902,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0667ec05852ff4f13b46a1d10dcb50c5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/98e7efeafe6e7c42fd94c6a3ba8871e4",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-30K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "4b2622a7741fc80b0HJ439W4GA~~",
+      "brandName": "有谱么",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200811/358a7cc47eca3e36161410de4d3a0503e827d5b5720387d1ffdef84262419aee.png",
+      "industryName": "音乐/视频/阅读",
+      "stageName": "天使轮",
+      "scaleName": "0-20人",
+      "brandIntroduce": "杭州优璞科技有限公司（以下简称“有谱么”）是在线曲谱制作与分享服务平台的开拓者，提供在线制谱和以音乐为核心的社交娱乐两大服务。有谱么在中国有着忠实的用户基础，注册用户数百万。  \n有谱么为用户提供多元化的音乐社交娱乐产品，打造“制谱、分享、教与学、演绎伴侣、社交、商城”的细分场景音乐体验，让用户能参与到音乐的曲谱制作、欣赏、教与学、乐器购销和社交互动中。通过有谱么，用户可以在多场景间切换，音乐带给自己美、能力与恰饭。\n通过技术和数据的赋能，有谱么始终秉持产品清新，持续创新，为用户实现需求，为用户带来更佳体验，为用户实现音乐价值支持。\n技术赋能音乐，网聚乐器玩家。",
+      "comName": "杭州优璞科技有限公司",
+      "legalPerson": "陈建华",
+      "startDate": "2016-05-20",
+      "regCapital": "100万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市上城区同方国际大厦1222室",
+      "businessScope": "许可项目：第二类增值电信业务（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；人工智能应用软件开发；软件开发；数字文化创意软件开发；数字文化创意技术装备销售；广告发布；文艺创作；文化娱乐经纪人服务；组织文化艺术交流活动；个人互联网直播服务；互联网销售（除销售需要许可的商品）；乐器制造；乐器零售；乐器零配件销售（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "杭州优璞科技有限公司（以下简称“有谱么”）是在线曲谱制作与分享服务平台的开拓者，提供在线制谱和以音乐为核心的社交娱乐两大服务。有谱么在中国有着忠实的用户基础，注册用户数百万。  \n有谱么为用户提供多元化的音乐社交娱乐产品，打造“制谱、分享、教与学、演绎伴侣、社交、商城”的细分场景音乐体验，让用户能参与到音乐的曲谱制作、欣赏、教与学、乐器购销和社交互动中。通过有谱么，用户可以在多场景间切换，音乐带给自己美、能力与恰饭。\n通过技术和数据的赋能，有谱么始终秉持产品清新，持续创新，为用户实现需求，为用户带来更佳体验，为用户实现音乐价值支持。\n技术赋能音乐，网聚乐器玩家。",
+      "encryptComId": "889adac19b6664131XZ7092-EFc~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "Node.js",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "拱墅区",
+          "businessName": "北景园",
+          "distance": "",
+          "lid": "100RDV3ikOS.search.2",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "前端开发",
+            "全栈开发",
+            "NoSQL"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            },
+            {
+              "content": "全栈开发",
+              "highlight": false
+            },
+            {
+              "content": "NoSQL",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "b3e001c8875b03e11nVz2NS8GVZY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "有谱么",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200811/358a7cc47eca3e36161410de4d3a0503e827d5b5720387d1ffdef84262419aee.png",
+          "brandStage": "天使轮",
+          "brandScale": "0-20人",
+          "comName": null,
+          "bossName": "丁先生",
+          "bossTitle": "HR主管",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210112/a301e1865d0d4d870b845f49a54409768a32f6f15d380566b0d98e0c392b1b1f_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "前端开发",
+            "全栈开发",
+            "NoSQL",
+            "MongoDB",
+            "懂音乐"
+          ],
+          "welfares": [],
+          "securityId": "vknbXAwd2m6fI-W1yMCU4Fs0We6eXE_weBYGq_-Y6Di92nuhFtehxw82yhDXYcBKA7Ax_LLt",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

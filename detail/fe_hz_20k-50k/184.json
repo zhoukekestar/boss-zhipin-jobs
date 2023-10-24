@@ -1,0 +1,216 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "jVwJbvyHMJfDA-41Dac-PCa7fbqh7jzdZ8J1NTJDDSkSCliaBclUt1iDt9uapjS6zeld_0auWGuP8D5M3KKkePHixNN_n_StALuF1eDV9Iuyrl6Bru-LpUheJYEhH9UQqc5_6pse",
+    "bossBaseInfoVO": {
+      "encryptBossId": "6872698d06ef5f3f0nZz2t--FlM~",
+      "bossId": 52912361,
+      "securityId": "8HJnAWjklsxec-315A9UkCtPWffpSUCXGUAOR4nEzHI_lLAn0ozpg7f2b2S85dFl1Iy8_K2I7xWK5DFH9FmdPGxKkGL8",
+      "name": "肖女士",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220812/607f1f3d68754fd0d518b7e4dcf3559d34f72d2ccb7e669cf6f30260c9a2829574b1c776d2ffb3fc_s.jpg",
+      "title": "招聘HR",
+      "activeTimeDesc": "2月内活跃",
+      "activeTime": 1695461616000,
+      "bossOnline": false,
+      "brandName": "联想利泰",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 293730981,
+      "encryptJobId": "cadffd640461a4071X153N69GVpR",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "中高级前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "江南",
+      "locationDesc": "杭州·滨江区·江南",
+      "experienceName": "5-10年",
+      "degreeName": "本科",
+      "lowSalary": 20,
+      "highSalary": 26,
+      "jobDesc": "岗位职责：\n1.负责系统的前端开发、设计工作；\n2.前端样式和脚本的模块化设计及实现；\n3.定位、解决前端bug，持续优化性能、效率，提升用户体验；\n4.参与需求分析、前端架构设计；\n任职要求：\n1.五年及以上移动前端开发经验，至少5个以上完整的前端项目开发经验；\n2.精通HTML5、CSS3、JavaScript等，熟悉各种前端调试工具，能够高保真还原设计稿，具备良好的代码风格以及接口、架构设计能力；熟悉JS性能优化；熟练解决各种浏览器兼容问题；\n3.精通VueJS、ReactJS、AngularJS中的至少一种；\n4.精通ElementUI、VantUI、Echarts、Bootstrap、layui等UI框架；\n5.有UI设计、原型设计、Photoshop等经验者，优先；\n6.熟悉后端技术，如JAVA、SQL方面经验者优先。",
+      "requiredSkills": [
+        "计算机/软件工程相关专业"
+      ],
+      "address": "杭州滨江区浙江省气象大楼1",
+      "longitude": 120.176003,
+      "latitude": 30.197228,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/99e09ac2c3f3a8ad2d85283a73fdb8fe",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f17a7b6668f022f17746e912f07472ce",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-26K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "4b52c04a84d7aced1nd92N69",
+      "brandName": "联想利泰",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160614/246d6aabca5fc8b18273cdf7ac78a3fba913d92db28697eac97819731866a743.jpg",
+      "industryName": "移动互联网",
+      "stageName": "不需要融资",
+      "scaleName": "1000-9999人",
+      "brandIntroduce": "北京联和利泰科技股份有限公司（前联想利泰）成立于2004年6月2日，是联想创投集团的成员企业，总部位于北京市海淀区联想研究院，在武汉、天津、上海、深圳和成都等地都设有分支机构。其前身是成立于1996年的联想集团研发部软件开发团队。\r\n      联和利泰成立十余年来，始终专注于全方位的IT技术服务及行业解决方案，业务包括：IT咨询、应用软件研发与运维、IT技术人才服务、离岸开发（ODC）业务等。\r\n经过了二十年的经验和技术积累，联和利泰服务的行业覆盖高科技、互联网、金融、通信、能源、制造、医疗、媒体、政府等众多社会领域，凭借优秀的软件服务团队和先进的软件开发过程管理体系，成功服务众多世界500强企业，先后为联想、海尔、微软、中央电视台、北京市人大、国家开发银行、国家电网、中石油、中石化、中海油、中国中化、中国电信集团、中国移动、神华集团、中国海关、John Deere、NEC等国内外知名企业及组织提供高质量的IT服务。\r\n      凭借在IT行业的优秀口碑，联和1利泰获得了北京奥组委和上海世博会的信任，成为了2008年北京奥运会软件服务提供商及2010年上海世博会软件服务提供商，为两次盛会提供了专业的IT服务。\r\n       2017年，联和利泰正式被纳入联想创投集团，将一如既往地坚守“专注客户需求，为客户提供最优质的服务，帮助客户成功”的使命，不断提高核心竞争力，继续秉承“与客户真诚合作、做客户值得信赖的朋友”的服务理念，通过持续的创新和发展，不断向“成为国内领先的IT服务提供商”愿景迈进。",
+      "comName": "北京联和利泰科技股份有限公司",
+      "legalPerson": "韩振江",
+      "startDate": "2004-06-02",
+      "regCapital": "8400万人民币",
+      "statusDesc": "存续",
+      "regAddress": "北京市海淀区上地信息产业基地开拓路7号一幢2408",
+      "businessScope": "软件技术开发、技术转让、技术咨询、技术服务；计算机技术培训；计算机系统服务；计算机系统集成；信息技术和业务流程外包服务；数据处理；经济贸易咨询；批发计算机、软件及辅助设备、机械设备、建筑材料（不含钢材）。网络产品、多媒体产品（不含音像制品）、电子信息产品及通讯产品、办公自动化设备、仪器仪表；技术进出口、货物进出口（不涉及国营贸易管理商品；涉及配额许可证商品的按国家有关规定办理申请手续）；人才中介服务。（市场主体依法自主选择经营项目，开展经营活动；人才中介服务以及依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事国家和本市产业政策禁止和限制类项目的经营活动。）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "北京联和利泰科技股份有限公司（前联想利泰）成立于2004年6月2日，是联想创投集团的成员企业，总部位于北京市海淀区联想研究院，在武汉、天津、上海、深圳和成都等地都设有分支机构。其前身是成立于1996年的联想集团研发部软件开发团队。\r\n      联和利泰成立十余年来，始终专注于全方位的IT技术服务及行业解决方案，业务包括：IT咨询、应用软件研发与运维、IT技术人才服务、离岸开发（ODC）业务等。\r\n经过了二十年的经验和技术积累，联和利泰服务的行业覆盖高科技、互联网、金融、通信、能源、制造、医疗、媒体、政府等众多社会领域，凭借优秀的软件服务团队和先进的软件开发过程管理体系，成功服务众多世界500强企业，先后为联想、海尔、微软、中央电视台、北京市人大、国家开发银行、国家电网、中石油、中石化、中海油、中国中化、中国电信集团、中国移动、神华集团、中国海关、John Deere、NEC等国内外知名企业及组织提供高质量的IT服务。\r\n      凭借在IT行业的优秀口碑，联和1利泰获得了北京奥组委和上海世博会的信任，成为了2008年北京奥运会软件服务提供商及2010年上海世博会软件服务提供商，为两次盛会提供了专业的IT服务。\r\n       2017年，联和利泰正式被纳入联想创投集团，将一如既往地坚守“专注客户需求，为客户提供最优质的服务，帮助客户成功”的使命，不断提高核心竞争力，继续秉承“与客户真诚合作、做客户值得信赖的朋友”的服务理念，通过持续的创新和发展，不断向“成为国内领先的IT服务提供商”愿景迈进。",
+      "encryptComId": "1d03b4cfc683b7411nx409m7EA~~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "中高级前端（气象局）",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "江南",
+          "distance": "",
+          "lid": "ZSbY6sn46e.search.2",
+          "performance": "",
+          "salaryDesc": "15-26K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "HTML5",
+            "CSS",
+            "JavaScript"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "HTML5",
+              "highlight": false
+            },
+            {
+              "content": "CSS",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "e6f833634c292a321X1_2d2-EFtW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "联想利泰",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160614/246d6aabca5fc8b18273cdf7ac78a3fba913d92db28697eac97819731866a743.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "刘女士",
+          "bossTitle": "招聘专员",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230427/607f1f3d68754fd001663398c536ce9c748abfade9e23b809b11ac0ee2e350a3c02bad4070cebb09_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "HTML5",
+            "CSS",
+            "JavaScript",
+            "前端开发经验",
+            "计算机/软件工程相关专业",
+            "ElementUI",
+            "VantUI",
+            "Echarts"
+          ],
+          "welfares": [],
+          "securityId": "-VxUFxNg5lCZX-81aOzyk97bX-EKUcgn7gG3xCg4JVp-rLM9edtH4b2DxUZUo4DR5FH__w24",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

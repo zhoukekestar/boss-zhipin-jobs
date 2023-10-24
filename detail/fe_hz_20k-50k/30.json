@@ -1,0 +1,507 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "mNjnivOuW8z3H-M1NaJUUTMZe-0GVo2U34ULsUACeGV1e1ssHmsWFajYrMAi1sjHl2MvWts1hbvasERuUrYefXeC_BQB40Ybno6VuSxYcAiQIc4YKDe7JhFEOsDSGDlDMRVWyA~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "53db8390482fbcdf0nxy0920EQ~~",
+      "bossId": 5888091,
+      "securityId": "JB4CGTLJeR5fT-u1M0lJsF1j9TETccG2ZDxI1eh8jI7EmIcc38DlHIzjkAOjuNdmD7JULz2xm8q7u5f8tQ5PS0xV5Q~~",
+      "name": "钱先生",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230801/607f1f3d68754fd0c497dc1552f073cb1528524b01f41f82780b493366b491d999b7139eaac030ff_s.jpg.webp",
+      "title": "前端组长",
+      "activeTimeDesc": "4月内活跃",
+      "activeTime": 1688721425000,
+      "bossOnline": false,
+      "brandName": "微医集团",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 44609487,
+      "encryptJobId": "aadab84c093293e203B829S5GFU~",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端专家",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "萧山区",
+      "businessDistrict": "北干",
+      "locationDesc": "杭州·萧山区·北干",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 28,
+      "highSalary": 40,
+      "jobDesc": "微医-健共体招聘资深前端工程师,前端专家\n\n我们在做什么?\n\n健共体前端是微医全新的事业部,我们团队负责集团最核心的健共体业务的建设工作,覆盖基层卫生,云检查检验,在线医保复诊，医院资源规划等业务场景,有较高的业务复杂度与技术挑战\n\n目前前端同学30人左右,团队正处于初步建设阶段,在这边你会得到更多的机会与挑战\n\n我们更好的将业务与技术价值相结合,可以从复杂的业务场景中孵化出更多的技术产品\n\n我们发起了由前端委员会共建的云端一体化与能力平台,尝试解决整体研发效率与能力重复建设的问题\n\n我们的愿景是通过技术驱动业务的快速发展,让人的价值更大化\n\n我们有大量业务场景还有新技术要探讨,如果你也压倦了前端重复的业务开发工作,或者你对我们所做的事情感兴趣,请加入我们\n\n我们希望你拥有:\n1.扎实的编程能力,熟悉基本的数据结构和算法\n2.熟练掌握React/Vue的原理,了解实现的关键技术\n3.对于工程化,平台化有一定的思考,并有所实践\n4.不满足上述要求,但仍然感兴趣的,请以做过的项目或某领域的深入来证明自己的能力",
+      "requiredSkills": [
+        "vue.js",
+        "javascript",
+        "前端开发"
+      ],
+      "address": "杭州萧山区杭州湾信息港(建设三路)D幢22楼",
+      "longitude": 120.247683,
+      "latitude": 30.203631,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ee47f11b94e1275bdef128c94921c978",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3ccfc29410f1495e4edcedfefa94e714",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "28-40K·14薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "9e5faf0211e35f1a1XJ63d-0",
+      "brandName": "微医集团",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200908/2db508f3e946b5afe34b68a575f26621c21cb8db87278aef2f6da661f8674a8b_s.jpg",
+      "industryName": "互联网",
+      "stageName": "D轮及以上",
+      "scaleName": "1000-9999人",
+      "brandIntroduce": "微医是国际领先的智能化数字健康平台，总部位于中国杭州，由廖杰远带领团队创建于2010年。微医以“健康有道，就医不难”为使命，十年来始终致力于通过创新和科技推动中国医疗健康产业数字化、智能化，为全社会提供优质、高效、可及的医疗健康服务，守护亿万人健康。\n\n微医核心业务覆盖医疗、医药、医检、健保等领域，是行业内唯一覆盖“互联网+医疗健康”全产业链的数字健康平台。微医以开放的“微医云”平台为基础，持续提升医疗服务能力、降低药品价格、提高医保基金使用效率、创新医疗器械研发，帮助各地打造“以人民健康为中心”的数字健康共同体（HMP,Health Maintenance Platform），为广大用户提供线上线下融合的一站式医疗和健保服务。\n\n2015年，微医创建了全国首家互联网医院——乌镇互联网医院，开创了中国在线诊疗、处方流转、医保在线支付等新业态，并广泛连接各级医疗机构、医生等供给侧资源，持续推进新业态在全国范围内规模化落地运营。截至2020年3月，微医拥有12家实体医疗机构和22家互联网医院，连接了全国7200多家医院，24万余名医生和超过2亿用户。\n\n2020年全球新冠肺炎疫情期间，微医互联网总医院为全国，尤其是武汉、黄冈等核心疫情地区用户，提供在线咨询、心理救助、在线复诊、医保用药和防疫科普等服务，截至5月中旬，累计访问量超过1.5亿，服务人次超190万；微医全球抗疫平台上线后，获170多个中国驻外使领馆官方推介。微医数字健康服务成为疫情防控中的“空中主力”，受到国家卫健委等主管部门的关注。\n\n截至2018年5月，微医估值为55亿美金，是国际上规模最大、最具成长力的数字健康独角兽之一。2019年，美国知名数据智库CB Insights发布全球首个数字健康企业150强榜单，微医位列榜首。\n\n未来，微医将继续携手政府、医疗机构、医生、医疗健康企业等合作伙伴，共同推动中国医疗健康服务体系智能化、数字化进程，为亿万用户的健康福祉奋力前行。\n\n微医使命：就医不难，健康有道\n微医价值观：用心为医、用户第一、诚信、坚韧、创新、协作\n\n加入微医，您会获得：\n薪酬福利——具有市场竞争力的薪酬，让你“薪”满意足\n商业保险——让你多一份保障，多一份安全\n微医全科——每年免费体检，为你的健康保驾护航\n专业培训——专业赋能，让你在职场中脱颖而出\n节日礼物——节日关怀，让你感受”家”的温暖\n团建活动——让兼顾工作与生活不再是伪命题\n五险一金、餐补、交通补贴......\n更多福利，在微医等你~",
+      "comName": "挂号网（杭州）科技有限公司",
+      "legalPerson": "邱凯",
+      "startDate": "2014-05-20",
+      "regCapital": "159500万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市萧山区萧山经济技术开发区明星路371号3幢23层2303室",
+      "businessScope": "一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；日用品销售；企业管理；广告制作；广告设计、代理；健康咨询服务（不含诊疗服务）；信息咨询服务（不含许可类信息咨询服务）；计算机软硬件及辅助设备零售；第二类医疗器械销售；第一类医疗器械销售；第一类医疗器械生产；计算机系统服务；广告发布；（涉及国家规定实施准入特别管理措施的除外）**（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：第三类医疗器械经营；第二类医疗器械生产；第三类医疗器械生产（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "微医是国际领先的智能化数字健康平台，总部位于中国杭州，由廖杰远带领团队创建于2010年。微医以“健康有道，就医不难”为使命，十年来始终致力于通过创新和科技推动中国医疗健康产业数字化、智能化，为全社会提供优质、高效、可及的医疗健康服务，守护亿万人健康。\n\n微医核心业务覆盖医疗、医药、医检、健保等领域，是行业内唯一覆盖“互联网+医疗健康”全产业链的数字健康平台。微医以开放的“微医云”平台为基础，持续提升医疗服务能力、降低药品价格、提高医保基金使用效率、创新医疗器械研发，帮助各地打造“以人民健康为中心”的数字健康共同体（HMP,Health Maintenance Platform），为广大用户提供线上线下融合的一站式医疗和健保服务。\n\n2015年，微医创建了全国首家互联网医院——乌镇互联网医院，开创了中国在线诊疗、处方流转、医保在线支付等新业态，并广泛连接各级医疗机构、医生等供给侧资源，持续推进新业态在全国范围内规模化落地运营。截至2020年3月，微医拥有12家实体医疗机构和22家互联网医院，连接了全国7200多家医院，24万余名医生和超过2亿用户。\n\n2020年全球新冠肺炎疫情期间，微医互联网总医院为全国，尤其是武汉、黄冈等核心疫情地区用户，提供在线咨询、心理救助、在线复诊、医保用药和防疫科普等服务，截至5月中旬，累计访问量超过1.5亿，服务人次超190万；微医全球抗疫平台上线后，获170多个中国驻外使领馆官方推介。微医数字健康服务成为疫情防控中的“空中主力”，受到国家卫健委等主管部门的关注。\n\n截至2018年5月，微医估值为55亿美金，是国际上规模最大、最具成长力的数字健康独角兽之一。2019年，美国知名数据智库CB Insights发布全球首个数字健康企业150强榜单，微医位列榜首。\n\n未来，微医将继续携手政府、医疗机构、医生、医疗健康企业等合作伙伴，共同推动中国医疗健康服务体系智能化、数字化进程，为亿万用户的健康福祉奋力前行。\n\n微医使命：就医不难，健康有道\n微医价值观：用心为医、用户第一、诚信、坚韧、创新、协作\n\n加入微医，您会获得：\n薪酬福利——具有市场竞争力的薪酬，让你“薪”满意足\n商业保险——让你多一份保障，多一份安全\n微医全科——每年免费体检，为你的健康保驾护航\n专业培训——专业赋能，让你在职场中脱颖而出\n节日礼物——节日关怀，让你感受”家”的温暖\n团建活动——让兼顾工作与生活不再是伪命题\n五险一金、餐补、交通补贴......\n更多福利，在微医等你~",
+      "encryptComId": "c31954fbc4046e2b1HZ-3925"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "Java开发",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": null,
+          "businessName": null,
+          "distance": "",
+          "lid": "107IGbxONjE.search.1",
+          "performance": "",
+          "salaryDesc": "20-35K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "Java",
+            "后端开发",
+            "大数据中间件开发"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "后端开发",
+              "highlight": false
+            },
+            {
+              "content": "大数据中间件开发",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "735e097bad29fff71HJ42Nm8ElY~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "微医集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200908/2db508f3e946b5afe34b68a575f26621c21cb8db87278aef2f6da661f8674a8b_s.jpg",
+          "brandStage": "D轮及以上",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "朱先生",
+          "bossTitle": "teamleader",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "后端开发",
+            "大数据中间件开发"
+          ],
+          "welfares": [],
+          "securityId": "8lSBNsE1JKy0t-k1xOHssCIUbEFDR5AER_1dQLc50smQ9DarCvEzO10eRhAb0_Byd0rO",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "项目经理",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "北干",
+          "distance": "",
+          "lid": "107IGbxONjE.search.2",
+          "performance": "",
+          "salaryDesc": "15-25K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "项目经理"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "项目经理",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "207a3223021490091nR429q7FVBT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "微医集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200908/2db508f3e946b5afe34b68a575f26621c21cb8db87278aef2f6da661f8674a8b_s.jpg",
+          "brandStage": "D轮及以上",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "王萌颖",
+          "bossTitle": "项目经理",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "项目经理"
+          ],
+          "welfares": [],
+          "securityId": "tCGAZNmnQ0WFU-D1Xm-aQOIujcHDToLp90-I8MJhHI4z6OAR0IZh0bS3hkPVvtc-hYRjZBDx",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级测试工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "北干",
+          "distance": "",
+          "lid": "107IGbxONjE.search.3",
+          "performance": "",
+          "salaryDesc": "15-20K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "测试工程师",
+            "软件测试",
+            "自动化测试"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "测试工程师",
+              "highlight": false
+            },
+            {
+              "content": "软件测试",
+              "highlight": false
+            },
+            {
+              "content": "自动化测试",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "77e2d243ddc04a6d0Hx_3tS1FFI~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "微医集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200908/2db508f3e946b5afe34b68a575f26621c21cb8db87278aef2f6da661f8674a8b_s.jpg",
+          "brandStage": "D轮及以上",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "王涛",
+          "bossTitle": "测试工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220815/607f1f3d68754fd07aef98d1ce4fe4df35693cbf236307c8418f25c8140227ddb41afee839f06e3c_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "测试工程师",
+            "软件测试",
+            "自动化测试",
+            "接口测试",
+            "系统测试"
+          ],
+          "welfares": [],
+          "securityId": "dSI1lBwGy64aH-H14gZXqW4FFtbT4MOAVklUCKWL3FfOadJ_n6K0UwS7c9SG_DLNrwO0",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java高级工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "北干",
+          "distance": "",
+          "lid": "107IGbxONjE.search.4",
+          "performance": "",
+          "salaryDesc": "15-25K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "分布式技术",
+            "微服务架构",
+            "Spring"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "微服务架构",
+              "highlight": false
+            },
+            {
+              "content": "Spring",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "98b717b5e43305bd1nNz39i7GFRX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "微医集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200908/2db508f3e946b5afe34b68a575f26621c21cb8db87278aef2f6da661f8674a8b_s.jpg",
+          "brandStage": "D轮及以上",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "张涛",
+          "bossTitle": "技术架构部-云通讯主管",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "分布式技术",
+            "微服务架构",
+            "Spring",
+            "SpringBoot",
+            "后端开发",
+            "服务器端开发",
+            "高级软件工程师"
+          ],
+          "welfares": [],
+          "securityId": "Hv7AcEy6roLfc-y1f1GahR2l_IPUnMI_9vISGJgmgEIjtNrUr1_8wX8si3T4PIR9zgkHep0~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "萧山区",
+          "businessName": "北干",
+          "distance": "",
+          "lid": "107IGbxONjE.search.5",
+          "performance": "",
+          "salaryDesc": "100-200元/天",
+          "jobLabels": [
+            "5天/周",
+            "3个月",
+            "硕士",
+            "前端开发",
+            "JavaScript"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5天/周",
+              "highlight": false
+            },
+            {
+              "content": "3个月",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            }
+          ],
+          "jobType": 4,
+          "encryptJobId": "a1fa04a797b5e41033R_0t29EVM~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "微医集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200908/2db508f3e946b5afe34b68a575f26621c21cb8db87278aef2f6da661f8674a8b_s.jpg",
+          "brandStage": "D轮及以上",
+          "brandScale": "1000-9999人",
+          "comName": null,
+          "bossName": "姜胜",
+          "bossTitle": "前端工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181005/e8c97b135336f048a9c06084fff808670ea5e69287a46956f297bffe5bf0a79f_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "前端开发",
+            "JavaScript",
+            "CSS",
+            "HTML",
+            "Webpack",
+            "Vue",
+            "Web端"
+          ],
+          "welfares": [],
+          "securityId": "CZhjt6HqCdbn2-41ac5j2V_snSX_VosrIJUAXzxwL-rNFu2FD8NjRaaQd9WI_ghYWv7Enw~~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

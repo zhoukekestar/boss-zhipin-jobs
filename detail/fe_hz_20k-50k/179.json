@@ -1,0 +1,353 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "6TOIaWLeYvJH9-f10TPVoxtP26o4Bc0a9LfIiA0K91iTyiKpd4paNn9D7Kwdu4PPIMZI7cD8XJofIpbMc5tow2r14NZ5QkalQVGZWsIuSB0U_urJvcL4silKT68usjYgf_L43inLpiQ~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "d25ba03365fb049b3nFz2960GVA~",
+      "bossId": 95903992,
+      "securityId": "4h1CecQiewp8z-H1tjUMM9XtiU84IKrlrGsh5xHmyXyo0BVj-ByuLbGrqSWbz_3QYpXF9kFR0LdaiXnKLULPw6YFsvSc",
+      "name": "范呈熠",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220723/607f1f3d68754fd0cf397ac220183d1c516b5bd8bb385c3db6acc791dfc8655b1b88d3395a6bc62d_s.png",
+      "title": "产品经理",
+      "activeTimeDesc": "4月内活跃",
+      "activeTime": 1690222537000,
+      "bossOnline": false,
+      "brandName": "元墟科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 249474092,
+      "encryptJobId": "adc01c2a3b78637c1XBz39q5EFtS",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "浦沿",
+      "locationDesc": "杭州·滨江区·浦沿",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "lowSalary": 20,
+      "highSalary": 30,
+      "jobDesc": "岗位描述:\n1.负责基于web的前端应用程序开发;\n2.负责辅助项目使用的工具链开发;\n3.配合产品经理，后端开发人员实现产品页面;\n4.参与产品原型讨论，规划产品实现方案:\n5.负责前端3D模型开发渲染、灯光效果调优:\n6.开发相关产品应用，包含但不限于元宇宙、NFT、溯\n源相关应用产品\n7.负责区块链接口和智能合约实现，上线部署;\n8.编写必要的技术文档。人员要求:\n1.大专及以上学历;\n2.具备3D开发经验，使用过3D引擎;\n3.熟悉WebGL或OpenGL等技术，了解Obi或GLTF模\n型的加载;\n4.具有Babylonjs/Threeis开发经验\n5.熟悉区块链相关知识;\n6.熟悉比特币，以太坊;\n7.熟悉或精通web3is;\n8.熟悉智能合约，soliditv语言等，有Soliditv智能合约编\n写经验，熟悉ERC20、ERC721等合约标准:\n9.熟悉uniswap、opensea等。\n10.熟悉3D模型的批量构建。\n11.有强烈的自我学习和成长欲望，对区块链相关技术感\n兴趣;",
+      "requiredSkills": [
+        "JavaScript"
+      ],
+      "address": "杭州滨江区科达投资大厦B座707",
+      "longitude": 120.171761,
+      "latitude": 30.186238,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b69e4d5bae9ccb46f1d669a73e91a123",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1676cf76155695427c98c1cb62380e7b",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-30K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "96a356db3151b4cc1XZ90tS9GVs~",
+      "brandName": "元墟科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220830/7b5b554d84f9729c0ce27a422d89d135495f1d134a1c11fec2f0724dcb0004a3ead8fde8d1192626.jpg",
+      "industryName": "游戏",
+      "stageName": "天使轮",
+      "scaleName": "20-99人",
+      "brandIntroduce": "随着5G、人工智能、区块链等技术的快速发展，中国元宇宙市场规模将保持持续增长，预计2027年市场规模将达到1263.5亿元，年均复合增长率为32.98%。在该市场浪潮下，有一群志同道合的90后青年们成立了杭州元墟科技有限公司，主营科技推广和应用服务业务为主。公司合作人均为连续创业者，有着丰富的互联网＋领域创业经验，并且较早开始接触区块链应用，曾参与了公链元宇宙项目。\n       我们想要打造一款元宇宙空间流量平台，采用UGC的运营模式，用户可以在平台中打造自己的世界，创造内容输出。目前，我们的团队已初具雏形，我们的技术团队在VR空间呈现领域已深耕十年之上，曾参与过多个元宇宙开发项目，拥有丰富的元宇宙大数据应用平台经验；我们的美术团队主要来自于中国美术学院、韩国弘益大学，有丰富的数字制造，网站设计创作经历，曾参与过乌镇元宇宙体验馆预备推出虚拟形象“青芸”的服装造型设计。在这里，我们不设限、不内卷，你会有充分的空间发挥专业所长，你还会结实一群风趣幽默的小伙伴们，快来加入我们吧！",
+      "comName": "杭州风之末数字科技有限公司",
+      "legalPerson": "张润泽",
+      "startDate": "2022-07-29",
+      "regCapital": "550万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市西湖区天目山路178号6楼624室",
+      "businessScope": "一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；软件开发；软件外包服务；人工智能理论与算法软件开发；数字文化创意软件开发；互联网数据服务；广告制作；广告发布；广告设计、代理；图文设计制作；市场营销策划；信息技术咨询服务；平面设计；会议及展览服务；艺（美）术品、收藏品鉴定评估服务；票务代理服务；其他文化艺术经纪代理；数字内容制作服务（不含出版发行）；文艺创作；文化娱乐经纪人服务；数字文化创意内容应用服务；软件销售；工艺美术品及收藏品批发（象牙及其制品除外）；计算机软硬件及辅助设备批发；可穿戴智能设备销售；电子产品销售；互联网销售（除销售需要许可的商品）；云计算设备销售；物联网设备销售；工艺美术品及礼仪用品销售（象牙及其制品除外）；数字文化创意技术装备销售；初级农产品收购；食用农产品批发；食用农产品零售（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：第二类增值电信业务；互联网信息服务（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "随着5G、人工智能、区块链等技术的快速发展，中国元宇宙市场规模将保持持续增长，预计2027年市场规模将达到1263.5亿元，年均复合增长率为32.98%。在该市场浪潮下，有一群志同道合的90后青年们成立了杭州元墟科技有限公司，主营科技推广和应用服务业务为主。公司合作人均为连续创业者，有着丰富的互联网＋领域创业经验，并且较早开始接触区块链应用，曾参与了公链元宇宙项目。\n       我们想要打造一款元宇宙空间流量平台，采用UGC的运营模式，用户可以在平台中打造自己的世界，创造内容输出。目前，我们的团队已初具雏形，我们的技术团队在VR空间呈现领域已深耕十年之上，曾参与过多个元宇宙开发项目，拥有丰富的元宇宙大数据应用平台经验；我们的美术团队主要来自于中国美术学院、韩国弘益大学，有丰富的数字制造，网站设计创作经历，曾参与过乌镇元宇宙体验馆预备推出虚拟形象“青芸”的服装造型设计。在这里，我们不设限、不内卷，你会有充分的空间发挥专业所长，你还会结实一群风趣幽默的小伙伴们，快来加入我们吧！",
+      "encryptComId": "5f7d2e31702287dc03R_3d-7F1Q~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "unity客户端主程",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "浦沿",
+          "distance": "",
+          "lid": "ZSFXrKrojm.search.2",
+          "performance": "",
+          "salaryDesc": "35-50K·13薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "Unity3D",
+            "C#",
+            "Lua"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Unity3D",
+              "highlight": false
+            },
+            {
+              "content": "C#",
+              "highlight": false
+            },
+            {
+              "content": "Lua",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "ce87fe1fcb14ba321XB-2tS1FlFQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "元墟科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220830/7b5b554d84f9729c0ce27a422d89d135495f1d134a1c11fec2f0724dcb0004a3ead8fde8d1192626.jpg",
+          "brandStage": "天使轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "张润泽",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210326/a0fe9d61fbdad35491a9432a6f953308c2f0724dcb0004a3ead8fde8d1192626_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Unity3D",
+            "C#",
+            "Lua",
+            "3D游戏客户端开发经验",
+            "Unity3D开发经验",
+            "Shader开发经验"
+          ],
+          "welfares": [],
+          "securityId": "fxeJ8BaS8w8sL-G1W2FPeGTc2YNDS93P6S0q7yJykf0wi1V5TGHbTtMIHZuQmX-uEXT6DhDZ",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "unity客户端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "浦沿",
+          "distance": "",
+          "lid": "ZSFXrKrojm.search.3",
+          "performance": "",
+          "salaryDesc": "15-25K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Unity3D",
+            "Lua",
+            "3ds Max"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Unity3D",
+              "highlight": false
+            },
+            {
+              "content": "Lua",
+              "highlight": false
+            },
+            {
+              "content": "3ds Max",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "62f8d55a8f2a82e41XF62921EVBS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "元墟科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220830/7b5b554d84f9729c0ce27a422d89d135495f1d134a1c11fec2f0724dcb0004a3ead8fde8d1192626.jpg",
+          "brandStage": "天使轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "范呈熠",
+          "bossTitle": "产品经理",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220723/607f1f3d68754fd0cf397ac220183d1c516b5bd8bb385c3db6acc791dfc8655b1b88d3395a6bc62d_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Unity3D",
+            "Lua",
+            "3ds Max",
+            "3D游戏客户端开发经验",
+            "Unity3D开发经验",
+            "VR/AR开发经验"
+          ],
+          "welfares": [],
+          "securityId": "scWfHHc7Y18wZ-V1hOJaQmaflCCgp9WS-nVwHTqROWDKjh7VybP9tjxWBo_sAs6duBFzx6w~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "游戏服务器主程序",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "浦沿",
+          "distance": "",
+          "lid": "ZSFXrKrojm.search.4",
+          "performance": "",
+          "salaryDesc": "35-50K·13薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "C++"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "C++",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "3a561296c2e2f93f1XB-2d28E1RY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "元墟科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220830/7b5b554d84f9729c0ce27a422d89d135495f1d134a1c11fec2f0724dcb0004a3ead8fde8d1192626.jpg",
+          "brandStage": "天使轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "张润泽",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210326/a0fe9d61fbdad35491a9432a6f953308c2f0724dcb0004a3ead8fde8d1192626_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "C++"
+          ],
+          "welfares": [],
+          "securityId": "p2PwAJfmFECF_-W1qgwVi_TSOu93K7OJZyBMiDvzNaOewbArR-4DvzDEbFSRk8bRCDr1agcW",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

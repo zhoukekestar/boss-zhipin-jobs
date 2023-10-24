@@ -1,0 +1,517 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "DF57xkQDseN17-x1IX4fgJJwHwj2NB-pOjhsKvSa99IBeMae948IWiJnBQSG-osp4nqo_OHbZlx1Kw5HzCZf-N7TyG7HvqX6a0EdAqYKUCR6LqNwMy_trpXTCnrWP5R17j3sw3OLOw~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "4dc4cd5c4f74cbec0XN_2tW6GVM~",
+      "bossId": 67518791,
+      "securityId": "wVZNzpnGEdtwx-x1C0WbCrLx1VXrM_5OFEk6d2Qz5h6MkQ95i9gAkK86ZMDRXiHrNQbuXHvzIsvD3LFhCvnfAiPf8hbG",
+      "name": "罗淳",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220505/607f1f3d68754fd0a5ac661287e2e3a7a8b16493ec59fa82fe3a3cd7144b22d72353e1beb6dafb3b_s.png",
+      "title": "前端开发工程师",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1651918656000,
+      "bossOnline": false,
+      "brandName": "云霁科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 224760123,
+      "encryptJobId": "75bea8fd78733b381XZ-3Nu9EVBT",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端开发",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "余杭区",
+      "businessDistrict": "五常",
+      "locationDesc": "杭州·余杭区·五常",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "lowSalary": 12,
+      "highSalary": 24,
+      "jobDesc": "（欢迎投递，勇敢牛牛冲冲冲（•ө•)♡）\nbase杭州/上海/武汉都有岗位的\n岗位职责：\n1.负责公司云管理平台、低代码平台的开发与维护\n2.参与公司项目需求、研发设计的相关讨论，配合业务团队，高效产出，支撑业务发展；\n3.参与前端技术组件建设，微前端、跨端能力建设、可视化搭建等。\n\n职位要求：\n1.有良好的计算机原理与计算机网络相关知识；\n2.拥有一年以上的前端相关开发经验，有较为扎实的基础\n3.熟悉并了解React的使用和原理，了解前端性能优化\n4.熟悉js、html、css等前端技术，熟悉es6、es7规范\n\n加分项：\n1. 能熟练使用 Canvas 、SVG 、D3.js 等可视化技术，有自定义报表、仪表盘、大屏研发经验；\n2. 有优秀的开源作品或积极参与维护大型开源项目经验；\n3. 有云计算行业相关经验。",
+      "requiredSkills": [
+        "前端开发",
+        "JavaScript",
+        "PC端",
+        "React"
+      ],
+      "address": "杭州余杭区云霁科技8楼",
+      "longitude": 120.020657,
+      "latitude": 30.274414,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7144f9b7324625aaa5de7b1a798d945d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5f99ea2949793f8eb34c6085a3ac1da9",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "12-24K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "11615c83b68c33bb1HNz29W0FQ~~",
+      "brandName": "云霁科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190415/7ee8f9372b2c86b16eb3df355c9f42abb5ef259a6f328e44c5445952f05e9bfb_s.jpg",
+      "industryName": "企业服务",
+      "stageName": "C轮",
+      "scaleName": "100-499人",
+      "brandIntroduce": "杭州云霁科技成立于2015年，是国内第一家自主开发数据中心操作系统的企业服务公司，面向数据中心和 IT 运维部门的新一代PaaS平台，重点解决云计算数据中心在规模和效率上面临的挑战、以及传统数据中心和用户转型云计算过程中遇到困难的公司。\n公司以产品和技术为导向，专注to B赛道创新产品，团队内80%以上是产研人员，分布在杭州、北京、武汉、上海各研发中心。\n目前已完成C2轮亿级融资，正处在快速上升期，将持续加大研发投入，强化 PaaS平台能力，产品向数据驱动和低代码开发的方向发展。\n\n云霁寻求热爱IT，有梦想、有热情的伙伴加入~\n\n公司官网 http://www.idcos.com/",
+      "comName": "杭州云霁科技有限公司",
+      "legalPerson": "智锦",
+      "startDate": "2014-12-30",
+      "regCapital": "2524.61万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市余杭区五常街道赛银国际商务中心4幢801室",
+      "businessScope": "技术研发、技术咨询、技术服务、技术成果转让：计算机软硬件、计算机系统集成技术、云计算、数据处理技术；服务：计算机硬件维修、通讯设备维修、计算机设备租赁；批发、零售：计算机软硬件、通讯设备；技术进出口（法律、行政法规禁止经营的项目除外，法律、行政法规限制经营的项目取得许可证后方可经营）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "杭州云霁科技成立于2015年，是国内第一家自主开发数据中心操作系统的企业服务公司，面向数据中心和 IT 运维部门的新一代PaaS平台，重点解决云计算数据中心在规模和效率上面临的挑战、以及传统数据中心和用户转型云计算过程中遇到困难的公司。\n公司以产品和技术为导向，专注to B赛道创新产品，团队内80%以上是产研人员，分布在杭州、北京、武汉、上海各研发中心。\n目前已完成C2轮亿级融资，正处在快速上升期，将持续加大研发投入，强化 PaaS平台能力，产品向数据驱动和低代码开发的方向发展。\n\n云霁寻求热爱IT，有梦想、有热情的伙伴加入~\n\n公司官网 http://www.idcos.com/",
+      "encryptComId": "6665358f8c4aaa701XJ609q4FA~~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "Java",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "105lANn9p9q.search.1",
+          "performance": "",
+          "salaryDesc": "15-25K·13薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "Java",
+            "分布式系统开发经验",
+            "大数据处理经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "分布式系统开发经验",
+              "highlight": false
+            },
+            {
+              "content": "大数据处理经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "47edbd78c94665461XN_2NS7E1VQ",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "云霁科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190415/7ee8f9372b2c86b16eb3df355c9f42abb5ef259a6f328e44c5445952f05e9bfb_s.jpg",
+          "brandStage": "C轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "梁先生",
+          "bossTitle": "研发",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "分布式系统开发经验",
+            "大数据处理经验",
+            "中大型项目架构设计经验",
+            "架构师",
+            "后端工程师"
+          ],
+          "welfares": [],
+          "securityId": "jlImylvl6Cq69-91bqzNFHkZ2f_qA3VAtDqhxgyxiREHu-wRHl5avkJX_0lOACa5x3wgDipW",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "项目经理/主管",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "105lANn9p9q.search.2",
+          "performance": "",
+          "salaryDesc": "18-35K",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "分布式技术",
+            "技术管理",
+            "PMP"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "技术管理",
+              "highlight": false
+            },
+            {
+              "content": "PMP",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "cf3f17fb6f44119c1XZ-3NS4GFRT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "云霁科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190415/7ee8f9372b2c86b16eb3df355c9f42abb5ef259a6f328e44c5445952f05e9bfb_s.jpg",
+          "brandStage": "C轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "罗淳",
+          "bossTitle": "前端开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220505/607f1f3d68754fd0a5ac661287e2e3a7a8b16493ec59fa82fe3a3cd7144b22d72353e1beb6dafb3b_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "分布式技术",
+            "技术管理",
+            "PMP"
+          ],
+          "welfares": [],
+          "securityId": "L4Gc0iKA1wkpS-71n4t1TpjB_oYG386n2wZV5CxmFwhmJPkGmreYQq0CpK5XuNCF9POFSgY~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "售前技术支持工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "105lANn9p9q.search.3",
+          "performance": "",
+          "salaryDesc": "10-15K",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "系统调试",
+            "故障排查",
+            "技术沟通"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "系统调试",
+              "highlight": false
+            },
+            {
+              "content": "故障排查",
+              "highlight": false
+            },
+            {
+              "content": "技术沟通",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "6738110a9fa6d6441XZ-3NS6E1VT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "云霁科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190415/7ee8f9372b2c86b16eb3df355c9f42abb5ef259a6f328e44c5445952f05e9bfb_s.jpg",
+          "brandStage": "C轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "罗淳",
+          "bossTitle": "前端开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220505/607f1f3d68754fd0a5ac661287e2e3a7a8b16493ec59fa82fe3a3cd7144b22d72353e1beb6dafb3b_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "系统调试",
+            "故障排查",
+            "技术沟通",
+            "云平台架构"
+          ],
+          "welfares": [],
+          "securityId": "ZwlHNVag8qocz-a1AJ5P2DQaS13aq3FaFMqQ0KGn2tVFSb10pdzWm92zcsZskTaIDnpxvDU~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级前端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "105lANn9p9q.search.4",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "前端开发",
+            "PC端",
+            "React"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "前端开发",
+              "highlight": false
+            },
+            {
+              "content": "PC端",
+              "highlight": false
+            },
+            {
+              "content": "React",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "d50b43b094c500601XZ-092_GFRU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "云霁科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190415/7ee8f9372b2c86b16eb3df355c9f42abb5ef259a6f328e44c5445952f05e9bfb_s.jpg",
+          "brandStage": "C轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "罗淳",
+          "bossTitle": "前端开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220505/607f1f3d68754fd0a5ac661287e2e3a7a8b16493ec59fa82fe3a3cd7144b22d72353e1beb6dafb3b_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "前端开发",
+            "PC端",
+            "React"
+          ],
+          "welfares": [],
+          "securityId": "RkmhML-SI2fDr-r1eI8ResRItldKM-AUk7QO7y2Gvd_CzCZ9yDigwJdUGJk3tE0jUGubES8~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "服务器自动化工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "105lANn9p9q.search.5",
+          "performance": "",
+          "salaryDesc": "15-20K·13薪",
+          "jobLabels": [
+            "1-3年",
+            "大专",
+            "Python/Shell",
+            "Ansible/Salt/Puppet",
+            "计算机相关专业"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "Python/Shell",
+              "highlight": false
+            },
+            {
+              "content": "Ansible/Salt/Puppet",
+              "highlight": false
+            },
+            {
+              "content": "计算机相关专业",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "49c3bd04e68aa4af1HV52t20ElZU",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "云霁科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190415/7ee8f9372b2c86b16eb3df355c9f42abb5ef259a6f328e44c5445952f05e9bfb_s.jpg",
+          "brandStage": "C轮",
+          "brandScale": "100-499人",
+          "comName": null,
+          "bossName": "智锦",
+          "bossTitle": "创始人",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220830/607f1f3d68754fd044d8d968223db2315a27a0b439829a42cd9b271caab7f6ae38c136288cb241c9_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Python/Shell",
+            "Ansible/Salt/Puppet",
+            "计算机相关专业",
+            "运维开发经验",
+            "PXE",
+            "操作系统"
+          ],
+          "welfares": [],
+          "securityId": "jOn9wiwOIFnZl-b1Bck69-DIagCxEoLRRCW0VywwlJ2L_8A7gekYt4B6rPTaxXKvPWKk69qr",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

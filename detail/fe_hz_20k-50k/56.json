@@ -1,0 +1,494 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "Q7h48vp2bpG4u-g1BqWNNNcKPaM-qP8VSPFLmdJBPqNNMLrnC6b8WvxLUYzsF1S_qvOQMMnNtkiR8QwnuEZo4fjX0efOFzMwpJ6tPhCGOP8jar1nj-jsPWbaMsOuKmsXZ0-pziRfog~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "6413d53701d02a1b03B42928GVI~",
+      "bossId": 44200190,
+      "securityId": "zndKJPG9OYMB4-i1jKKzMOekjveTGNuDG4fUjg-Gsi9qSJdQoNL8lD17U6F_QKmwzhkuEa0iBubVnTK7O84saAR99fJO",
+      "name": "张女士",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221229/607f1f3d68754fd0e62ed106da0946e0a0683fa228cddaf93b7ecfa44fd2e7f5957d1808336cda48_s.jpg",
+      "title": "HRBP",
+      "activeTimeDesc": "刚刚活跃",
+      "activeTime": 1698130401843,
+      "bossOnline": false,
+      "brandName": "直行便",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 302716929,
+      "encryptJobId": "ebac957a8e8fc2eb1HR43Ny7GVBZ",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "前端开发",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "长河",
+      "locationDesc": "杭州·滨江区·长河",
+      "experienceName": "3-5年",
+      "degreeName": "大专",
+      "lowSalary": 20,
+      "highSalary": 35,
+      "jobDesc": "岗位职责\n1. 负责跨境电商业务的前端开发工作，保证优秀的前端性能和代码可维护性；\n2. 参与业务目标的拆解和推进，制定技术规划和方案设计；\n岗位要求\n1. 前端基础扎实，具备良好的编程设计能力，熟练使用ts；\n2. 熟悉使用React和Vue框架，对前端组件化有自己的理解和实践；\n3. 熟悉web新技术及应用，对web端的安全、网络、性能优化等有深入的理解；\n4. 3年以上前端工作经验；\n--- 加分项 ---\n1. 拥有大型pc项目开发经验，在此基础上主导过大型业务需求迭代；\n2. 拥有优秀的业务抽象能力及交互设计感知，有一定产品与数据意识",
+      "requiredSkills": [
+        "React",
+        "Vue"
+      ],
+      "address": "杭州滨江区阿里中心·杭州滨江(东门)4幢703",
+      "longitude": 120.191293,
+      "latitude": 30.193249,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/be18faba68e1e54811b3b286619631b3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/658aa7ff939ed08059789265e8c33210",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-35K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "c0616e56d5c0cdbd3nRz3dy-FQ~~",
+      "brandName": "直行便",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200805/6b46b577e7458410cea600f83f01598bc5fbbbabdd41730dcbe8aae1fc4a4f77.jpg",
+      "industryName": "贸易/进出口",
+      "stageName": "不需要融资",
+      "scaleName": "500-999人",
+      "brandIntroduce": "杭州直行便供应链有限公司 是一家以大数据为驱动 从日本市场起步 辐射全球的跨境电商供应链科技公司\n\n公司自创立以来 依托母公司深厚的日本资源以及10年的贸易深耕 践行“让世界贸易变得更透明”的创业初心 不断完善跨境电商生态圈建设  现有全球供应链板块 大数据科技板块 日系品控板块 海外物流/海外仓板块 跨境电商支持板块 等全链路资源 以海外客户极致的用户体验为驱动 不断创新商业模式 实现业务持续增长！并与日本伊藤忠商社 兼松商事 zozo town  日本亚马逊 堂吉柯德等形成战略合作伙伴关系 也是日本贸易促进委员会常务理事单位 并于2020年竞选成为东京奥运会中国火炬代表团赞助商！\n公司base 杭州/广州/ 集团总人数500+ 平均年龄25岁  我们讨厌一成不变 不断创新 客户关系 协作关系 办公方式 在这里我们是公司 更是志同道合朋友的乌托邦 如果你也是90后 也渴望用自己的光改变这个世界 那就让我们一起努力 用我们这一代的力量 去颠覆 MADE IN CHINA在老外心中的份量吧！",
+      "comName": "杭州直行便供应链有限公司",
+      "legalPerson": "吴烨彪",
+      "startDate": "2019-11-01",
+      "regCapital": "500万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市萧山区杭州空港经济区保税路西侧保税大厦790-7室",
+      "businessScope": "许可项目：道路货物运输（不含危险货物）；出口监管仓库经营（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。一般项目：企业管理咨询；供应链管理服务；市场营销策划；信息咨询服务（不含许可类信息咨询服务）；其他文化艺术经纪代理；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；网络技术服务；软件开发；信息技术咨询服务；宠物食品及用品零售；服装服饰零售；日用百货销售；化妆品批发；货物进出口；技术进出口；国际货物运输代理（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "杭州直行便供应链有限公司 是一家以大数据为驱动 从日本市场起步 辐射全球的跨境电商供应链科技公司\n\n公司自创立以来 依托母公司深厚的日本资源以及10年的贸易深耕 践行“让世界贸易变得更透明”的创业初心 不断完善跨境电商生态圈建设  现有全球供应链板块 大数据科技板块 日系品控板块 海外物流/海外仓板块 跨境电商支持板块 等全链路资源 以海外客户极致的用户体验为驱动 不断创新商业模式 实现业务持续增长！并与日本伊藤忠商社 兼松商事 zozo town  日本亚马逊 堂吉柯德等形成战略合作伙伴关系 也是日本贸易促进委员会常务理事单位 并于2020年竞选成为东京奥运会中国火炬代表团赞助商！\n公司base 杭州/广州/ 集团总人数500+ 平均年龄25岁  我们讨厌一成不变 不断创新 客户关系 协作关系 办公方式 在这里我们是公司 更是志同道合朋友的乌托邦 如果你也是90后 也渴望用自己的光改变这个世界 那就让我们一起努力 用我们这一代的力量 去颠覆 MADE IN CHINA在老外心中的份量吧！",
+      "encryptComId": "7594ce152ef4ff7c1XN73Nq_GFY~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "高级java工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "104wFUYLgNW.search.1",
+          "performance": "",
+          "salaryDesc": "25-35K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "后端工程师",
+            "Java",
+            "MySQL"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "MySQL",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "d701c0b3f8d7bf1c1XN73Ni7FVVS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "直行便",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200805/6b46b577e7458410cea600f83f01598bc5fbbbabdd41730dcbe8aae1fc4a4f77.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "张女士",
+          "bossTitle": "HRBP",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221229/607f1f3d68754fd0e62ed106da0946e0a0683fa228cddaf93b7ecfa44fd2e7f5957d1808336cda48_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "Java",
+            "MySQL"
+          ],
+          "welfares": [],
+          "securityId": "fgFHkusFhs4p7-z1dxjoCbjG8RUcZoNZokSYt3BiQwOnVANkXO7wc3uwuFdL5Ep6eHk7E7M~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级java开发工程师（仓储模块负责人）",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "104wFUYLgNW.search.2",
+          "performance": "",
+          "salaryDesc": "25-30K·13薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "后端工程师",
+            "仓储ERP"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端工程师",
+              "highlight": false
+            },
+            {
+              "content": "仓储ERP",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "f16e60ba77c128b91XF629q_EFpR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "直行便",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200805/6b46b577e7458410cea600f83f01598bc5fbbbabdd41730dcbe8aae1fc4a4f77.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "吴先生",
+          "bossTitle": "招聘者",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220718/607f1f3d68754fd0d3a7eeefd54a8649a9b70d3dbffede86682f1267f3d3de124de8f35525a03cf8_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端工程师",
+            "仓储ERP"
+          ],
+          "welfares": [],
+          "securityId": "b0YY7yFz74niF-21q50rWn30OisVgiQCAGN-J4jLFkbdFXZ8mXePVD6wfIw3EtP53rlsEbI~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级前端开发",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "104wFUYLgNW.search.3",
+          "performance": "",
+          "salaryDesc": "18-25K·13薪",
+          "jobLabels": [
+            "经验不限",
+            "大专",
+            "JavaScript",
+            "React",
+            "前端开发经验"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "React",
+              "highlight": false
+            },
+            {
+              "content": "前端开发经验",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "6e626ab702ef6b8f1X1_29q0ElpW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "直行便",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200805/6b46b577e7458410cea600f83f01598bc5fbbbabdd41730dcbe8aae1fc4a4f77.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "冯先生",
+          "bossTitle": "前端架构师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript",
+            "React",
+            "前端开发经验"
+          ],
+          "welfares": [],
+          "securityId": "g5EVKdaOdOu7w-Q1qQRxy6WiXkx3Z0ovZi1Op7iYfDpbOvdgsDU5RiHOOCiasDqM5Mcz0LM~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "高级前端工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "104wFUYLgNW.search.4",
+          "performance": "",
+          "salaryDesc": "15-19K·13薪",
+          "jobLabels": [
+            "3-5年",
+            "大专",
+            "JavaScript",
+            "HTML",
+            "CSS"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "JavaScript",
+              "highlight": false
+            },
+            {
+              "content": "HTML",
+              "highlight": false
+            },
+            {
+              "content": "CSS",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "58ff5b9091d1796e1Xd529S_FVVR",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "直行便",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200805/6b46b577e7458410cea600f83f01598bc5fbbbabdd41730dcbe8aae1fc4a4f77.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "郑松松",
+          "bossTitle": "技术",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20161208/9b503f95a6cd70a488676aae669d0be96a463e35fded45053c77135589dbb3c1_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "前端开发",
+            "Node.js",
+            "移动端",
+            "小程序"
+          ],
+          "welfares": [],
+          "securityId": "26iYBvGvIGSGJ-G1nUj4OPrkFrWczYz7sWdsXjyNuSKfXheSeFMJIegdEHwku9k4Qz8VRoA~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "DBA",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "104wFUYLgNW.search.5",
+          "performance": "",
+          "salaryDesc": "20-30K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "MySQL"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "MySQL",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "dbdbd2bc937e54cb1HR43di5GFdW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "直行便",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200805/6b46b577e7458410cea600f83f01598bc5fbbbabdd41730dcbe8aae1fc4a4f77.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "500-999人",
+          "comName": null,
+          "bossName": "张女士",
+          "bossTitle": "HRBP",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221229/607f1f3d68754fd0e62ed106da0946e0a0683fa228cddaf93b7ecfa44fd2e7f5957d1808336cda48_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "MySQL"
+          ],
+          "welfares": [],
+          "securityId": "G70R-N_NPP8ax-T1l3kT6_DS2Dvl_kSpyc6jH3OeOnfEHLs1HWTDNJ3XzwW5q541UT8ccbs~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

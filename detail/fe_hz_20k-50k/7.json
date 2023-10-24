@@ -1,0 +1,507 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "MnsF3qOkW7TWv-z1j-P3YX5D3NdXbTpDFd0s9BP503TIfLNvB_dKNj0wfiFiTaUENdubxF4mXOxCHRG_YoUiEQ0gQvQOHkUaHraA6HGs5-PWar-ALpMPO09xR6CuYODuq2k~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "df0eb37852c0bf490X173tS-FVQ~",
+      "bossId": 69159356,
+      "securityId": "49mthN3UL8wzi-Y1stWMyeVgeK74OnH8dNvf2B3ZloitCGHZ9CnzKpfsfUecrTpeTX5uaCrYs_NWYJx_pZp1w1dgC9M~",
+      "name": "黎祥发",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190710/42b786a9b0e2b0921ca8e104247e86ac141d5b91e02e113fd59dcb56be6c613d_s.jpg",
+      "title": "前端主管",
+      "activeTimeDesc": "3月内活跃",
+      "activeTime": 1692766752000,
+      "bossOnline": false,
+      "brandName": "阿里巴巴集团",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 47877307,
+      "encryptJobId": "5506d35739d866be03Ny3Nq-EFU~",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "长河",
+      "locationDesc": "杭州·滨江区·长河",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 20,
+      "highSalary": 40,
+      "jobDesc": "职位描述\n1、负责网站前端开发，与UED、后台工程师协作，完成设计交互实现、数据交互、动态信息展现； \n2、关注用户体验，与合作方一起不断改进产品的易用性； \n3、研究和探索创新的开发思路和最新的前端技术。\n\n职位要求\n1. 熟悉Web前端技术，包括(X)HTML/CSS/JavaScript等，能够解决各种浏览器兼容性问题，了解各种常用工具； \n2. 持续关注业界的新话题和新技术，研究过React，Vue等框架中的一种或以上，有复杂应用开发经验； \n3. 热爱前端技术，个性乐观开朗，逻辑性强、善于总结及和各种背景的人沟通合作，对所负责开发的产品有强烈的主人翁意识； \n4. 善于发现工作流程、产品体验中的问题，且较强的问题解决能力 ；\n5. 有后端开发经验、独立作品、产品体验优化经验者优先。",
+      "requiredSkills": [
+        "React",
+        "计算机/软件工程相关专业",
+        "前端开发经验",
+        "技术博客/开源项目有所贡献"
+      ],
+      "address": "杭州滨江区阿里巴巴(中国)网络技术有限公司(滨江园区)",
+      "longitude": 120.191557,
+      "latitude": 30.190044,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/82d0cd5223b3af76240436ccf093b7da",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3017ad102882b343f41ba94b706529d4",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "20-40K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "5d627415a46b4a750nJ9",
+      "brandName": "阿里巴巴集团",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220316/7bf6f160950405e9282fe33181a1523803562870c4e2cc4a242ac4eb7bbd10d1694083156ab76fdb.jpg",
+      "industryName": "互联网",
+      "stageName": "已上市",
+      "scaleName": "10000人以上",
+      "brandIntroduce": "阿里巴巴集团的使命是让天下没有难做的生意。\r\n我们旨在赋能企业改变营销、销售和经营的方式。我们为商家、品牌及其他企业提供基本的互联网基础设施以及营销平台，让其可借助互联网的力量与用户和客户互动。我们的业务包括核心电商、云计算、数字媒体和娱乐以及创新项目和其他业务。我们并通过子公司菜鸟网络及所投资的关联公司口碑，参与物流和本地服务行业，同时与蚂蚁金融服务集团有战略合作，该金融服务集团主要通过中国领先的第三方网上支付平台支付宝运营。\r\n\r\n我们的愿景\r\n我们旨在构建未来的商务生态系统。我们的愿景是让客户相会、工作和生活在阿里巴巴，并持续发展最少102年。",
+      "comName": "阿里巴巴（中国）网络技术有限公司",
+      "legalPerson": "汪海",
+      "startDate": "1999-09-09",
+      "regCapital": "1072663.93142万美元",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市滨江区网商路699号",
+      "businessScope": "一般项目：软件开发；软件销售；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；网络设备销售；计算机软硬件及辅助设备零售；计算机软硬件及辅助设备批发；非居住房地产租赁；停车场服务；翻译服务；物业管理；业务培训（不含教育培训、职业技能培训等需取得许可的培训）（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "阿里巴巴集团的使命是让天下没有难做的生意。\r\n我们旨在赋能企业改变营销、销售和经营的方式。我们为商家、品牌及其他企业提供基本的互联网基础设施以及营销平台，让其可借助互联网的力量与用户和客户互动。我们的业务包括核心电商、云计算、数字媒体和娱乐以及创新项目和其他业务。我们并通过子公司菜鸟网络及所投资的关联公司口碑，参与物流和本地服务行业，同时与蚂蚁金融服务集团有战略合作，该金融服务集团主要通过中国领先的第三方网上支付平台支付宝运营。\r\n\r\n我们的愿景\r\n我们旨在构建未来的商务生态系统。我们的愿景是让客户相会、工作和生活在阿里巴巴，并持续发展最少102年。",
+      "encryptComId": "fd77a1c243d16c061XR_3dm4"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "算法工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "硕士",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "10h9UsQLpWv.search.1",
+          "performance": "",
+          "salaryDesc": "26-50K·16薪",
+          "jobLabels": [
+            "经验不限",
+            "硕士",
+            "搜索/推荐",
+            "Python",
+            "计算机相关专业"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "硕士",
+              "highlight": false
+            },
+            {
+              "content": "搜索/推荐",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "计算机相关专业",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "614fcc5b3bfe94551X1_39W0GFNX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "阿里巴巴集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220316/7bf6f160950405e9282fe33181a1523803562870c4e2cc4a242ac4eb7bbd10d1694083156ab76fdb.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "朱先生",
+          "bossTitle": "人力资源专家",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190508/6d02ff59f51abf891f074d1336816fa226a9c2312521c6d5cdb539a08d22a800_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "搜索/推荐",
+            "Python",
+            "计算机相关专业",
+            "机器学习算法/工程化经验",
+            "深度学习经验"
+          ],
+          "welfares": [],
+          "securityId": "vbU2qPbVPelWj-m1AHF2PmTR8vAICscBv8aBJjmG5ltjh6-i55bexJL8uOPbY-FakcvvKT4~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "急招-数据研发实习生",
+          "jobValidStatus": 1,
+          "jobExperience": "在校/应届",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "10h9UsQLpWv.search.2",
+          "performance": "",
+          "salaryDesc": "300-310元/天",
+          "jobLabels": [
+            "4天/周",
+            "3个月",
+            "本科",
+            "大数据",
+            "方差分析"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "4天/周",
+              "highlight": false
+            },
+            {
+              "content": "3个月",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "大数据",
+              "highlight": false
+            },
+            {
+              "content": "方差分析",
+              "highlight": false
+            }
+          ],
+          "jobType": 4,
+          "encryptJobId": "9cb218b58c4089c01nZz2Ni9FFdX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "阿里巴巴集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220316/7bf6f160950405e9282fe33181a1523803562870c4e2cc4a242ac4eb7bbd10d1694083156ab76fdb.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "李洪星",
+          "bossTitle": "高级技术专家",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20161122/b17151d6e6178e2c488bb1435d45531d8c7dd922ad47494fc02c388e12c00eac_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "大数据",
+            "方差分析",
+            "聚类分析"
+          ],
+          "welfares": [],
+          "securityId": "oILXWTOGZPOvv-V1kDVichydd1K4FiewLfekqKDqhq8nAQY4XSWLCEtA_PDsnyROmWSfp3c~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "商业分析/业务BI分析专家",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "10h9UsQLpWv.search.3",
+          "performance": "",
+          "salaryDesc": "25-35K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "SQL",
+            "Excel",
+            "Hive"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "Excel",
+              "highlight": false
+            },
+            {
+              "content": "Hive",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "cfa263cf255e635d1nZ_2tu-FlFT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "阿里巴巴集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220316/7bf6f160950405e9282fe33181a1523803562870c4e2cc4a242ac4eb7bbd10d1694083156ab76fdb.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "杨世雨",
+          "bossTitle": "BDM",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210730/f4a426ce9da791a8af2f7d9e30994c8ca5d29ca94757c5fb46805f308c3abd1b_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "SQL",
+            "Excel",
+            "Hive",
+            "Python"
+          ],
+          "welfares": [],
+          "securityId": "cCce7vGcSmavx-51gZ3GF_hi3gEgDJ9_ugCeE3jBSXy85I5QShMV_GhnSiEOUXTq6QwOaeXl",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "测试开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "西溪",
+          "distance": "",
+          "lid": "10h9UsQLpWv.search.4",
+          "performance": "",
+          "salaryDesc": "20-40K",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "自动化测试",
+            "UI自动化测试"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "自动化测试",
+              "highlight": false
+            },
+            {
+              "content": "UI自动化测试",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "313ecc893a5859c01nVy39W_EFZT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "阿里巴巴集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220316/7bf6f160950405e9282fe33181a1523803562870c4e2cc4a242ac4eb7bbd10d1694083156ab76fdb.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "闫思语",
+          "bossTitle": "高级测试开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20210105/d8c59770c339af744f181ac0519d598f5c230c4b721931c81138308197d150d1_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "自动化测试",
+            "UI自动化测试"
+          ],
+          "welfares": [],
+          "securityId": "JjPKZwWZjv-Wo-F1Vh0QH7ltUYB_J6POY9pPSQ08qzeP5yyopg_kFQxmdlDO35P4enXLovU~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "余杭区",
+          "businessName": "五常",
+          "distance": "",
+          "lid": "10h9UsQLpWv.search.5",
+          "performance": "",
+          "salaryDesc": "24-30K·21薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Java",
+            "Linux",
+            "系统架构"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Linux",
+              "highlight": false
+            },
+            {
+              "content": "系统架构",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "ebce2ccde6c38e4c0nR60t60F1E~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "阿里巴巴集团",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220316/7bf6f160950405e9282fe33181a1523803562870c4e2cc4a242ac4eb7bbd10d1694083156ab76fdb.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "余浪",
+          "bossTitle": "技术专家",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190725/e831be744f9a9504abb3f55d0fc3c3618048aad20d59dc6b04b206e8be26ca23_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "Linux",
+            "系统架构"
+          ],
+          "welfares": [],
+          "securityId": "WkP7PJB3Yu9OA-91-w-YksksqQmwu7NPZ9oZNAS0ZkX_0Rzj6JNRvztVxm5DZs-FKat0WA~~",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

@@ -1,0 +1,523 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "1qA9-OyESyfGm-_1jMt3aNztk5u3jQiUNhNTmpd373D_YwdXGjY1h72lLfc0XCCmVWY3wVOxF_thJhWcaBYOxz7e-MzjPr_GsNkZMt72stU7aDba2N1qRgf7mvAHdmlZRG43eELszQ~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "81605f81fe9b30f00nV83t61EFNV",
+      "bossId": 516538015,
+      "securityId": "q4oCF5XREZaj3-u1oQNTd2QravtDyg2-7_xthAv7qs8E2pkGq3ekegCZmrdeBHQuUkLImPDvIrTlFcaDpmiTX4_z9Crg1A~~",
+      "name": "叶女士",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210219/3d77a5a4a956029f49814cd470b865154b7aba8717c935c98e52cc8af0f83b0b_s.jpg",
+      "title": "HR",
+      "activeTimeDesc": "刚刚活跃",
+      "activeTime": 1698142242339,
+      "bossOnline": false,
+      "brandName": "天垂科技",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 220723085,
+      "encryptJobId": "dcc8754fc340ae1d1XZ63N--EFpV",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "React前端工程师",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "西兴",
+      "locationDesc": "杭州·滨江区·西兴",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 30,
+      "jobDesc": "职位描述：\n负责企业级网页应用的界面开发，注重网页应用的用户体验、可靠性和可扩展性\n在设计和实施应用程序的外观和工作方面发挥主导作用的同时，还将与后端团队和数据平台团队紧密合作\n负责技术选型，设计框架，带领前端工程师团队从零开始实现一个完整复杂的应用开发\n\n任职要求：\n1年以上的网页前端开发工作经验\n掌握 HTML、CSS，能够编写符合语义化的静态页面\n熟悉 SASS/LESS/PostCSS\n熟悉 JavaScript(ES6+)\n熟练掌握 ReactJS\n熟悉 AJAX 和部分页面更新的技术，有通过 Restful API 与后端集成的实践经验\n有强烈的上进心和求知欲，善于学习和运用新知识，善于沟通和逻辑表达，有强烈的团队意识和执行力\n\n加分选项：\n985，211院校毕业生\nGitHub 活跃用户\n熟练使用 TypeScript\n熟悉 GraphQL\n有设计企业资源分析工具或可视化工具的工作经验\n有丰富的浏览器兼容性问题处理经验",
+      "requiredSkills": [
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Less",
+        "ES6",
+        "Sass",
+        "AJAX"
+      ],
+      "address": "杭州滨江区交投科创中心C座10层",
+      "longitude": 120.233296,
+      "latitude": 30.205463,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/15cd3ad0b253478c474b41d8dbe51c5e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5a9751dfa1f8eec2b5670417596a0a5a",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-30K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "fa1dc89941192f2233d93NW9",
+      "brandName": "天垂科技",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170721/d8fe9cf7b8dddc9bb42ee06ca93270c8d5faa3c2b5d2160176e7362432644940.jpg",
+      "industryName": "数据服务",
+      "stageName": "A轮",
+      "scaleName": "20-99人",
+      "brandIntroduce": "Teletraan天垂科技成立于2016年，是国内领先的工业互联网平台、工业APP和工业大数据整体解决方案供应商。\nTeletraan以工业大数据、工业互联网、机器学习、人工智能为核心技术，通过多年专业的研究与实践，形成了自主的企业级工业互联网平台和多项智能工业软件系统等。\n公司始终秉承“使人和机器工作得更好、更快、更智慧”的企业使命，不断赋能工业企业，提供从智能工厂整体方案设计到项目实施落地全流程服务，帮助工业客户以最新技术、最短时间、最低成本进行生产和运营，实现数字化和智能化转型与升级。\nTeletraan天垂科技创始成员与核心技术团队荟集了斯坦福、加州大学、浙江大学等海内外知名学府人才，组建了具有行业专有知识，且掌握机器学习及软件开发等技术能力的团队，致力于打造国内领先的工业互联网平台、大数据应用及其他工业软件产品。\n公司官网：https://teletraan.io/",
+      "comName": "浙江天垂科技有限公司",
+      "legalPerson": "郑晓彬",
+      "startDate": "2016-12-28",
+      "regCapital": "1000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市滨江区西兴街道月明路33号C座10层",
+      "businessScope": "技术开发、技术服务、技术咨询、成果转让：数据处理技术、计算机软硬件、计算机网络技术、计算机信息技术、通信技术、汽车技术、智能控制系统、计算机系统集成；销售：电子产品、机械设备、仪器仪表、通信设备、计算机软件及辅助设备。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "Teletraan天垂科技成立于2016年，是国内领先的工业互联网平台、工业APP和工业大数据整体解决方案供应商。\nTeletraan以工业大数据、工业互联网、机器学习、人工智能为核心技术，通过多年专业的研究与实践，形成了自主的企业级工业互联网平台和多项智能工业软件系统等。\n公司始终秉承“使人和机器工作得更好、更快、更智慧”的企业使命，不断赋能工业企业，提供从智能工厂整体方案设计到项目实施落地全流程服务，帮助工业客户以最新技术、最短时间、最低成本进行生产和运营，实现数字化和智能化转型与升级。\nTeletraan天垂科技创始成员与核心技术团队荟集了斯坦福、加州大学、浙江大学等海内外知名学府人才，组建了具有行业专有知识，且掌握机器学习及软件开发等技术能力的团队，致力于打造国内领先的工业互联网平台、大数据应用及其他工业软件产品。\n公司官网：https://teletraan.io/",
+      "encryptComId": "64b11fcd48e41a331XJ539y4EQ~~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "开发团队技术小组长",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "北干",
+          "distance": "",
+          "lid": "ZUVOwrVKHx.search.1",
+          "performance": "",
+          "salaryDesc": "18-35K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "后端",
+            "Python",
+            "Django"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "Django",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "29a150f93e592f721X183ty9GVBT",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "天垂科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170721/d8fe9cf7b8dddc9bb42ee06ca93270c8d5faa3c2b5d2160176e7362432644940.jpg",
+          "brandStage": "A轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "杨女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端",
+            "Python",
+            "Django",
+            "服务端开发经验"
+          ],
+          "welfares": [],
+          "securityId": "yMojcL0rBYEEY-81QRPXdzGGg28xsRoYKIWkCEHK5qSgEQNCWL1TshnaOTHUx3XRNr-DnaqI",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "rpa开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "西兴",
+          "distance": "",
+          "lid": "ZUVOwrVKHx.search.2",
+          "performance": "",
+          "salaryDesc": "11-20K",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "爬虫",
+            "Python",
+            "Scrapy"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "爬虫",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "Scrapy",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "628837a3f48aaddf1X163t-9GFJX",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "天垂科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170721/d8fe9cf7b8dddc9bb42ee06ca93270c8d5faa3c2b5d2160176e7362432644940.jpg",
+          "brandStage": "A轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "叶女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210219/3d77a5a4a956029f49814cd470b865154b7aba8717c935c98e52cc8af0f83b0b_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "爬虫",
+            "Python",
+            "Scrapy",
+            "MySQL",
+            "爬虫经验"
+          ],
+          "welfares": [],
+          "securityId": "dpoKKJ0PEbjgM-P1e4J0a79z81NkWFnNZoUjnnzVoNI2cWjwztPWqY_1waBzShPKU8UIIonc",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "开发团队技术小组长",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "西兴",
+          "distance": "",
+          "lid": "ZUVOwrVKHx.search.3",
+          "performance": "",
+          "salaryDesc": "18-35K",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "后端",
+            "Python",
+            "Django"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "Django",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "d6aa2005035f358f1X183t24EFpY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "天垂科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170721/d8fe9cf7b8dddc9bb42ee06ca93270c8d5faa3c2b5d2160176e7362432644940.jpg",
+          "brandStage": "A轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "叶女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210219/3d77a5a4a956029f49814cd470b865154b7aba8717c935c98e52cc8af0f83b0b_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端",
+            "Python",
+            "Django",
+            "服务端开发经验"
+          ],
+          "welfares": [],
+          "securityId": "Y8QtbDlSq3V0A-31jw0INCDrBMMQYWP0_ejAb8zCnFin3uJGdTomYEP7AdYeXf0kfbe-9fHK",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "python后端开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "北干",
+          "distance": "",
+          "lid": "ZUVOwrVKHx.search.4",
+          "performance": "",
+          "salaryDesc": "15-30K",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "后端",
+            "Python",
+            "Flask"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "后端",
+              "highlight": false
+            },
+            {
+              "content": "Python",
+              "highlight": false
+            },
+            {
+              "content": "Flask",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "42d84f8434ecfad01XN80t6_EFVY",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "天垂科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170721/d8fe9cf7b8dddc9bb42ee06ca93270c8d5faa3c2b5d2160176e7362432644940.jpg",
+          "brandStage": "A轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "杨女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "后端",
+            "Python",
+            "Flask",
+            "Django",
+            "PostgreSQL/GraphQL",
+            "Redis/FastAPI",
+            "容器技术"
+          ],
+          "welfares": [],
+          "securityId": "6z9UsG8VBHAC1-t1epDaLGcqH-iKCCxUOyhRzmVjnKYixnXwTqCxXdEkp1N7XDtx2x8Rg2FE",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "中级实施工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "大专",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "西兴",
+          "distance": "",
+          "lid": "ZUVOwrVKHx.search.5",
+          "performance": "",
+          "salaryDesc": "10-15K",
+          "jobLabels": [
+            "3-5年",
+            "大专",
+            "实施工程师/顾问",
+            "软件实施",
+            "交接现场培训"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "大专",
+              "highlight": false
+            },
+            {
+              "content": "实施工程师/顾问",
+              "highlight": false
+            },
+            {
+              "content": "软件实施",
+              "highlight": false
+            },
+            {
+              "content": "交接现场培训",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "02c52e64d3899ed91XV73t2_EFZS",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "天垂科技",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170721/d8fe9cf7b8dddc9bb42ee06ca93270c8d5faa3c2b5d2160176e7362432644940.jpg",
+          "brandStage": "A轮",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "叶女士",
+          "bossTitle": "HR",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210219/3d77a5a4a956029f49814cd470b865154b7aba8717c935c98e52cc8af0f83b0b_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "实施工程师/顾问",
+            "软件实施",
+            "交接现场培训",
+            "操作系统安装调试"
+          ],
+          "welfares": [],
+          "securityId": "uMtcezXnHMB74-G1vnj4z-VjMhs5m7KnEC91ybmQmchsVIgxnDblj7cJebbHXtzAGZ0wkYAb",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "X9ZlPKt4g0Ync-j1MLeEIJk4NJRWzdowhY1p6utOuJZDGb3M6ERUJZomzGLHXPVDfm929OnQaCjemeMY-OXJmCAvH74fBmF8b_k0Ln5TdxhLEfzIsW7BHzgWgTkKjq3QUxv4QdQjgg~~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "809574a5f22fbad11HR42d65FlE~",
+      "bossId": 30223463,
+      "securityId": "dQQkuLsVMia7P-C16YGKKx6veY5-Hpzy4Psj2Wgs1rpX80uhCF_4lRRuwc-L2daee2xYSZ6HM56XQA_g6YocJrXde3q2",
+      "name": "刘碎春",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201022/d557cf561e073c2fc5d5e8585654ddddbadfe05141e6421d97882a8d13a0fbdd_s.jpg",
+      "title": "设计经理",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1676439191000,
+      "bossOnline": false,
+      "brandName": "万克能源",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 168687728,
+      "encryptJobId": "68b142fff9690e4f1nJy3dW6F1BY",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "星光大道",
+      "locationDesc": "杭州·滨江区·星光大道",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
+      "lowSalary": 15,
+      "highSalary": 25,
+      "jobDesc": "3年以上前端与后端开发人员配合，高质量完成产品前端开发工作",
+      "requiredSkills": [
+        "Node.js",
+        "全栈开发",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "JQuery"
+      ],
+      "address": "杭州滨江区汉氏大厦17楼",
+      "longitude": 120.20529,
+      "latitude": 30.20906,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5b43365112afb826f9eef9fe8db099c3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/79d917c842ea39e5de09800001e7029b",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "15-25K",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "3436c9b776aa5f6e1HN_2tm9GA~~",
+      "brandName": "万克能源",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200213/76ffeff988dd2b0401a221cef0ed1b2dad76bbd5a9c2ee46f23ef7d263bea0fa.jpg",
+      "industryName": "新能源",
+      "stageName": "不需要融资",
+      "scaleName": "20-99人",
+      "brandIntroduce": "万克能源科技有限公司是一家致力于打造“综合能源智慧运营服务平台”的高科技企业。公司依托人工智能重新定义产品，为用户提供全方位的智慧能源解决方案。主营业务涉及电力、储能系统、移动能源及智能微电网等多个领域，产业分布于全国各区域及欧洲、美洲、澳洲、日本、东南亚等地。",
+      "comName": "万克能源科技有限公司",
+      "legalPerson": "孙慰群",
+      "startDate": "2015-08-12",
+      "regCapital": "10000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市滨江区长河街道滨盛路1786号汉氏大厦1708室",
+      "businessScope": "技术开发、技术服务、技术咨询、成果转让：新能源技术、储能系统、监控系统、能量管理系统、电池管理系统、开关设备、自动化设备、计算机软硬件、云平台网络技术、逆变电源、新能源储能系统的运维技术；承接：电力工程［除承装（修、试）电力设施］（凭资质经营）；服务：新能源电池系统工程的设计及上门安装，自动化设备的租赁、锂离子电池、车载电子的检测（凭资质经营）；批发、零售：太阳能设备、高低压电器、电子产品、自动化设备、电池及车载电子的检测设备、计算机远程监测软硬件；货物进出口（法律、行政法规禁止经营的项目除外，法律、行政法规限制经营的项目取得许可证后方可经营）；实业投资（未经金融等监管部门批准，不得从事向公众融资存款、融资担保、代客理财等金融服务）；其他无需报经审批的一切合法项目；含下属分支机构经营范围。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "万克能源科技有限公司是一家致力于打造“综合能源智慧运营服务平台”的高科技企业。公司依托人工智能重新定义产品，为用户提供全方位的智慧能源解决方案。主营业务涉及电力、储能系统、移动能源及智能微电网等多个领域，产业分布于全国各区域及欧洲、美洲、澳洲、日本、东南亚等地。",
+      "encryptComId": "8c688bb164f2956c1nF92tW0EVA~"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "Java开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "星光大道",
+          "distance": "",
+          "lid": "1074Wvv2OaI.search.2",
+          "performance": "",
+          "salaryDesc": "11-16K",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Java",
+            "SQL",
+            "微服务架构"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "SQL",
+              "highlight": false
+            },
+            {
+              "content": "微服务架构",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "5460b287ccb1c4d21nV63dW7EFtV",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "万克能源",
+          "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200213/76ffeff988dd2b0401a221cef0ed1b2dad76bbd5a9c2ee46f23ef7d263bea0fa.jpg",
+          "brandStage": "不需要融资",
+          "brandScale": "20-99人",
+          "comName": null,
+          "bossName": "刘荣雷",
+          "bossTitle": "架构师",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "SQL",
+            "微服务架构",
+            "Spring",
+            "SpringBoot",
+            "SpringCloud",
+            "后端开发"
+          ],
+          "welfares": [],
+          "securityId": "0IfsJExaYXioR-311Qn_oXOILaB9xMp5JGdgj_psxGpm6cGevI37q0ojhBA2hLv9K0chc3hQ",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}

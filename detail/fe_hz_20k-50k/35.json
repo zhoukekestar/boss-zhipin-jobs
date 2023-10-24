@@ -1,0 +1,535 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "securityId": "JiHeGjxrKifRU--1QNcTgD-D7M3YbMJHt8QFgv_vPy7YsGlzCLu1mjEKPGkdFwaX-ZtmoaoSZpzp31XL7QA72dvjFJ9edcMHFmVLr5TE0QZrOT-Pkd-pszgcREbO1AtdynwEvrs~",
+    "bossBaseInfoVO": {
+      "encryptBossId": "b487ed69261798c81XN42t26GVM~",
+      "bossId": 27210791,
+      "securityId": "sN5xXqp92acbr-o13e5WBkTuAUvqdpsdNEWNn3mxmvlWdRkV2HnuhH0fq-PvQiDzyKSJ1mIBu-FWBT0ZnRCwe9eR_6Y~",
+      "name": "张双凤",
+      "tinyAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180424/8c003793faf09919e32a83190bedbf2a0e9726e76c5dc30e7686f5951b011c68_s.jpg",
+      "title": "前端主管",
+      "activeTimeDesc": "半年前活跃",
+      "activeTime": 1649460693000,
+      "bossOnline": false,
+      "brandName": "杭州海康威视",
+      "disableBossInfo": false
+    },
+    "jobBaseInfoVO": {
+      "jobId": 16933299,
+      "encryptJobId": "3ed6aa8956ddb8321nJz2N6_GVs~",
+      "expectId": 0,
+      "jobValidStatus": 1,
+      "deleted": 0,
+      "position": 100901,
+      "positionName": "web前端",
+      "positionCategory": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "areaDistrict": "滨江区",
+      "businessDistrict": "西兴",
+      "locationDesc": "杭州·滨江区·西兴",
+      "experienceName": "5-10年",
+      "degreeName": "本科",
+      "lowSalary": 17,
+      "highSalary": 27,
+      "jobDesc": "1、参与日常项目的开发工作，包含但不限于需求编写，设计，编码，测试等工作。 \n\n2、参与通用基础控件、通用页面的研发工作。 \n\n3、推动新技术导入以及研发开发流程提效建设。 \n\n4、参与部门内前端构成架构设计以及核心代码的编写工作。\n\n\n\n\n\n职位要求\n\n1、3年以上前端开发经验，对CSS3，HTML5，Http1.0-2.0、JavaScript ES5-ES7、Typescript，nodejs，Vuejs等主流前端技术有全面深入的了解。 \n\n2、深刻理解Web标准，对可用性，稳定性，可访问性，可扩展性等有基于实践的理解和方法沉淀。 \n\n3、熟悉软件工程思想，对前端工程化、模块化开发有一定经验。 \n\n4、熟悉常见的web开发框架（nodejs），并有实际的项目开发经验。 \n\n5、熟悉webGL，并有过大型的可视化开发经验。 \n\n6、自驱动，能够良好规划自己的成长路径，在项目遇到瓶颈有奉献和牺牲精神。 \n\n7、有后端、设计、产品、管理、用户体验等任一经验的优先。",
+      "requiredSkills": [
+        "javascript",
+        "vue.js",
+        "CSS",
+        "前端开发",
+        "全栈开发"
+      ],
+      "address": "杭州滨江区海康威视物联网街",
+      "longitude": 120.184963,
+      "latitude": 30.178626,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e7cf9fc019607eba5b300e4ab1873bb0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/db47e6887a052eaf28b08c9a5ab20b4b",
+      "salaryMonth": 0,
+      "performance": "",
+      "salarySchemeDesc": null,
+      "jobType": 0,
+      "jobSource": 0,
+      "daysPerWeekDesc": "",
+      "leastMonthDesc": "",
+      "salaryDesc": "17-27K·17薪",
+      "salaryDescAppend": null,
+      "salaryDetail": null,
+      "afterNameIcon": null,
+      "afterNameIcons": [],
+      "proxyJob": 0,
+      "proxyType": 0,
+      "anonymous": 0,
+      "salaryType": 0,
+      "newAddressTypeDesc": "",
+      "recruitNumDesc": "",
+      "jobSkills": null,
+      "jobTemplateModule": null,
+      "blueCollarPosition": false,
+      "graduateYearDesc": null,
+      "recruitEndTimeDesc": null
+    },
+    "brandComInfoVO": {
+      "encryptBrandId": "c53dfdf4bf9499a11nN73ti_",
+      "brandName": "杭州海康威视",
+      "proxyBrandName": null,
+      "customerBrandName": null,
+      "logo": "https://img.bosszhipin.com/beijin/mcs/bar/brand/171552.jpg",
+      "industryName": "计算机软件",
+      "stageName": "已上市",
+      "scaleName": "10000人以上",
+      "brandIntroduce": "海康威视是以视频为核心的物联网解决方案和数据运营服务提供商，面向全球提供领先的视频产品、专业的行业解决方案与内容服务。海康威视是全球视频监控数字化、网络化、高清智能化的见证者，践行者和重要者。\n       海康威视全球员工3.4万人，其中研发人员超15000，研发投入占企业销售额的7-8%，绝对数额占据业内前茅。海康威视是博士后科研工作站单位，在全球 设有五大研发机构，拥有视音频编解码技术、视频图像处理技术、嵌入式系统开发技术等多项核心技术及云计算、大数据、人脸识别、深度学习、视频结构化等前瞻 技术，并针对金融、公安、电讯、交通、司法、文教卫、能源、楼宇等众多行业提供专业的细分产品与IVM智能可视化管理解决方案。\n       海康威视在中国大陆35个城市设立分公司及售后服务站，在境外，设立香港、荷兰、南非、印度、迪拜、美国、加拿大、巴西、俄罗斯、新加坡、意大利、澳大利 亚、法国、西班牙、波兰、英国、韩国、哥伦比亚、哈萨克斯坦和土耳其等25个子公司。海康威视产品和解决方案应用在100多个国家和地区，在北京奥运会、 上海世博会、60年国庆大阅兵、美国费城平安社区、韩国首尔平安城市、巴西世界杯场馆、意大利米兰国际机场等重大安保项目中发挥了极其重要的作用。\n        持续快速发展的海康威视，获得行业内外的普遍认可。公司连年入选“中国安防十大民族品牌”、中国安防百强（位列榜首）；连续九年(2007-2018)以中 国安防第一位的身份入选A&S《安全自动化》“全球安防50强”，2016年开始列全球第1位；连续八年（2011-2018）蝉联 iHS全球视频监控市场占有率第1位，硬盘录像机、网络硬盘录像机、监控摄像机第1位，视频管理软件第3位；连年入选“国家重点软件企业”、“中国软件收 入前百家企业”等。",
+      "comName": "杭州海康威视系统技术有限公司",
+      "legalPerson": "邬伟琪",
+      "startDate": "2009-03-05",
+      "regCapital": "60000万人民币",
+      "statusDesc": "存续",
+      "regAddress": "浙江省杭州市滨江区阡陌路555号1幢B楼19层",
+      "businessScope": "一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；数字视频监控系统制造；数字视频监控系统销售；通信设备制造；通讯设备销售；显示器件制造；显示器件销售；电子专用设备制造；电子产品销售；计算机软硬件及外围设备制造；计算机软硬件及辅助设备批发；计算机软硬件及辅助设备零售；物联网设备制造；物联网设备销售；电气信号设备装置制造；电气信号设备装置销售；输配电及控制设备制造；分布式交流充电桩销售；新能源汽车换电设施销售；软件开发；计算机系统服务；信息系统集成服务；大数据服务；互联网数据服务；物联网技术服务；物联网应用服务；安全系统监控服务；停车场服务；工程管理服务（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：各类工程建设活动；建设工程设计；货物进出口；技术进出口（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+      "srcFromDesc": "",
+      "srcUrl": null,
+      "brandWelfares": [],
+      "canJumpToBrandPage": true,
+      "introduce": "海康威视是以视频为核心的物联网解决方案和数据运营服务提供商，面向全球提供领先的视频产品、专业的行业解决方案与内容服务。海康威视是全球视频监控数字化、网络化、高清智能化的见证者，践行者和重要者。\n       海康威视全球员工3.4万人，其中研发人员超15000，研发投入占企业销售额的7-8%，绝对数额占据业内前茅。海康威视是博士后科研工作站单位，在全球 设有五大研发机构，拥有视音频编解码技术、视频图像处理技术、嵌入式系统开发技术等多项核心技术及云计算、大数据、人脸识别、深度学习、视频结构化等前瞻 技术，并针对金融、公安、电讯、交通、司法、文教卫、能源、楼宇等众多行业提供专业的细分产品与IVM智能可视化管理解决方案。\n       海康威视在中国大陆35个城市设立分公司及售后服务站，在境外，设立香港、荷兰、南非、印度、迪拜、美国、加拿大、巴西、俄罗斯、新加坡、意大利、澳大利 亚、法国、西班牙、波兰、英国、韩国、哥伦比亚、哈萨克斯坦和土耳其等25个子公司。海康威视产品和解决方案应用在100多个国家和地区，在北京奥运会、 上海世博会、60年国庆大阅兵、美国费城平安社区、韩国首尔平安城市、巴西世界杯场馆、意大利米兰国际机场等重大安保项目中发挥了极其重要的作用。\n        持续快速发展的海康威视，获得行业内外的普遍认可。公司连年入选“中国安防十大民族品牌”、中国安防百强（位列榜首）；连续九年(2007-2018)以中 国安防第一位的身份入选A&S《安全自动化》“全球安防50强”，2016年开始列全球第1位；连续八年（2011-2018）蝉联 iHS全球视频监控市场占有率第1位，硬盘录像机、网络硬盘录像机、监控摄像机第1位，视频管理软件第3位；连年入选“国家重点软件企业”、“中国软件收 入前百家企业”等。",
+      "encryptComId": "ffbf7fee1e0121fd33Z_09y7"
+    },
+    "relationInfoVO": {
+      "interested": false,
+      "applyJobDirectlyStyle": 0,
+      "friend": false
+    },
+    "relatedJobInfo": {
+      "relatedJobList": [
+        {
+          "jobName": "Java高级开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "5-10年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "滨江区政府",
+          "distance": "",
+          "lid": "107g2jMwjlr.search.1",
+          "performance": "",
+          "salaryDesc": "20-25K·16薪",
+          "jobLabels": [
+            "5-10年",
+            "本科",
+            "Java",
+            "分布式技术",
+            "后端开发"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "5-10年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "分布式技术",
+              "highlight": false
+            },
+            {
+              "content": "后端开发",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "770338937efd48440HR50t64F1E~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州海康威视",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/brand/171552.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "童霞斌",
+          "bossTitle": "java开发",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Java",
+            "分布式技术",
+            "后端开发",
+            "Web端"
+          ],
+          "welfares": [],
+          "securityId": "X7LXj1s6hQ1e3-51bL5piv3n5Iw9-o62BZFydieTn_tNy9ErWKzCdjo5iq277kyrl9UO-A~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Android",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "107g2jMwjlr.search.2",
+          "performance": "",
+          "salaryDesc": "12-24K·15薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Android",
+            "Java",
+            "Kotlin"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Android",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Kotlin",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "eb8122d664ffe59b0Xx-3d29GVI~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州海康威视",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/brand/171552.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "李先生",
+          "bossTitle": "Android",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Android",
+            "Java",
+            "Kotlin",
+            "Framework",
+            "Framework",
+            "软件工程师",
+            "计算机软件"
+          ],
+          "welfares": [],
+          "securityId": "9NmCH029e6N5E-G1JwiqEIUSTz6y-Vh_ECLCPLjgUbmLRc2OrLLz5rUN3gYhkr5foPEWtQ~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "Android开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "3-5年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "滨江区政府",
+          "distance": "",
+          "lid": "107g2jMwjlr.search.3",
+          "performance": "",
+          "salaryDesc": "15-25K·15薪",
+          "jobLabels": [
+            "3-5年",
+            "本科",
+            "Android客户端产品研发",
+            "Java",
+            "Kotlin"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "3-5年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "Android客户端产品研发",
+              "highlight": false
+            },
+            {
+              "content": "Java",
+              "highlight": false
+            },
+            {
+              "content": "Kotlin",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "132e26b468f979510Xx80tq9GVI~",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州海康威视",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/brand/171552.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "魏辉",
+          "bossTitle": "Android开发工程师",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210715/4d95ba31b8b41f679e607207dc6d4a9d148fd7cc6c429670fc723e0016aad00c_s.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "Android客户端产品研发",
+            "Java",
+            "Kotlin",
+            "Flutter",
+            "计算机/软件工程相关专业",
+            "Android开发经验",
+            "密码算法",
+            "Linux",
+            "JavaScript",
+            "HTML",
+            "Flutter",
+            "网络安全",
+            "Android",
+            "Kotlin"
+          ],
+          "welfares": [],
+          "securityId": "1h0xuMtX77xUz-31QU2G-xI-KJ0K2zqU-cRCDyIa9WybKxrl737PtjNB9PkMNXqDgxKFiQ~~",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "产品支持工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "1-3年",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "长河",
+          "distance": "",
+          "lid": "107g2jMwjlr.search.4",
+          "performance": "",
+          "salaryDesc": "9-13K·15薪",
+          "jobLabels": [
+            "1-3年",
+            "本科",
+            "项目管理",
+            "产品支持",
+            "文档编写"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "1-3年",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "项目管理",
+              "highlight": false
+            },
+            {
+              "content": "产品支持",
+              "highlight": false
+            },
+            {
+              "content": "文档编写",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "041536572f179cd61nBy2tS9F1tW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州海康威视",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/brand/171552.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "陈先生",
+          "bossTitle": "产品支持主管",
+          "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "项目管理",
+            "产品支持",
+            "文档编写",
+            "沟通协调"
+          ],
+          "welfares": [],
+          "securityId": "c5PauDApyWmnh-s1zfsIJKWCbA9UByR734MYKcQrtJelwVmIgGNqO8OQxEkH62cZHqI-tNUw",
+          "sessionId": "",
+          "replayRate": ""
+        },
+        {
+          "jobName": "嵌入式软件开发工程师",
+          "jobValidStatus": 1,
+          "jobExperience": "经验不限",
+          "jobDegree": "本科",
+          "cityName": "杭州",
+          "districtName": "滨江区",
+          "businessName": "西兴",
+          "distance": "",
+          "lid": "107g2jMwjlr.search.5",
+          "performance": "",
+          "salaryDesc": "12-18K·15薪",
+          "jobLabels": [
+            "经验不限",
+            "本科",
+            "通信相关专业",
+            "C",
+            "Linux"
+          ],
+          "highlightJobLabels": [
+            {
+              "content": "经验不限",
+              "highlight": false
+            },
+            {
+              "content": "本科",
+              "highlight": false
+            },
+            {
+              "content": "通信相关专业",
+              "highlight": false
+            },
+            {
+              "content": "C",
+              "highlight": false
+            },
+            {
+              "content": "Linux",
+              "highlight": false
+            }
+          ],
+          "jobType": 0,
+          "encryptJobId": "f897bb7048344dbf1XR82NW_GVpW",
+          "afterNameIcon": null,
+          "afterNameIcons": [],
+          "beforeNameIcons": [],
+          "picVideoList": [],
+          "positionName": null,
+          "commuteInfo": null,
+          "optimalTag": null,
+          "jobSource": 0,
+          "iconUrl": "",
+          "brandName": "杭州海康威视",
+          "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/brand/171552.jpg",
+          "brandStage": "已上市",
+          "brandScale": "10000人以上",
+          "comName": null,
+          "bossName": "俞玉瑾",
+          "bossTitle": "嵌入式开发",
+          "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201020/751ab8cdc79d36d3a9582e3a774a34750d27f2b4a316a598808d340d1b93db8e_s.jpg",
+          "bossCert": 0,
+          "activeMsg": "",
+          "bossOnline": null,
+          "proxyJob": 0,
+          "skills": [
+            "通信相关专业",
+            "C",
+            "Linux",
+            "C语言",
+            "嵌入式/单片机开发经验",
+            "Socket技术",
+            "嵌入式软件开发",
+            "计算机相关专业",
+            "嵌入式技术",
+            "网络协议"
+          ],
+          "welfares": [],
+          "securityId": "19zBcNm1kcryJ-k1B0Au01XiQVgQhXd6u1qfe6LdcPjhuuEhObgIsDr5BY8f8xWOO6Wvgm6z",
+          "sessionId": "",
+          "replayRate": ""
+        }
+      ]
+    },
+    "safeTipInfo": {
+      "title": "BOSS安全提示",
+      "safeReport": {
+        "name": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，请立即举报",
+        "code": "BOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为，包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等，您一旦发现此类行为，",
+        "hlname": "请立即举报",
+        "highlightList": [
+          {
+            "startIndex": 115,
+            "endIndex": 120
+          }
+        ]
+      },
+      "riskTip": null,
+      "safeGuidTip": "了解更多职场安全防范知识",
+      "safeGuidUrl": "https://m.zhipin.com/mpa/html/mix/safe-guid?test=1&geekId=e341c26ac752210b1X1_3ti9GVI~"
+    },
+    "workEnvironment": null,
+    "bannerList": null,
+    "commitment": null,
+    "homeAddressInfo": {
+      "status": 0,
+      "longitude": 0,
+      "latitude": 0,
+      "poiTitle": null,
+      "address": null,
+      "distanceDesc": "距离我的住址 ··· 千米"
+    },
+    "handicappedInfo": null,
+    "highlightInfo": null,
+    "atsOnlineApplicationInfo": null,
+    "showGroupTip": false
+  }
+}
