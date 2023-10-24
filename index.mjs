@@ -8,11 +8,16 @@ load({
   userDict: './userdict.utf8'
 })
 
-function processDesc (txt) {
-  const rTec = /[a-zA-Z]{2,}/g
+// 技术关键词，vue/w3c/h5 等
+const rTec = /[a-zA-Z\d]{2,}/g
+const rPureNumber = /^\d{1,}$/g
 
+function processDesc (txt) {
   // 两字英文字符以上则为技术关键词
-  const englishWordsList = txt.match(rTec) || []
+  // 且不为纯数字
+  const englishWordsList = (txt.match(rTec) || []).filter(
+    t => !rPureNumber.test(t)
+  )
 
   // 替换完关键词后的文本
   const newTxt = txt.replace(rTec, '    ')
@@ -27,10 +32,18 @@ function processDesc (txt) {
     '.',
     '、',
     '/',
+    '*',
     '【',
+    '[',
+    '（',
+    '(',
     '】',
+    ']',
+    '）',
+    ')',
     '的',
     '和',
+    '有',
     '或'
   ]
 
@@ -39,7 +52,7 @@ function processDesc (txt) {
     .filter(t => !!t.trim())
     .filter(t => IGNORE_LIST.indexOf(t) === -1)
     // 去除单个纯数字的
-    .filter(t => !/^\d$/.test(t))
+    .filter(t => !rPureNumber.test(t))
 
   return englishWordsList.concat(cutResult)
 }
@@ -61,7 +74,7 @@ function processDesc (txt) {
   // 统计关键词次数，并按出现次数排序
   result.forEach(k => {
     // 技术关键词，统一为小写，并做相关合并
-    const lowerK = k.toLowerCase();
+    const lowerK = k.toLowerCase()
     if (!resultSet[lowerK]) resultSet[lowerK] = 1
     resultSet[lowerK]++
   })
@@ -74,11 +87,17 @@ function processDesc (txt) {
 
   fs.writeFileSync(
     new URL('./result/rank.json', import.meta.url),
-    JSON.stringify(setResult, null, 2)
+    JSON.stringify(setResult.filter(t => !rPureNumber.test(t.keyword)), null, 2)
   )
 
   fs.writeFileSync(
     new URL('./result/rank_tec.json', import.meta.url),
-    JSON.stringify(setResult.filter(t => /^[a-zA-Z]+$/.test(t.keyword)), null, 2)
+    JSON.stringify(
+      setResult
+        .filter(t => rTec.test(t.keyword))
+        .filter(t => !rPureNumber.test(t.keyword)),
+      null,
+      2
+    )
   )
 })()
