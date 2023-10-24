@@ -2,7 +2,7 @@ import fs from 'fs'
 
 async function init (){
   let list = []
-  for (let i = 1; i <= 100; i++) {
+  for (let i = 1; i <= 300; i++) {
     const filePath = new URL(`./${i}.json`, import.meta.url);
     if (!fs.existsSync(filePath)) return list;
 
@@ -17,11 +17,5 @@ async function init (){
 
   return list
 }
-
-!(async () => {
-
-    const l = await init()
-    console.log(l);
-})();
 
 export default init;
