@@ -8,6 +8,9 @@
 * 技术关键词排名 [./result/rank_tec.json](./result/rank.json)
 * 总体关键词排名 [./result/rank.json](./result/rank.json)
 
+# 地区
+    
+    对职位的地址分布做可视化 [./area/index.html](https://zhoukekestar.github.io/boss-zhipin-jobs/area/index.html)
 
 # References
 * https://zhoukekestar.github.io/notes/2020/12/06/python.html
