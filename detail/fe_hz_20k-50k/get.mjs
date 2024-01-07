@@ -11,7 +11,9 @@ async function init (){
     const job = JSON.parse(txt);
     list.push({
         jobDesc: job.zpData.jobBaseInfoVO.jobDesc,
-        address: job.zpData.jobBaseInfoVO.address
+        locationDesc: job.zpData.jobBaseInfoVO.areaDistrict,
+        address: job.zpData.jobBaseInfoVO.address,
+        ...job.zpData,
     })
   }
 
