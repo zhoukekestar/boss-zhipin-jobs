@@ -16,7 +16,10 @@ import fs from 'fs';
 //   经纬度
   const res = list.map(item => ({
     longitude: item.jobBaseInfoVO.longitude,
-    latitude: item.jobBaseInfoVO.latitude
+    latitude: item.jobBaseInfoVO.latitude,
+    title: item.jobBaseInfoVO.jobDesc,
+    salaryDesc: item.jobBaseInfoVO.salaryDesc,
+    brandName: item.bossBaseInfoVO.brandName
   }))
 
   fs.writeFileSync(new URL('./list.json', import.meta.url), JSON.stringify(res, null, 2));

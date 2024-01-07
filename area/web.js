@@ -14,10 +14,22 @@ const list = await fetch('./list.json').then(d => d.json())
 for (let item of list) {
   // 为避免重复，加个随机值
   // 0.0001 * Math.random()
-const position = new AMap.LngLat(item.longitude + 0.0002 * Math.random(), item.latitude + 0.0002 * Math.random()) // Marker经纬度
-const marker = new AMap.Marker({
-  position: position,
-  // offset: new AMap.Pixel(-13, -30) // 以 icon 的 [center bottom] 为原点
-})
-map.add(marker)
+  const position = new AMap.LngLat(
+    item.longitude + 0.0005 * Math.random(),
+    item.latitude + 0.0005 * Math.random()
+  ) // Marker经纬度
+  const marker = new AMap.Marker({
+    position: position,
+    title: item.brandName + item.salaryDesc
+    // content: `<div class="custom-content-marker">
+    //   <img src="//a.amap.com/jsapi_demos/static/demo-center/icons/dir-via-marker.png">
+
+    //   ${item.brandName}
+    // </div>`
+    // offset: new AMap.Pixel(-13, -30) // 以 icon 的 [center bottom] 为原点
+  })
+  marker.on('click', () => {
+    alert(item.title)
+  })
+  map.add(marker)
 }
